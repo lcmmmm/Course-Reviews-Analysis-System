@@ -1,0 +1,115 @@
+作者troglodyte (穴居者)看板NTUcourse標題[評價] 109-2 崔茂培 微積分4-在經濟商管的應用時間Fri Jul  2 22:18:41 2021
+哪一學年度修課： 109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         崔茂培 教授
+
+         (似乎每年開課的老師都不固定，所以這篇主要是推薦這門課)
+
+      λ 開課系所與授課對象
+
+         經濟系、工管系、會計系、財金系、國企系、地理系
+
+      δ 課程大概內容
+
+         Vector Spaces (Linear Independence, Basis, Dimension)
+
+         Eigenvalues and Eigenvectors
+
+         Definiteness of Quadratic Forms
+
+         -----------------------------------------------------
+
+         Constrained Optimization:Equality/Inequality/Mixed
+
+         Constrained Minimization Problems
+
+         Kuhn-Tucker Formulation
+
+         The Meaning of the Multiplier
+
+         Envelope Theorems
+
+         Constrained Optimization: Second Order Conditions
+
+         Constraint Qualifications (*)
+
+         Proofs of First order conditions (*)
+
+         以上來自Ceiba、微積分統一教學網
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+         Carl P. Simon and Lawrence Blume, Mathematics for Economics
+
+         主要使用18, 19章的部分內容
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         疫情前使用板書教學，字跡辨認不易
+
+         疫情爆發後使用iPad預錄上傳至NTU COOL
+
+         前三周老師上課節奏偏快
+
+         不過我覺得講解的很清楚，所以不用太擔心
+
+         後面因為是預錄影片，這個問題也就不影響了
+
+         總體而言還蠻推薦的！
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         扎實分(平時作業20%/Webwork10%/小考20%/期考50%)
+
+         相對往年的評價，其實難度沒有這麼高
+
+         所以有按時交作業、出席小考期考的話，分數應該也還不錯
+
+      ρ 考題型式、作業方式
+
+         作業是老師自己出的，難度不高
+
+         但是因為後面要練習解最佳化問題
+
+         檢查NDCQ以及列出F.O.C其實也蠻花時間的
+
+         小考部分不太難，全班平均都很高
+
+         期考則比小考略難，而今年因為遠距，時間比之前少
+
+         相對而言，熟悉整個解最佳化問題的流程更重要了
+
+         平均大概落在75分左右，沒有調分
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         不點名，沒有出席分數
+
+         基礎的話，修完模組班的微積分123就夠了
+
+         剩下線代的概念都會在前三周教
+
+         加簽不太清楚，但應該都是想來就可以簽到
+
+      Ψ 總結
+
+         這篇文是寫給想修這門課，卻因為之前評價卻步的同學
+
+         難度已經沒有學長姊說的這麼高的
+
+         而且最佳化問題也是經濟、商管同學未來常會面對到的
+
+         所以想來的就來修吧~
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.194.173.15 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625235523.A.544.html
+推 aristoIris: 推微四 但會不會常用到這堂課教的要看個人XD 07/02 23:34
+推 cchia0928: 推 實用 07/27 03:38
+推 MaYing9God: 推 支持馬神的好老師 07/29 16:43
+推 WerthLu: 推支持 07/29 16:45

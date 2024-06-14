@@ -1,0 +1,135 @@
+作者alexunxus (tangent)看板NTUcourse標題[評價] 104-1 郭光宇 熱物理時間Wed Jul 27 22:59:16 2016
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：
+104-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+郭光宇
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+物理系大三必修。需要微積分。
+
+      δ 課程大概內容
+
+1. Concepts in Thermodynamics
+Introduction to Thermal Physics
+Temperature and the Zeroth Law of Thermodynamics
+Thermometers and Some Temperature Scales
+
+2. Equations of State
+Boyle, Amontons, Charles, Gay-Lussac, and Clapeyron
+Equation of State of an Ideal Gas
+Van der Waals' Equation for a Real Gas
+P-v-T Surfaces for Real Substances
+Expansivity and Compressibility
+
+3. The First Law of Thermodynamics
+Work and Internal Energy
+Heat
+The Mechanical Equivalent of Heat
+
+4. Applications of the First Law
+Heat Capacity
+Mayer's Equation
+Enthalpy
+
+5. Consequences of the First Law
+The Gay-Lussac-Joule Experiment
+The Joule-Thomson Experiment
+Heat Engines and the Carnot Cycle
+
+6. The Second Law of Thermodynamics
+The Concept of Entropy
+Reversible and Irreversible Processes
+Carnot's Theorem
+The Clausius Inequality and the Second Law
+Entropy and Available Energy
+Absolute Temperature
+Combined First and Second Laws
+Otto and Diesel
+
+7. Applications of the Second Law
+Entropy Changes in Reversible Processes
+Entropy Change of the Surroundings for a Reversible Process
+Entropy Change for an Ideal Gas
+The Tds Equations
+Newton and the Speed of Sound
+Entropy Change in Irreversible Processes
+Free Expansion of an Ideal Gas
+Entropy Change for a Liquid or Solid
+
+8. Thermodynamic Potentials.
+All Those Wonderful Partial Derivatives
+The Legendre Transformation
+Definition of the Thermodynamic Potentials
+The Maxwell Relations
+The Helmholtz Function and the Gibbs Function
+Application of the Gibbs Function to Phase Transitions
+Van der Waals again, with Maxwell’s construction
+An Application of the Maxwell Relations
+Conditions of Stable Equilibrium
+
+9. The Chemical Potential and Open Systems
+The Chemical Potential
+Phase Equilibrium
+The Gibbs Phase Rule
+Mixing Processes
+A Little Bit of Chemistry
+
+10. The Third Law of Thermodynamics
+Statements of the Third Law
+Methods of Cooling
+Consequences of the Third Law
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+一星
+      η 上課用書(影印講義或是指定教科書)
+textbook: Classical and Statistical Thermodynamics by Ashley H. Carter
+(Pearson, 2009) (歐亞書局, 02-8912-1188)
+
+REFERENCE BOOKS:
+[1] D. V. Schroeder, An Introduction to Thermal Physics (1999)
+[2] M. W. Zemansky and R. H. Dittman, Heat and Thermodynamics, 7th ed. (1996)
+[3] 鄭以禎, 巨觀與統計 熱力學 (偉明圖書, 2003)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+照著課本抄。偶爾會放自製的投影片。非常典型的光宇style。老師是國內很強大的研究
+學者，但是完全不花時間備課，也不在意教書的事情，所以整門課完全看不出老師的誠意
+。上課的內容也完全抄課本，沒有額外物理的解讀也沒有深入說明各個定理的意義，因此
+聽課其實反而是浪費時間的。說句實在話就是自己讀課本會節省不少時間，基本上後半學
+期我都沒有去聽，直接翹去樓上聽YYC的統物二了。btw，以前YYC的熱物實在比這門好太
+多了，我個人借到YYC的筆記之後是跪著看的。有衝堂的同學建議可以翹去聽別的課
+，這樣可能對你的人生有幫助得多。
+
+
+Classical and Statistical Thermodynamics 這本書其實我個人不是很喜歡，因為很多
+推導的內容都不太general，光看這本書也不太容易跟之後研究所的統計物理作銜接。簡
+而言之，如果想要學扎實的熱物理最好還是多找幾本書參照著看，或是去借以前YYC的筆
+記，統計物理導論或是熱物都非常值得看，直接進Pathria也是很好的選擇。
+      σ 評分方式(給分甜嗎？是紮實分？)
+甜且不刁難。作業佔分40,考試各佔30。A+的人都超多的。
+      ρ 考題型式、作業方式
+作業就是勾ashley的題目，都不刁難，不過有少數很難解的題目，問老師他也是不會。
+作業佔分很重，所以一定要交，題目最好也自己寫。另外其實Ashley這本的題目不太多
+所以其實是可以全部寫完的。喔對 老師兩個禮拜出一次作業，大概會出個6~8次。
+考試基本上都是改自習題，所以習題自己有寫過基本上是全拿。我個人期中考98期末100
+。感謝佛心的助教m(_ _)m。
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+老師全簽，不重視出席率，但是兩個禮拜要交一次作業。
+      Ψ 總結
+這門課其實對我的幫助真的不大，除了課本的內容沒有學到額外的知識，也沒有辦法順利
+銜接統計物理，不過也讓我大概了解讀書是自己的事情，很多時候不能強求老師有邏輯架
+構得給你一個領域的知識。
+
+另外其實講難聽一點要抄書自己回家抄就好了，根本不用這樣開一門課來給大家抄書XD
+很多教授沒有教學熱忱可能是跟學校升遷的標準有關，畢竟真的沒有誘因能使老師好好教
+其實像郭老師這樣的研究型教授應該專心去做研究。不過我想這已經是個根深柢固的問題
+了，在此就不多廢話了XD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.34.40
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1469631559.A.11D.html

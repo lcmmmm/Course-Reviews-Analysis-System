@@ -1,0 +1,240 @@
+作者Akkusaii3741 (喵嗚喵喵嗚)看板NTUcourse標題[評價] 109-1 陳俊全 分析導論一時間Wed Jan 27 02:03:15 2021
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+陳俊全
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+數學系
+
+      δ 課程大概內容
+
+第1週   9/15,9/17
+0. Introduction -problems arising from calculus; new topics:
+0.1.real numbers and completeness
+0.2 what is infinity?
+0.3 topology of the Euclidean space: Riemann integral and compactness
+0.4 uniform convergence of functions
+0.5 differentiation in R^n
+0.6 Solve a system of non-linear equations:- Inverse and Implicit Function The
+orems
+0.7 Lebesgue's Theorem for integrals
+0.8 Fourier series
+1. The real number system and the Euclidean space
+1.1 Sets and Functions:
+- power set of A, product of A and B
+- domain, target, range of a function, one-to-one, onto
+1.2 Origin of number concept
+- Piraha people in the Amazon rainforest
+- Research on infants
+1.3 Number system: natural numbers, integers, rational numbers
+
+第2週   9/22,9/24
+1.4 Ordered Fields
+- addition axioms, multiplication axioms and order axioms
+- sequence and limit: uniqueness of limits, sandwich lemma, limits of a
+sum and a product
+- Cauchy sequence
+- Axiom of completeness
+
+第3週   9/29,10/01
+Basic properties of Cauchy sequences
+Axioms of a complete ordered field
+
+第4週   10/06,10/08
+1-5 Construction of a complete ordered field
+1-5-1 three approaches: infinite decimals, Cauchy sequences and Dedekind cuts
+1-5-2 Cauchy sequence approach:
+- S=the set of all rational Cauchy sequences
+- an equivalence relation on S and the corresponding equivalence classes
+- addition and multiplication on the equivalence classes
+
+第5週   10/13,10/15
+1-5-2 Cauchy sequence approach:
+- order on the equivalence classes
+- Cauchy sequences in the space of the equivalence classes
+-the equivalent classes together with the addition, multiplication and order f
+orms a complete ordered field.
+
+第6週   10/20,10/22
+-Theorem: There exists a "unique" complete ordered field, called the real numb
+er system.
+- Monotone sequence property (MSP)
+-sup, inf and the least upper bound property (LUBP)
+
+第7週   10/27,10/29
+-Theorem: The three versions of completeness (CSP)+(AP), (MSP) and (LUBP) are
+equivalent.
+1-6 limsup and liminf
+
+第8週   11/03,11/05
+- more properties and applications of limsup and liminf,
+1-7 Cantor's theory of infinity
+- Definition of card A=card B and card A < card B
+- finite, countable and uncountable
+- an infinite subset of a countable set is countable
+- card N = card Q < card R = card RxR=card P(N), Cantor's diagonal method
+- card A < card P(A)
+- existence of an algebraic number
+
+第9週   11/10,11/12
+- Schroder-Bernstein Theorem
+- continuum hypothesis: Godel and Cohen
+1-8 Some "paradoxes" about real numbers
+- a number of all knowledge
+- Pi is a normal number?
+Borel's theorem: Almost every real number is normal.
+- Richard's paradox
+1-9 Complex numbers
+1-10 Euclidean space
+- norm, metric, inner product, Schwarz's inequality
+Chapter 2 Topologies of Metric Spaces
+2-1 Metric space: definition and examples
+
+第10週 11/17,11/19
+Midterm examination
+2-2 Open sets and interior of a set
+
+第11週  11/24,11/26
+2-3 Closed sets, accumulation points, closure of a set
+2-4 Boundary of a set
+2-5 Sequences and limits
+2-6 Completeness of a metric space
+
+第12週  12/01,12/03
+Chapter 3 Compact sets
+3-1. Examples: the difference between I= [0,1] and I=(0,1]; consider continuou
+s function on I
+3-2 Sequentially compact: bisection process and bounded sequence; Heine-Borel
+Theorem
+3-3 Open cover and compact:
+- examples
+
+第13週  12/08,12/10
+- compact implies bounded and closed; counterexample
+- totally bounded;
+- Bolzano-Weierstrass Theorem
+
+第14週  12/15,12/17
+- compact iff totally bounded and complete in a metric space
+3-4 Path-connected and connected
+- path connected implies connected
+Chapter 4 Continuous maps
+4-1 Continuity
+- limit at a point
+- continuous at a point and on the whole domain
+- continuity defined by sequential limits
+
+第15週  12/22,12/24
+- continuity characterized by preimages of open and closed sets
+- continuity for +,-,?,?, and f(g(x))
+4-2 Images of compact and connected sets
+4-3 Real-valued functions
+- Maximum-minimum theorem
+- Intermediate value theorem
+4-4 Uniform continuity
+
+第16週  12/29,12/31
+Chapter 5 Uniform convergence of functions
+-Motivations
+5-1 Pointwise and uniform convergence
+- examples
+- uniform convergence implies pointwise convergence
+- uniform convergence iff sup ρ(f_k,f) → 0
+- Theorem: The limit function of an uniformly convergent sequence
+of continuous functions is continuous.
+5-2 Cauchy criterion and M test
+- Cauchy criterion and uniform convergence
+- examples: uniformly convergence of series of functions
+
+第17週  1/05,1/07
+5-3 Integration and differentiation of sequences and series of
+functions
+- Theorem: uniform convergence implies convergence of the
+integrals
+- Theorem : pointwise convergence of the functions and uniform
+convergence of their derivatives together imply differentiability of
+the limit function
+5-4 The space of continuous functions
+- completeness property
+- equicontinuity
+- Arzela-Ascoli Theorem
+
+第18週  1/12
+Final Exam
+
+(這些是 Ceiba 上寫的）
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+老師：★★★★（有趣老師）
+喜歡看鬼滅：-★★★★★（老師說國中生才看鬼滅）
+整體：★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+1. Jerrold E. Marsden and Michael J. Hoffman, Elementary Classical Analysis, 2
+nd Edition
+
+2. Walter Rudin, Principles of Mathematical Analysis (International Series in
+Pure and Applied Mathematics), McGraw-Hill Education; 3rd edition
+
+3. Mathematical Analysis. Second Edition. Tom M. Apostol.
+
+4. William R. Wade, An Introduction to Analysis, Prentice Hall, 4th Edition
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+都寫黑板，老師超有趣，可以去查俊全語錄，但常常遲到，可以睡晚一點XD 。其他就，
+我覺得老師很神，上課每次的證明好像都記在腦子裡，好像沒看過他帶任何筆記，每次都
+只有帶咖啡#
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+1. homework and quiz 25%
+2. midterm exam 35%
+3. final exam 40%
+
+我覺得是扎實分，期中平均78，期末平均49，但應該是有調分的。
+
+      ρ 考題型式、作業方式
+
+考題我放在考試版了，會考上課證明跟作業，考前一週上的內容也是必考。BTW, 期中超
+簡單，但期末直接大暴死QQ，不知道是不是每屆都這樣，你各位自己注意啊。
+
+作業大概 2/3 簡單、1/3 難，每週大概會花4-5小時寫作業，有時候更久。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+一起寫在總結OuO
+
+      Ψ 總結
+
+我覺得是外系的要想清楚，自己為啥要修這門課吧，我當初是想了解一些，常在論文中看
+到的名詞跟概念。一學期下來雖然有學到，但其實我覺得有點不合時間成本，如果只是要
+了解那些概念，自己去看書可能會比較快，但不可否認地，上課還是學到很多，算是有其
+他意外的收穫，例如：找 bound 的技巧、norm的一些等價概念......。總之，是有收穫
+的！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.12.74.38 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1611684197.A.747.html
+※ 編輯: Akkusaii3741 (101.12.74.38 臺灣), 01/27/2021 02:07:07
+→ Akkusaii3741: 欸？！用手機發文 p 幣好少好虧喔QQ 01/27 02:12
+推 unmolk: 不知道這篇rrro會不會回你>< 01/27 05:22
+推 a22735557: 期中考平均真高 前年只有及格左右 期末平均也差不多 01/27 07:45
+推 thenolet: 俊全分導真甜 羨慕 01/27 08:48
+推 rrro: 我要回什麼啊 XD，告訴你們我修高微得到 71 跟 70 分嗎 XD 01/27 22:47
+推 alan23273850: 樓上 rrro 01/27 23:13
+→ Akkusaii3741: rrro 成績蠻好的欸xDD 01/27 23:24
+推 rrro: 不高啦，去了 Berkeley 還被老師嫌棄「你高微分數也太低 01/28 12:49
+→ rrro: 」 01/28 12:49

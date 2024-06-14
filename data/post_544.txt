@@ -1,0 +1,81 @@
+作者ckdiedwinnie (死維尼)看板NTUcourse標題[評價] 109-1 黃以達 管理數學時間Sun Jan 17 00:33:12 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)黃以達&Gilbert Strang
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 財金系六選四
+
+      δ 課程大概內容
+Lecture 1 Some pictures about the course
+Lecture 2 Matrix multiplication and Inverse
+Lecture 3 Elimination with matrix
+Lecture 4 Nullspace and complete solutions
+Lecture 5 Row equivalence and inverse
+Lecture 6 Group and vector space
+Lecture 7 Independence, basis and dimension
+Lecture 8 Some important fact
+Lecture 9 Determinants
+Lecture 10 Projection onto subspace
+Lecture 11 Orthogonal matrix and Gram-Schmidt
+Lecture 12 Eigenvalue and eigenvector
+Lecture 13 Diagonalization and spectral theorem
+Lecture 14 Positive definite matrices
+Lecture 15 Change Basis
+Lecture 16 Covarience matrix
+Lecture 17 Linear regression model
+Lecture 18 Statistical properties of the OLS estimators
+Lecture 19 Singular value decomposition
+這是一份連abelian999老師都不知道上到哪裡的syllabus ^^
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+老師自編講義
+Problem Set 1-11
+Christmas Assignment
+New Year Assignment(classical least square theory by Chung-Ming Kuan)
+豆知識x2
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+在Lecture 14以前，基本上就是進行一次又一次的循環：看MIT的Gilbert Strang影片、聽老師上課中文講解一次、寫Problem Set
+到Lecture 15以後，就是老師個人的show time，每一堂課都火力全開，完全沒有在跟大家客氣
+講解各種統計主題，甚至最後把管校長計量經濟講義拿其中10頁讓大家拜讀
+所以真的很推薦要修的同學提前在暑假把Gilbert Strang教授上傳在MIT OCW的影片看完，這樣開學會輕鬆很多
+      σ 評分方式(給分甜嗎？是紮實分？)
+考試分為mini quiz, quiz跟期中期末
+期中期末各30%，但期中滿分130、期末滿分140
+mini quiz跟quiz各20%，但可以選擇risky的方式，就讓quiz佔40%
+      ρ 考題型式、作業方式
+期中考題分為選擇、計算和豆知識，豆知識的考法比較偏背誦，可能會問你笛卡兒的四條規則之類的
+期末考題分為計算、克漏字和豆知識，克漏字是從管校長的講義當中直接挖空格讓大家背出英文單字，豆知識則是考了草間彌生的生命靈數等奇怪的問題
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+完全不看出席率，期初有一次開學考作為加簽的依據，但聽說後來很多人聽到要考試就不加簽了就全簽
+      Ψ 總結
+以達老師這學期還蠻佛心的，看大家期中考太糟，所以在期中之後的mini quiz都變成take home exam，期末考也大多考Problem Set裡面的題目
+即使這樣還是聽說有將近20個人停修（本來也才60個人），所以這真的並不是一堂非常輕鬆的課
+老師還在某堂課念了開學時某些後來停修的同學的加簽信，真的有夠好笑
+由於現在財金系改為六選四，所以同學真的不一定要修這門線代，但是我歸納出了幾個這門課的好處給未來想修習的同學做參考（如果老師還會開的話啦）：
+1. 線代對於財工或是ML等都是基本中的基本，即使未來是想進IBD或MBB，管數帶給你的邏輯思考能力也都還是蠻重要的
+2. 修完這堂課跟同學感情會變很好，尤其一定要緊緊的抱著卷哥的大腿XDD
+3. 教到basis的變換時真的會覺得從不同視角看世界的新鮮感，未來碰到問題時，只要從R^3跳到R^4審視問題可能就可以得到解答了
+4. 老師絕對是財金幹話王，雖然沒有修過陳其美老師的課未能得知其強弱區分，但是姓以的絕對沒有肉腳!
+另外還是有一個小缺點，就是Problem Set都不會給詳解
+聽說是因為老師認為助教課就會講解了，因此至少要付出來上助教課的努力才能夠獲得相應的收穫
+這是相對於數學系比較不一樣的作法（至少微積分4的時候作業都會有詳解啦）
+總之，這是一門有可能會成為改變你人生的課，但是並不像大部分管院的課可以躺著過完一學期，一定要有付出才能有收穫
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.91.51.146 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1610814794.A.F5A.html
+推 wwwh0225: 推以達，之前那年只修到管數light覺得有點意猶未盡，今 01/17 11:12
+→ wwwh0225: 年又豐富好多 01/17 11:12
+推 iambastine: Take-home quiz也大佛 01/18 00:07
+→ iambastine: *太 01/18 00:08
+→ iambastine: 當年小考讓我感受到什麼是每況愈下嗚嗚 01/18 00:08
+→ iambastine: 還好最後期末有稍微救回來...囧 01/18 00:09
+推 marsonele: 曾郁仁：你們不要再跟黃以達告狀了 01/19 13:29
+推 lisalisa: 推推 01/23 16:24
+推 hinagiku0531: 推Abelian999 01/24 18:54

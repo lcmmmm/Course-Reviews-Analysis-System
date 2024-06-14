@@ -1,0 +1,99 @@
+作者tryptochan (= =)看板NTUcourse標題[評價] 107-1 魏宏宇 計算機程式時間Sun Aug 16 13:10:56 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         魏宏宇 教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機系/數學系 大一必修
+      δ 課程大概內容
+   　　　Course Plan
+　　    　 We will spend most of time teaching Python
+　　　     Python Exams on PC
+　　　     Homework (individual) in Python (strict policy on plagarithm)
+　　　     Final Project in Python
+　　　     We might teach some C++ at the end of semester
+
+　　　   (以上複製自class syllabus)
+
+     　　Lec 1: First Program
+ 　　    Lec 2: Variable Statement
+ 　　    Lec 3: Functions
+ 　　  　Lec 4: Case Interface
+ 　　  　Lec 5: Conditionals Recursion
+ 　　　  Lec 6: Fruitful Functions
+ 　　　  Lec 7: Iteration
+ 　　　  Lec 8: String
+   　　　Lec 9: Case Word Play
+　  　　Lec 10: List
+　　  　Lec 11: Dictionary
+　　　  Lec 12: Tuple
+  　　　Lec 13: Case Text Analysis
+　  　　Lec 14: File
+　　  　Lec 15: Class
+　　　  Lec 16: Class Function
+　  　　Lec 17: Class Method
+　　  　Lec 18: Class Inheritance
+　　　  Lec 19: Goodies
+　　　  (後面還有C++的但檔名沒寫內容所以先略((掩面
+　　　  (以上複製自各周投影片名稱)
+      Ω 私心推薦指數(以五分計) 
+                          　　以前敲過code想學更難：★　(請左轉謝班XD)
+　　第一次學程式，想一步一步學Python跟基本程式概念：★★★★★
+　　                      以前敲過code想修甜涼計程：★★★★★
+                                      　　個人評價：★★★★
+      η 上課用書(影印講義或是指定教科書)
+         Think Python 2nd Edition by Allen B. Downey
+　　　   (但上課其實用不到書)
+      μ 上課方式(投影片、團體討論、老師教學風格)
+　　　   投影片
+　　   　講解算清楚，且步調緩慢(至少我還有到課的時候都是((被打
+　　   　感覺應該很適合初學者(吧?)
+　   　　另外每周有一次Lab(助教課)，但座位不太夠(?)
+　   　　內容基本上是複習上課的內容還有公布作業/考試注意事項
+      σ 評分方式(給分甜嗎？是紮實分？)
+   　　　配分：
+   　　　　65%　期中、期末
+　   　　　10%　Final Project
+　　   　　25%　作業
+
+         A+　21.05%，應該算甜？
+      ρ 考題型式、作業方式
+   　　　作業：
+　   　　　　共五次，基本上應該不會太難，開放性也算高
+　　   　　　繳交時除了code還要交report說明自己做了些什麼
+
+   　　　期中/期末：
+　   　　　　上機測驗，使用Judge Girl
+　　   　　　但感覺助教不是很熟悉它的操作方式= =
+　　　   　　不過助教感覺還是蠻認真的所以雖然有點被雷到但還算能接受
+　　　　   　另外期末的難度有感提升，不過不知道成績到底怎麼調的
+   　　　　　印象中有聽到助教宣稱Final Project占比比期末考重(?!)
+　   　　　　所以不要為期末考成績難過之類的
+　　   　　　但是因為本人中間有點久沒去上課(掩面)，不確定是不是有調過配分
+
+   　　　Final Project：
+　   　　　　3人一組，任何用Python實做出的東西都可以
+　　   　　　前後共上台兩次，第一次報告預計執行內容、使用套件等等
+　　　   　　教授跟助教都會給建議跟評語之類的
+　　　　   　第二次就是成果demo、遇到困難、未來展望等等
+　　　　　   總共要繳交Proposal Slides + Presentation Slides + Final Project三份報告
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+　　　   不點名
+　   　　加簽應該是有限名額(?)，但這班遠不如謝班搶手所以應該還好(?)
+　　   　老師人感覺不錯，除了他覺得Pusheen只有小學生會喜歡(重點誤
+      Ψ 總結
+   　　　個人程式只有高中資訊課基礎，但修起來頗輕鬆(其實算有點無聊)
+　   　　基本上算有內容也蠻有組織的入門課(吧
+　　   　loading也不重(期末有抱到大腿的話啦)
+         喔不過電機系大三演算法必修要用C++
+         所以選python班的要另外自學(偉哉我大電機系的課程安排
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.3.123 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1597554658.A.3B5.html
+推 chein17: 推分享，話說今年變成教C++ 08/16 19:35

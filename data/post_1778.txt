@@ -1,0 +1,99 @@
+作者vincent70341 (LauDa)看板NTUcourse標題[評價] 林軒田 機器學習基石時間Mon Jan 30 00:54:54 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+      哪一學年度修課：
+        105-1 (2016 Fall)
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        林軒田
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系
+      δ 課程大概內容
+        topic 1: when can machines learn?
+        the learning problem, learning to answer yes/no
+        types of learning, feasibility of learning
+
+        topic 2: why can machines learn?
+        training versus testing, theory of generalization
+        the VC dimension, noise and error
+
+        topic 3: how can machines learn?
+        linear regression, logistic regression
+        linear models for classification, nonlinear transformation
+
+        topic 4: how can machines learn better?
+        hazard of overfitting, regularization
+        validation, three learning principles
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★★★★ 絕對滿分
+      η 上課用書(影印講義或是指定教科書)
+        無，但老師有出一本書 Learning From Data，有興趣可以買來看看。
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        上課時主要是播Youtube教學影片，老師會再補充一些內容或是實務經驗，
+        老師很鼓勵大家問問題，如果當場有問題可以直接舉手發問。
+        因為是線上課程，寫作業時發現有不懂的地方，
+        可以無限次複習，所以不用擔心跟不上。
+
+        這學期老師是開密集課程，只教了機器學習基石的部分，
+        下學期的課才會教技法的部份。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        三次作業決定期末成績，我個人覺得扎實但很甜，
+        最終分數A+和A加起來大概佔了一半。
+
+      ρ 考題型式、作業方式
+        因為這學期上課時間短，總共只有三次作業，每次約20題，滿分200+20分。
+        其中會有幾題需要寫程式，不限語言所以用Python或R等高階語言就可以，
+        程式題都蠻簡單的。
+        其他部分主要都是上課內容的變化，如果上課有懂的話，也不會太難。
+        不過因為題數蠻多的，我每次作業花個10小時應該跑不掉，
+        建議可以早點開始寫。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        基礎的話大概就是一點點的微積分+一點點的線代+一點點的機率+一點點的程式
+語?
+        有修過統計或最適化更好，學習過程應該會有比較深的領悟。
+
+      Ψ 總結
+        基石的部分主要在講機器學習的理論基礎和一些線性模型
+        (如Linear Regression和Logistic Regression)。
+        理論基礎保證模型對測試資料外的資料也能有一定的預測能力
+        、以及如何讓模型能學習得更好等等。
+        至於線性模型，如果有修過統計學應該都學過了這堂課會教的模型，
+        雖然模型都長得一樣，
+        ML是用另一個角度切入，和統計學方法差異蠻大的。
+
+        整體而言，這堂課真的是一門很棒的課，
+        從理論基礎開始講起，到一些簡單但非常有用的模型，
+        非常值得來修課！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.160.63.40
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1485708897.A.E49.html
+※ 編輯: vincent70341 (1.160.63.40), 01/30/2017 00:56:00
+→ ntucorner: 10小時!好少啊 01/30 00:58
+→ hsnuyi: 也有1/4的人被當 拿A+是有前提的 雖然跟數研所的課比起來 01/30 04:45
+→ hsnuyi: 是很簡單沒錯 01/30 04:45
+→ supertyphoon: 如果是1/4被當的課是真的沒必要修來折磨自己 01/30 10:10
+推 goldenfire: 要拿老師的A+加分題一定要寫呀 老師說A+要 beyond exp 01/30 10:11
+→ goldenfire: ectation 才給 01/30 10:11
+→ goldenfire: 不過會被當 大多都是有作業缺交很嚴重的 01/30 10:13
+推 zzzz8931: 樓下CharlieL 01/30 11:05
+推 yiefaung: 加分題要寫才有A+ QQ 電梯向下 01/30 11:18
+→ yiefaung: 也沒到1/4吧 有些人是停修 01/30 11:19
+推 vcyc: 十小時也太少XD 另外 扣掉停休還是1.4吧 01/30 13:10
+→ vcyc: 1/4 01/30 13:10
+推 lisasweet: 扣掉停修?  所以代表如果沒停修的話,被當的人超過1/4? 01/30 15:31
+→ hsnuyi: 不清楚有沒有扣掉停修的 不過搞不清楚狀況 因為機器學習聽 01/30 16:14
+→ hsnuyi: 起來很潮就來挑戰的應該不少 01/30 16:14
+→ y800122155: 今年只上下半學期 等發現修不下去應該早沒機會停修吧 01/30 16:30
+推 cuteSquirrel: 推 01/30 22:21
+推 supertyphoon: 會當1/4的話自己看Cousera教材學就好了 02/01 17:45
+推 supertyphoon: 如果自己都沒動力學還想期待教授救恐怕有點困難 02/01 18:43
+推 CharlieL: 謝謝回饋。另成績表上的 1/4 F 應該包含已經停修的同學 02/04 13:04
+推 t1016d: 樓上田神<(_ _)> 02/04 13:12
+推 wrytus: 樓樓上田神<(_ _)> 02/04 13:21
+推 ttnznemiqn: 推學長 02/07 17:07
+→ HZYSoft: 是C田神! 有神快拜 m(_ _)m 02/07 21:10

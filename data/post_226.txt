@@ -1,0 +1,104 @@
+作者s3131212 (Allen Chou)看板NTUcourse標題[評價] 109-2 吳家麟 多媒體安全時間Sun Jan 16 15:56:30 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+吳家麟
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資工系選修
+
+      δ 課程大概內容
+
+課程網版本：
+1. INTRODUCTION
+2. DIGITAL WATERMARKING
+3. STEGANOGRAPHY AND STEGANALYSIS
+4. CRYPTOGRAPHY IN DRM
+5. REAL-WORLD DRM STANDARDS AND SOLUTIONS
+6. BIOMETRICS AND AUTHENTICATION
+7. FORENSICS
+
+實際版本：
+1. Introdution
+2. Security Science and Engineering Over IOT
+3. Basic Cryptography and Homomorphic Encryption, Yao's garbled circuits,
+Secure MPC
+4. Signal & Image Process in Encrypt domain
+5. Searchable encryption, privacy preserving search
+6. Chaos-based Crypto
+7. A Joint Compression and Encryption Framework
+8. Functional Encryption
+9. Pairing-based Cryptography
+11. Querying encrypted data from Cloud
+12. FHE in cryptography
+13. Security and Privacy Issues of Websites or Social Networks
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+想要學課綱上的東西 ★★
+想要學應用密碼學 ★★★★★
+想要學廣泛的資安議題 ★★★★★
+不想去上課 想看錄影 ★★★★★
+甜涼 ★★★★★
+
+
+      η 上課用書(影印講義或是指定教科書)
+
+無，只有簡報
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+只有老師講課，老師語速很慢，所以上課有點乾，不過講課很清楚
+有兩三次老師直接放之前的上課錄音，因為他覺得他現在沒辦法講得跟之前一樣好（？）
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+期中作業：
+A brief survey report about any security issue 15%
+A brief survey report about any technique 25 %
+
+期末小組報告 60%
+報告不要亂做都會有不錯的分數，最後 57% A+
+
+
+      ρ 考題型式、作業方式
+
+期中作業如前述，就介紹一個資安的議題與技術各一篇，至少四頁，中英文不限，主題還蠻自由的，只要能跟資安扯到邊都會給過。
+
+期末報告是 1~3 人一組，要 30 min 的口頭報告加上一篇 report，去年是錄影繳交，類型要 implementation 還是 survey 都可以，主題一樣是跟資安扯上邊就可以了。
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+上課完全不點名，作業又不需要上課也能寫出來，然後有錄影，所以出席率有點低。
+去年是一類加選，但今年不是。
+
+應該不太需要基礎或先修什麼課，許多重要的基礎知識都會在上課時快速帶過。若真要說，有點離散跟密碼學基礎應該會輕鬆不少。
+
+老師上課偶而會抱怨一下現在的學界或學生能力，或自誇一下自己的成就。我是覺得還好，反正聽聽別人意見也沒什麼不好的，況且沒影響上課品質，但我猜也許有些人會不那麼喜歡。
+
+
+      Ψ 總結
+
+這門課我是覺得定位上還蠻尷尬的，雖然課程名稱是「多媒體安全」，課綱上也有許多與多媒體有關的內容，但實質上這門課更像是各種應用密碼學與 privacy enhancing technologies 的經典論文或技術的介紹，只是偶而與多媒體有關。
+
+作為資安課，這門課著重的面向和密碼學與資訊安全（CNS）不太一樣，CNS 更像是典型的資安課，總之看課表應該就會了解為什麼說面向不一樣了。
+
+整體而言是有趣的課，也學到不少東西，就只是學到的東西和原本預期的不太一樣而已。
+
+考慮到 110-2 又有開這門課，而且拿課名丟 Google 搜到的那篇評價文和去年這門課的樣貌有不小的落差（現在課程幾乎不講浮水印了...），所以想說寫個評價文給想修這門課的人看。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.227.164.119 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1642319792.A.D57.html
+※ 編輯: s3131212 (125.227.164.119 臺灣), 01/16/2022 15:57:47
+推 bochengchen: 推薦指數很貼切，可以感受到老師的熱情 01/22 14:23
+推 a127000555: 修過給推 01/23 12:33

@@ -1,0 +1,110 @@
+作者wesley818 (呵呵)看板NTUcourse標題[評價] 109-2 陳恒榆 廣義相對論時間Thu Jul  8 03:31:43 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+陳恒榆(與黃宇廷合授)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+物理所 天文物理所
+
+      δ 課程大概內容
+(根據本人記憶及講義內容，可能稍微有誤)
+陳恒榆
+Week1 Geodesic equation, Recovering some familiar physics
+Week2 Weak Equivalence Principle
+Week3 Some Fun about Black Holes,
+      Introduction to the Differential Geometry
+Week4 Tangent space, Tangent vectors, and Curves,
+      Lie derivative
+Week5 Tensor and Tensor fields, Differential Form
+Week6 Riemannian Geometry, Covariant derivative,
+      Tosion and Curvature
+Week7 Levi-Civita Connection, Parallel Transport, Normal Coordinates,
+      Geodesic Deviation
+Week8 Einstein-Hilbert Action and Einstein Equation,
+      Simple Solution to Einstein Equation
+Week9 de Sitter and Anti de Sitter space, Isometries
+
+黃宇廷
+Week10 Gravity in a Nutshell
+Week11 Schwarzschild sol. and Reissner-Nordstorm sol.
+Week12 Rotating Black Hole sol., Kruskal Coordinate
+Week13 Penrose Diagram
+Week14 Gravity around Flat Background, Gravity Wave
+Week15 Gauge Symmetry and Interacting Massless Fields
+Week16 Covariant Derivative, Vielbein and Spin Connection
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+涼度 : ★★★★★★★★★
+甜度 :-★★★★★★★★★
+想要深刻的物理 : ★★★★★★★★★★
+想要深刻的數學 :-★★★★★★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+陳恒榆
+General Gravity, David Tong (主要上課用的Leture Note)
+
+黃宇廷
+前面也是David Tong的內容，後半就直接起飛了
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+陳恒榆
+最一開始先從Geodesic Equation講起，然後是一些有關廣義相對論的簡單物理
+以及現象。之後就開始介紹一些有關微分幾何的定義，一開始甚至出現Theorem,
+Proof這種數學系會出現的寫法，讓我嚇了一下該不會真的要用數學系的教法教
+微分幾何的部分。但後來馬上又變回物理系的風格(應該就是數學系的人會嚇到
+的那種)，用非常快的速度(我跟不上的速度QQ)把所有微分幾何的數學工具都建
+立起來，接下來就用這些工具來建構Einstein-Hilbert Action。最後，就稍微
+解一下Schwarzschild Metric以及講解一些de Sitter, Anti de Sitter space。
+基本上比較重計算的部分(考試也是一樣)，如果真的是想要那種詳細的理論證明
+可能就得去找數學系開的課了。
+
+黃宇廷
+一開始也是David Tong的內容，把黑洞的幾個解都講了一遍和幾種比較常見的座
+標轉換(Kruskal Coordinate等)和Penrose Diagram，上完之後就問我們有甚麼
+想要聽的，最後決定是要講Gauge Theory。至此這堂課徹底起飛，講了spin 2
+Gauge Field, Vielbein, Spin connection等，想要上網找找看有沒有相關參考
+資料也找不到要不然就是完全看不懂QQ。
+宇廷的上課風格比起恒榆更加地物理，會用聽起來很簡單的話把原本很難的數學
+(應該是吧)解釋給我們聽，就造成我上網找參考資料但還是甚麼都看不懂的慘況。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+期末考 60% (原本在期中，後來改在期末)
+期末project 40%
+
+      ρ 考題型式、作業方式
+期末考的考題基本上是參照劍橋MATHEMATICAL TRIPOS Part III的exam paper
+來出的，所以如果事前有好好刷題應該是沒什麼問題(?)，但是本人沒有，所以考
+出來的戰況慘烈。
+期末project是分成好幾次作業，每一個禮拜宇廷都會出一次，難度分配極度不均，
+有些可能3, 4小時就能搞定，有些可能要花兩三天才能寫出來，然後還有可能被
+宇廷爆扣。但也有一些直接唬爛過去的地方完全沒被扣分，評分方式是謎上加謎。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+基礎部分的話，如果你是已經會微分幾何的神人的話，感覺恒榆的部分就能輕鬆
+應付；宇廷的部分基本上如果前半部有學好應該也是可以減少很多壓力。
+教授們基本上不點名，而後半因為疫情的關係也改成線上課程，如果沒有時間上
+課也可以看影片。
+
+      Ψ 總結
+如果認真聽每一堂課的話是一堂非常扎實的課，雖然有可能聽不懂，但是是能感
+受到內容是非常充實的。最後線上課程時，不知是怎麼了，教授還戴起橄欖球頭
+盔，看起來真的蠻有喜感的(?)。有一些數學基礎而且對廣義相對論有興趣的人
+來修應該可以學到很多。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.34.110.91 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625686305.A.8AD.html
+推 Sheng628: 推原PO神人！ 07/08 10:06
+→ Sheng628: 我只會一點點微分幾何還是下去了 07/08 10:07
+→ Sheng628: 順帶一提這門課跟場論一起修的話會有相輔相成的效果 07/08 10:08
+→ RedArmy95: 這門課最近怎麼這麼紅 07/08 12:31
+推 hpshnyus: 還好沒今年去修，還是乖乖多一點再修好了 07/09 19:58
+推 phylj0322: 看到是恆榆開的課 實力不夠硬的都得下去 07/11 00:11
+推 zjk4451: 物理系只要是這位老師開的課都非常扎實 拿劍橋的教材評分 07/11 17:19

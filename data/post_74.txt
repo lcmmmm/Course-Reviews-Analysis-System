@@ -1,0 +1,92 @@
+作者chein17 (哈哈呵呵)看板NTUcourse標題[評價] 110-1 許源裕 電力工程導論時間Thu Jul 14 01:50:13 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：110-1
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+許源裕教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+電機系
+      δ 課程大概內容
+
+Chapter 2 Basic Principles
+ (1) Real Power and Reactive Power
+(2) Balanced Three-Phase Systems
+ (3) Per Phase Analysis
+
+Chapter 3 Transmission-Line Parameters
+ (1) Flux Linkages of Infinite Straight Wire
+(2) Flux Linkages ; Many-Conductor Core
+ (3) Conductor Bundling
+(4) Transposition
+ (5) Impedance of Three Phase Lines Including Ground Return
+ (6) Line Capacitance
+(7) Determination of Line Parameters Using Tables
+
+Chapter 4 Transmission-Line Modeling
+ (1) Derivation of Terminal V,I Relations
+ (2) Transmission Matrix
+(3) Lumped-Circuit Equivalent
+ (4) Simplified Models
+(5) Complex Power Transmission (Short Line)
+(6) Complex Power Transmission (Radial Line)
+(7) Complex Power Transmission (Long or Medium Lines)
+(8) Power-Handling Capability of Lines
+
+Chapter 5 Transformer Modeling and the Per Unit System
+(1) Single-Phase Transformer Model
+(2) Three-Phase Transformer Connections
+ (3) Per Phase Analysis
+(4) Per Unit Normalization
+(5) Per Unit Analysis of Normal System
+(6) Regulating Transformers for Voltage and Phase Angle Control
+(7) Autotransformers
+
+Chapter 6 Generator Modeling I (Machine Viewpoint)
+ (1) Classical Machine Description
+ (2) Voltage Generation
+(3) Open-Circuit Voltage
+(4) Armature Reaction
+ (5) Terminal Voltage
+ (6) Power Delivered by Generator
+ (7) Synchronizing Generator to an Infinite Bus
+(8) Synchronous Condensor
+(9) Role of Synchronous Machine Excitation in Controlling Reactive Power
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+缺複選必修學分：5/5
+想要對電力領域有基礎的了解：4/5
+甜度：5/5(電機系目前修過最甜的課…，大概70趴A+)
+      η 上課用書(影印講義或是指定教科書)
+Power Systems Analysis 2/E(教授會發講義，不買也可以)
+      μ 上課方式(投影片、團體討論、老師教學風格)
+寫板書，不過教授大部分字寫的蠻小也蠻亂的，建議上課可以坐前面一點如果想認真抄筆
+記的話。此外教授觀念講的其實蠻清楚的，認真上課的話回家只要作教授勾的習題就可以
+了
+      σ 評分方式(給分甜嗎？是紮實分？)
+20% quiz(兩次)
+50% midterm
+50% final
+
+      ρ 考題型式、作業方式
+小考的話教授會勾習題，從中挑一題出來考
+期中期末的話建議要做考古題，教授的出題方向都還蠻固定的，不難掌握
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…）
+
+可以不用出席，但建議還是要來，自己看的話有些地方會不好懂
+
+基礎的話就電路學，但是沒有應該也沒差
+
+加簽的話教授坐的下應該都會簽
+Ψ 總結
+
+最近course 板的文越來越少了….，希望大家可以踴躍發文啊！
+
+推薦這堂課給想要對電力領域有初步了解的人來修，也推薦缺複選必修的人來修
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.29.21 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1657734615.A.E79.html
+推 yawn: 老師很和藹可親 07/15 01:02

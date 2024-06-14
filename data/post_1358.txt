@@ -1,0 +1,98 @@
+作者ddab (royster)看板NTUcourse標題[評價] 106-1 鄭振牟 後量子密碼學時間Thu Mar 15 15:26:25 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課： 106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+             陳君明
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+             電機所/電子所 選修
+
+      δ 課程大概內容
+
+             1. Review of Hash Functions and Public Key Cryptography
+             2. A Congruential Public Key Cryptosystem
+             2. A Congruential Public Key Cryptosystem
+             3. Subset-Sum Problems and Knapsack Cryptosystems
+             4. A Brief Review of Vector Spaces
+             5. Lattices: Basic Definitions and Properties
+             6. Short Vectors in Lattices
+             7. Babai’s Algorithm
+             8. Cryptosystems Based on Hard Lattice Problems
+             9. The GGH Public Key Cryptosystem
+             10.Convolution Polynomial Rings
+             11.The NTRU Public Key Cryptosystem
+             12.NTRUEncrypt as a Lattice Cryptosystem
+             13.Lattice-Based Digital Signature Schemes
+             14.Lattice Reduction Algorithms
+             15.Applications of LLL to Cryptanalysis
+             16.Multivariate Public Key Cryptogrsphy
+             17.考試
+             18.報告
+
+      Ω 私心推薦指數(以五分計)
+ ★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+             "An Introduction to Mathematical Cryptography" - 2nd edition
+             Chapter 7, "Lattices and Cryptography"
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+             投影片上課。準時上課但可能不會準時下課XD
+             教完參考用書的第七章之後才會考試，考完試期末報告。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+             作業60% / 考試20% / 報告20%
+             共有六次作業，前四次為課本習題，一次約14題，取高分的十題計算。
+             後兩次為多變數與編碼密碼學相關的題目，基本上是自己造一個例子。
+             期末報告1~2人一組，介紹任一種後量子密碼學。
+
+             基本上不會調分，作業分數全拿不難，考試有讀有分，報告分數不清楚。
+
+      ρ 考題型式、作業方式
+
+             大致可分為：
+             1. 名詞的定義、演算法的解說
+             2. 計算題（實作演算法）
+             3. 證明題
+             老師有公佈考古題，基本上考的都不難，只是計算上可能有點繁複，
+             雖然題目已經是簡化過的數字，但是作業都是用程式算，所以考試
+             時用手算還是算到微崩潰XD
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+             完全不點名，但是好課不聽嗎？
+
+             基礎的部分，可能修過密碼學導論會比較容易上手，
+             另外最好要會一點基本的程式，不然有些演算法用手算一定會起笑，
+             不過如果有勇者全部用手算，那麼考試要考滿分就不是問題了。
+
+      Ψ 總結
+
+             這是一門很扎實的課，可以學到很多關於後量子密碼學的知識，
+             老師講解的很清楚且完整，就算不是相關領域的人也可以聽得懂，
+             我個人覺得很有趣也很有收穫。
+
+             最後一個月幾乎都在期末報告，基本上是老師lab的同學先報告，
+             後來才是修課同學，不過因為沒有排定順序，導致很多同學都在
+             最後一週上台，也有一些來不及報告最後改成交書面的人。我認
+             為還是事先排定大家的報告時間會比較好。
+
+             最後，如果有修過老師開的密碼學導論，而且很喜歡這個套路的同學
+             （例如我），十分推薦您來修習這門課～
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.135.180.188
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1521098787.A.2D0.html
+推 kyrie77: 好奇 所以授課老師到底是誰？03/15 18:36
+
+我第二週加選的，一直到最後一週都是陳君明老師在上課。課程網上開課的是鄭振牟老師，然後寫說與陳君明合開。
+※ 編輯: ddab (1.171.171.121), 03/15/2018 20:00:41

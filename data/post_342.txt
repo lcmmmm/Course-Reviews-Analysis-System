@@ -1,0 +1,99 @@
+作者bg2305z (沛寶)看板NTUcourse標題[評價] 109-2 溫在弘 網絡資料分析與模式時間Sat Jul  3 22:08:10 2021
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：
+109-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+溫在弘老師
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+地理系選修
+      δ 課程大概內容
+
+第1週   2/26    Course Introduction: Networks in Social and
+                Geographical Spaces
+第2週   3/05    Networks as Social Relationships: An Introduction
+第3週   3/12    Network Data Collection and Visualization
+第4週   3/19    Measures for Ego-Networks: Structure Hole
+第5週   3/26    Network Measures: Centrality (Individual-level)
+第6週   4/02    * Spring break *
+第7週   4/09    Network Measures: Groups and Community Structures
+第8週   4/16    Network Measures: Positions and Structural Equivalence
+第9週   4/23    * Mid-term Exam *
+第10週  4/30    Lab: Creating R Shiny Dashboard
+第11週  5/07    Network-Level Measures + Two-mode Networks
+第12週  5/14    Network Autocorrelation Models
+第13週  5/21    Spatial Networks: Linking Geospatial Data
+第14週  5/28    Predicting with Networks: QAP Regression Models
+第15週  6/04    Exponential Random Graph Models (ERGM)
+第16週  6/11    Temporal Network Dynamics
+第17週  6/18    * Break *
+第18週  6/25    Final Report Submission
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+基本上投影片，並有參考用書
+      μ 上課方式(投影片、團體討論、老師教學風格)
+σ 評分方式(給分甜嗎？是紮實分？)
+期中期末各30%；Weekly written assignments and discussion in class  40%
+另有各式加分
+      ρ 考題型式、作業方式
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+Ψ 總結
+
+老實說雖然是地理系開的 但是跟地理系其實幾乎沒有關聯
+依我這學期的修課經驗，覺得跟社會網絡分析的關聯比較大
+來修的話必備寫程式能力，上課用R。加簽隨意，不會點名
+
+課程內容如上所列，先介紹網絡資料是什麼樣的東西，然後簡介一下網絡資料的型態
+到如何描述一個網絡、前人是如何建構一個網絡的模型
+中間有幾次助教課，因為老師兼系主任有點忙，介紹的是R shiny和網絡用在路網分析，
+不過不會考
+(後半課程的方向好像有依大家有興趣與否調整過?我有點忘了)
+
+上課方式就是...講課，三級警戒前的實體課是在敝系視聽教室`有插頭
+大家就筆電插著邊聽課老師邊帶實作。(經過這半學期我才發覺視聽教室真的很讚
+我有好幾堂一坐下去就睡著，第三節才清醒 = =...
+作業有實作，也有指定論文的摘要/心得寫作，據老師說以及我個人的經驗
+實作大約1小時就可完成，且不會太刁難，程式碼/套件上課都會提到；
+論文大概要看2小時左右，等於一周要花2~4小時
+作業基本上是m取n次，如果有時真的太忙可以考慮...當周放掉:D
+
+期中就是開書上機考；期末是1~3人合作一個project，自訂主題，運用這學期所學分析之
+基本上是書面，獲得互評較高的則有口頭報告機會(必定加分
+有不少外系的，看到很多很有趣很有創意的idea
+比如老師就常提他以前某年開課有人做撲克牌網絡分析 (@@?
+
+老師也不吝於給予學生加分的機會
+上課發言-->加分；某次難度較高的作業-->直接加學期"等第"
+期末報告口頭拿到最多人評第一-->直接A+
+諸如此類的，當然如果是穩穩地寫好作業，做好書面報告，也可以有很高的回報
+
+
+整體來說不用任何先備知識都可以由淺入深了解網絡分析到底在幹嘛
+大概是降
+
+
+
+--
+~公車配車表>> https://goo.gl/EMrqpm
+~大台北自行車道地圖>> https://goo.gl/jF311i
+~基隆市 東北角北海岸公車路網圖>> https://tinyurl.com/ybocos5p
+~個人作品集>> https://goo.gl/e6VGrR
+~個人粉專>> https://facebook.com/bg2305 YCNBM > https://0rz.tw/ssNXC
+偶爾畫畫地圖 偶爾寫寫小說 偶爾拍拍照 拙作還請大家多加支持！ ___by bg2305
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.4.234 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625321292.A.4FB.html
+※ 編輯: bg2305z (36.231.4.234 臺灣), 07/03/2021 22:09:21
+推 AngusAT: 最後作業12+1取10  全班一半A+  有交期末報告的都有B-07/05 10:45
+感謝助教解說
+推 W30JL: 推，我沒有R的基礎，期中爆炸，也有A-07/05 19:15
+※ 編輯: bg2305z (36.231.33.150 臺灣), 07/05/2021 23:44:48
+推 wei0506: 推很甜，好多加分機會，教授也很認真講課 07/08 14:45

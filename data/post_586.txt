@@ -1,0 +1,104 @@
+作者tryptochan (tpr)看板NTUcourse標題[評價] 108-1 雷欽隆 密碼學時間Tue Sep  1 15:56:33 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：108-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         雷欽隆 教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機所/電信所 選修
+         資安碩士班必修
+      δ 課程大概內容
+         -- Mathematical Background
+         -- Historical Ciphers
+         -- Information Theoretic Security
+         -- Symmetric Ciphers
+         -- Symmetric Key Distribution
+         -- Basic Public Key Encryption Algorithms
+         -- Primality Testing and Factoring
+         -- Discrete Logirithms
+         -- Key Exchanges
+         -- Digital Signatures
+         -- Hash Functions
+         -- Obtaining Authentic Public Keys
+         -- Attacks on Public Key Schemes
+         -- Definition of Security
+         -- Complexity Theoretic Approaches
+         -- Provable Security
+
+         (以上複製自ceiba)
+
+      Ω 私心推薦指數(以五分計)
+         ★★★★★
+η 上課用書(影印講義或是指定教科書)
+         好像沒有(吧
+         教授每個單元的投影片會放在ceiba
+         可以參考的資料也是
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片為主
+         投影片是極為老派、用色大膽(並沒有#)的風格
+         (給大家一個overview https://imgur.com/yomHVQr )
+         老師講話邏輯清晰，語速不快但進度還算快
+         沒碰過相關內容的話要跟緊(?)
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         應該算扎實甜吧
+         41.07% A+
+         23.21% A
+
+         配分方式如下：
+               作業：30%(共3次)
+             期中考：30%
+           期末報告：40%
+
+      ρ 考題型式、作業方式
+         作業：
+           題目都不難，每次大概8~9題(有的還會有子題)
+           題目有問答類，也有要你解釋某件事為什麼work/不work的
+           概念都是上課提到的，頂多需要想一下
+
+         考試：
+           跟作業很像，蠻基本的，
+           都是上課強調過的觀念或某一段的重要主題
+           應該很好拿分(有準備/平常上課有聽懂的話啦
+
+         報告：
+           算是整學期的重頭戲，2~3人一組
+           可以選擇：
+             a. Implementation:
+                實作一個密碼學相關的prototype system，例如匿名投票、searchable
+                encryption system等等
+             b. Topic Survey:
+                選擇一個主題進行深入的survey，例如量子密碼學、attribute-based
+                encryption等等
+             c. Paper Study:
+                研讀一篇最新的paper(2年內)，並實作其提出的scheme/prototype
+
+           總共要做的有proposal、約20 mins的口頭報告跟一份report
+           (選a或c的話要交code，還要另外跟教授約時間demo)
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         沒有點名，但不上課自己追感覺不太有效率(?
+         理論上不太需要甚麼基礎，大學部來修完全沒問題
+         1類加選，但人不會到很多
+
+         期末會需要花時間認真做，不建議當學期有很多大製作(?)的人修
+同時修DSnP的me基本上都在雷隊友QQ
+
+         教授很佛，我們組一直出狀況還遲交他還是給了蠻高的(?)
+         助教改作業的品質也很高，發的時候也可以提問
+
+      Ψ 總結
+         好課推推，教授笑起來很慈祥(?)也推推
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.3.251 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1598946995.A.F8C.html
+推 oToToT: 109-1沒開QwQ 09/04 13:22
+推 anonimo: 109-1沒開據說是因為老師這學期休假 09/06 01:21
+推 jeremyyuan: 下學期開 09/07 09:49
+推 oToToT: 感謝樓上 09/07 22:12

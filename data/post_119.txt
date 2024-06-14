@@ -1,0 +1,182 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 110-2 郭漢豪 經濟學與計量經濟學專題時間Thu Jun  9 04:00:09 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+110-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+郭漢豪 Hon-Ho Kwok
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+經濟系、所選修
+
+      δ 課程大概內容
+
+Ceiba 表定：
+第1週   2/16    Review of basic economics and econometrics
+第2週   2/23    Review of basic economics and econometrics
+第3週   3/02    Econometric methods for cross-sectional and panel data
+第4週   3/09    Econometric methods for cross-sectional and panel data
+第5週   3/16    Economics and econometrics of social networks
+第6週   3/23    Economics and econometrics of social networks
+第7週   3/30    Spatial econometrics
+第8週   4/06    Spatial econometrics
+第9週   4/13    Bayesian econometrics
+第10週  4/20    Bayesian econometrics
+第11週  4/27    Prediction, model selection, model averaging
+第12週  5/04    Prediction, model selection, model averaging
+第13週  5/11    Endogeneity, selection bias, self-selection, control
+functions
+第14週  5/18    Endogeneity, selection bias, self-selection, control
+functions
+第15週  5/25    Poverty, inequality, intergenerational mobility
+第16週  6/01    Poverty, inequality, intergenerational mobility
+
+實際內容：
+前半學期講了基礎計量概念後就開始講 GLS, GMM, 和 Econometrics in social interac-
+tions的若干篇 paper（老師發了篇左右給我們，最後大概有在上課講的就4篇吧？）。
+其中內容包含 cross-sectional and panal data, (a few) spatial econometrics,
+prediction, model selection，而社會網絡的地方則是推了幾篇論文的重要結論，然後
+講說計量方法怎麼在社會網絡上處理各種不同 effect，發給我們的論文不少是李龍飛院士
+發的。
+
+後半學期因為疫情臨時轉線上的關係，就整個半學期都在講 Bayesian & Empirical Bayes
+的理論，大概各講了兩三本參考書的第一章，算是用比較不同的 approach 去學 Bayesian
+Inference。內容包含 Frequensist vs Bayesian, Bayes risk, Bayes point estimation
+/ interval estimation, empirical Bayes, linear Bayes estimation, compound deci-
+sion theory, 各種不同分佈的 posterior 跟 marginal density 怎麼算和 general case，
+, James-Stein theorem, shrinkage estimation等等。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+不能接受港式英文口音：0（但老實說除了口音外，老師講的內容還滿好聽懂的）
+想學一些不同於一般計量的計量主題：★★★★☆
+想用比較直觀的角度學計量觀念：★★★★★
+喜歡課程步調不要太快：★★★★★
+喜歡老師會跟學生談學術、哲學、心理等軟知識內容：★★★★★
+喜歡講話很好笑的老師：★★★★☆
+喜歡對學生很好的老師：★★★★★（無限開 office hour 想找他直接約，人超好...）
+不喜歡自己讀課本、論文和複習：★★★☆
+不喜歡寫作業：★★★★★
+不喜歡到課：★★☆（你可能會不知道老師講到哪）
+Math maturity & intuition 不好：★★★
+沒學過計量或統計：★★★★（我等等會補充細節）
+
+私心推薦指數：★★★★★★★★★★
+進台大後最喜歡的課之一。
+
+      η 上課用書(影印講義或是指定教科書)
+
+我只列有用到的
+Textbooks:
+Econometrics
+1. Hayashi, F. 2000. Econometrics. Princeton University Press, Princeton.
+（上半部用 Hayashi）
+2. Wooldridge, J.M., 2010. Econometric Analysis of Cross Section and Panel
+Data, 2nd ed. The MIT Press, Cambridge.
+（這本其實沒用到，但我覺得如果想要讀比較強調 intuition 的課本，這本非常好，所
+以列上來給大家參考。Hayashi 跟 Hansen 的都是理論書）
+
+Bayesian
+1. B. Efrom, 2010. Large-Scale Inference: Empirical Bayes for Estimation,
+Testing, and Prediction. Cambridge University Press.
+2. J.S. Maritz, T. Lwin, Empirical Bayes Methods with Applications, 2nd ed.
+CRC Press.
+3. Gary Koop, Dale J. Poirier, Justin L. Tobias. Bayesian Econometric Methods.
+Cambrige Press.
+（第三本好像沒用多少，主要都是前兩本）
+
+Papers:
+放在學校，回學校再補上。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+板書佐以課本或論文，老師會把課本的內容用他自己的理解再講一次，中間有一堂介紹了
+額外的論文。強制遠距後前幾週是線上同步授課，後來改成老師錄影片丟到 Youtube 然
+後上課開一小時左右的 office hour 複習、講解和讓大家問問題。
+
+老師是做計量理論的，同時也拿了數學的碩士，數學很好，對整個計量問題的理解滿深刻
+，常常會說他自己對一些觀念的想法，我認為是很大局觀的說法。上課時會時常重複他想
+強調的觀念，所以上課進度不會很快，不過你會知道他覺得哪些東西是真的重要的。我認
+為從較高的學習知識，比起一步一步砌磚，會更能夠理解學問背後的原因，而且不會陷入
+課本或是上課內容的泥淖，尤其這門課中間有幾門課是在講論文，可以發現頂尖的學者如
+何處理這些問題。
+
+另外他上課很喜歡講一些學習、哲學、學術生活（？）、心理學的東西，像他第一週就講
+了兩小時的哲學和心理學，其實能看出來老師也很在意這些思想上的東西，而且東西方學
+思兼具，還滿有趣的。聽說他以前的課講這些的比重更多，但我感覺這學期有收斂不少。
+而且老師人很好，你寄信跟他約時間問問題他都很樂意讓你問，我就很常去他辦公室找他
+，但通常問問題只會佔個十幾分鐘，剩下時間都在和老師聊天ＸＤ他很好聊，而且上課有
+時候會脫口講一些很好笑的東西，像他第一週在講計量經濟學是什麼的時候就說（原文是
+英文但我翻成中文）「Y就是你們 care 的東西，X 則是一些特徵，可能可以是父母健在
+、身高，或頭髮數量。（想了一下）不要不相信，真的有人在意頭髮數量，像我就很在意
+，我以前頭髮可以做很多造型的，現在只能用其他頭髮蓋住一些部分。（再想了一下）我
+是不會告訴你們我幾歲的。（但其實他在某堂課不小心說出來了）」或是什麼「有些老師
+很喜歡虐待學生，他們可能生活遇到很多的壓力跟不順遂，所以就會出很難的考卷還是什
+麼的給學生，我不是那種風格的老師。（想了一下）可能五年後十年後會變成那種老師我
+也不確定，但現在我還不是，所以別太擔心考試。」總之其實聽他上課滿療癒的，這門課
+也逐漸變成我這學期最期待上的課之一。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+期中期末各一次，都考上課出現過的東西，有上課、有複習，我認為是不會寫得太痛苦。
+成績等出來後補上，但老師一直強調他不太當人，而且會盡量給我們好成績，能盡量給＋
+就會給，所以我想是不用太擔心（？）我也真的不認為有去上課有考試的話會被他當就是
+了...
+
+      ρ 考題型式、作業方式
+
+都放到 ntu_exam 了，沒有作業。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+一類加簽，無需任何計量跟統計基礎，會微積分就夠了，熟悉矩陣微分會好一點但不會也
+沒差。
+老師在課程說明說需要 math maturity，我認為如果真的沒有統計跟計量基礎，的確對數
+學有點 sense 的話修起來會比較不吃力，但如果你已經學過計量，這門課應該不會有無法
+突破的困難。至少連我，一個從來沒學過計量，這學期才在修管院等級的初統的人都能跟
+上，我想真的不需要太擔心。
+
+別擔心上課規定或遲到什麼的，老師自己也會遲到ＸＤ
+
+      Ψ 總結
+
+我會修這門課真的純屬意外，當初是因為老師寄信給我們系系辦幫忙宣傳這課（我也不知
+道怎麼會到外系宣傳ＸＤ）我才發現這門課的，不然原本的計畫是下學期修完計量理論再
+修一些其他計量相關的課，沒想到在這學期參加這門課變成我這學期做出最好的選擇之一
+
+我認為這門課非常適合計量零基礎、新手，或是想要多認識計量經濟學的人；步調不快，
+所以有很多時間可以看課本、讀論文學習；上課強調觀念而非計算，考試也是一樣的風格
+，所以只要把課程弄懂的話基本上考試不會有問題；有問題隨時去問老師都可以，就算是
+不會矩陣微分，或是很基礎的統計概念也可以。我認為老師因為受過不少數學的訓練，所
+以可以提供很清楚透徹，以及不同角度的解釋，甚至如果你學過計量，對計量有比較多想
+法的話，在這門課或是跟老師聊天也能獲得許多額外的知識。
+
+對我來說，老師關心學生，會在上課分享他自己的想法是很加分的事情，畢竟真的要學知
+識或是操作的話自己讀課本、看網路上滿坑滿谷的 OCW 就好，但學問背後的哲思、對生活
+與學術的體會係需要時間累積，且每個人都不同的，所以在第一堂課聽到老師講很多哲學
+、宗教、心理、學習方法和科學之間的議題時我就知道我會喜歡這門課，而在學期結束後
+我也的確獲得了相對應的計量知識，甚至比我想得還多出許多，可以說要不是我有修這門
+課，並且去問老師問題，我這學期其他有用到計量觀念的課就不能深入地理解背後的數學
+原理與方法背後的概念，而且意外地因為在這門課學到 Bayesian 發現 Decision Theory,
+Bayesian Learning, ML 之間的關係，突然多了一個可能的研究興趣；也讓我對之後修計
+論和個體計量、應用個體的課更有信心，真的是誤打誤撞地獲得相當多的收穫ＸＤ
+
+總之滿推薦這門課跟郭漢豪老師的。可能會有人覺得老師口音重、上課很多題外話、不是
+按照課本章節在走，但至少我在這門課時不認為這些是大問題。
+
+當然很主觀啦，就僅供參考吧
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.73.222 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1654718412.A.58A.html
+推 EcPlEth: 推漢豪 06/09 16:20
+推 jemmy: 推！ 06/09 20:54
+→ unmolk: 給經濟系的長官們：你們真的聘到一位很好的老師！！ 06/09 23:39
+推 JamesChen: ㄏㄏ 06/10 09:35
+→ unmolk: 但他這學期的給分怎麼會長這樣== 06/15 21:35

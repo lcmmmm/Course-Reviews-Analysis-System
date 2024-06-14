@@ -1,0 +1,111 @@
+作者ycldingo (炸旗魚)看板NTUcourse標題[評價] 106-1 林俊達 量子光學導論時間Sat Jan 20 17:35:28 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+   （是／否／其他條件）：yes
+
+
+哪一學年度修課：
+ψ 授課教師 林俊達
+
+λ 開課系所與授課對象 物理學研究所 選修
+
+δ 課程大概內容
+Part I. Review
+ Chapter 1. Review of Quantum Mechanics and E&M
+ Chapter 2. Three Pictures; Two-Level Systems; Interaction with Classical Field
+
+Part II. Light
+ Chapter 3. Quantization of Fields
+ Chapter 4. Coherent State; Non-Classical light
+
+Part III. Atom-Light Interaction
+ Chapter 5. Atom-Field Interaction; Jaynes-Cummings Model
+ Chapter 6. Density Matrix Formalism
+ Chapter 7. Spontaneous Emission
+ Chapter 8. Light Propagation in a Resonant Medium
+ Chapter 9. Coherence in Multi-level Systems; Dressed State, EIT, etc.
+
+Part IV. Special Topics
+ Chapter 10. Mechanical Effect of Light; Laser Cooling and Trapping
+ Chapter 11. Cold Atoms
+ Chapter 12. Fundamentals of Quantum Information Physics
+
+Ω 私心推薦指數(以五分計) ★★★★★
+
+η 上課用書(影印講義或是指定教科書)
+[1] Fox, Quantum Optics An Introduction
+[2] Meystre and Sargent, Elements of Quantum Optics
+[3] Scully and Zubairy, Quantum Optics
+[4] Berman and Malinovsky, Principles of Laser Spectroscopy and Quantum Optics
+[5] Lukin, Lectures notes of Modern Atomic and Optical Physics course @Harvard
+
+
+μ 上課方式(投影片、團體討論、老師教學風格)
+板書。
+
+大部分推導的部分著重於方法與觀念，意思就是不會一行一行地將某條方程式從無到有的
+出來，但會告訴你在某個步驟使用了什麼approximation或技巧，因此你也不會必須接受
+很多突然間跳出來的式子。優點是對於數學式背後的物理圖像比較有概念，缺點是如果回
+去沒有自己拿筆算過一次容易忘記。
+
+老師的教學脈絡沒有特定follow哪一本教科書，但都會告訴你在那些參考書目上找的到相
+關資料，真的無法理解的時候回去翻書其實都很來的及(只要不要積個好幾堂課)。
+
+每周上課前老師會先問對於之前的內容有沒有問題，如果有的話會現場解惑(通常沒有人
+應答)，之後有短暫的回顧，稍微前情概要一下前一周的上課內容，再接下去新的課程。
+中間如果有任何問題都可以提出，或者當學生在底下討論時老師也會停下來問有什麼問題
+。
+
+σ 評分方式(給分甜嗎？是紮實分？)
+考試或作業都由助教批改，助教人很好。
+
+期末報告的書面由老師給分，每個組別繳交一份就好，分數也是同組組員相同(會要求註明
+contributions，但沒有聽說會據此而有些人高分有些人低分)，分數方面老師很大器(接近
+霸氣的那種)。
+
+期末的口頭報告評分方式如下：
+  instructor 60% (content 30% + organization 30%)
+  audience and self 30% (highest and lowest dropped)
+  Q&A(aswering questions) 10%
+  bonus 5%: discussion and feedback at others' Q&A
+要注意當別人報告結束時，每個人都必須填寫一個feedback表格，上面須註明你的問題與
+意見，可能會列入bonus的部分。
+
+ρ 考題型式、作業方式
+開書考。任何書、任何筆記皆可，但不包含電子設備(手機、平板、筆電等)，可以攜帶計
+算機但可能不會用到。
+
+整學期只考一次期中考試，大約在11月底左右、上到哪考到哪(這學期考到Chapter 8.)。
+題目分為問答題與計算題：問答題會考一些名詞解釋，譬如某個uncertainty relation是
+什麼意思或簡單說明某一種laser的特性等等；計算題的計算量不大，題目也不會很難(不
+是那種看完敘述不知如何下手的題目)。整體來說難易度應該偏易(有開書考為前提)。
+
+與考試相比作業算比較難，題目有可能從參考書目裡的習題出現，也可能是老師自己出題
+。不需要因此而把每一本建議閱讀的書籍都弄到手，老師會把所有題目公布在CEIBA。本
+學期共計5次作業，大部分為手寫題，其中兩次包含程式題(程式題的目的為幫助學生了解
+課堂上的某些概念，難易度中等。)。作業不接受任何理由的遲交。
+
+期末考前一周有口頭報告(兩人一組)，題目可以自訂(與課程相關即可)、亦可從建議清單
+裡選擇(約在期中考後公布)，期末考周結束當日需繳交書面報告(每組一份)，無篇幅限制
+，詳細的格式老師會在課堂上講解並公告CEIBA。
+
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不點名。
+
+建議有量子力學(or量子物理)、電磁學背景知識，並且會基礎線性代數、解微分方程。其
+實門檻沒有很高，老師上課講解的非常清楚，差別應該是在寫作業的速度。
+
+可加簽、可旁聽(可詢問老師是否能幫忙加入CEIBA)
+
+Ψ 總結
+老師很認真教學，也很樂於幫助學生。這是一門可以學到很多東西，同時分數也不低的課
+。如果硬要說個缺點的話，大概就是期中考試結束後比較容易因為要準備其他科或期末報
+告而導致自己變的怠惰(期中考到Chapter 8.；學期結束時上到Chapter 12.)。
+
+值得推薦的好課~
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.231.77.195
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1516440935.A.8EF.html
+推 diffuse: 推不需要太多基礎 01/20 19:07
+※ 編輯: ycldingo (125.231.77.195), 01/20/2018 23:08:26

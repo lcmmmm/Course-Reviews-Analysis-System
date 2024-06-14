@@ -1,0 +1,124 @@
+作者cckai (CCK)看板NTUcourse標題[評價] 107-2 游琇伃 物化特論-統計熱力學時間Fri Jul 19 15:14:40 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）: 是
+
+      哪一學年度修課：107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+      游琇伃
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+      化工系/所 選修
+
+      δ 課程大概內容
+
+      1.Introduction and review (classical thermodynamics)
+      2.The Boltzmann distribution law
+      3.Statistical mechanical ensembles
+      4.The ideal gas
+      5.The non-ideal gas
+      6.The liquid state
+      ----------------------Midterm-----------------------
+      7.The Monte Carlo method
+      8.Simulation methods
+      9.Molecular Dynamics Simulations
+      10.Integral Equation Theory
+      11.Nonequilibrium statistical mechanics
+      --------------Oral presentations (2 wks)------------
+
+      簡而言之期中前主要講統計力學的理論，後期主要著重在其應用。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+      ★★★★+0.5★
+      沒有五顆的原因是因為期中考後節奏偏亂
+      難度也大躍進
+      不好跟上老師
+
+      η 上課用書(影印講義或是指定教科書)
+
+      老師自製投影片
+
+      主要參考下列幾本書:
+      1.Statistical Mechanics by D. A. McQuarrie
+      2.Introduction to Modern Statistical Mechanics by D. Chandler
+      3.Statistical Mechanics: A Concise Introduction for Chemists by B. Widom
+      4.Molecular Driving Forces: Statistical Thermodynamics in Chemistry and
+        Biology by K. A. Dill and S. Bromberg
+
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+      正課都是投影片搭配些許板書
+
+      期中考後老師會先上兩節課
+      第三節課留給同學小組討論期末的project
+      這節可以跟老師和助教討論
+      通常是先組內討論後再跟老師簡單地進度報告
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+      以下摘自syllabus:
+      Homework 30%
+      Midterm Exam 30%
+      Oral presentation (teamwork) 20%
+      Term paper (teamwork) 20%
+
+      最後期中筆試分數差異有點大老師又出了一個加分作業
+      可交可不交，但基本上全班都有交
+      所以最後調分的方式不清楚 (總是要給老師保留心中的那把尺吧)
+
+      期末口頭報告可能因為期中的成績比我預期的分數高出不少
+      書面報告成績沒有公布，但考慮到期中可能也給相對寬鬆
+
+      學期成績聽說要過很簡單但是要高分很難，姑且算是紮實偏甜吧
+
+      ρ 考題型式、作業方式
+
+      作業是上課講義的變形
+      通常花一個下午茶的時間可以解決
+      助教人很好改滿鬆的
+
+      期中考筆試全為推導/計算題
+      需要讀通才好下手
+      只有死記硬背會核爆
+      務必讀通老師教的各種觀念
+      試卷由老師親自評分
+      計算過程錯扣分輕 觀念以及起手式錯下手非常重
+
+      期末的小組報告則是一組15分鐘+大約5分鐘的Q&A
+      有小組之間的互評兼點名表
+      助教最後會把每個人的評語上傳給報告的組別看
+      這點我覺得很好可以幫助自己知道其他同學是否有聽懂
+      報告完後需繳交期末書面報告(10頁A4內)中英皆可
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+      只要位子夠旁聽跟加簽老師應該都歡迎
+      老師人很好也是天才型玩家
+      有一次說到「這個形式一看就是要做Fourier Transform啊」以及
+     「現在不熟悉沒關係，希望大家上完這門課都很會Fourier Transform」等等
+      這都讓大家驚豔不已 (雖然我還是不會一眼看出要傅立葉轉換就是)
+
+      Ψ 總結
+
+      不管系內系外建議要有分子模擬的基礎還有一些ensemble的基礎再來挑戰
+      (可先修林祥泰老師開的物化二或是康敦彥老師的高等化熱)
+      不然最後的project會有點趕很痛苦
+      像本人有修過林祥泰老師的物化二有一點點先備知識
+      (跟這門課相比真的只是一點點)
+      在這門課就有滿多收穫的
+      準備期末報告起來稍微輕鬆一些
+
+      總而言之這門課具有挑戰性
+      不適合完全沒有基礎的人
+      同時建議把這門課當作必修 想必收穫滿滿
+
+      祝往後的挑戰者挑戰成功
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.93.101 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1563520482.A.123.html

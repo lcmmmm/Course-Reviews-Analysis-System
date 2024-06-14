@@ -1,0 +1,155 @@
+作者ocf001497 (榮)看板NTUcourse標題[評價] 104-2 郭光宇 統計物理一時間Mon Jul 11 02:22:20 2016
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+             是
+
+
+      哪一學年度修課：
+              104-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+              郭光宇
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+              物理系選修  物研所必修
+
+      δ 課程大概內容
+
+              Ch1. Review of Thermodynamics
+
+              Ch2. Statidtical basis of Thermodynamics
+
+              Ch3. Ensemble theory
+
+              Ch4. Canonical Ensemble
+
+              Ch5. Grand Canonical Ensemble
+             -------------------------------------
+              Ch6. Formulation of Quantum Statics
+
+              Ch7. Simple Gas
+
+              Ch8. Ideal Bose System
+
+              Ch9. Ideal  Fermi System
+             -------------------------------------
+              Ch10. Phase Transition
+
+              前半部分主要講古典統計, 會講三種Ensemble:
+              Microcanonical ensemble
+              Canonical ensemble
+              Grand Canonical ensemble
+              分別用來處理不同情況下的物理系統, 會應用到理想氣體,
+              磁性系統, harmonic oscillator
+
+              後半部分講量子統計, 把前面的各種Ensemble 用量子力學的 Operator
+              重新寫一次, 同樣也會應用到理想氣體, 之後引入Fermi/Bose Statistics
+              分析在量子統計下這些粒子會有哪些行為跟古典氣體不一樣
+
+              接著應用Bose Statistics :
+              分析 photon 導出 Plank equation,
+              分析 phonon 導出晶格比熱
+              討論極低溫時的boson --> Bose-Einstein Condensation
+
+              應用Fermi Statistics :
+              分析低溫時金屬比熱電子的貢獻
+              磁性系統 --> Pauli paramagnetism + Landau diamagnetism
+              白矮星
+
+              最後一部分講相變, 主要就是講Ising model以及怎麼近似解它
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+              ★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+             主要:
+
+              Statistical Mechanics 3rd Edition by R.K. Pathria
+
+             參考書目:
+
+              Statistical Mechanics 2nd Edition by Kerson Huang
+
+              Thermodynamics and Statistical Mechanics by Walter Greiner
+
+              Mathematical Methods for Physicists by George Arfken
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+              板書  偶爾放投影片講解圖片
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+              40% Homework
+
+              30% Midterm
+
+              30% Final
+
+              算甜吧
+
+      ρ 考題型式、作業方式
+
+              作業每兩週出一次  大概都5~6題
+              從Pathria或是Kerson Huang裡面出
+              有些題目蠻奇葩的
+              但網路上面都找得到答案
+
+              考試大概也5題左右
+              滿分都100
+              會出作業的題目
+              課本有讀
+              作業有背
+              應該是不會考太差
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+              超多人要簽
+              研究所的好像不是單號的不給簽 會叫你去另一班
+              但好像哀求一下也可以簽
+
+              小弟大學部單號所以直接簽到
+
+              基礎 :
+              古典力學
+              --Hamiltonian, canonical equaiton of motion, phase space
+
+              熱物理
+              --應該都要會吧, 有些偏微分關係式會常用
+
+              量子物理
+              --應該也是都要會, 課程後半部分的量子統計全部都是量子力學
+
+              不來沒差, 自己有讀課本+寫作業就OK
+
+      Ψ 總結
+
+              大概就是把Pathria這本上到1/3接近1/2的地方
+
+              教授上課就是拿著像是課本的影印 + 自己的資料抄
+              課本的部分就真的跟課本完全一樣, 偶爾會抄錯
+              講的基本上也跟課本一樣,所以不來根本沒差,只要自己會讀課本就好
+              有些比較難的計算會跳過去
+
+              因為想說量子統計應該算是郭教授的專長, 所以才來修, 但最後還是
+              自己讀居多orz
+
+              最後一部分的Ising Model對我來說算是新的東西, 而且也算是郭教授
+              的專長, 覺得這部分上得還不錯, 但很可惜時間不夠把近似解教完QQ
+
+              修完之後真的覺得統計力學無所不在, 很多東西都可以用統計力學
+              亂算一把(有些數學還蠻神奇的), 而且還真的蠻符合現實, Fermi
+              Statistics甚至可以算出白矮星Critical Mass
+
+              總括來說, 這門課蠻適合喜歡自己念的人來修
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.37.96.201
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1468174943.A.109.html
+推 deepwoody: fermi statistics算出白矮星critical mass貓書習題有 07/13 15:19

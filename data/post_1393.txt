@@ -1,0 +1,174 @@
+作者wenbuneatble (文本能吃嗎)看板NTUcourse標題[評價] 106-1 楊曙榮 物聯網下商管統計分析時間Thu Feb  1 01:10:46 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 楊曙榮 Sunny Yang
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)  商研所/工管系
+
+      δ 課程大概內容 下方為授課大綱
+
+        中文課名：物聯網下商管統計分析
+        英文課名：Quantity Business Science
+
+        1 15/09 Model thinking and data generating processes
+        2 22/09 Data thinking and estimation
+        3 29/09 Statistical models
+        4 06/10 Model comparison
+        5 13/10 Interactions
+        6 20/10 Computationally intensive methods
+        7 27/10 Generalized linear models: Counts
+        8 03/11 Generalized linear models: Mixtures
+        9 10/11 Multilevel models
+        10 17/11 Measurement errors and missing data
+        11週表定後面是group project與individual assignment的討論
+
+        實際授課進度比大綱慢上許多，最後課本沒有上完
+
+      Ω 私心推薦指數(以五分計) ★★★★★ ★★★★★
+
+      η 上課用書(影印講義或是指定教科書) 一本是指定其餘選讀
+       required: McElreath, R. 2016. Statistical Rethinking. CRC Press.
+       suggested:
+       Braun, W. J. 2016. A First Course in Statistical Programming with R,
+       Second Edition. Cambridge University Press.
+       Chang, W. 2013. R Graphics Cookbook. O’Reilly Media.
+       Diez, D. M. 2015. OpenIntro Statistics, 3rd Edition.
+       CreateSpace Independent Publishing Platform
+       Verzani, J. 2002. simpleR – Using R for Introductory Statistics.
+
+       required那本基本上是必備，台大圖書館借的到，也可以買電子書，記得滿貴的
+       學期初老師原本問大家要不要訂紙本書，但一本破千所以沒有很多人
+       到最後書商也不想幫忙進貨因為量太少了，所以大家多半是買電子書
+       或是想辦法從台大借、跟別人一起看
+
+       其餘的都是為了讓大家上手R才選的，跟課程內容沒有太大關係
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+       "This course is the first course in quantitative business science
+       for data analysts." syllabus 上的第一句話
+
+       這堂課的架構大概是這樣：
+       基底－貝氏統計（Bayesian Statistics）（相對於古典學派）
+       內容－參考上面的每周進度，linear models/multivariate linear models/
+       information criteria/markov chain monte carlo/big entrophy等等
+       詳細可以直接搜尋required textbook的各個章節就大概可以知道這堂課的內容
+       工具－R language（用R來實現統計觀念與建立模型）
+
+       上課的過程大概是這樣：
+       每週上課有指定章節，有些人會自己先讀課本再上課比較容易聽懂
+       上課模式則是老師會在CEIBA上放slide，slide是每個章節的整理
+       老師會先講觀念接下來講解 R 的 code 再接著向後講解
+       學期前段最後老師會讓大家討論，學期中後因為進度壓力就沒有了
+
+       學生：
+       自己的觀察是大概有兩群，一群是統計/程式底子比較硬的學生
+       有不少商研所/國企所/經濟學生，也有外國人，有幾個很厲害
+       跟一群統計/程式底子比較沒那麼硬的大三大四為主的大學部同學
+
+       雖然大家實力應該差滿多，但不同學生都會有各自的收穫
+       第一群人上課問的問題有時候第二群人都聽不懂
+       因為光是要搞懂觀念跟程式碼在幹嘛就要花很多時間
+       但第一群人還可以比較貝氏學派跟頻率學派的差異
+       或者是指定教科書上作者採用的某些例子背後的原因等
+       好處是老師會因材施教，就算程度很差還是會回答
+
+       其他教材：
+       如果不習慣聽老師的英文（雖然老師英文不錯但口音有點重）
+       可以直接搜尋教科書的書名，youtube上有所有的英文影片
+       印象中是作者在教授這堂課的時候錄製的，老師應該是參考它的架構
+       這樣應該也可以跟上課程進度，但我自己以看教科書跟上課為主
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+       給分應該算紮實甜但成績分布還沒出若之後有出的話會更新
+
+      ρ 考題型式、作業方式
+
+       沒有期中考期末考
+       有group project跟individual assignment
+
+       前者是老師將大家打散後分組，要交出一個跟本堂課程有關的報告
+       規定要錄製youtube影片（用英文），內容要有R code
+       並且一定要使用 R 的 shiny套件，評分標準則是 data-driven innovation
+       以及 social impact，原本要上台報告但後來沒有，最後會有 peer review
+       就團體報告而言，最後結果可大可小，有組同學只用了10*2以內的資料
+       也有組同學用了10*6以上的資料，因為背景不一樣，老師想看的其實還是
+       跟課程有關的東西，還有 R shiny 的運用
+
+       後者跟前者類似，規定分學術類或應用類，前者除了前述標準以外，還有
+       research impact，跟後者的research impact遙相對應，也可以寫 R package
+       自己認識的同學都以應用類為主，也要用 R shiny，錄youtube or word 10 pages
+
+       有上課作業，大概六次，需要花一定的時間去寫，都跟教科書的code有關
+
+       整體而言，需要花滿多時間去做的
+       當然也可以走輕鬆風：
+       跟同學借作業來看、小組作業靠隊友、個人作業做一個簡單的linear regression
+       不過這樣可能會學不到太多東西，而且助教其實都知道大家有沒有用心做喔～
+       有聽到他在和其他同學聊天，所以偷懶也是會被發現的
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+       這堂課算有點重，很多人第一堂聽完老師說明就離開了
+       留下來的人的想法大概也是滿重的吧（至少對上面講的第二群學生來說）
+
+       前兩堂課會教 R 但沒有教很多，syllabus上有指定一些資源當作業或練習
+       是 datacamp 上的免費練習，全部上完之後就可以初步跟上這堂課的code
+       課程的code並不會太難，有出現新的用法作者都會在書中詳盡的解釋
+       但課本不會講任何 R 的基本觀念 e.g. data frame 跟 list的差別
+       也不會介紹 if else, for, while 等等
+
+       因為這門課主要是把 R 當作統計觀念的實作工具而已
+       儘管如此，如上所言只要走完 data camp 就可以跟上課程的 R code進度了
+       這是我認同這門課的一個重要原因，有同學修系上其他課
+       直接硬塞超過負荷的進度，即使自學也沒辦法跟上腳步
+       可是這堂課的自學是合理的，老師會給一些資源還有參考書讓你自己碰
+       新進度又不會讓學生沒有機會趕上，如果只是寫作業那 R 的運用綽綽有餘
+
+       只是如果要在 group project 跟 individual assignment有所表現
+       就要花時間理解 R 跟處理資料，要不然會很麻煩
+       只有 data camp 就會有點不夠
+
+       外系滿多（商研/工管以外）加簽要寫類似 data camp的題目當作業
+       有程式經驗的人會比較容易跟上，沒有的話可能要想一下
+       一開始沒有經驗/統計不熟還跟得上，越後面會越艱深
+       再加上團體跟個人作業要一直用 R ，沒寫過程式的人可能會有點疲倦
+
+      Ψ 總結
+
+       老師剛從英國回來，是個很有熱忱的人，專長在operations（營運）跟supply chain（供應鏈）
+       擅長數量方法，如果管院同學有感於先前碰了很多理論卻沒有發揮機會的話
+       可以考慮嘗試看看，可能會有點不一樣的感覺，是一堂很紮實的課
+       不同能力跟不同背景的人會有屬於自己的收穫
+
+       老師對大家的期望很深，希望學生可以累積hard skill（再次強調是因為課開在管院）
+       有時候會分享自己之前在英國的經驗，私下也會聊天
+       上課的時候老師也有提到想要開一個MCDA module
+       Business Data Analytics Module（MCDA）Proposal
+       Model Thinking, Computational Thinking, Data Thinking
+       What is MCDA? Modeling + Computing + Data = Analytics
+       上面這是上課老師給大家討論的東西，還問大家說這樣的課程內容如何
+       不一定真的會開但是一個讓大家思考的東西
+
+       總結而言，老師對於數量方法在商業上的應用很有熱忱
+       有時候會語重心長的和大家講說學習這些東西的重要性（管院的理論課滿多的）
+       也非常關心學生的興趣/畢業職業發展
+       很認真地詢問大家對於課程的規劃還有修課想法等
+       是我這學期最喜歡的一堂課與最喜歡的一位老師
+
+--
+「我的朋友也是，一方面說著獨立統一，憤恨政治壓迫，一方面品酒把妹，把那些付出真
+情的低階傻妹亂睡一通，睥睨她們的失落與眼淚卻毫無憐憫。」李維菁
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 112.104.142.123
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1517418660.A.20C.html
+推 josh0412: 推個助教 有問題隨約隨到 02/02 15:15
+推 kyle5275: 十分認同最後一句話 02/08 13:11
+→ kyle5275: 在台大沒遇過比老師更有教學熱忱的 02/08 13:12

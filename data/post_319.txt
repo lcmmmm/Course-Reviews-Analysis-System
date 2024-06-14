@@ -1,0 +1,99 @@
+作者daniel08888 (DH)看板NTUcourse標題[評價] 109-2 白奇峰 磁性材料時間Thu Jul  8 13:54:27 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：109-2
+
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+白奇峰
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+分子科學與技術國際研究生博士學位學程 選修
+材料所 選修
+
+      δ 課程大概內容
+Week1 Introduction
+Week2 Unit of E and M
+Week3 Magnetization
+Week4 Category of Magnetism
+Week5 From atom to atoms: Interactions (oxides)
+Week6 From atom to atoms: Interactions (metals)
+Week7 Maganetic Anisotropy
+------------------Week8 Midterm---------------------
+Week9 Magnetic Domain and Domain Wall
+Week10 Magnetization Process
+Week11 CharacterizationL VSM, MOKE and FMR
+Week12 Transport Measurement in Materials I: Hall effect
+Week13 Transport Measurement in Materials II: MR
+Week14,15 Spintronics and Spin-transfer  Torque
+------------------Week16 Final----------------------
+(以上擷取自CEIBA)
+
+個人極度推薦可以看一下這部影片，看完可以了解大概上半學期的overall picture:
+https://youtu.be/hFAOXdXZ5TM
+純粹回想這學期學到的有材料磁特性的成因、材料磁性分類與大概成因、
+常見的磁特性有哪些與其大概機制與公式、一些應用、測量儀器大概介紹
+...之類的，我覺得我真的對本系的科目掌握度都好低T_T
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+想了解材料磁特性跟大概的機制★★★★
+想拿甜甜的分數★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+[1] Denny D. Tang and Chi-Feng Pai, Magnetic Memory Technology:
+Spin-Transfer Torque MRAM and Beyond, Wiley-IEEE Press, 1st Edition (2021).
+[2] J.M.D. Coey, Magnetism and Magnetic Materials, Cambride University
+Press(2010)
+[3] Stephen Blundell, Magnetism in Condensed Matter,
+Oxford University Press(2001) [Concise and easy-to-read]
+[4] Robert C. O’Handley, Modern Magnetic Materials: Principles and
+Applications(2000)
+[A must-have reference book for magnetism people]
+
+主要用老師自編的PPT，主要是基於第一本老師自己出的書為主線
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+投影片。
+數學與推導不是很強調(偶爾板書輔助)，可能鑒於主題很多很廣所以不算深入
+但作為一個概略的入門理解還不錯。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+期中期末各50%
+給分算甜吧？
+
+      ρ 考題型式、作業方式
+不算是第一次修老師開的課了但至今還是對出題方式不是很明白@_@
+考題主要分成課本習題題與一些應用問題、以及課堂上的觀念問題，偶爾會有推導
+但推導的話... 因為課程中的推導不算少、但也都沒有深入討論，所以準備起來有點茫然
+
+作業的話就是上到哪、課本對應的地方讀到哪，然後題目寫到哪
+不用交，但是考試會考。還不錯的是課本題目下面都有詳解。
+
+這裡補充一下前些年課程評價裡提到的內容。有人提到很吃記憶力這點，今年因為新冠疫
+情爆發所以後續課程改線上，期末考沒有改報告還是有考但可能題目也有些變化，純記憶
+的題目變少，需要找資料的題目變多，甚至還有要用電腦跑畫圖的。反正不善於背書的我
+比較開心，其他人或者其它年的狀態我就不清楚了。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不在意出席率，但是準時上下課(這很重要)。
+外系選修基礎的話... 我覺得沒差耶，但如果能了解些近代物理的自旋概念會更好
+
+
+      Ψ 總結
+恩.. 我覺得有些課程就都還滿不慍不火的，
+如果純粹當成科普性質的通識課，考試上會遇到困難、上課時也會時而貓咪載入中梗圖
+如果是當成想扎實學滿滿的硬課，上課又會陷入戛然而止或點沒說破沒交代清楚的痛苦
+都要畢業了我還是在學習如何學習本系的課程(以怎樣的心態與模式接受這些內容)
+撇開這些個人因素，我覺得或許只要能確實抓住上課想講的重點，
+然後有興趣多去翻翻書，或許會好很多。開學時白老師也說過希望我們回去能夠讀課本，
+別純粹希望上過課就都懂內容了這樣。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 124.11.184.32 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625723669.A.C63.html
+※ 編輯: daniel08888 (223.136.176.175 臺灣), 07/08/2021 14:00:11
+推 ProSpicy: 幸好這學期期末改線上 要記憶的東西太多了 下半學期lo 07/13 15:49
+→ ProSpicy: ading大一點 準備起來確實壓力比較大一些 課本寫的很詳 07/13 15:49
+→ ProSpicy: 盡 但有些次序不像ppt 需要花點心力找 07/13 15:49

@@ -1,0 +1,136 @@
+作者NTUFD5thpres (嘴賤海豹君)看板NTUcourse標題[評價] 106-1 吳肇欣 奈米電子導論時間Fri Jan 26 10:57:36 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        吳肇欣
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        電機工程學系/選修
+
+      δ 課程大概內容
+
+        Fundamental of Nanoelectronics
+        The Magic Element Making Everything Smart- Transistor and Its One-going Amazing Story
+        IC Fabrication and Process Technology
+        Nanolithography
+        Display Technology
+        More Than Moore in Bio Electronics Applications
+        Silicon Photonics and Photonic Integrated Circuits
+        ----------Midterm----------
+        Introductions to BioMEMS and Microfluidics
+        Microcavity Light Emitting Device and Quantum Dot Lasers
+        Applications of Atomic Layer Deposition(ALD) on Nanoelectronics
+        Application of Nano Structure on Semiconductor Optoelectronic Devices
+        Growth and Application of 2-D Materials
+        Introduction to Quantum Electronic Devices
+        Spintronics and Quantum Computing
+        ----------Final Exam----------
+        (以上資訊來自CEIBA)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        想大致暸解電子所NE組的研究領域：★★★★★
+        想深入探討奈米電子相關理論：★★
+        喜歡聽故事：★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        沒有
+        但每個老師的上課投影片會放上CEIBA
+        建議影印下來抄筆記
+        因為期中考和期末考能帶講義
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        每個老師都會準備投影片上課
+        有些老師在部分觀念時也會使用板書(不過很少)
+        上課風格也是因老師而異
+        完全都不一樣
+        另外，黃念祖老師的微流道系統時有要求上課分組討論
+        下課時交一份小組討論的內容
+        但具體而言對分數的作用不清楚
+        似乎只是希望讓大家討論
+        不影響分數
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        1. Midterm: 35%
+        2. Final: 35%
+        3. Final Project Report: 30%
+        ------------------------------
+        Total: 100%
+
+        我想大概很甜吧
+        畢竟期中考和期末考都可以開書了
+
+      ρ 考題型式、作業方式
+
+        期中考和期末考都是每個老師各出幾題
+        題型不一定
+        可能是選擇題或申論題
+        可以打開上課的講義找答案
+        但除了上課講義以外的課本似乎不行
+        但基本上投影片都找得到答案
+        期末有兩大題比較特別的是會在考前兩天發兩份paper
+        考試時要寫出paper的大概內容
+        期中考滿分75分
+        有25分是潘正聖處長的口試分數
+        期末滿分100分
+
+        口試的部分
+        是會發Gordon E. Moore的paper(就是Moore's Law的那篇)
+        要跟老師報告心得
+        或是有不懂的地方在口試時問老師
+        老師也會問他在上課時有哪些部分還有不懂
+        或是對哪部分特別有興趣，他會跟你聊
+        簡單的說就是跟老師聊天啦XD
+        口試是自己約時間
+        老師會建議在期中考前
+        因為期中考後老師似乎要出國的樣子
+        每個人的口試時間是30分鐘
+        但我是當天最後一個
+        老師一開心就跟我聊了一個多小時XP
+
+        期末報告是要讀paper做paper review
+        中英文不拘
+        限制四面
+        字體大小12pt
+        字型要求Times New Roman或標楷體
+        單行行高
+        頁緣間距2.5
+        圖片不可超過2面
+        其實需要寫的內容不多
+        但評分標準不確定(成績還沒出來)
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        完全不重視出席率
+        不點名
+        每週換老師所以也不會記得人
+        完全不需要基礎
+        畢竟內容主要就是老師在介紹自己的研究領域
+        有點像一整學期的專題說名會
+        加簽是1類加簽
+        選了就上
+
+      Ψ 總結
+
+        基本上這門課就是電子所NE組在招生
+        讓學生初步了解NE組在做什麼
+        因為是導論課所以不會太難
+        內容很多很雜不得不開書
+        滿推薦想了解奈電在做什麼的人
+        但如果真的要深入了解理論
+        這門課似乎無法達到這個需求
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.9.72.159
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1516935458.A.323.html

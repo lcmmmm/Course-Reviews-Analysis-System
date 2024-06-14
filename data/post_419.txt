@@ -1,0 +1,68 @@
+作者imveryscared (我很怕)看板NTUcourse標題[評價] 109-1 林俊達 普通物理學甲上時間Tue Mar  9 00:44:02 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)林俊達
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資訊工程學系大一必修(物化生)選一
+      δ 課程大概內容
+第1週   Introduction to the course
+        Ch 01: Review and calculus basics
+第2週   Time, coordinate systems, kinematics
+        *Introduction to python and VPhysics
+第3週   Ch 03: Newton's Laws
+第4週   Ch 04: Work and energy
+第5週   Ch 05: Linear momentum, and system of particles
+第6週   Ch 06: Rotation and angular momentum
+第7週   Ch 06: Rotation and angular momentum
+        Ch 07: Gravitation
+第8週   Ch 07: Gravitation
+        Ch 08: Solids and fluids
+第9週   Midterm
+第10週  Ch 09: Oscillations
+第11週  Ch 10: Temperature, thermal expansion, and the ideal gases
+第12週  Ch 11: First law of thermodynamics
+第13週  Ch 12: Kinetic theory
+第14週  Ch 13: Entropy and the second law of thermodynamics
+第15週  Optional: Coupled oscillators*
+第16週  Ch 14: Mechanical waves
+第17週  Ch 15: Sound
+第18週  Final exam
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+University Physics by Harris Benson 3rd Edition
+      μ 上課方式(投影片、團體討論、老師教學風格)
+老師手寫板書
+偶爾搭配Vpython模擬
+      σ 評分方式(給分甜嗎？是紮實分？)
+VPython 30%
+Midterm 35%
+Final Exam 35%
+Quizzes 0%
+扎實甜 基本上有正常讀書至少都有A
+      ρ 考題型式、作業方式
+考題都是老師自己出 手寫 可開書 所以不用背公式 但要會用
+作業都是Vpython 因時間不夠剩5次 基本上都有給模板 所以其實寫起來Loading不會很重
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+老師上課都有錄影片 所以其實不到也沒關係 但是老師人蠻好的
+ 上課起來頗輕鬆 所以我都沒有缺席
+加簽基本是全簽
+外系的話 可能要多花時間看一下Vpython的教學影片(不過應該是蠻好懂得)
+      Ψ 總結
+俊達的課推爆 BTW其他班的同學這學期也跟著轉過來上課了
+如果還在考慮物化生要選哪個的話 選俊達的普物讚讚
+
+
+--
+事實就是如此
+                五十也是
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.240.136 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1615221846.A.45B.html
+推 headender: 推好教授 03/09 15:54

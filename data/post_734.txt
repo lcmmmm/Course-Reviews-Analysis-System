@@ -1,0 +1,84 @@
+作者j2c3 (j2c3)看板NTUcourse標題[評價] 107-1 107-2 傅昭銘 普通物理學甲時間Thu Jun 25 06:12:42 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        107-1 107-2普通物理學甲 上下(一年份課程)
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        傅昭銘 教授(物理系老師)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        開課系所:物理系
+        授課對象:生機系
+
+      δ 課程大概內容
+        上學期:
+                Course Introduction (measurements and dimensions)
+                Calculus for GPhys and Coordinate Systems
+                Force and Momentum
+                Work, potential
+                cicular motion, torque
+                angular momentum & equilbrium
+                gyroscope precession & elasticity
+                midterm
+                oscillation
+                fluid-viscosity $ statics
+                fluid-dynamic
+                thermodynamics
+                final
+                基本上是動力學
+        下學期:
+                electric feild
+                electirc potential
+                capacitor
+                capacitor circuit
+                magnetic due to current
+                faraday law, mag induction
+                induction L&M
+                maxwell equation, em wave, magnetism
+                VLSI processing
+                midterm
+                optics
+                quantum physics
+                final
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        想要不怎麼做事就拿普通的分數   ★★★★
+        想要學到東西 .........
+
+
+      η 上課用書(影印講義或是指定教科書)
+        基本上就是用haladay吧 不過他有自編投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        他有自編投影片，只是裡面的思路就是一個字-亂
+        東剪一塊西剪一塊，很粗糙；不過他上課的內容也是一樣的慘，推倒出問題，講解不清晰
+        過去一年這堂課並沒有給我三學分該學到的內容，認真講的話我覺得他比較像一堂一兩學分的物理通識課，知道了一些新的物理名詞
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        聽說只有兩個A+吧，但是都有及格。個人拿A-但是覺得自己的付出並不值得，很多東西並不會
+
+      ρ 考題型式、作業方式
+        簡單選擇題，填充題，說明題
+        允許帶一張A4大抄，基本上是手抄
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        會用上課播影片時的小問題來記錄出席率。影片是YT上的科普影片。
+        不過常常是這個影片你印象最深的三句話==我都寫十分富含哲學意涵的話(?
+        基礎就是高中物理吧。
+        加簽基本上是全簽，不過下學期有人很不爽老師的上課模式，有人退選。
+
+      Ψ 總結
+        這堂課讓我知道最深的是來自中國的助教因為國籍問題，在台灣當助教或研究生都不能領薪水QQ
+        至於你說課的部份馬....學不太到東西的....
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.248.127 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1593036764.A.35C.html
+推 ANUBISANKH: 中國籍學生可以合法領薪水，但要是產學合作的計畫。 06/25 12:35
+→ john798: 教育學程的主任...教學看起來...科科 06/28 09:23
+※ candorlin:轉錄至看板 NTUeducation                               06/28 09:31
+推 mirror0227: 完全不變的爛老師 06/29 11:59

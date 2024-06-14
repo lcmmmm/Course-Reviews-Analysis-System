@@ -1,0 +1,168 @@
+作者anonimo (unknown)看板NTUcourse標題[評價] 108-2 陳縕儂 深度學習之應用時間Sun Feb  7 02:19:53 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）： 是
+
+
+      哪一學年度修課：
+
+      108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+      陳縕儂
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+      電機資訊學院  資訊工程學研究所
+
+      δ 課程大概內容
+
+      (03/03) Introduction
+      (03/10) Neural Network Basics
+
+      (03/17) Word Representation & Recurrent Neural Network
+      (HW1: Summarization)
+
+      (03/24) Attention Mechanism
+      (03/31) Word Embeddings, Contextual Word Embeddings
+
+      (04/07) Transformer and BERT
+      (HW1 Due)
+      (HW2: 中文QA w/ bert)
+
+      (04/14) More BERT
+
+      (04/28) DRL and Q-Learning
+      (HW2 Due)
+
+      (05/05) Policy-Gradient & Actor-Critic
+
+      (05/12) Natural Language Generation
+      (05/19) Generative Adversarial Network
+
+      (05/26) Beyond Supervised Learning
+      (HW3 Due)
+      (Final Project:Transfer Learning or 自選)
+
+      (06/02) Towards Conversational AI
+      (06/16) Robustness & Scalability
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+      有DL基礎: ★★★★
+      甜度(沒停修的話): ★★★★★ 
+      Overall: 3.5
+η 上課用書(影印講義或是指定教科書)
+
+      老師的投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+      投影片 去年因為疫情的關係都改成線上
+      每週老師會把錄好的影片上傳到Cool 和 Youtube
+      原本的時段改成TA hour
+
+      另外每週會有助教額外的影片補充論文新知
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+      個人作業(20%)*3
+
+      Final Project (3~4人一組)
+      Video presentation(10%)
+      Report(20%)
+
+      Participation(10%)
+
+      作業都有一些加分題 所以每次滿分可能會超過20分
+
+      如果沒有停修的話最後給分超級甜
+
+      ρ 考題型式、作業方式
+
+      個人作業都是程式+report 交到NTU Cool
+      助教會跑code測有沒有過baseline 沒有kaggle
+
+      HW1:Summarization
+      Extrative, seq2seq, seq2seq+Attention
+
+      HW2:Bert for Chinese QA
+
+      HW3:Reinforcement Learning
+      Policy gradient, DQN
+
+      Final Project: 分自選 or Shared Task Challenge
+      Shared challenge 為 Document Information Extraction(日文)
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+      我覺得這堂課的內容本身還ok 但是作業和課程的規劃應該有一些可以改進的空間
+      由上面的課程大綱可以知道 在做hw1的時候
+      老師一直到deadline前一週才把hw1會用到的內容(word embedding)教完
+      導致許多同學來不及吸收並完成作業
+
+      另外老師在一開始也說這堂課的基礎只需要微積分和線代
+      因此可能有很多只有數學基礎 但對DL不太熟的同學來修
+      要在一個月內弄懂基礎DL到RNN再到Seq2seq+attention
+      再用pytorch或tensorflow實作出來 我覺得可能有點太硬了
+      而且助教也沒有提供sample code
+      至少我有問到的人都停修了Q_Q 實際停修比率不太確定 但應該不少
+      我的話是因為之前已經有一些DL基礎 所以作業一公佈就差不多可以開始寫了
+
+      如果以一個有DL基礎的角度來看 其實這樣的課程安排是可以的
+      但是因為我實在問到太多人都中途停修了XDD 所以還是要講一下
+
+      hw2則是用bert做中文QA問答
+      同樣沒有sample code 所以也是要花一些時間
+
+      hw3的RL就比較簡單了
+      是以助教提供sample code然後挖空的形式
+
+      整體來說3次作業花的時間是 1>2>>3
+
+      另外final project分為自選或是做Cinnamon AI提供的dataset(日文NLP)
+      自選的部分好像只要主題跟DL有關就好 也允許直接用其他堂課的project
+
+      加簽的話要先寫hw0 然後過kaggle的baseline
+      很簡單 只要複製貼上+改幾個參數就過了 所以沒什麼篩選的功用
+      還要填一個表單 包含系級、修過的課之類的
+      最後篩選條件未知 有聽過同系級但是有人選上有人沒上的
+
+      Ψ 總結
+
+      這堂課我比較推薦給有一些DL背景的同學
+      如果有修過108-1以前電機系開的機器學習
+      我覺得這堂課算是個還不錯的銜接
+
+      如果是修過108-2機器學習得同學
+      由於李宏毅老師在這學期的課程幾乎把所有主題都講過了
+      因此如果你每個作業都有做完 那其實已經跟這堂課有很多重疊的部分
+      我覺得就不一定要修 (大概只有多bert的部分而已)
+
+      對於沒有DL背景的同學 我覺得可能太硬了
+
+      不過以這學期的經驗 我推測可能作業不用全部做出來
+      最後都可以A+ 因為給分太甜了XDD
+
+      另外這堂課雖然叫深度學習之應用
+      不過大部分還是偏重NLP方面 可能也跟老師本身的研究領域有關
+      如果主要是想學其他領域的同學可能要注意一下
+
+      不小心拖太久才發心得文 如果有漏掉的地方還請其他幫忙同學補充了
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.150.95 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1612635596.A.493.html
+※ 編輯: anonimo (140.112.150.95 臺灣), 02/07/2021 02:21:35
+推 wwwh0225: 推評價 02/07 13:50
+推 NTUmaki: 都叫應用了，應該本來就是要給有基礎的（？ 02/07 16:08
+可能因為老師在一開始沒有特別強調或勸退的關係
+投影片上也只寫說需要數學和Python即可
+導致不少同學沒有衡量好而中途停修QQ
+推 CheingCo: 推這篇心得 02/07 19:27
+※ 編輯: anonimo (140.112.151.169 臺灣), 02/07/2021 22:42:03
+推 Akkusaii3741: 看這個課程大綱 範圍也太大了 02/08 02:42
+→ Akkusaii3741: 涉及好幾種不同的算法跟神經網路欸 02/08 02:42
+推 dalbuhr: 跟ADA相比這門課作業難度似乎比較低？ 02/08 08:28
+推 NTUmaki: 樓上真假啊... 02/08 13:22

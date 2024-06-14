@@ -1,0 +1,212 @@
+作者Akkusaii3741 (我愛吃烤雞)看板NTUcourse標題[評價] 107-2 官彥良 微積分甲下時間Mon Jul  8 22:56:07 2019
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+否
+
+      哪一學年度修課：
+
+107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+官彥良
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+微甲統一班
+
+      δ 課程大概內容
+
+第1週   2/18,2/21,2/22
+12.6 Cylinders and Quadric Surfaces
+13.1 Vector Functions and Space Curves
+13.2 Derivatives and Integrals of Vector Functions
+
+第2週   2/25,2/28,3/01
+13.3 Arc Length and Curvature
+13.4 Motion in Space: Velocity and Acceleration
+
+第3週   3/04,3/07,3/08
+14.1 Functions of Several Variables
+14.2 Limits and Continuity
+14.3 Partial Derivatives
+3/7(四) 第一次小考 範圍：上學期期末考考卷和 12.6~13.3
+
+第4週   3/11,3/14,3/15
+14.4 Tangent Planes and Linear Approximation
+14.5 The Chain Rule
+14.6 Directional Derivatives and the Gradient Vector
+
+第5週   3/18,3/21,3/22
+14.7 Maximum and Minimum Values
+14.8 Lagrange Multipliers
+3/21(四) 第二次小考 範圍：14.1~14.6
+
+第6週   3/25,3/28,3/29
+15.1 Double Integrals over Rectangles
+15.2 Double Integrals over General Regions
+15.3 Double Integrals in Polar Coordinates
+
+第7週   4/01,4/04,4/05
+15.4 Applications of Double Integrals
+
+第8週   4/08,4/11,4/12
+15.5 Surface Area
+15.6 Triple Integrals
+4/11(四) 第三次小考 範圍：14.7~15.4
+
+第9週   4/15,4/18,4/19
+15.7 Triple Integrals in Cylindrical Coordinates
+15.8 Triple Integrals in Spherical Coordinates
+15.9 Change of Variables in Multiple Integrals
+
+期中考 4/20(六) 09:00~11:30 考試範圍 12.6~15.9
+
+第10週  4/22,4/25,4/26
+16.1 Vector Fields
+16.2 Line Integrals
+16.3 The Fundamental Theorem for Line Integrals
+
+第11週  4/29,5/02,5/03
+16.4 Green''s Theorem
+16.5 Curl and Divergence
+16.6 Parametric Surfaces and Their Areas
+
+第12週  5/06,5/09,5/10
+16.7 Surface Integrals
+16.8 Stokes'' Theorem
+16.9 The Divergence Theorem
+5/9(四) 第四次小考 範圍：16.1~16.6
+
+第13週  5/13,5/16,5/17
+16.10 Summary
+11.1 Sequences
+11.2 Series
+
+第14週  5/20,5/23,5/24
+11.3 The Integral Test and Estimates of Sums
+11.4 The Comparison Tests
+11.5 Alternating Series
+5/23(四) 第五次小考 範圍：16.7~16.10 & 11.1~11.2
+
+第15週  5/27,5/30,5/31
+11.6 Absolute Convergence and the Ratio and Root Tests
+11.7 Strategy for Testing Series
+11.8 Power Series
+
+第16週  6/03,6/06,6/07
+11.9 Representations of Functions as Power Series
+11.10 Taylor and Maclaurin Series
+11.11 Applications of Taylor Polynomials
+6/6(四) 第六次小考 範圍：11.3~11.8
+
+第17週  6/10,6/13,6/14
+17.1 Second-Order Linear Equations
+17.2 Nonhomogeneous Linear Equations
+
+期末考 6/15(六) 09:00~11:30 考試範圍 Ch11+Ch16
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+喜歡公式推導 ★★
+
+想好好應付微甲 ★★★★★
+
+考前抱佛腳 ★★★★★★★
+
+老師比較不著重公式推導，通常都會跟我們說重點是把公式記起來
+不過他也不會偷懶啦，重要的一定都會推，他的意思是微甲要拿分的話重點不在證明
+至於考前他都會特別提醒哪些比較重點，讓我們比較有方向
+這對平時比較混的同學很有幫助
+
+      η 上課用書(影印講義或是指定教科書)
+
+老師自己有手寫筆記，黑板上課
+考前會有考古解析，會挑過去十幾年的題目中比較重要的來說
+考前解析對考試挺有幫助，如果老師說的都會了要及格基本很簡單
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+同上
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+統一教學甜度都差不多
+不過平時成績算甜
+我都是直接去考，平時成績也拿了29/30
+
+期中考     35%
+期末考     35%
+平時成績佔 30%
+
+
+1.平時成績佔學期成績 30%
+
+2.平時成績由六次小考和其訂正決定 (小考時間和範圍請見附
+錄)
+
+3.小考訂正內容需包括以下三點：
+(i) 被扣分地方的錯誤原因 (例如：計算錯誤、沒唸書不會寫)
+(ii) 正確答案。
+(iii) 將正確答案中，自己覺得重要的地方標記出來
+
+4.平時成績為小考成績加上訂正成績。訂正內容若滿足上述三項規
+定，則訂正成績為被扣分數的 80% ; 若訂正內容未滿足規定，則由
+教師依訂正狀況給分。
+例子 1：甲生六次小考都零分，但每次都有繳交訂正且內容滿足上
+述三項規定，則他平時成績將為 30*0.8 = 24 分。
+例子 2：乙生六次小考共獲得 20 分且每次都有繳交訂正且內容滿足
+上述三項規定，則他平時成績將為 20+10*0.8 = 28 分。
+
+
+5.小考訂正請在拿到考卷後的週一上課時間自行繳交到講台上，不
+另外提醒，逾期不得補交。
+
+備註1：小考時間為星期四演習課，助教們會在小考後一週的演習課
+發小考考卷。
+
+備註2：小考日期與範圍請則附件檔案或 CEIBA 的大綱內容
+
+備註3：後來因為時間緣故老師從六次小考取高的五次
+
+      ρ 考題型式、作業方式
+
+小考題型老師有時候上課會偷偷說一點
+沒有作業
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+完全不看出席，不過上課偶爾會提到小考出題方向
+
+      Ψ 總結
+
+認真的好老師
+相比微甲上遇到的老師是神奇ㄞ...
+
+
+寄信問他基本都在一天內回覆
+上課方式的話我很喜歡，他會把重點分成：
+定義、公式、公式推導、範例
+通常把那些看一看就不用讀課本
+而且可以大量減少唸書時間
+老師還會特別說哪些公式不重要不會考，通常我就直接不背XD
+
+定義都會說的很清楚，公式也會導
+不過他也常常說證明看不懂就算了
+把怎麼用公式和什麼時候用什麼公式記好
+是也沒錯啦，反正微甲也不太考證明
+我個人超愛這種教學模式，覺得比較不拖沓
+如果喜歡這種上課模式之後可以選他的微甲（？
+不過有些數學愛好者可能會不喜歡
+不喜歡的同學可以不要選
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.229.234 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1562597769.A.F0A.html
+推 jasonking3c: 推 雖然我都沒去上課 07/10 02:05
+推 unmolk: 雖然我也沒上課但推 平時成績真的算甜 07/10 22:20

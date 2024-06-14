@@ -1,0 +1,98 @@
+作者imveryscared (我很怕)看板NTUcourse標題[評價] 109-1 郭孝豪 微積分12時間Tue Mar  9 23:17:22 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+郭孝豪
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資工、材料、資管大一必修
+      δ 課程大概內容
+第1週   1.4 Exponential Functions
+        1.5 Inverse Functions and Logarithms
+        2.1 The Tangent and Velocity Problems
+第2週   2.2 The Limit of a Function
+        2.3 Calculating Limits Using the Limit Laws
+        2.4 The Precise Definition of a Limit
+第3週   2.5 Continuity
+        2.6 Limits at Infinity; Horizontal Asymptotes
+        2.7 Derivatives and Rates of Change
+        2.8 The Derivative as a Function
+第4週   3.1Derivatives of Polynomials and Exponential Functions
+        3.2The Product and Quotient Rules
+        3.3 Derivatives of Trigonometric Functions
+        3.4 The Chain Rule
+第5週   3.5 Implicit Differentiation
+        3.6 Derivatives of Logarithmic and Inverse Trigonometric Functions
+        3.8 Exponential Growth and Decay (✽)
+第6週   3.9 Related Rates
+        3.10 Linear Approximations and Differentials
+        3.11 Hyperbolic Functions (✽)
+        4.1 Maximum and Minimum Values
+第7週   4.2 The Mean Value Theorem
+        4.3 What Derivatives Tell Us about the Shape of a Graph
+        4.4 Indeterminate Forms and l'Hospital's Rule
+第8週   4.5 Summary of Curve Sketching
+        4.7 Optimization Problems
+        4.9 Antiderivatives
+第9週   5.1 The Area and Distance Problems
+        5.2 The Definite Integral
+        5.3 The Fundamental Theorem of Calculus
+第10週  5.4 Indefinite Integrals and the Net Change Theorem
+        5.5 The Substitution Rule
+第11週  6.1 Areas Between Curves
+        6.2 Volumes
+        6.3 Volumes by Cylindrical Shells
+        6.5 Average Value of a Function
+第12週  7.1 Integration by Parts
+        7.2 Trigonometric Integrals
+        7.3 Trigonometric Substitution
+第13週  7.4 Integration of Rational Functions by Partial Fractions
+        7.5 Strategy for Integration
+        7.8 Improper Integrals
+第14週  8.1 Arc Length
+        8.2 Area of a Surface of Revolution
+        9.1 Modeling with Differential Equations
+        9.3 Separable Equations
+第15週  9.4 Models for Population Growth (✽)
+        9.5 Linear Equations
+        10.1 Curves Defined by Parametric Equations
+        10.2 Calculus with Parametric Curves
+第16週  10.3 Polar Coordinates
+        10.4 Calculus in Polar Coordinates
+第17週  緩衝時間
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+James Stewart, Daniel Clegg, and Saleem Watson, Calculus Early
+Transcendentals, 9th edition
+      μ 上課方式(投影片、團體討論、老師教學風格)
+老師手寫板書
+      σ 評分方式(給分甜嗎？是紮實分？)
+考試50%
+作業30%
+小考20%
+      ρ 考題型式、作業方式
+考題微積分考古題應該都找的到
+作業每周有勾題目
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不看出席
+但小考要記得到 每周助教課要交作業
+加簽的話不知道 大家都去簽雅如班
+      Ψ 總結
+老師好像是新聘的教授
+不過上課的話都有認真備課，台風也算穩健
+上課總是笑笑的，不會過於嚴肅，同學問問題也都會認真解答
+自己原本也想要去雅如班，不過聽過一次之後不太習慣投影片的上課方式
+所以就還是待在原班，老師說話有條理，很多定理都會花時間證明一次
+就算證明不考還是可以學到很多，打穩基礎
+總而言之適合習慣板書的你來試試看
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.240.136 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1615303045.A.BD8.html
+推 cal28802672: 欸斗雅如老師的板書不少吧XD 03/10 06:51
+推 GWinter: 回樓上：現在是用平板手寫例題&證明 03/10 09:56
+推 hunterhsu91: 郭斯 07/02 14:28

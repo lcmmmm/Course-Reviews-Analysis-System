@@ -1,0 +1,132 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 105-1 鄭卜壬 系統程式設計時間Mon Jan 16 17:39:51 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：否
+
+
+      哪一學年度修課：
+        105-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        鄭卜壬
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系 大二必修
+      δ 課程大概內容
+       2016/09/14
+        Course Overview
+        OS Concepts (prn)
+        Concept of System Call
+        UNIX Programming Tools
+        Chapter 1 (partial)
+       2016/09/21
+        Unbuffered I/O (prn)
+        Chapters 3 & 2 (partial)
+       2016/09/28
+        Break (due to typhoon)
+       2016/10/05
+        Unbuffered I/O (prn)
+        Chapters 3 & 2 (partial)
+        Hand-written Assignment
+       2016/10/12
+        Advanced I/O (prn)
+        Chapter 14 (14.2, 14.3, 14.5)
+        Programming Assignment
+       2016/10/19
+        Files & Directories (prn)
+        Chapter 4
+       2016/10/26
+        Process Control-I (prn)
+        Chapter 8 (8.1~8.10)
+        Hand-written Assignment
+       2016/11/02
+        Process Control-I (prn)
+        Chapter 8 (8.1~8.10)
+        Programming Assignment
+       2016/11/09
+        IPC (prn)
+        Chapter 15 (14.1, 14.2, 14.5)
+       2016/11/16
+        Midterm
+       2016/11/23
+        Process Environment (prn)
+        Chapters 7 & 14.9
+       2016/11/30
+        Buffered I/O (prn)
+        Chapter 5
+        Hand-written Assignment
+       2016/12/07
+        Process Control-II (prn)
+        Chapter 8
+        Programming Assignment
+       2016/12/14
+        Signal (prn)
+        Chapter 10
+       2016/12/21
+        Signal (prn)
+        Chapter 10
+        Hand-written assignment
+       2016/12/28
+        Thread Control (prn)
+        Chapters 10 & 11
+       2017/01/04
+        Thread Control (prn)
+        Chapters 10 & 11
+        Programming Assignment
+       2017/01/11      Final Exam
+      Ω 私心推薦指數(以五分計) ★★★★★
+        聽八卦 ★★★★★
+        學好系程 ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+        Advance programming in the unix environment 3/e
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        上課會講投影片，然後很注重一些細節的觀念，不過換句話說，容易
+        把一段講的過度詳細，造成其他地方的缺省。此外，還會常常拿一些
+        open source的小技巧進來講，這些是看課本所學不到的。不過上課時
+        教授常常會講到忘我，然後你就會發現，夷?這堂課不是應該10:00下課
+        嗎?怎麼現在11:00惹，對於膀胱比較不好的學生確實是種負擔。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        期中考 30%
+        期末考 30%
+        手寫+程式作業 40%
+        應該是滿紮實的，然後今年期中考滿分100，期末考滿分120
+
+      ρ 考題型式、作業方式
+        考題基本上，都是教授在投影片的案例分析，如果有機會拿到考古題
+        應該就是萬事俱備，只欠東風。
+
+        四次程式作業
+        第一次
+        練習 io multiplexing
+        第二次
+        練習 pipe 溝通
+        第三次
+        練習 signal 與 socket programming (後者助教幾乎幫你寫完)
+        第四次
+        random forest 練習 multi-thread
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        加簽基本上是以系內為主，大二>大四>大三，然後外系大四>大三...
+
+        基本上你有C coding的基礎應該就可以，至少要知道C的feature 指標。
+        不過話說，去年有人用python交作業，所以今年就只限c了QAQ
+
+      Ψ 總結
+        這門課一開始加簽的時候，真的是人山人海，人滿到門口那種，真的必帶班
+        的學生還進不去的那種。不過期中考之後，旁聽的人口就減少許多，基本上
+        只要不遲到都會有位子。
+        在上課的時候，教授明確禁止任何人錄音或錄影，但就不知道有哪個旁聽的
+        八七大喇喇的在教室最後方錄音。雖然如果錄音真的對考試會有很大的幫助
+        ，因為考試的東西都是上課講過的，但還是要尊重教授啊。
+        考試的部分，建議各位準備一個能直接在pdf作筆記的軟體，因為用手寫的
+        速度一定不夠快，打字把重點記下來，對考試的幫助真的非常非常大。然後
+        考試前記得要把程式作業寫完。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.103.33
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1484559593.A.755.html
+推 youtuuube000: 卜壬必推!!! 01/17 02:18
+推 j50313j50313: 推 01/17 17:59
+推 brian980466: 硬 01/19 17:04
+推 yangerma: 推樓主全知全能<(_ _)> 01/19 23:02
+推 JJWang0818: 大推卜壬 感覺每次都用生命在講課XD 01/19 23:16
+推 yogafox: 卜壬必推　全知全能必推 01/20 01:32

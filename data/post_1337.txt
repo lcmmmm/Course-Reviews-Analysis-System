@@ -1,0 +1,89 @@
+作者Ruhb1234 (水底撈月)看板NTUcourse標題[評價] 106 量子力學1&2 管希聖時間Thu Jun 28 15:53:20 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：106 1~2 
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+      管希聖老師
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+      物理所碩一必修。需要電磁學、力學、量子物理、微積分、線性代數、微分方程和
+      複變
+      δ 課程大概內容
+      1. Mathematical Introduction
+      2. Review of Classical Mechanics
+      3. All Is Not Well with Classical Mechanics
+      4. The Postulates of Quantum Mechanics
+      5. Simple Problems in One Dimension
+      6. The Classic Limit
+      7. The Harmonic Oscillator
+      8. The Path Integral Formulation of Quantum Mechanics
+      9. The Heisenberg Uncertainty Relations
+      10. Systems with N Degrees of Freedom
+      11. Symmetries and Their Consequences
+      12. Rotational Invariance and Angular Momentum
+      13. The Hydrogen Atom
+      14. Spin
+      15. Addition of Angular Momenta
+      16. The Variational and WKB Methods
+      17. Time-Independent Perturbation Theory
+      18. Time-Dependent Perturbation Theory
+      19. Scattering Theory
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+      R. Shankar, Principles of QuantumMechanics, 2nd Ed., Plenum Press, New Yo
+      rk,1994
+      μ 上課方式(投影片、團體討論、老師教學風格)
+      板書
+      σ 評分方式(給分甜嗎？是紮實分？)
+      紮實分
+      ρ 考題型式、作業方式
+      期中期末的配分大致上是: 30~40%課文 20~30%作業 20%筆記中較困難的推導
+      20%改了數字的課文 總分有100或110分2種 100分的只出現在上學期期末
+      其他3次都是滿分110分
+
+      期中和期末老師的出題原則是: 把課文和作業看熟，就可以拿8.90分，剩下的20幾
+      %會放一些蠻困難的推導。基本上不會挑裡面有出現特殊函數的作業題
+
+      作業相較其他科目來說相當的多，每次基本上是勾10題課本上的exercise，從進入
+      第12章之後，作業的難度會有顯著的提升。就我個人來說，每次作業就算可以看解
+      答，要搞懂並寫完至少要花1~2天。上學期有10次作業，下學期則有8次。
+
+      如果作業怎麼解都解不出來，還是建議要看一下解答，因為課本有些地方有錯字，
+      某些題目照課本寫是不可能解得出來的。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+      老師上課不太會閒聊，進度的安排上也很準確，所以不太會出現教得太快，趕火車
+      讓台下全部聽不懂，或者花很多時間在簡單的課文上，讓大家發呆，這兩種情形。
+      每堂課都會提前半小時上課，也是因為這樣才能教到第19章。
+
+      老師上課時的板書有的時候會有錯字或漏字的情況，尤其是後半段(18.19章)更是
+      如此，不過對照上下文就能看出哪條算式有缺字，也不算是很麻煩。
+
+      每次考試時間都是3小時，這次期末有多20分鐘，可以帶食物進去吃。
+      Ψ 總結
+
+      這堂課教得非常完整，一些課本沒有講清楚的證明，老師也會在課堂上教，課文中
+      沒有的time reversal symmetry也有用Sakurai的內容補完。這堂課也是少數幾乎
+      把整本課本教完的課。(這本書有21章)
+
+      雖然這門課打分數不會太嚴格，但由於Shankar內容相當難，作業又很多，還是建
+      議選這堂課的人盡量多空出一些時間，避免念不完。(如果下學期還是管希聖教的
+      話)
+
+      另外，這本課本除了少數的錯字之外，在field quantization那一段有寫錯，具體
+      內容可看這個網頁http://www.phys.nthu.edu.tw/~class/QFT2010F/Note_03.pdf
+      主要是課本上H和P的記號不一致。
+
+      基本上還蠻推薦這堂課的，歡迎來修
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.136.109.206
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1530172403.A.407.html
+※ 編輯: Ruhb1234 (220.136.109.206), 06/28/2018 15:56:36
+推 physicslover: 竟然有人推老管的課 06/29 15:44
+推 ycldingo: 向樓上say hi 07/02 21:32
+推 letshock: 感覺老管的量力教的比義裕好 03/19 21:42

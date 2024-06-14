@@ -1,0 +1,73 @@
+作者threexch (嗚嗚)看板NTUcourse標題[評價] 109-2 溫在弘 空間分析時間Wed Jun 16 22:14:44 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-2
+
+      ψ 授課教師 (若為多人合授請寫授課教師，以方便收錄) 溫在弘
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        地理系大二必修
+      δ 課程內容
+1. 2.22 Course Introduction
+2. 3.01 例假補假 (複習：基礎統計學)
+3. 3.08 Handling Spatial Data
+4. 3.15 Using R as a GIS: Geoprocessing Operations
+5. 3.22 ## Warm-up Exam (基礎統計學＋空間資料處理與繪圖)
+6. 3.29 R Spatial: More Complex Operations
+7. 4.05 春假 (聽演講：R for Spatial Analysis)
+8. 4.12 Describing Spatial Patterns
+9. 4.19 ## Mid-term Exam
+10. 4.26 Point Pattern Analysis: Quadrat Analysis
+11. 5.03 Point Pattern Analysis: Nearest-Neighbor Methods
+12. 5.10 Point Pattern Analysis: Distance-based Methods
+13. 5.17 Point Pattern Analysis: Density-based Methods
+14. 5.24 Spatial Autocorrelation: Moran’s I statistic
+15. 5.31 Localized Spatial Analysis
+16. 6.07 ## Final Exam
+17. 6.14 端午節 (聽演講：Spatial Statistics in R)
+18. 6.21 Workshop: Building Interactive Dashboard for Geo-visualization
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★
+不喜歡每個禮拜寫作業: 0★
+      η 上課用書(影印講義或是指定教科書)
+老師&助教的投影片
+      μ 上課方式(投影片、團體討論、老師教學風格)
+這堂課主要用R
+前半學期在教基本的空間資料分析，基本上跟GIS會用到的操作
+後半學期著重於點資料的型態分析(會搭配一點統計)
+老師上課會先講概念之後用R實作，助教會上課時再幫大家整理一次程式碼，非常詳細。
+其實可以只上助教課啦，只是明年應該會換助教了。
+      σ 評分方式(給分甜嗎？是紮實分？)
+極甜，有三次期中考(分別佔10%、20%、30%），作業、實習各20%
+每個禮拜都要寫一次實習+一次作業，負擔還滿大的，但都不難
+照著助教課投影片都能做出來
+期中期末都不難，平常實習、作業有練習應該就能順利做出來
+第二堂課會有統計小考，滿分20，分數可以加在第一次期中考上面
+第一次和第二次考完了之後發現大家成績太低，就說這兩次考試取比較高分的那次
+作為30%的分數
+期末考最後調分到全班平均90分左右
+還有一次加分作業，有做出來期末可以_+15分
+      ρ 考題型式、作業方式
+期中期末都是open anything的上機考，作業要用R寫
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+修過初統、會基礎的程式應該就可以了
+R如果沒學過可能要先熟悉一下，不過不難學
+有基本的GIS概念應該會更好
+加簽全簽，完全不看出席，這學期上課有錄影
+      Ψ 總結
+這門課是應該會是地理系讓我收穫最大的課了...
+老師人很好，希望每個同學都能會所以講很慢
+因為不想當人想了很多幫大家加分的方式
+助教叔叔很厲害
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.162.1.112 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1623852886.A.7D8.html
+推 wei0506: 推原po！推教授！推助教！(可是他要畢業了QQ 06/17 02:21
+推 AngusAT: 誰准你叫叔叔的ㄚ 06/17 18:43
+→ AngusAT: 要畢業ㄌ  作業太多不想改了(汗 06/17 18:43

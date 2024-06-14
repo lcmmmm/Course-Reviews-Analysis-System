@@ -1,0 +1,74 @@
+作者ttnznemiqn (A_A)看板NTUcourse標題[評價] 105-2 洪一薰 非線性規劃時間Thu Jun 22 13:47:01 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        105-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        洪一薰
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        工業工程所
+
+      δ 課程大概內容
+        Part 1
+          1.Review of calculus
+          2.Convex analysis
+        Part 2
+          3.Optimality conditions and duality (unconstrained problems,
+          problems having inequality constraints, problems having inequality
+          and equality constraints, second-order necessary and sufficient
+          optimality conditions)
+          4.Lagrangian duality and saddle point optimality conditions
+        Part 3
+          5.The concept of an algorithm
+          6.Unconstrained optimization
+          7.Penalty and barrier functions
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        有修過Optimization，或是作業研究相關課程：四顆星
+        (如果喜歡數學證明多一顆，以前都沒修過相關課程減一顆）
+
+      η 上課用書(影印講義或是指定教科書)
+        Bazaraa, Sherali, and Shetty:
+        Nonlinear programming: theory and algorithms
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        投影片（其實是pdf）搭配板書
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        有三次考試，各佔學期總成績30%
+        五次作業，各佔學期總成績2%
+        （由此可知作業算是練習用，關鍵還是考試）
+        作業和考試都是紮實分，但總成績還沒出來，不確定會不會調分就是。
+
+      ρ 考題型式、作業方式
+        作業幾乎都是計算題或是證明題。除了最後一次作業其實是應該要
+        每題都寫一個程式出來並跑出結果，但為了大局著想（繳交期限為期末
+        考當天，我猜很多人都會選擇把它當作手寫作業…）
+
+        考試的話題目比較多元。大部份還是計算題或是證明題。
+        有出過True/False，但選完T/F要在下面說明/解釋其原因。
+        比較特殊的是每次考試總分都是30分，剛好和期末佔比相同。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        不點名，但是作業是課堂上交。加簽是全簽，老師蠻歡迎不同系的同學來修的，
+        但他也有說應該具備一些作業研究/最佳化的基礎再來修這門課會比較好。
+
+      Ψ 總結
+        很推薦想更一步理解非線性規劃的原理/精神的人來修這門課。老師花超過2/3
+        的時間在幫我們「打基礎」，就是希望日後我們自己在看相關演算法時，有那個
+        能力可以自己看懂它甚至舉一反三。並且，個人認為老師的口條還蠻不錯的，
+        即使是講這種比較枯躁的數學還是可以把它講得很清楚，並且不時的問同學
+        有沒有聽懂。但比較可惜的地方是因為這學期放掉三次課，所以最後演算法
+        的時間只有不到兩節課，算是一點小小的遺憾。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.163.170.73
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1498110423.A.4A8.html
+※ 編輯: ttnznemiqn (118.163.170.73), 06/22/2017 13:49:18
+推 allpass5566: 演算法不是老師著眼的重點 去年也這樣 06/22 15:35

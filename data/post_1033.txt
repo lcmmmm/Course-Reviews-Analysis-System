@@ -1,0 +1,75 @@
+作者Ruin0019 (Ruin0019)看板NTUcourse標題[評價] 107-2 毛紹綱 電磁學二時間Sat Jun 22 19:22:58 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         毛紹綱
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機系大二必修
+      δ 課程大概內容
+         Chap.5 Electromagnetics Potentials and Topics for Circuits and Systems
+                (Secs5.4-5.5)
+         Chap.6 Transmission-Line Essentials for Digital Electronics
+                (Secs6.1-6.7 6.5 excluded)
+         Chap.7 Transmission Lines for Communications
+                (Secs7.1-7.6)
+         Chap.8 Guided Wave Principles for Electronics and Optoelectronics
+                (Secs8.1-8.5)
+         Chap.9 Several Topics for Electronics and Photonics
+                (Secs9.1,9.3)
+         Chap.10 Principles of Radiation and Antennas
+                (Secs10.1-10.2)
+      Ω 私心推薦指數(以五分計) ★★★★★
+         教授 ★★★★★
+         助教 ★
+η 上課用書(影印講義或是指定教科書)
+         看過都嫌爛 Rao的
+         Elements of Engineering Electromagnetics Sixth Edition
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片 但筆記會延遲
+         老師還會放一些影片幫助同學理解 只是那個畫面真的是卡到不行
+      σ 評分方式(給分甜嗎？是紮實分？)
+         電磁學最好是會甜喔 騙誰啊
+      ρ 考題型式、作業方式
+         作業-課本習題 奇數章節寫奇數題號 偶數章節寫偶數題號
+
+         小考-需自備筆電 沒有的要跟助教說
+              有練習題庫 但這東西奇爛
+              會出現「答錯了 你的答案：a 正確答案：A」 這種情況
+              所以我後來都不刷題庫了 浪費時間
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         可參加iempt中高級測驗 加分
+         如果你電磁一都忘記了 那考這個會甲賽
+
+         助教雷 簡單舉例
+         1.閱卷要是先寄信約時間
+         2.期中考期末考 考前幾分鐘才進考場
+         3.期中考答案給錯
+         4.期末考考卷缺圖
+         5.期末考不能跳大題
+           如果是不能跳小題 同一大題的子題要寫在同一個地方 那我可以接受
+           但是規定大題不能跳著寫 就只是想方便自己批改而已
+
+         但老師很不錯 雖然慣性晚下課 考前的周末還加課
+         但能感受到老師很關心學生
+
+         像是因有人反應公式太多 所以老師們討論後 期末考可以帶大抄
+         以及有人反應期中閱卷太搞人 所以有再開放閱卷
+
+      Ψ 總結
+         必修課逃不掉的 只能祝你遇到好助教
+         李班的助教就不錯
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.248.172 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1561202585.A.8D3.html
+→ Kimg: https://reurl.cc/El1pa 06/22 19:27
+看的出來你怨念很重
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/22/2019 20:22:30
+→ jharden13: 哈哈哈哈 有笑有推 06/23 01:01
+推 ciltsinn: 推老師跟李班助教 06/23 02:58
+推 alan23273850: 期考不能跳大題其實蠻多科都是的... 06/23 21:29

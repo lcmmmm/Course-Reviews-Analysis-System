@@ -1,0 +1,106 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 109-2 陳銘憲 計算機概論時間Mon Jul  5 16:47:08 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+陳銘憲
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+電機系選修
+
+      δ 課程大概內容
+
+Ch0. Introduction
+Ch1. Data Storage
+Ch2. Data Manipulation
+Ch2.5 Introduction to Python (covered by Prof. Ming-ling Lo)
+Ch3. Operating Systems
+Ch4. Networks and the Internet
+Ch5. Algorithms
+Ch6. Programming Languages
+Ch7. Software Engineering
+Ch8. Data Abstractions
+Ch9. Database Systems
+Ch10. Computer Graphics (not covered in this class)
+Ch11. Artificial Intelligence (and more)
+Ch12. Theory of Computation
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+想知道計算機在幹嘛與有什麼領域：★★★★
+紮實地學計概：★★★
+缺學分：★★★★★
+這學期很忙：★★★★☆
+
+      η 上課用書(影印講義或是指定教科書)
+
+Computer Science: An overview, twelfth Edition, by J. Glenn Brookshear
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片佐以筆記，會在上課前上傳到Ceiba。我只去聽過幾門課，老師語調與語速算平淡
+，又是早上的課，應該滿容易睡著的...
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+（疫情前）
+Homework: 35%
+Midterm: 30%
+Final: 35%
+Class Performance: +- 0~3%
+
+疫情後取消期末考，怎麼改配分我就不清楚了，但多了兩份作業。
+
+      ρ 考題型式、作業方式
+
+考試：選擇填充問答等，助教會給參考考題，寫一寫上課有讀應該就能考得不錯。
+作業：每次都不太一樣，這學期的作業內容如下：
+hw1: Data Storage （手寫，就資料儲存操作的一些內容，上網應該找得到答案...）
+hw2: Python
+hw3: Web
+hw4: Algorithm
+hw5: SQL
+hw6: Neural Network
+hw7: Image Classification
+
+就是各領域的基礎介紹＋操作，作為一門概論課難度算適中合理。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+偶爾會點名，但我幾乎沒去過。
+選修不需要基礎，有電腦能跑程式就夠了。
+
+      Ψ 總結
+
+啊...我也忘記為什麼我學期初要選這門課不去修其他課了...
+給大一修的話好像還是滿有趣的，但如果是修過OS Algorithm DB ML Network之類的人，
+上課應該會覺得很無聊，所以如果已經不是大一的話建議缺學分再來修...不然就會跟我
+一樣不知道整學期在幹嘛...
+
+btw 助教人很好><
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.241.123.244 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625474830.A.48E.html
+※ 編輯: unmolk (111.241.123.244 臺灣), 07/05/2021 16:48:44
+推 justonlyfor: 是外系的（非電資理工，很明顯吧^^），這門課真的外 07/09 18:45
+→ justonlyfor: 系非常少，幫補作業%數（HW1-3 8%, Hw 4-6 11% Hw7 07/09 18:45
+→ justonlyfor: 15% 期中30%），但作業難度不一，對沒碰觸過馬上去 07/09 18:45
+→ justonlyfor: 實作有點困難，還不一定全寫對，雖教授說有考期中考 07/09 18:45
+→ justonlyfor: 不當人，但學期成績原始分數教授完全不調分，有過但 07/09 18:45
+→ justonlyfor: 就很慘烈，但電機系朋友們普遍非常高分，所以教授才 07/09 18:45
+→ justonlyfor: 不調分吧^^，對電機系朋友來說這真的是賺學分的課， 07/09 18:45
+推 Luka077: hw7應該是13% 07/09 20:43
+→ Luka077: 就我所知應該有同學被微調，等第邊緣無條件進位的那種 07/09 21:00
+→ Luka077: (或四捨五入進位？) 07/09 21:01
+→ unmolk: 非電資理工明明還有很多系XD 07/10 07:43
+推 justonlyfor: 笑死開戰開戰，抱歉hw7 是13%對不起>< 07/10 15:10
+推 Luka077: https://i.imgur.com/nAgTGz0.jpg 07/10 21:04

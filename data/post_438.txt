@@ -1,0 +1,144 @@
+作者Lyu7 (鯉魚旗禮盒)看板NTUcourse標題[評價] 109-1 陳偉松 自動機與形式語言時間Mon Feb  8 22:20:01 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         陳偉松教授 (Tony Tan)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         資訊系大三必修
+
+      δ 課程大概內容
+
+         Lesson  0. Preliminaries
+         Lesson  1. Finite state automata
+         Lesson  2. Pumping lemma and regular expressions
+         Lesson  3. Context-free grammars
+         Lesson  4. Push-down automata
+         Lesson  5. Equivalence between CFL and PDA
+         ===== Midterm Exam =====
+         Lesson  6. Turing machines and deciadable languages
+         Lesson  7. Turing machines and the notion of algorithm
+         Lesson  8. Universal Turing machines and halting problem
+         Lesson  9. Reducibility
+         Lesson 10. Non-deterministic Turing machines
+         Lesson 11. Basic complexity classes
+         Lesson 12. NP-complete languages
+         ===== Final Exam =====
+Ω 私心推薦指數(以五分計) ★★★★★
+
+         不排斥證明題：★★★ + 0.75 ★
+             --得分的標準個人覺得有點嚴格（？
+         喜歡提早下課：★★★★★
+             --這學期每次都會提早下課
+
+      η 上課用書(影印講義或是指定教科書)
+
+         教學網頁上有教授自編講義，或是網頁上推薦的教科書：
+
+         * Introduction to the Theory of Computation by M. Sipser.
+         * Introduction to Automata Theory, Languages, and Computation by
+           J. Hopcroft and J. Ullman, 1st edition.
+         * Chapter 1 in The Design and Analysis of Computer Algorithms by
+           A. Aho, J. Hopcroft and J. Ullman.
+
+         不過裡面的內容，教授可能會有自己的詮釋方式及順序，
+         會比較好講解。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         板書、英語教學。
+
+         教授的字有點小，加上沒有用麥克風聲音也不太大，
+         建議要到教室聽課的早點到，搶前面的位置。
+
+         雖然教授講的英文也不是太標準，
+         但是教授會用比較簡單的單字解釋，
+         英聽不太好的我也可以理解想表達什麼，
+         但是內部的概念，在後半學期就需要再另外思考一下了。
+
+         個人在前半學期為了能較容易理解英語課程，
+         有先預習教授放在網路上的講義，
+         後半比較忙就不太會這樣做，
+         不知是不是因為這樣的影響，後面部分我就沒有學得很好。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         * (30%) Midterm Exam
+         * (30%) Final Exam
+         * (40%) 2 Homeworks
+
+         除了 A+ 和 F 邊緣外，似乎都沒調分。
+         如果期中考後的累計分數未達 30 分，
+         可以寫一些東西，可能會加分：
+
+         * 課程講義中未提到的細節
+         * 課本後面的練習題
+
+         A+ 則是期末考時要正確回答出一題不計分的證明題，
+         原始分數應該也要到 90 分？
+         不過這個規則是期中考後才公布。
+         （但當時好像是說前 5% 才有 A+）
+
+         雖然自己是分數沒到不需要太擔心，
+         可是應該會有很多人不滿。
+         個人是認為期初的時候應該先說好，就不會有太多爭議，
+         而我也滿同意教授不想讓 A+ 氾濫的想法。
+
+      ρ 考題型式、作業方式
+
+         考題和作業的題目難度基礎到困難都有，
+         一份約 5 ~ 6 大題，其中有些會分為幾個小題。
+
+         基礎的大概是稍微聽課就會寫的東西，
+         困難的像是一些證明題，
+         作業中的難題貌似就是前一年考題。
+         （期中時對於同學作業答案的判定有不小的爭議，
+         雖然之後有再審過一次，但最後狀況我不太清楚。）
+
+         有趨勢是一屆比一屆難。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         沒有出席分，教授也說如果可以自己學習，不一定要來上課，
+         不過還是有不少人出席。
+
+         個人覺得應該是不太需要什麼基礎，
+         雖然後半教 NP 之類的東西和 ADA 有點關係，
+         但是寫證明的方法不太相同，
+         因此缺乏 ADA 的訓練或許也能應付。
+
+         教授上課有點小幽默，
+         不過由於這學期發生有點多問題，可能有些人會不太喜歡。
+         作弊會抓，最後不知道有沒有人承認就是了。
+
+         加簽加到單子不夠，包含人工加簽不太確定是否全簽。
+
+      Ψ 總結
+
+         因為以往評價看起來很輕鬆又甜，
+         期初又有很多人因為另一班的評分標準想轉來這班，
+         加上也很多外系想修，
+         難度越來越高記得好像是想分散人數到另一班。
+
+         這學期似乎真的比較多問題，弄得很多人都不開心，
+         其它部分的話，我認為還是挺不錯的一堂課。
+
+--
+～～評價文專用簽名檔～～
+好好把握機會使用自己的話語權
+無論是褒是貶
+越多人的評價越有參考價值
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.71.116 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1612794006.A.098.html
+推 eunhailoveu: 推推 02/08 22:26
+推 Richardat: 推 02/09 03:40
+推 Alex548291: 推 02/09 14:30

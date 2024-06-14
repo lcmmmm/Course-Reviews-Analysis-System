@@ -1,0 +1,84 @@
+作者shiburin (凜冬將至)看板NTUcourse標題[評價] 106-1 楊哲人 物理冶金上時間Sat Jan 13 13:46:51 2018
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+                 楊哲人
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+                 材料系大二必修
+      δ 課程大概內容
+                 以下是我憑記憶打出，可能與課表順序不同：
+                 1.Lattice：
+                   a.Miller index
+                   b.Zone
+                   c.Basis and lattice concept
+                 2.Difffraction (Introductory)：
+                   a.Bragg Law
+                   b.Debye camera
+                   c.TEM
+                 3.Dislocation Theory：
+                   a.edge and screw
+                   b.total and partial
+                   c.climb
+                   d.cross-slip
+                   e.Frank-Read source
+                   f.Energy
+                   g.Grain Boundary
+                 4.Annealing：
+                   a.Recovery
+                   b.Recrystalization
+                   c.Grain Growth
+                 5.Solute Atom：
+                   a.Atomsphere
+                   b.Effects on dislocation
+                 Miscellaneous：
+                   Thermodynamics on vacancies and phase equibrilium
+                 後面關於相圖的部分
+                 因為沒時間了所以沒上
+      Ω 私心推薦指數(以五分計) ★★★★★
+                 學習科普：★★★★★
+                 準備考試的時間少：★★★★
+      η 上課用書(影印講義或是指定教科書)
+                 是說有一本課本Physical Metallurgy Principle
+                 不過老師基本上不會用它來上課
+                 而是出作業時從中抽幾題
+                 而是班上會去印超級厚的講義
+      μ 上課方式(投影片、團體討論、老師教學風格)
+                 投影片
+                 老師教學幽默風趣
+                 這是...科普！！
+                 這個是必然的結果！！
+                 其他歡迎補充
+      σ 評分方式(給分甜嗎？是紮實分？)
+                 如果是材料系的可以問問學長看看
+                 每個人的看法不同
+                 不過我是認為甜
+                 Loading 很輕
+      ρ 出題型式、作業方式
+                 都是問答題
+                 幾乎沒有計算
+                 都是觀念、名詞解釋
+                 像是材導課
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+                 不點名
+                 加簽可以吧，有兩個化學系的來修
+                 基礎...因人而異吧
+                 我覺得是不太需要
+      Ψ 總結
+                 好課，是不需要多解釋的
+                 歡迎各位來修
+                 17學金屬！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.249.200
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1515822415.A.66F.html
+推 penguin828: 居然沒提到same environment in the same orientation 01/13 14:37
+這個我也有印象XD
+※ 編輯: shiburin (140.112.249.200), 01/13/2018 16:55:17

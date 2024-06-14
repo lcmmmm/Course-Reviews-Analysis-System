@@ -1,0 +1,195 @@
+作者rutw (Formosan)看板NTUcourse標題[評價] 106-1 陳恒榆 普通物理學甲上時間Mon Aug 17 04:11:36 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：N
+
+
+      哪一學年度修課：106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        陳恒榆
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        材料科學與工程學系必修。兼通識A7*（物質科學領域）。可充抵通識
+
+      δ 課程大概內容
+
+        Week 1  Dimension Analysis amd Units
+                Review on Vector: Addition, Subtraction, Mutliplcations,
+                                  Scalar and Dot Product, Differentiation
+                Point Particle Motion in 1, 2, 3 dimensions
+                Motion with Constant acceleration
+                Free Fall Acceleration under gravity
+                Elementary Integration
+
+        Week 2  Projectile Motion
+                Horizontal and Vertical Motion
+                Uniform Circular Motion
+                Relative Motion, Inertial Frame & Galilean Relativity
+                Newton's 2nd Law
+                Simple Harmonic Oscillation (SHO)
+
+        Week 4  Eqilibrium, and Why Simple Harmonic Oscillation?
+                Pendulum Motion as S.H.M.
+                Work (donr by a force)
+                Newton's 3rd Law
+                Some Interesting Examples for applying Newton's Laws
+                Cnetral Forces and Conservation of Angular Momentum
+
+      Week 5&6  Gravity (Gravitational Force) and Work
+                The gravitational field of a Planet
+                Escape Velocity / Black hole
+                Schwarzchild Radius
+                Motion in Central Force
+
+      Week 7&8  Stability of Circular Orbit
+                Equation for the Orbit
+                The Energy of Orbit revised
+                Kepler Equation
+
+       Week 11  System of Particles/ Collisions
+                Angular Momentum
+                How to reduce Two Body Problem into One Body Problem?
+                Variable Mass Problem
+
+       Week 12  Rigid Body/ Rotation Motion
+                Calculating Moment of Inertia
+                Parallel Axis Theorem
+
+       Week 13  Friction
+                Fluid Drag
+                Damped Harmonic Oscillation
+                Terminal Velocity with Quaratic Friction
+                Projectile with Linear Drag (3D Example)
+
+       Week 14  Non-Inertial Frames
+                Rotation Frames
+                Coriolis Force
+
+
+       Week 16  Oscillations/ Waves/ Vibrations
+
+
+       Week 17  The Double Pendulum
+                Symmetric Linear Tri-atomic Molecule
+                Three Masses Coupled by Identical Springs
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        微積分大師                      ★★★★★★★★  等一下會說為什麼
+
+        想知道物理公式如何推導來的      ★★★★★
+
+        很會背推導過程                  ★★★
+
+        以為普物都在解例題              ★
+η 上課用書(影印講義或是指定教科書)
+
+        沒有教科書
+
+        但是有老師非常精美的筆記，上課前會放在 Ceibe 上面
+
+        老師的筆記...只能說非常的讚，都寫得非常清楚，貼個幾張上來：
+
+        https://i.imgur.com/LXFq1zg.png
+ https://i.imgur.com/wSddcwz.png
+ https://i.imgur.com/rE5SuA9.png
+ https://i.imgur.com/kcEaXXs.png
+
+μ 上課方式(投影片、團體討論、老師教學風格)
+    我認真覺得這是一堂包著普物外皮的應用微積分課程。
+
+        （看一下上面的筆記就知道了，著重在物理公式的推導及演變）
+
+        其實上課就是把老師筆記上的內容再用板書講一遍，
+
+        因為筆記裡面有一些老師可能覺得很 trivial，
+
+        但實際上自己看、自己想、自己讀可能覺得一點都不 trivial 的過程 (...)，
+
+        就能夠藉由上課的時候再聽一次整套想法
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        50% Mid-term Exam + 50% Final Exam = Semester Raw marks
+
+        原始分數不調分，等第分數以下面的區間調整
+
+        <40 : Fail
+        40-49: C- (basically means you pass)
+        50-54: C
+        55-59: C+
+        60-64: B-
+        65-69: B
+        70-74: B+
+        75-79: A-
+        80-84: A
+        85+ : A+
+
+      ρ 考題型式、作業方式
+
+        考試是六題選四題，全部都是公式與數學推導
+
+        完全沒有什麼類似應用題之類的東西，都是上課講的 (=筆記裡面的)
+
+        或是針對某個變數的變形題目，如下
+
+        https://i.imgur.com/eWSQKyl.png
+ https://i.imgur.com/ZPeDwwj.png
+ https://i.imgur.com/VwKtcXW.png
+ https://i.imgur.com/iAFoMzp.png
+
+        所以準備的方法就只要讀透、讀熟、讀懂老師筆記上的所有東西就好，
+
+        所以對於以下兩種人來說可謂非常好準備：
+
+        1. 數學（尤指微積分）很好的人，因為這些人都知道 LHS 怎麼變到 RHS 的
+
+        2. 背誦能力很好的人，因為基本上把東西背下來能拿到 60 分，剩下就是變形了
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        出席沒差，因為這堂課也沒有要交作業，
+
+        你要整學期都在家看筆記自己讀也可以，第一堂、期中期末這兩三天再來就好
+
+
+        加簽當然全簽
+
+
+        基礎的話，雖然這是普物，但我認真認為要修過微積分再來選這堂課會比較好
+
+        其他的普物可能都是以解應用題為主，但這堂課都在數學推導
+
+        如果同時修的話，微積分上還在講斜率的時候，這堂課已經在講多變數微分了
+
+        微積分在講微分的時候，這堂課已經在講積分了...
+
+        更不用說後面還蹦出向量微積分、線性代數的內容了
+
+
+
+      Ψ 總結
+
+        怎麼說呢，就是一堂和多數人想像中不同的普物課吧，
+
+        對於那些覺得普物應該跟高中物理課一樣解解題的人、或是微積分苦手來說，
+
+        應該是一堂蠻頭痛的課，因為從頭到尾只有少數會有 Example，其他都在講公式。
+
+
+        但對於好奇那些物理公式是怎麼來的、這裡怎麼會要加一個一個 constant
+
+        或是看起來很 trivial 的「近似」過程是如何想出來的人
+
+        就是一堂很棒的「物理課」了
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 110.50.151.96 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1597608699.A.53F.html

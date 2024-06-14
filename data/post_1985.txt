@@ -1,0 +1,68 @@
+作者dsamylife (dsamylife)看板NTUcourse標題[評價] 104-2 呂育道 離散數學時間Wed Jun 29 22:30:40 2016
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        104-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        呂育道
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系選修
+      δ 課程大概內容
+        Chapter 1 ("Fundamental Principles of Counting")
+        Chapter 2 ("Fundamentals of Logic")
+        Chapter 3 ("Set Theory")
+        Chapter 4 ("Properties of Integers: Mathematical Induction")
+        Chapter 5 ("Relations and Functions")
+        Chapter 7 ("Relations: The Second Time Around")
+        Chapter 8 ("The Principle of Inclusion and Exclusion")
+        Chapter 9 ("Generating Functions")
+        Chapter 10 ("Recurrence Relations")
+        Chapter 11 ("An Introduction to Graph Theory")
+        Chapter 12 ("Trees")
+        Chapter 13 ("Optimization and Matching")
+        Chapter 14 ("Rings and Modular Arithmetic")
+        Chapter 16 ("Groups, Coding Theory, and Polya's Method of Enumeration"):
+        Chapter 17 ("Finite Fields and Combinatorial Designs")
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        喜歡自己念 : ★★★★★
+        不想上課 : ★★★★★
+        想認真上課 : ★★★ (超容易睡著 音調變化超少)
+        想讓成績UPUP : ★★★★★
+        想初步了解 遞迴 生成函數 抽象代數 : ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+        投影片
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        投影片一直念，基本上教授飆課速度很快，而且聲音滿小聲的
+        ，所以從期中考後，人數直直往下落，每堂課只剩15個人左右
+        ，但是教授也不CARE，照樣繼續念。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        甜，調分比威XX還威。
+
+      ρ 考題型式、作業方式
+        總共三次大考，沒有作業
+        每次考試，總共十題，都是基礎題，把考古題全部掃過，大概就80分了。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        加簽全簽，有高中數學基礎就可以了，完全不需要微積分。
+      Ψ 總結
+        原先選這門課，我以為是門滿硬的課。雖然跟我在交大的朋友修的離散相比
+        ，這門的確廣很多。但是其實都只是更個學門的入門而已，如果想要學一個
+        類似概論的課，可以選修這門。此外，每次考試PPT大概250頁左右，如果積
+        在一天看完是滿恐怖的，不過從考古題來複習又是另外一回事了XDD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.95.236
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1467210642.A.252.html
+推 s98509s98509: dsayourlife?wow 06/30 22:31
+miserable life
+※ 編輯: dsamylife (140.112.77.168), 07/01/2016 00:13:26
+※ 編輯: dsamylife (140.112.77.168), 07/01/2016 00:14:06
+推 phoenix82326: 威XX是誰哈哈哈可以私訊嗎 07/01 01:21

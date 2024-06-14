@@ -1,0 +1,86 @@
+作者NTUTapir (NTUTapir)看板NTUcourse標題[評價] 106 蔡爾成 力學全時間Sat Sep 22 23:59:38 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）
+                是
+
+      哪一學年度修課：
+                106
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         蔡爾成
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         物理系 必修
+
+      δ 課程大概內容
+         上學期
+           Ch1. Matrices, Vectors and Vector Calculus
+           Ch2. Newtonian Mechanics -- Single Particle
+           Ch3. Oscillations
+           Ch5. Gravitation
+           Mid
+           Ch6. Some Methods in the Calculus of Variations
+           Ch7. Hamilton's Principle -- Lagrangian and Hamiltonian Dynamics
+           Final
+         下學期
+           Ch8. Central-Force Motion
+           Ch9. Dynamics of a System of Particles
+           Ch10. Motion in a Nonlinertial Reference Frame
+           Ch11. Dynamics of Rigid Bodies
+           Mid(~11.7)
+           Ch12. Coupled Oscillations
+           Ch13. Continuous System: Wave
+           Ch14. Special Theory of Relativity
+           Final
+
+      Ω 私心推薦指數(以五分計)  ★★★★★
+         熱愛積分                ★★★★★
+         考前可以背下很多習題    ★★★★★
+         希望在講義上找到所有內容★★★★★
+η 上課用書(影印講義或是指定教科書)
+         CLASSICAL DYNANICS OF PARTICLES AND SYSTEMS
+           by THORNTON & MARIAN, 5ed
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         上課流程：打開投影機、開啟精美的講義、將講義上的內容以中文讀出來、換到
+         下一頁重複以上流程直到下課。
+         相信以Marian的用字遣詞，英文程度應該不太會影響自修。
+         喔對講義基本上包含了整本課本，所以說不太需要課本。如果念了課本，還要一
+         直找講義哪些地方沒有讀過，很不方便。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         期中期末各半，作業成績會被算到習題課中。
+         據表示最後等第是由相對比例給出的，而期中跟期末的分布都不會分布。
+         期中考卷會發回，雖然經過助教跟教授多次複閱(X)扣分(O)，但最後加總依舊少
+         算十多分。期末考卷不發回，就摁...
+         總結來說，時候到了，就會知道等第了。基本上我看不太出其跟我唯一知道的期
+         中成績的關係。
+
+      ρ 考題型式、作業方式
+         每章大概會有十題習題，開學前就會公布。考題的話基本上都是習題跟課本範例
+         ，變化的部分很少。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         雖然說物理系必修出席率都有decay的現象，但力學的decay又比其他課來的更強
+         一些吧，目視期中考前的低點大約剩考試當天的三分之一不到。
+         外系需要的基礎應該就是積分，之前有沒有學過物理好像也不是太重要，知道太
+         多反而會影響考試。大概是用了跟解答不相同的物理概念都會被質疑說這些東西
+         都是沒有被證明過的，切記小心。
+
+      Ψ 總結
+         以上僅供參考，反正這麼好的課也修不到了。
+
+--
+
+在很久的以後 你是否記得我
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.150.15
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1537631981.A.C24.html
+※ 編輯: NTUTapir (140.112.150.15), 09/23/2018 00:12:07
+推 sun51027: 又一個XD 09/25 15:36
+噓 NomeL: 痾 可以不要拼錯名字嗎QQ 09/25 21:43
+推 physicslover: xDDD 10/03 19:12
+推 m24639297: 大推爾成 10/13 19:00
+推 chiuphys: 誰說修不到 下學期要修爾成力學跟爾成應數三qqqq 11/16 17:49

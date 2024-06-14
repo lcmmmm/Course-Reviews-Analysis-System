@@ -1,0 +1,124 @@
+作者hinagiku0531 (猛哥西河)看板NTUcourse標題[評價] 106-2 毛慶生 貨幣理論與政策時間Sun Jul  1 21:31:13 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+      106-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+      毛慶生 副教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+      經濟所
+      可當大學部選修
+
+      δ 課程大概內容
+
+      算是接續大學部的總體經濟學(?)
+      不特別探討貨幣需求
+      重視將引入貨幣、名目變數後的經濟模型
+      這學期主要講了四個模型 (主題)
+
+      Topic 0: Irrelevance Propositions
+      Topic 1: Money-in-the-Utility Function (MIUF)- Sidrauski Model
+      Topic 2: Cash-in-Advance Model (CIA)
+      Topic 3: Robert Lucas Jr.'s Island Model
+      Topic 4: New Keynesian Model
+
+      因為時間因素，
+      (1) Island Model未提Linear Rational Expectation，僅有介紹
+          Recursive Learning/Projection，餘下需自行翻閱Robert Lucas Jr.論文：
+          Some International Evidence on Output-Inflation Trade-offs (1973)
+
+      (2) New Keynesian Model只有解說到New Keynesian Supply Curve (AS)，
+          餘下關於Aggregate Demand (AD)以及Taylor's Rule的內容須翻閱參考教科書
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★★★★★★
+       一個給再多都不夠的概念
+
+      η 上課用書(影印講義或是指定教科書)
+
+      參考用不用買，線上可以找的到
+      Walsh, Carl E., Monetary Theory and Policy, 4nd Ed., MIT Press, 2017
+      新版與舊版差異在於章節位置不同
+
+      另有一份經典文獻閱讀建議清單
+      -Long-Run Neutrality
+      -Money and Fluctuations
+      -Dynamic Sticky Price (DSP) Models
+      -Policy: Rule vs. Discretion
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+      跟大學部總體經濟學一樣為板書授課
+      只是這門課上課方式為教授精選幾篇經典文獻(四個主題)
+      講解其中的數學、經濟直觀，引導閱讀
+      不然Island Model那篇很不好讀懂
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+      因為我是旁聽的同學，僅提供教學網站上的評分要求：
+      數值模擬報告(Dynare) + 期末考試
+
+      給分甜度、扎實度留請修課同學補充
+
+      ρ 考題型式、作業方式
+
+      留待修課同學補充
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+      無
+
+      Ψ 總結
+
+      到學期中才發現老毛這學期開設貨幣的課程了，只好用旁聽的方式來上課，算是
+      每周最期待的課程哈哈。這門課接續大學部的RBC架構，在模型內引入名目變數，
+      不過最後幾乎都會發現長期來看貨幣政策沒有效果，與大學部所提的RBC幾乎無異。
+
+      期中考周後進入Stochastic的世界，先是從Robert Lucas Jr.的Island Model
+      (Monetary Misperception Model)，探討在價格給予的資訊不完全下，貨幣政策的
+      短期效果、以及這個經濟體內的Philip's Curve (Long-run: Lucas Supply Curve)
+      ，政府能不能按照這個法則在這個經濟體內操弄Money Supply去影響產出水準？
+      老毛說這篇文獻非常經典，值得一讀再讀，惟數學部分非常困難，來上課可以幫助
+      理解Robert Lucas的想法。如同前述，由於時間因素，最後未提簡化版的Rational
+      Expectation Model，需要自行翻閱。
+
+      最後一個月進入New Keynesian Model，一如大學部的慣例，老毛不講凱因斯走狗(
+      ?)的IS-LM，專注由Micro-foundation推論Jordi Gali發展出來的New Keynesian
+      Model，架構跟大學部RBC類似，惟差異在市場假設為Monopolistic Competition，
+      最後得到的結論也跟RBC類似，如同大學部老毛會吐槽："加了幾個蚯蚓(積分)，加
+      了獨占性競爭的假設，結果解釋力跟RBC差不多?"
+
+      (雖然如此，老毛其實也是很推崇Jordi Gali的，直稱他是Nobel Prize Laureate絕
+       對是遲早的問題，若對New Keynesian Model有興趣，他也建議閱讀Gali的
+       Monetary Policy, Inflation, and Business Cycle)
+
+      最後只講到New Keynesian的Aggregate Supply跟Philip's Curve就結束了，剩下
+      的Aggregate Demand等必須參考Walsh的書跟老毛前面給的FOC求出來，可惜了。也
+      差了"Discretionary versus Rule"這個貨幣政策大哉問。(好希望是一年的課rrr)
+
+      上完大學部的總體經濟學，若想再了解貨幣等名目變數等等，很建議來上這門課，
+      修課的朋友說這門課修的人數超級少，只有八個人QQ。老毛剩最後一年就要退休了
+      ，希望能在教授退休前多修習或旁聽教授生動活潑的講課！
+
+--
+A: Hello, may I speak with Steph please?
+B: Sure, dial 73-9.
+A: I did, but there was no ring...
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.5.199
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1530451882.A.2C2.html
+推 nowbird: 老毛大好，定推老師！ 07/02 15:24
+推 futri752: 有老毛必推 07/02 19:16
+推 kevin512512: 你竟然跑去聽這個 07/03 01:14
+推 john850730: 這個真的不錯 比起某梁的假總經 07/03 11:52
+推 hsuzchan: 大學後悔沒修到的課之一 07/03 19:54

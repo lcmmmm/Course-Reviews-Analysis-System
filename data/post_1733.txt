@@ -1,0 +1,92 @@
+作者dn96 (DenverNuggets)看板NTUcourse標題[評價] 105-1 張恆華 資料結構時間Mon Feb 20 01:52:35 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 105-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         張恆華助理教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         工科海洋資訊組大二必修
+
+      δ 課程大概內容
+         前面在幫大家複習C++，之後才開始上資料結構，
+         以下為各周課程內容：
+          1. Course Overview and Review of C++ Programming
+          2. Pointers, Arrays, Loops, and Functions
+          3. Classes, Exceptions, and Templates
+          4. Linked Lists and Recursion
+          5. Binary Search and Inheritance
+          6. Asymptotic Analysis, Stacks, and Queues
+          7. Hash Tables and Rooted Trees
+          8. Tree Traversals, Binary Trees and Priority Queues
+          9. Binary Heap and Binary Search Trees
+         10. Binary Search Trees and Graphs
+         11. Graph Traversals and Weighted Graphs
+         12. 2‐3‐4 Trees and Sorting
+         13. Quicksort
+         14. Disjoint Sets, Quick-select, Comparison-based sorting
+         15. Linear-time sorting (counting sort, bucket sort, radix sort)
+
+      Ω 私心推薦指數(以五分計)
+         ★★★
+
+      η 上課用書(影印講義或是指定教科書)
+         Frank M. Carrano, Timothy Henry,
+         Data Abstraction & Problem Solving with C++: Walls & Mirrors,
+         6th edition, Pearson, 2013. (歐亞書局)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         大多是投影片講授，只有最後3周是板書
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         作業40%、期中30%、期末30%
+         作業有3份手寫作業、5份程式作業，但每份作業佔的比重不同
+
+         感覺上是助教期中跟期末考改蠻鬆的，期中考印象中班平均75，
+         我自己算出來的原始百分制學期成績就有過90，不清楚是否有再調分
+
+      ρ 考題型式、作業方式
+         考試純手寫，會有手寫程式題，期中考還是有考一些大一計程的問題
+         會問時間複雜度、在每一步驟後該資料結構內容及結構的變化之類的問題
+         可帶A4雙面大抄
+
+         手寫作業基本上就是類似課本的題目，但不完全是從課本出來
+
+         程式作業要用C++寫，所以雖然這門課的課程要求沒寫程式一定要修過C++，
+         但最好還是要有C++的基礎
+         第一份也是類似大一計程的題目，第二份是練習template，
+         第三份實作double linked list，第四份實作hashtable，
+         第五份實作binary search tree
+
+         程式作業老師會先給一個骨幹，只要寫裡面缺的部份就好，
+         這樣對學生來說是比較輕鬆，
+         但我自己是覺得對於該資料結構的某些部分的運作感覺印象就不是很深刻
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         沒點過名，不過老師說他會認人，但大概也只限於在及格邊緣時求情有用吧
+         基礎的部份就是要學過程式，最好是C++
+
+         我是外系，但初選就上了..看起來要加簽的話應該也都簽得上
+
+      Ψ 總結
+         只能說十分適合自學，老師上課大概就是把講義講得比較口語化，
+         其實跟看講義沒太大的差別，然後講義跟課本內容不會完全對上，
+         我後來有找到UC Berkeley CS某一年的資料結構教學網站，
+         內容就跟老師講義(及板書)差不多....
+
+         程式作業的部份也有跟Berkeley一樣的題目，不過差別在於Berkeley是用Java
+         另外可能礙於是工海大二必修，大二還有其他必修要修，作業量不是很多，
+         個人是覺得只有實作過三種資料結構好像有點不足
+
+         如果想接觸一點資料結構，又覺得資工/電機/資管的課太重的話，
+         也是可以考慮這門
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.228.246
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1487526757.A.5FE.html
+※ 編輯: dn96 (114.44.228.246), 02/20/2017 01:54:58
+推 anonimo: 大雷課 外系不用來浪費時間了 07/04 19:23

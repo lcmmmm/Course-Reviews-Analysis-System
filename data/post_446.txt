@@ -1,0 +1,80 @@
+作者NTUmaki (西木野真姬)看板NTUcourse標題[評價] 109-1 陳誠亮 程序控制時間Tue Feb  2 08:00:41 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+109-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+陳誠亮
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+化工系大四必修
+      δ 課程大概內容
+Overview of Process Dynamics and Control
+Basic Control Elements: Process
+Simulink for Dynamic Process Simulation
+Basic Control Elements: Controller
+Simulink for PID Controller
+Basic Control Elements: Sensor
+Basic Control Elements: Valve
+--- Mid-term Examination --
+Dynamic Simulation of Basic Control Elements & Closed-loop Control Systems
+Analysis of Feedback Control System
+Tuning PID Controller Parameters
+Frequency Response Techniques
+Enhanced PID Control: Cascade
+Enhanced PID Control: Selective & Override
+Enhanced PID Control: Feedforward & Ratio
+Control of Some Unit Processes
+Plantwide Process Control
+      Ω 私心推薦指數(以五分計) ★★★★★
+想翹課               : ★
+想要中間有下課       : ★
+想學多內容很廣的控制 : ★★★★★
+喜歡看一堆名詞縮寫   : ★★★★★★★★★
+想穩拿學分不被當     : ★★★★★★★★★★★★★★
+      η 上課用書(影印講義或是指定教科書)
+Wade, H.L. (2004). Basic and Advanced Regulatory Control: System Design and
+Application, 2 nd Ed., ISA, NC.
+
+Liptak, B.G. (2006). Instrument Engineers Handbook (Vol. 2) - Process Control
+and Optimization. Taylor & Francis, New York.
+
+Luyben, W.L., M.L. Luyben (1997). Essentials of Process Control, McGraw-Hill,
+New York.
+      μ 上課方式(投影片、團體討論、老師教學風格)
+投影片
+有用NTUCOOL錄影
+每一堂課都會點名簽到
+      σ 評分方式(給分甜嗎？是紮實分？)
+期中       : 35%
+期末       : 35%
+作業*4     : 15%
+課堂參與   : 15% (點名+提問)
+涼度       : 普通
+甜度       : 甜爆，大調分
+      ρ 考題型式、作業方式
+上課內容 ⊕ 作業 ⊕ 考試 = 整個程序控制 (⊕ : direct sum)
+(期末有放水啦@@ 出很多作業)
+這門必修擺在大四其實蠻多人都不太想念了 ((還是其實只有我??
+上課內容跟作業跟考試看似有關聯，但常常都有幾個關鍵的地方沒講到，都得靠自己去讀
+老師用的符號跟課本又完全不同，讀起來效率很差
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+應該不會有外系想加簽這門課吧，然後整學期上起來感覺不用任何特別的化工基礎
+每一堂課都會點名簽到
+      Ψ 總結
+老師上課蠻幽默風趣的，常常用一些神奇比喻講解程序控制
+結果以為自己上課聽得懂，結果作業考試還是不會
+很多基礎的部分沒有講很細，又想教很多內容
+導致每個都會一點點但是底層的知識都不太足，有點像在硬背
+只想上課聽聽就懂的話不太可能，要自己再讀課本
+如果只想水過這門課的話就乖乖寫作業、背好上課例題、作業
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.171.158.244 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1612224043.A.CBE.html
+推 heypostcard: 還有NTU COOL記得問問題 02/02 08:48
+推 unmolk: 大四還有必修 慘.. 02/02 08:51
+大四有三個必修qq
+※ 編輯: NTUmaki (114.136.144.132 臺灣), 02/03/2021 04:20:51

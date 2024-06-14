@@ -1,0 +1,88 @@
+作者chun10396974 (娜嗲希摳老公)看板NTUcourse標題[評價] 108-2 劉志文 電力工程導論時間Wed Jun 24 18:19:31 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         劉志文
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機工程學系元件與電路整合系統類複選必修
+
+      δ 課程大概內容
+         2. Basic Principles
+         Phasor Representation
+         Complex Power Supplied to a One-Port
+         Conservation of Complex Power
+         Balanced Three-Phase
+         Per Phase Analysis
+         Balanced Three-Phase Power
+         3. Transmission-Line Parameters
+         Reviews of Magnetics
+         Flux Linkages of Infinite Straight Wire
+         Flux Linkages; Many-Conductor Case
+         Conductor Bundling
+         Transposition
+         Impedance of Three Phase Lines Including Ground Return
+         Reviews of Electric Fields
+         Line Capacitance
+         Determination of Line Parameters Using Tables
+         Typical Parameter Values
+         4. Transmission-Line Modeling
+         Derivation of Terminal V,I Relations
+         6. Generator Modeling I(Machine Viewpoint)
+         Classical Machine Description
+         Voltage Generation
+         Open-Circuit Voltage
+         Armature Reaction
+         Terminal Voltage
+         14. Power system stability
+         Model
+         Energy Balance
+         Linearization of Swing Equation
+         Solution of Nonlinear Swing Equation
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+         ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+         Power System Analysis 2e, Arthur R. Bergen, Vijay Vittal
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片
+      σ 評分方式(給分甜嗎？是紮實分？)
+         期中考50%
+         期末考50%
+         很甜...
+      ρ 考題型式、作業方式
+         期中考出課本後面習題，數字沒改，開書考且可以使用網路
+         期末則是有改部分數字，一樣開書可用網路
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         一開始是說老師不太想加簽，不過後來人工全簽拿給老師還是會簽就是了XD
+
+      Ψ 總結
+         第一次修老師的課是大二上的線代，老師的教學理念是不要為難同學，所以考題
+         都會出得很平易近人，老實說這門課的內容是有難度的，但因為班上有很多差這
+         門才能畢業或是上學期有收到21警告的同學，所以老師才都出習題，雖然老師的
+         口才不是很好，但是我自己下課去問上課不懂的地方的時候，老師的講解都很清
+         楚，考前也很願意跟同學討論。
+         劉志文老師是我在電機系上最尊敬的老師，並不是因為他的講課有多高明，而是
+         他上課常常會提及他與他身邊發生的的故事和人生觀，雖然會占用到上課時間，
+         但我認為他是真的為了學生好才分享他自己的經驗來鼓勵大家，老師傳達的是比
+         課程內容更為重要的東西。
+
+--
+A person can only murder another once. The act of murder is giving up
+the humanity that is within oneself. What is left is just emptiness. You can not
+lose humanity if it is already lost. The act of murder turns into the act of
+slaughter. They are two different things.—Ryougi Shiki《A Study in Murder》
+https://imgur.com/cq2YDbl
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.165.107.209 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1592993997.A.273.html
+推 cuteSquirrel: 推 06/24 18:25
+推 unmolk: 推志文 佛心教授 06/24 19:33
+推 NTUmaki: 推志文 可愛的教授 06/26 13:29

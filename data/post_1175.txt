@@ -1,0 +1,178 @@
+作者NTUFD5thpres (嘴賤海豹君)看板NTUcourse標題f時間Thu Jan 17 13:37:42 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        溫政彥
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        材料科學與工程學系/必修
+
+      δ 課程大概內容
+
+        Crystal structure: lattice, unit cell, and basis
+        Lattice plane, Miller indices, and two dimensional point groups
+        Crystallographic point groups
+        Plane groups and the International Tables
+        Space symmetry and space groups
+        ----------QUIZ1----------
+        Reciprocal lattice and Fourier transform
+        Convolution theorem and properties of X-ray
+        Plane waves and interference of waves
+        Wave interferences, Bragg's law, and Laue equations
+        The Ewald construction and diffraction methods- rotating crystal; Laue
+ d
+        Diffraction methods- powder diffraction; transmission electron microsc
+op
+        Electron diffraction. The principle of diffractoin
+        ----------QUIZ2----------
+        Diffraction intensity I
+        Diffraction intensity II
+        ----------FINAL----------
+        （以上資料來自CEIBA）
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Element of X-ray Diffraction by Cullity and Stock
+        老師上課也會發講義
+        課本其實不用買，老師有講到的部分會把課本放到CEIBA
+        上課很多板書，可以準備幾張筆記紙
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        以板書為主，有些圖片或表也會用投影片
+        發的講義就是投影片的內容
+        上課筆記不少，因此只抄在講義上應該是完全不夠用
+        可以多準備幾張筆記紙抄筆記
+        有問題下課都可以去問老師，老師很樂意解答
+        老師的聲音有時候會有點小或不清楚
+        雖然慢慢邁入學期中後有顯著的改善
+        但還是建議可以坐在前面一點的位置
+        老師講課邏輯很清晰
+        所以其實課堂的內容很容易理解
+        另外每學期會有三、四次的助教課
+        時間會在晚上
+        內容就看助教準備了什麼
+        通常是把上課比較難的觀念再重新講
+        如果有作業的話也會大概講作業的內容
+        甚至不小心把作業的答案講解完XD
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        Homework 25%
+        Quiz 1 20%
+        Quiz 2 20%
+        Final Exam 25%
+        Final Project Report 10%
+
+        紮實分，不過我覺得分數不難拿
+        Homework跟同學對個答案，每次至少也能拿90分以上
+        Quiz 1的範圍到Plane group
+        考題不會很難，滿分超過一百分，班平均90
+        Quiz 2的難度就三級跳了
+        班平均只剩下60
+        Final Exam還不知道平均，等等閱卷問助教
+        不過個人覺得難度不高
+        我想老師應該是有考量兩次期中大家的成績來出考題
+        Final Project還沒到deadline所以也不知道
+        聽去年修課的同學說有做出結果就是90起跳
+
+      ρ 考題型式、作業方式
+
+        第一次期中考point group和plane group
+        考題大部分是要會看
+        比方說會發下某個東西要判斷它的point group
+        另外因為第一次期中考原訂時間正在WS
+        因此考試延後一週XD
+        老師還要大家幫紅襪加油XD
+        考題裡面也出現了棒球的point group
+        另外加分題也有可能會考space group的international tables
+
+        第二次期中考難度真的有點高QQ
+        因為考太爛所以題目記得不多
+        只記得作業都會寫Ewald sphere都會做
+        但考試就是什麼都寫不出來
+        而且考試期間我旁邊同學一直跟助教要量角器
+        然而助教沒有，考試也用不到
+        我卻被他三番兩次要量角器嚴重影響QQ
+        不過我倒是有個第二次期中的小技巧
+        只要解不出來就說沒有任何繞射產生
+        這樣答對的機率大概有一半吧XD
+
+        期末考難度又降了回來
+        考的是簡單的觀念，以及structure factor的計算
+        只要筆記有讀熟的話
+        考80分以上並不難
+
+        每學期有五次作業
+        這學期因為課程進度的關係
+        所以第五次作業不算分數
+        每次作業都不是那種代代公式就能解決的題目
+        都需要花時間思考或討論
+        不過寫完作業也能讓上課的觀念更清晰具體
+        所以我認為作業也是很必要的
+
+        期末報告是要用電腦模擬Laue diffraction的結果
+        如果認真寫
+        且有一點程式設計的背景的話
+        大概一到兩天就可以寫完程式
+        三天內就可以趕完報告了
+        強者我同學期末考完沒幾天就出國玩了
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        出席率不重視
+        但是不來真的滿虧的
+        老師講的內容很好、很清晰
+        少一堂虧一堂
+        另外因為時段是在禮拜五下午
+        加上老師的聲音又沒有那麼有穿透力
+        因此建議可以睡飽再來上課
+        免得睡著漏聽重要內容
+        基礎應該是一點點Fourier Transform和晶格的觀念吧
+        不過沒有應該也沒關係
+        Fourier transform老師和助教會簡單的再講一次
+        晶格的觀念也會快速複習
+        不過至少積分勢必需要會的
+        加簽不知道耶，因為是必修
+        另外這學期也許是因為某僑生的關係
+        課程進度有點慢
+        所以滿常會上四節課的
+        體力上負荷滿大的XD
+
+      Ψ 總結
+
+        我認為這是材料系最重要的必修課之一
+        許多以前沒有搞懂的觀念都在繞射時才搞懂
+        有些人認為繞射可以在大一或大二修
+        我認為如果在其他課負擔不大的情況下可以
+        但可惜材料大一大二似乎沒有這樣的條件
+        整體而言我認為這門課雖然負擔不輕
+        但真的能學到很多觀念
+
+        另外上課還有一個樂趣是看老師的T-shirt
+        老師有很多滿有趣的T-shirt
+        比方說上面畫了酒精的分子並寫著Cheer!
+        或是"Think like a proton: always stay positive."之類的
+        老師說他還有一件neutron的，專門穿去酒吧
+        希望可以charge free XD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.217.75
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1547703465.A.8A9.html
+噓 willson2000: 標題01/17 13:38
+※ 編輯: NTUFD5thpres (140.112.217.75), 01/17/2019 13:40:01
+※ 編輯: NTUFD5thpres (140.112.217.75), 01/17/2019 13:40:40
+推 john556556: 原po還算中肯給推 01/17 19:36
+推 lalalalayah: 推原po的評價文都很真心沒有反串 01/17 21:48
+推 a7220626: 僑生笑死 01/17 23:02

@@ -1,0 +1,116 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 110-2 盧信銘 系統分析與設計時間Sat Jun 18 01:41:38 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+110-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+盧信銘
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+資管系大三必修
+
+      δ 課程大概內容
+
+節錄自 syllabus:
+Course Description
+Systems analysis and design (SA&D) deal with planning and managing the develop-
+ment of information systems through understanding and specifying what a system
+should do and how the components of the systems should be implemented.
+System analysts solve business problems by analyzing information systems' requ-
+irements and designing such systems by applying analysis and design techniques.
+This course deals with system analysts' concepts, skills, methodologies, techn-
+iques, tools, and perspectives.
+
+Course Objective
+This course covers critical concepts and tools for SA&D, including
+‧ Introducing agile and plan-driven approaches for system development.
+‧ Understanding key business opportunities via visioning and business-process
+modeling using UML activity diagrams.
+‧ Deriving a domain model using entity-relationship diagrams.
+‧ Introducing the creation of user stories and initial user interface modeling
+using mockups in the context of the stories.
+‧ Understanding how to select project approaches.
+‧ Exploring the issues of selecting a construction versus configuration
+approach.
+‧ Explaining how to construct, manage, and evaluate construction iterations
+(springs) via burndown charts, retrospectives, and status reports.
+
+Course Requirements
+This course emphasizes heavily on student participation. About 50% of the week-
+ly course meeting time will be group-based in-class activities. Students must
+actively participate in these activities to gain hands-on experiences for esse-
+ntial concepts and tools. Students must also participate in a term project that
+includes two presentations and submit selected documents and source code at the
+end of the semester.
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+學到東西：★★★☆
+網頁高手：★★★★★
+喜歡很像小學的小組團康：★★★★☆
+私心：★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+SYSTEMS ANALYSIS & DESIGN in an Age of Options, by Gary Spurrier and Heikki
+Topi, Prospect Press, 2021
+（超新出版但超貴，網路上根本找不到能用的pdf，重點是不買還不行，因為作業會要求你
+用課本內的名詞來作答...）
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+兩節課老師講課，最後一節課會做一些 in-class activity，可能是畫一些流程圖，或是
+需求設定等等。這些活動通常都是團隊活動，所以有幾個認識的人在班上會比較好，不然
+就得找其他人一起討論，也不是壞事就是了。
+看得出來老師很用心在準備這門課，也很有熱忱希望把這門課教好，讓學生學到系統分析
+與設計的...知識？觀念？但整體課程內容覺得偏雜，很多很耗時間的小活動，而且什麼都
+得碰，從畫 figma, ER diagram, 到寫 selenium，在 minecraft 蓋房子都有，其實滿花
+時間的。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+The course grades will be determined by the following percentages:
+Homework 12%
+Attendance, participation & quizzes 35%
+Term project (Milestone 1: Initial Project Vision) 5%
+Term project (Milestone 2: Initial Prototype) 20%
+Term project (Milestone 3: Final Presentation) 20%
+Term project (Milestone 4: Selective Documentation) 8%
+Total 100%
+Note: When deemed necessary by the instructor, the final score may be
+adjusted using a curve.
+
+主要的分數都來自課堂參與和 Term project。課堂參與的部分不要太常翹課的話應該都可
+以拿滿那部份的分數，term project 的各個 milestone 都有不同的配分方式，但 miles-
+tone 1 and 4 應該都可以拿滿，2 and 3 有組內、組間跟老師的評分，平均應該落在 80
+上下，所以拿到 A/A+ 應該不難。
+
+      ρ 考題型式、作業方式
+
+作業一二是用課本的名詞跟知識回答一些個案問題、作業三是實作 figma、作業四也是跟
+個案有關的東西。In-class activity 就如同上述所提及，很多不同的活動，想認真投入
+的人應該會覺得滿有趣的（嗎？）
+沒有考試。Term project 就是分組做一個符合商業邏輯，有完整開發跟 test 的專案。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+基礎：寫網頁或ＡＰＰ，或是隊友很會寫網頁跟ＡＰＰ。
+
+      Ψ 總結
+
+之前跟畢業進業界的學長姐聊天，尤其有幾個自行創業，他們都說對系上課程有印象而且
+在未來用比較多的都是這門課的內容，所以對於未來想當ＰＭ或是軟體工程師的人也許這
+門課是很有用的，我也能感受到老師很用心在準備，但就不太合我的口味。另外資管系不
+少課都進入大網頁時代，修之前可能得先確定自己會寫網頁或者真的喜歡寫網頁，不然你
+或你的某個隊友可能會變成十萬JS十萬肝＝＝
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.73.104 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1655487700.A.ED2.html
+推 hippo130: 推推 06/18 17:13

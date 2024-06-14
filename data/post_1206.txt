@@ -1,0 +1,105 @@
+作者jacky00dd (jacky00dd)看板NTUcourse標題[評價] 107-1 裴思達 粒子物理學導論時間Wed Jan  9 17:27:41 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+      裴思達
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        物理系選修/ 英文授課
+
+        本魯物理系大三， 大二修過力學、電磁、量子物理就來修粒物導，
+        基本上這門課入門要求不會太高，
+        大概知道Lagragian物理意義和看懂簡單微積分符號就可以來修了
+
+      δ 課程大概內容
+
+        1. Operators/ Fields/ Quantum Mechanics
+        2. Particle in Standard Model (SM) / spin 1/2
+        3. Dirac Equation/ Particles and anti-Particles
+        4. Introduction to Lie Group/ Angular Momentum
+        5. Harmonics Oscillator/ Lagrangians
+        6. Interaction
+        7. Particle Interations and Gauge Theories
+        8. Spontaneous Symmetry Breaking (SSB)/ Goldstones
+        9. The Higgs Mechanism and the SM
+        10. Quarks and Glouns
+        11. QCD/ Confinement/ Chiral Symmetry
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+       ★★★★★
+
+
+      η 上課用書(影印講義或是指定教科書)
+
+        - Introduction to the Standard Model of Particle Physics (S.Paganis 119 typed
+          pages).
+        - Lecture notes in PDF format (handwritten).
+        - Modern Particle Physics (Mark Thomson, Cambridge)
+        - An Introduction to Particle Physics and the SM (Robert Mann)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        板書，課前老師會先發講義，上課主要就是帶講義的內容。
+        一開始會先帶量子力學的基本知識，
+        像是 Stern-Gerlach Experiment, spin, Orbital Angular Momentum, lie group,
+        基本上這邊老師會做量力課本上的簡單算術，但老師當初教這時我其實沒很懂，
+        量力學到Rotation才知道他在幹麻,
+        之後會教Klein-Gordon 和 Dirac Equation，Chiral 和 anti-Particles 就跑出來了。
+        接著老師會複習Lagrangian，讓你大概知道 symmetry 和 conservation law 。
+        接著，這門課的精華就來了，gauge invariance 和 SSB,
+        老師會讓你知道photon 其實是gauge invariance下的產物,
+        SSB 與 Higgs Mechanism 則賦予基本粒子(fermions 和 gauge bosons) 質量，
+        最後會帶電弱和色動力學,
+        大概會讓你知道電弱SSB會剩電荷守恆和色動力學中color的confinement, WZ bosons 和 glouns~
+
+        老師上課還蠻簡潔的，他會用簡單的例子來讓你來瞭解物理概念，
+        上課講到重點老師還會很興奮, 一直跟我們說 " This is the beauty of physics " ，
+        每堂課的結束時老師會說 " What's the point " 來做總結，因為他知道我們聽不懂XD
+        缺點的話大概是這門課3小時，會2小時才下課，又是下午，一定要睡飽再來！！！
+        另外，老師上課會聽不懂是很正常的，我常常跟旁邊同學一臉矇B QQ
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        分數擺在那裡送你
+
+      ρ 考題型式、作業方式
+
+        Midterm 30 %  考前老師會發去年考古，基本上會一半以上跟去年一樣
+        Final   70 %  take home, 主要是看影片回答問題
+
+        感覺老師好像把期中期末當作教學的一環，
+        你可以從寫這些考題獲得很多額外的知識，
+        像期末老師就讓你看若baryon＃不守恆，那SM怎麼辦?
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        不點名、都簽
+
+        另外老師是好人，最好那種，
+        教考卷前一小時，本魯發現期末考卷不小心回收掉了，
+        但老師說沒關係還讓我慢慢寫，真的是好人
+
+      Ψ 總結
+
+        這門課就一門導論來說，我是真的學到很多，
+        雖然還是不太知道field是啥和費曼圖怎畫，
+        但對標準模型的架構大概有了認識，
+        但若你是想要紮實學好量子場論的話，不建議你來修~
+
+        (第一次發文，格式怪怪的請見諒XD)
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.12.67.249
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1547026064.A.61A.html
+推 therr: 帥 01/10 12:57
+推 ted21019: 帥 01/11 10:58
+推 m24639297: 強 01/14 00:17

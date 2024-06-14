@@ -1,0 +1,123 @@
+作者momo04282000 (Momo超人)看板NTUcourse標題[評價] 107-2 莊武諺 線性代數二時間Fri Jun 14 02:50:09 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+          107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+          莊武諺老師
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+          數學系大一必修
+
+      δ 課程大概內容
+          從Ceiba上抄下來
+           1. Dual Space (2.6)
+           2. Quotient Space
+           3. Inner Product Space (6.1)
+           4. Gram-Schmidt process (6.2)
+           5. Orthogoanl Projection
+           6. Hilbert Space+Riesz Representaion Theorem
+           7. Adjoint of linear transformations (6.3)
+           8. Normal&self-adjoint operators (6.4)
+           9. Orthogonal&unitary operators (6.5
+           10. Spectral Theorem (6.6)
+           11. Simultaneous diagonaliztion
+
+       -----------------------Midterm--------------------
+
+           12. Singular Value Decomposition+Polar Decomposition (6.7)
+           13. Pseudo inverse (6.7)
+           14. Bilinear form+Quadratic form (6.8)
+           15. Quadratic Space
+           16. Witt Decomposition Theorem+Witt Calcellation Theorem
+           17. Cartan-Dieudonne Theorem
+           18. Bezoutians&Resultants
+           19. Bezout Theorem
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+           超過5顆星
+
+      η 上課用書(影印講義或是指定教科書)
+           指定教科書Linear Algebra 4th (FIS)
+           +Hoffman Quotient Space的講義
+           +Universal Property of Quotient Space的講義
+           +Infinite Dimensional Vector Space的講義
+           +Hilbert Space-Riesz Representation Thm的講義
+           +Clark&Lam 有關Quadratic Space的講義
+           +Bezoutian&Resultant的講義
+           +齊震宇老師&Kirwan有關Bezout Thm的講義
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+           基本上和上學期一樣，純板書
+           個人覺得老師的上課筆記還是非常的完整且整齊
+           而且在講解的部份變得清楚很多(比較好follow的感覺)
+
+           然後不知道為什麼 老師在這學期從第一次小考就開始會「提醒」大家
+           練習一些題目(一開始比較不明顯，就是上到一個段落
+           會帶大家練習一個習題，之後有時候會在下課前說大家可以練習一下
+           課本的X.X.X，啊為什麼要練習就自己想一下，也會明講說
+           那小考(期中考)我們應該會考一下...
+           非常的...貼心?(第三次小考照他說的原汁原味出出來)
+
+           值得一提的是老師這學期講出蠻多有趣的話
+           像是剛開學第一節課為了勸退而講出蠻多好笑的話
+           (沒有語錄所以幾乎都忘光了)
+
+           然後大家這學期變乖了(?
+           我印象中沒有出現老師因為有人講話而停下來問「有什麼問題嗎?」的狀況
+           倒是好像有一次外面太吵，老師直接走出去
+           跟他們說:「你們知道這邊在上課嗎?」
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+           20%作業 20%小考(4次)
+           30%期中考(滿分110) 30%期末考(滿分115)
+           分數超過的就當送給你(真的有些人會考破百)
+
+           這學期等第換算標準如下:
+           T為照上述算法的總成績
+           T<40      F
+           40≦T<50  C-
+           50≦T<56  C
+           56≦T<62  C+
+           62≦T<68  B-
+           68≦T<74  B
+           74≦T<80  B+
+           80≦T<86  A-
+           86≦T<92  A
+           92≦T     A+
+
+           基本上除了A以上的等第都比臺大的換算標準低一些
+           今天去領考卷的時候老師看了一下手上的成績單還對我說
+           欸你差一點點往上一個grade耶，我幫你加上去好了 (差0.7分)
+           驚訝得只能說謝謝老師 (羞)
+      ρ 考題型式、作業方式
+           基本上全部都是證明題(期末有一題SVD分解的計算)
+           老師人很好 基本分給得非常多(小考、作業、上課證過的東西)
+           (期中有70分左右，期末則是全部，只有一些題目有小小變化)
+           詳見考古題版
+
+           作業的話老師會放練習題在Ceiba上，並由助教決定怎麼出
+           (但基本上會有些調整，我兩學期都是被往下調)
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+           不點名不管出席
+           基礎的話...老師上學期的線代一(但原則上主要需要FIS 1~5章的基礎)
+           加簽的部份沒有特別注意但下學期人數沒有到爆表應該簽的到
+
+      Ψ 總結
+           超級推 推到爆
+           老師看起來可能有點嚴肅但人真的很好
+           (只是我還是不太敢找老師講話或問問題QQ)
+           可惜數學系的必修課不太會連續同一位老師教 而且聽說老師明年不開課:(
+           但明年的線代聽說是今年我們的微積分課余老師，也很推^ ^
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.240.53 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1560451811.A.05F.html
+※ 編輯: momo04282000 (140.112.240.53 臺灣), 06/14/2019 02:51:34
+※ 編輯: momo04282000 (140.112.240.53 臺灣), 06/18/2019 23:42:55
+※ 編輯: momo04282000 (140.112.240.53 臺灣), 06/19/2019 14:43:13

@@ -1,0 +1,153 @@
+作者alexunxus (tangent)看板NTUcourse標題[評價] 104全 陳義裕 電磁學上下時間Thu Jul 28 01:15:16 2016
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：no
+
+
+      哪一學年度修課：
+104
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+陳義裕教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+物理系大二 需要向量微積分，微分方程
+      δ 課程大概內容
+
+1. Some preliminary math
+How to generalize the fundamental theorem of calculus in higher dimension?
+Gradient, divergence, curl, and the -operator
+In curvilinear coordinates
+Some vector identities and integrability criteria
+Dirac’s delta function
+Inner product of functions and Fourier transform
+Helmholtz theorem
+
+2. Electrostatics
+Coulomb’s law
+Gauss’s law
+Poisson’s equation and Laplace’s equation
+Boundary conditions
+Work and energy in electrostatics
+Conductors and capacitors
+
+3. Solving Laplace’s equation
+Uniqueness of solution
+The method of images
+Separation of variables
+Using complex variables
+Multipole expansion
+Averaging property of the Laplacian, and numerical solution
+
+4. Electric Fields in Matter
+Polarization
+The D-field and boundary conditions
+Energy
+
+5. Magnetostatics
+The Lorentz force law
+Biot-Savart law
+Ampere’s law
+The magnetic vector potential
+
+6. Magnetic Fields in Matter
+Torque and force on a magnetic dipole
+Magnetization
+The H-field and boundary conditions
+
+7. Electrodynamics
+Motional emf
+Faraday’s law
+Inductance
+Energy in magnetic fields
+Fixing Ampere’s law
+Maxwell’s equations
+Maxwell’s equations in matter
+The boundary conditions
+
+8. Conservation Law
+The continuity equation for electric charges
+Poynting’s theorem
+Newton’s third law in electrodynamics
+Momentum and Maxwell’s stress tensor
+Conservation of momentum and angular momentum
+
+9. Electromagnetic Waves
+EM waves in vacuum- the wave equation
+EM waves in matter
+Reflection and transmission at an arbitrary angle of incidence
+Absorption and dispersion
+Physical origin of the index of refraction
+Guided waves
+
+10. Potentials and Fields
+Working it out in terms of 4-potentials
+Retarded potentials
+Lienard-Wiechert potentials for a point charge
+The fields for a moving point charge
+
+11. Radiation
+Dipole radiation
+Rayleigh scattering, and earth’s blue sky
+Point charge radiation
+Radiation reaction
+
+12. Electrodynamics and Relativity
+Re-examining the concept of space and time
+The Lorentz transformation
+The concept of spacetime
+Relativistic mechanics
+How EM fields transform
+Magnetism as a relativistic phenomenon
+      Ω 私心推薦指數(以五分計) ★★★★★
+五星以上 爆表
+義裕的課都推 哈哈
+      η 上課用書(影印講義或是指定教科書)
+David Griffiths, Introduction to Electrodynamics, 4th Ed.
+相對論那邊有用到Purcell
+      μ 上課方式(投影片、團體討論、老師教學風格)
+憑著驚人的記憶力與統整力把各種教科書的內容整合後板書上課。基本上不會帶著課本
+進教室，因為在進教室前他就備好課了。
+
+老師前半上課的內容都是整合Griffith, 各種應用數學, Purcell, David Jackson的內
+容設計的，你不會說看到一本書能夠概括他所有講解的內容，可以說老師的教學經驗非
+常豐富。老師的線性代數、應用數學部分非常厲害，可以說有數學系的等級，上課會用
+一些數學的方法來證明物理（像是用線性代數的方法證明laplace equation給訂
+boundary condition有解且解唯一），想懂了之後都覺得神妙、豁然開朗。
+
+老師在講解物理概念之前會先給你一個overview然後給你一些motivation，最後再用
+dirty trick來證明一些定理。個人覺得YYC的課每分每刻都充滿著驚奇。
+
+雖然老師用的課本是Griffith，但是上課的架構並非跟著Griffith走。老師先從基本的
+Vector Calculus講起，然後提到一些之後會用到的theorem, fourier transform,
+delta function，並講解他們背後的物理意義與數學規範;然後開始講靜電學、解Laplace
+equation，上學期大概只講到electric field in matter.然後下學期直接從相對論的角
+度切入，從相對論證明電與磁是座標轉換下的產物，之後才進到磁場。在磁場之後的章節
+基本上照著課本講，因為快講不完了。最後是停在radiation的章節。
+
+σ 評分方式(給分甜嗎？是紮實分？)
+甜。因為作業佔35%，有寫基本上有分，期中期末其實都不會刁難，像我自己四次考試最
+低也就93。只有上學期期末Green's Reciprocity Theorem最後一小題很難，其他
+的都不難。不過其實好像不用太拼，期中期末有80幾就會A+了，我不太確定老師有沒有
+再調分，因為老師給成績真的是沒在客氣的（看他廣相調分調成那樣就知道了）。
+
+      ρ 考題型式、作業方式
+基本上不會考超過上課的內容，大多是證明題，比較難的證明他會先在前面用一個小題
+來提示你怎麼做，所以只要跟著考卷的脈絡去做基本上都做得出來。下學期有從Griffith
+抽題目出來考，不過也都是從作業。唯一一次例外就是上學期學期末考的Green's
+Reciprocity theorem。
+
+上學期的作業有不少部分是老師自己出的題目，都很有意思，不過好像因為有人去和助
+教argue作業分數最後吵架了，所以後來老師都直接勾課本的習題。個人覺得這非常可惜
+，因為YYC的作業都蠻有鑑別度的，想出來也會覺得有學到東西、很開心，失去了這樣的
+學習機會真的是很遺憾。
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不重視出席率。
+      Ψ 總結
+YYC的課是我這一年除量力、古電修過覺得學到最多的課，雖然老師的進度有點慢，但是
+每個細節都講得非常清楚而且授課的內容都是有經過統合、反芻過的，我覺得這才是真
+正的物理教育該有的水準。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.34.40
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1469639718.A.F39.html
+推 fasteddy: 其實是Griffiths.... 08/02 22:35
+推 joshua7312: YYC必推！認真又有趣的老師！ 08/03 00:22

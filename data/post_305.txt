@@ -1,0 +1,129 @@
+作者RedArmy95 (阿里山下智久)看板NTUcourse標題[評價] 109-2 莊裕澤 分散式系統與雲端應用開發時間Wed Jul  7 01:09:25 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：否
+
+
+      哪一學年度修課：
+
+        109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        莊裕澤
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        資管系/所選修
+
+      δ 課程大概內容
+
+        本課程目標在提供學生分散式系統與雲端應用服務開發所需要的基礎理論知識與實務技能
+。課程的內容從分散式系統的基本知識開始，到GFS, Hadoop, MapReduce大型分散式儲存
+系統與運算架構，及中介軟體 (middleware)、虛擬化概念 (virtualization)等大型分散
+式系統常用的開發軟體與平台，再到Docker containers, Kubernetes, Amazon ECS
+&EKS 等目前雲端應用服務常用的開發、部署、擴充和管理工具。課程亦將邀請業界專家
+來協助授課，包括工具的使用及分享實務開發的經驗，讓學校的課程可以直接介接到業界
+的實務需求。
+
+        Syllubus太長了就不貼了，具體內容下面再說。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        ★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Distributed Systems: Concepts and Design 5th Ed., C. Coulouris et al.,
+5th ed., 2011.
+
+        不過基本上不需要買，老師都整理成投影片了。
+        但只有前半是用課本，中間幾堂上paper，下半則是請講師。
+
+        Paper包含：
+        1. Dynamo: amazon's highly available key-value store, ACM SIGOPS Operating
+Systems ReviewOctober 2007.
+        2. The hadoop distributed file system: Architecture and design, D. Borthakur,
+2007
+        3. The Hadoop Distributed File System, K. Shvachko, H. Kuang, S Radia, R.
+Chansler, IEEE MSST 2010
+        4. The Google File System, Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung,
+ACM SOSP 2003
+        5. Ceph: a scalable, high-performance distributed file system, S. A. Weil, et
+al., OSDI 2006.
+        6. RADOS: a scalable, reliable storage service for petabyte-scale storage
+clusters, S. A. Weil, et al., PDSW 2007
+        7. CRUSH Controlled, Scalable, Decentralized Placement of Replicated Data, S. A.
+Weil, et al., SC2006
+        8. The Chubby lock service for loosely-coupled distributed systems, M. Burrows,
+OSDI 2006.
+        9. Bigtable: A Distributed Storage System for Structured Data, F. Chang, et al.,
+ACMTOCS 2008.
+        一堂課大概會講到3份。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        傳統授課，一開始在管一一間很小的教室，後來因為人太多改到管二。
+
+        如上所述，一開始老師會講課本的理論，到學期快一半時會開始上paper，老師
+會希望大家先回去閱讀paper，上課再來討論，然後期中考後是講師來教實務上的操作
+（Docker、AWS、GCP等等），疫情爆發後改用cyberlink umeeting遠端上課。
+
+        不點名，不過個人還是滿推薦去上課的。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        30% 作業
+        30% 期中考
+        40% Term Project
+
+        個人認為不算涼也不甜，但也不到硬就是了，最後大家成績大概是從B-到A+的
+uniform distribution。
+
+      ρ 考題型式、作業方式
+
+        期中考前無作業，期中考後每個講師在下課後會出一份作業，難度不高，很多都
+是照著指示在雲端平台上操作，然後截圖上傳，基本可以全拿。
+
+        期中考為問答題，包含老師講過的所有課本及paper，考法大概是寫出某某演算法
+、或是描述CEPH、GFS的大致架構之類的。個人覺得不容易拿高分，雖
+然老師題目沒有出很難，但範圍真的是有點大，班平均最後57，題外話原本助教改得比較
+鬆，結果老師收回去之後重改，小弟分數直接降了快20分...
+
+        Term Project部分基本上老師要求的都有做到就是85起跳，倒是滿好拿的。大
+致是要做一個部署在雲端平台上的服務，需要用到K8S、雲端儲存，且有loadbalance功能
+，然後demo要包含壓力測試。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        基礎個人認為對網路要有一定程度的認識（TCP之類的），演算法與資結不
+用說，個人覺得這門課前半課本的部分跟資管系的網路和資料庫重疊還滿多的。
+
+        然後中間的論文部分loading可能有點多，我們當初是組了讀書會一起整理重點
+除此之外由於這幾篇paper都滿有名的，網路上筆記、翻譯等資源都不少。
+
+        最後也建議要修之前要確保你或你的組員有人會寫前後端，可以在term project
+省去大量的時間，docker和k8s倒是不用擔心，個人認為講師講得很清楚，課後查點資料
+很快就能把寫好的東西部署上去。
+
+      Ψ 總結
+
+        這門課的課名每次都會講到讓人舌頭打結，長到超過PTT標題限制。原課名
+為：「分散式系統與雲端應用開發實務」，實務兩個字被切掉了。
+
+        這是老師第一年開這門課，也是我第一次修老莊的課，雖然老師在資管系外號
+莊大刀，但由於Docker、K8S在業界似乎很紅，加上台大幾乎沒有課在教，所以還是
+硬著頭皮來修，沒想到老師其實滿nice的，上課也是跟大家有說有笑，最後也完全沒當
+人。
+
+        整體來說是一門相當不錯，學得到實務技能的選修，不過如果想顧成績的話可以
+考慮一下，老師給分相當紮實。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.242.120.177 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625591367.A.7F7.html
+※ 編輯: RedArmy95 (111.242.120.177 臺灣), 07/07/2021 01:14:10
+推 shishe: 推 07/07 09:35
+推 rumrumrum: 感覺很有趣 07/07 15:32
+※ 編輯: RedArmy95 (111.242.120.177 臺灣), 07/07/2021 17:17:47
+推 rrro: 推莊老師！ 07/08 21:59

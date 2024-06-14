@@ -1,0 +1,158 @@
+作者oopzzozzo (π)看板NTUcourse標題[評價] 107-2 陳偉松 數理邏輯簡介時間Sun Aug 16 22:51:25 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+        107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        陳偉松
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工所選修
+
+      δ 課程大概內容
+        摘自課程網：
+        Lesson 1. Preliminaries
+        Lesson 2. Compactness theorem for propositional calculus
+        Lesson 3. Proof system in propositional calculus
+        Lesson 4. Completeness of propositional calculus
+        Lesson 5. First-order logic (FO) part I
+        Lesson 6. First-order logic (FO) part II
+        Lesson 7. Logical consequences and theories
+        Lesson 8. Proof system in FO
+        Lesson 9. Gödel's completeness theorem
+        Lesson 10. Löwenheim-Skolem theorem and categorical sets
+        Lesson 11. Gödel's incompleteness theorem part. I
+        Lesson 12. Gödel's incompleteness theorem part. II
+        Lesson 13. Decision problems in FO
+        Lesson 14. Some topics in logic in computer science
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+        課程網上會有每章講議，老師也是看著它教課。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        老師板書，英文授課，板書大概是我戴了眼鏡感覺像沒戴一樣XD
+        基本上就是有條有理的把定義、推導做一遍，曾課上著就說應該叫大家自己看。
+        遇到同學表示不懂或看起來不懂的地方就會停下來或重新再講一次。
+        時常會噴出有趣的話，例如：
+        2019.2.18 Course Info
+        Who likes 2:20? (silent) No one likes 2:20. Let's make it 2:30. (laughter) Or 2:00? 2:00 is even better, I can go home earlier.
+        2019.2.18 Course Info
+        No course on April first. Okay everyone is happy.
+        2019.2.18 Space
+        I will give you a format for your homework. If you want to write by hand, you can print it out, I will give you space. If you use more than the space, then your answer is wrong.
+        2019.2.18 Know something by hard
+        You know how to know something by hard right? Suppose somebody wakes you up at midnight, "what is countable sets?", "Let N be the set of natural numbers......" something like that Okay?
+        2019.2.25 Logical consequences
+        If you want to show this and don't know how to show this, show this. If you want to show this and don't know how to show this, show this. If you want to show this and don't know how to show both, well, good luck. If you don't know how to show both, then, ask your friend.
+        2019.3.4 Proof
+        Sometimes I write a proof, I think it's a good proof and I submit it to my teacher. But the teacher says that this is not a proof it is nonsense. And my friend who wrote something that I think is nonsense, got full credits. This always happens, what is a proof?
+        2019.3.4 ~(a * ~b)
+        What is your reaction to this? If you write this in your homework my reaction is "I want to mark this wrong," so I don't need to read it.
+        2019.3.4 Experts
+        Some experts are very expert. They think that everything is the same.
+        2019.3.3 Homework
+        Being a teacher is good if you don't know, then homework!
+        2019.3.11 Claim
+        If you don't know how to prove, write "claim". Though you don't know how to prove at least you write something, and you feel confident.
+        2019.3.11 Computer science
+        Maybe someday you are super smart and learn some sophisticated mathematics. It might say something would be true only with the axiom of choice. For me, I stop at countable. But this is okay, for computer science.
+        Okay, all that we have done is good. We have used sophisticated things as Zorn's lemma.
+        2019.3.18 Philosopher's talk
+        Who has class on Friday? It's okay if you have class on Friday. But in May, May 10. There will be a talk about logic, at 104. A philosopher, I don't know philosophers, but I am hosting the talk. It's about logic.
+        2019.3.18 VAR
+        VAR stands for "variable". If you watch football VAR stands for Video Assistant Referee.
+        2019.3.18 Definition
+        For this week and next week, there are no theorems only definitions. Two years ago, someone said that logic is boring, there are only definitions. What can I do about that?
+        2019.3.25 Equi-satisfiable
+        This his hard. (?) Because it is a trick. (?) Well, in computer science it is useless. How can you introduce a function?
+        2019.3.25 Wake-up
+        I suppose you take this course because you are interested, so I tell you a story to wake you up.
+        2019.4.8 Embarrass
+        Just to make sure you know because if you pass this class and someone asks you and you don't know. It is embarrassing, for me.
+        2019.4.8 Incompleteness
+        Completeness theorem is for proof systems, Incompleteness theorem is for theories. Even if you don't understand, you can show off to your friend.
+        2019.4.15 Proof system
+        These five rules are rules of propositional logic. We use it in our everyday, proof, not everyday life. Maybe everyday life.
+        2019.4.15 Hard
+        Who finds the homework hard? (someone raises its hand) Ah~ someone finds it hard, is the English hard? Or the logic hard?
+        2019.4.15 Grow a tree 
+        When you take linear algebra, you don't grow a tree.
+        2019.4.15 Logician
+        Logicians like this kind of proof, everything is from definitions. Frankly speaking, I like this kind of proof.
+        2019.4.29 Nothing
+        The course itself contains nothing. Not nothing, everything is elementary
+        2019.4.29 Alaph
+        Alaph is Hebrew, in Hebrew, they write from right to left like ancient Chinese. Why, because in the old-time people write with a hammer, and our right hand is stronger. Today, we write with ink, so we write from left to right. Some history.
+        2019.4.29 Alphabet
+        In Greek, we have alpha, beta ..., that's why we have "alphabet". Some history. I know a little more than logic.
+        2019.4.29 Y
+        Y = Z union Gamma, Why is Y satisfiable? Maybe not Y, Z.
+        2019.4.29 Skolem paradox
+        It is called a paradox because it looks like a paradox.
+        2019.5.13 Program
+        The program here can be C++, your favorite language, (?), or Java or Python.
+        2019.5.13 Assumptions
+        Sometimes you come to me and say "why my proof is not a proof and his proof is a proof". I'd say maybe you use different assumptions. When you can't prove something, you assume it. Mathematicians do this too. And Godel says that there is always something you have to assume.
+        2019.5.13 Incompleteness
+        This is Godel's Incompleteness Theorem. No Theory of everything, no bible ... For us, as a CS student, it means what it says, no philosophy meanings.
+        2019.5.13 Computers
+        A long long time ago, what do we have? Maybe we have stones. Okay, a long long time ago, we don't have computers, but we want to build computers.
+        2019.5.20 Delicate
+        Step 1, is technical, and Step 2, is delicate. You know delicate, it's short but it's confusing.
+        2019.5.20 ?
+        student: What is the intuitive meaning of Beta and gamma?
+        What can I say? well, it takes time.
+        2019.5.20 Understand
+        It takes time to understand. Even you ask me if I understand? Well, I don't know.
+        2019.5.20 Admire
+        (Shows Godel's paper by projector) I don't understand this, no one understands this, but we can admire this.
+        2019.5.27 Arithmetic hierarchy
+        (Draws the arithmetic hierarchy over half a whiteboard). For us computer scientists, computer scientists, what do we care about? (fills a fingernail size region on delta_0) We only care about this.
+        2019.5.27 Problem
+        I have a problem, I don't know what to teach next week.
+        2019.6.3 Messed up
+        Sorry, I am messed up. I am always messed up.
+        2019.6.3 hierarchy
+        As usual, hierarchy means there is, hierarchy. Level.
+        2019.6.3 Different
+        What is the difference between mathematicians and computer scientists? Mathematicians say this language is easy. What is it, it's \Sigma^0_3. A language is hard, it's  \pi^1_4. For computer scientists, NP, oh! this problem is so hard.
+        2019.6.3 Take pictures
+        You all take pictures. This makes me nervous, maybe the index is wrong.
+        2019.6.3 End of course
+        I admit that I do not teach as well as the year before, but I hope you learned something... You can do anything you want now, you know some logic. The most important thing is, do not say some nonsense about incompleteness theorem.
+      σ 評分方式(給分甜嗎？是紮實分？)
+        100% 作業，習慣準時交作業的人應該不是問題。
+        不會寫的人總有助教同學可以讓你問到自認會寫為止。
+
+      ρ 考題型式、作業方式
+        四次作業各五題。作業都像考卷般，每題配好約一頁大的空白作答區，
+        因為老師看到亂亂的格式會心情不好~
+        繳交方式相當神奇，可以上課交或是死線前塞進老師辦公室門縫。
+        作業會歸還，至少我沒看過有誰的作業上出現腳印啦。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        我不知道老師在不在意出席人數，反正不會影響成績。
+        外系的話我不確定，但我可以肯定你不需要懂中/英文語意學，也能學到邏輯。
+        如果知道「資工系的證明」標準在哪，或是你是符號大師，應該會輕鬆不少。
+        加簽好像是全簽，期末班上是 44 個人吧。
+
+      Ψ 總結
+        其實我只是畢業前想用 112ip 賺 P 幣順便清硬碟而已。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.225.211 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1597589487.A.FF5.html
+※ 編輯: oopzzozzo (140.112.225.211 臺灣), 08/16/2020 22:52:59
+※ 編輯: oopzzozzo (140.112.225.211 臺灣), 08/16/2020 22:55:29
+推 allan08: 推～這篇作者太神哈哈每堂都紀錄tony的話XD 08/17 00:37
+推 t1016d: 讀到一半想說這個語錄藏了一年再 po 也太猛了吧 XD 08/19 15:00
+推 aristoIris: 原po是語錄體大師吧... 08/19 20:58
+推 tryptochan: 修過自動機的路過給推 08/22 07:50
+→ unmolk: 語錄太猛XDDDD 08/23 05:24

@@ -1,0 +1,106 @@
+作者ndpe1220 ()看板NTUcourse標題[評價] 105-1 不可逆熱力學及其應用 楊大衍 張嘉升時間Wed Jan 18 23:58:24 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：否
+
+
+      哪一學年度修課：105-1 五234  @原分所R311
+
+      不可逆熱力學及其應用
+      Irreversible Thermodynamics and its Application in Spin Caloritronics
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         楊大衍(中研院原分所)，張嘉升教授是掛名
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         理學院  物理學研究所  222 D3410 博士班選修，但最後都是碩班來修
+
+         滿五位同學開課，最後都只有三位在上，中央物理所碩班和台大機械所碩班
+
+      δ 課程大概內容
+
+        Week1:  Introduction: Overview and History about Thermodynamics
+        Week2:  Heat, Work, Internal Energy, Temperature
+        Week3:  Ideal Gas, Specific heat and Carnot Engine
+        Week4:  Entropy and Thermodynamic Potentials
+        Week5:  Maxwell Relations, Gibbs-Helmholtz Equation
+        Week6:  Heat Engines (Rankine, Otto, Diesel, Brayton)
+        Week7:  Solution Thermodynamics (Chemical Potential, Activity)
+        Week8:  Concept of Flux: Electrical Flux and Vector Analysis
+        Week9:  Fluid Mechanics: Stress Tensor and Continuity Equation
+        Week10: Fluid Mechanics: Navier–Stokes Equations
+        Week11: --No Class--
+        Week12: Irreversible Process, Flux-Force and Phenomenological Equation
+        Week13: Fluctuation-Dissipation Theory, Balance Equations
+        Week14: Balance Equations, Thermoelectricity and its Effects 
+        Week15: General Conductivity Matrix and Spin Caloritronics
+        Week16: Statistical Thermodynamics: S = klnΩ, Partition Function
+        Week17: Statistical Thermodynamics: Ensemble and Brownian Motion
+        Week18: --No Class--
+
+        上色約3~4周部分為不可逆熱力學獨有，而其他部分可分散於其他課程所見
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         ★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+         老師前幾堂會讓我們拿隨身碟複製講義PDF，多由各課本與各論文摘錄
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         85%講義放在投影幕上講解，搭配部分板書
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         只有一份期末報告，老師過去整理數十份與 Thermoelectrics 或 Spin
+
+         Caloritronics 相關的論文，要擇一閱讀並撰寫四頁英文報告，email 寄
+
+         給老師繳交，好像就這個評分，自認沒很認真寫，但有認真上課，最後A+
+
+      ρ 考題型式、作業方式
+
+         無期中期末考，作業如上
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         基礎：
+
+         幾乎會全部複習過一遍，應該沒要很多基礎，但老師講法有點難懂(鬼打牆)
+
+         沒有熱力學基礎的話可能會學得不太紮實
+
+
+         加簽：
+
+         全簽囉，只有一人簽
+
+
+      Ψ 總結
+
+         看看囉，算涼甜吧
+
+         這學期有一個越南籍的同學，正好不懂中文，需要英文授課，老師有習慣
+
+         用語 xx kinds of xx，會逐漸聽習慣
+
+         前面算是複習大學部大二大三熱力學/熱物理，但老師認為沒進度壓力，常
+
+         再複習前堂的一部分，但後面有比較特別的 Phenomenological Equation,
+
+         Balance Equations, General Conductivity Matrix 和 Spin Caloritronics
+
+         的公式推導，又有飆課的感覺，說數學細節自己回去看就好，雖然沒錯，
+
+         但覺得沒留很多時間給這裡有點可惜
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.165.71.73
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1484755106.A.73E.html
+※ 編輯: ndpe1220 (118.165.72.99), 01/25/2017 23:13:56

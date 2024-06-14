@@ -1,0 +1,125 @@
+作者lamba4heng (藍巴)看板NTUcourse標題[評價] 109-2 鄭原忠 物理化學三-動力學時間Tue Jun 29 20:03:52 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+鄭原忠 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+化學系選修課
+
+      δ 課程大概內容
+Part 1: 反應動力學 (巨觀現象)
+W01: Empirical rate equation, detailed balance, and temperature effect
+W02: Mechanisms of chemical reactions, chain reactions
+W03: Polymer growth and surface reactions
+W04: Numerically solving kinetic equations, oscillating chemical rxns
+Part 2: 統計熱力學
+W05: Fundamentals of statistical mechanics; ensemble theory
+W06: spring break
+W07: Ideal gas, kinetic theory of gases, collision of hard spheres
+W08: Statisical mechanics of molecules
+W09: Midterm
+Part 3-1: 化學動力學 (微觀解釋)
+W10: Chemical dynamics: transition state theory
+W11: Chemical dynamics: elementary gas phase reactions
+Part 3-2: 溶液系統的化學動力學
+W12: Elementary reactions in solution
+★第13週起改線上上課 (影片放Youtube上)
+W13: Solvation free energy
+W14: Transport properties in liquids, diffusion-controlled reactions
+W15: Homogeneous catalysis
+Part 4: 量子動力學 (考慮量子效應)
+W16: Quantum dynamics: Fermi's golden rule and electron tranfer.
+W17: No class *preparation of final report
+W18: No class *Hand in final report.
+Ω 私心推薦指數(以五分計) ★★★★★
+
+總評：            ★★★★★ 扎實好課，推爆
+想學到物理：      ★★★★★ 老師最重視物理，也解釋得很詳細
+想刷題目應付考試：★★★☆☆ 考試會改編，有時候會出乎意料
+堅持嚴謹數學推導：★★★☆☆ 重視物理更勝數學
+想爽拿選修學分：  ☆☆☆☆☆ 別傻了
+
+      η 上課用書(影印講義或是指定教科書)
+
+Silbey - Physical Chemistry (4th Ed.)
+Laidler - Chemical Kinetics (3th Ed.)
+McQuarrie - Statistical Mechanics (2nd Ed.)
+化學系 陳振中老師的資料
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+主要是板書講課，有些數據或計算會用電腦放出來
+疫情爆發後用paper tube軟體手寫錄影上課
+原本上課時間變成討論課，可以線上問問題。老師會很親切仔細地回答。
+量子動力學會有部分剪輯他之前開的暑期課程的影片
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+原本是作業30%、期中考35%、期末考35%
+期中考就是扎實分，考完大家都覺得很難。
+但老師改得比他的量化佛很多。
+疫情爆發後取消期末改為期末報告，也沒有再出作業。不知道比例怎麼調整。
+更新：最後成績分布打聽起來蠻平均的，小弟我有幸拿了A+。
+ρ 考題型式、作業方式
+
+1. 作業：約2週一份作業，作業要在老師上課前交，不接受遲交。
+
+2. 期中考有8題。會從作業改，各個主題出一題，有一些小證明跟解釋題。
+最後一題是名詞解釋，像calonical ensemble、auto-acceleration之類的。
+
+3. 期末考因應疫情取消考試，改為期末報告。選定一個主題，要跟期中考後的內容有關，
+撰寫一份3頁以上報告。公布作業後一週要繳交題目跟簡單摘要，老師會給comment。
+
+4. 老師強調報告必須有數學推導或物理圖像，不可以只有實驗結果。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+1. 出席狀況：老師不會管你要不要來上課，但選修課不上課自己念應該很辛苦。
+
+2. 錄影錄音：老師同意錄影錄音，蠻推薦錄音，複習很方便。還是建議寄信先問過較好。
+
+3. 基礎：化學熱力學跟量子力學的基礎 (物理概念)
+
+4. 老師很歡迎同學討論，但很多時候我跟不太上，都是回去念書才會想到問題。
+
+      Ψ 總結
+
+1. 小虫老師非常聰明，且教學品質極高，這門課絕對是門扎實到爆的好課。
+
+2. 每堂課資訊量都很大。老師除了版書之外，很多更根本的物理概念或圖像常常是口述，
+所以很推薦同學錄影錄音，回去複習時重播聽重點，可以學到更多東西。
+
+3. 個人很推薦下載課本，老師在期初syllabus會附上每週的章節，其一是因為老師會照著
+課本符號走，其二是很多解釋也會寫在課本中，非常幫助理解。
+
+4. 這堂課強調公式背後的物理，所以請一定要會解釋公式意義，而不是背下推導。
+
+5. 期中考前最大難關是統計力學，期中考後是活用Transition state theory。
+
+6. 小小的murmur是他說他會把投影片丟到CEIBA上，最後都沒丟。
+
+7. 我個人很推期末報告，雖然loading大到很想哭，但也因為我需要大量閱讀，最後很真
+實的感受到學到東西的感覺。
+
+8. 小弟有幸A+，其他人成績分布蠻平均的。老師在選修課對學生佛很多，應該不太當人。
+
+總之是門非常扎實，推到爆的課。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.39.104.204 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1624968234.A.89A.html
+※ 編輯: lamba4heng (114.39.104.204 臺灣), 06/29/2021 20:10:08
+※ 編輯: lamba4heng (114.39.104.204 臺灣), 06/29/2021 20:10:37
+※ 編輯: lamba4heng (114.39.104.204 臺灣), 06/29/2021 20:18:35
+推 KH21: 樓下Platin 07/01 07:22
+推 samuel8746: 我不是，樓下Platin 07/01 13:34
+→ lamba4heng: 成績出來了~ 07/07 21:11
+※ 編輯: lamba4heng (114.39.52.114 臺灣), 07/07/2021 21:12:02

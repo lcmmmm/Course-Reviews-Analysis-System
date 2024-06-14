@@ -1,0 +1,91 @@
+作者chun10396974 (娜嗲希口老公)看板NTUcourse標題[評價] 108-1 工程數學—線性代數 劉志文時間Sat Jan 11 00:05:16 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：108-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         劉志文
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         電機系大二上必修
+
+      δ 課程大概內容
+
+         1.Matrices, Vectors, and System of Linear Equations
+         2.Matrices and Linear Transformations
+         3.Determinants
+         4.Subspaces and Their Properties
+         5.Eigenvalues, Eigenvectors, and Diagonalization
+         6.Vector Spaces
+         7.Orthogonality
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         四班最爽，沒有之一 ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+         Elementary Linear Algebra Spence Insel Friedberg 2e
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         老師是個好人，講話雖然不是很流暢，而且有時候會卡在怪怪的地方，
+         但是數學的脈絡有條不紊，而且不是很喜歡用分數來評斷學生，上課還
+         會時常分享一些他自己或是身邊的人的經驗給大家聽，勉勵同學，一開
+         始聽課可能會覺得無聊(我期中考後才開始聽，畢竟線代前面的東西高中
+         就教過了)，但是認真聽課其實省去很多回家自己讀的時間。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         小考20% 考兩次 第一次全出課本例題 第二次課本例題組合肉
+         期中考40%
+         期末考40%
+
+      ρ 考題型式、作業方式
+
+         完全沒有回家作業！
+         對，再講一次，沒有回家作業
+         四個班只有劉班是完全沒有作業的
+         其他三個班都出到HW10幾
+         至於期中考偏易，蠻多人一百的
+         期末剛寫完，跟歷屆比起來也是屬於簡單的(？  大概啦
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         高中向量、矩陣基礎(其實好像也不用
+
+      Ψ 總結
+
+         老師人真的超好！講課其實也很有趣，可惜我上半學期幾乎都在滑手機，錯過
+         了很多，好險下半有跟到很多好笑的部分，像是Liu's Thm之類的冷笑話，如果
+         喜歡輕鬆的上課方式、涼到爆炸的作業(根本沒有)、有趣的故事的話，大推志文
+         班。
+
+--
+Her sword shines, a dream that all warriors scattered in battle, past
+present, and future, hold and mournfully exalt as their final moments approach.
+She carries their will as her pride, bidding them to remain steadfast in their
+loyalty. Now the undefeated king sings aloud the name of the miracle she
+holds in her hands. Its name is...—Irisviel von Einzbern《Fate/Zero》
+https://imgur.com/dk95fnl
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.245.134 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1578672324.A.066.html
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/11/2020 02:57:12
+推 unmolk: 推劉班 真的超爽 老師數學超強== 01/11 08:58
+→ unmolk: 常常會聽到老師批評課本的證法很怪XD 01/11 08:59
+→ unmolk: 另外配分是35/35/30ㄛ，ceiba上某個地方寫的40/40/20是錯 01/11 09:00
+→ unmolk: 的 01/11 09:00
+感謝指正~
+※ 編輯: chun10396974 (223.136.171.159 臺灣), 01/11/2020 13:18:14
+推 NTUmaki: 結果故事還沒分享完課程就結束了 01/13 00:23
+QQ
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/13/2020 00:48:47
+推 johnwick9527: 小弟去年選林茂昭班，除了見識到林茂昭老師實驗室裡 01/13 15:15
+推 johnwick9527: 面很厲害之外，如果單純考慮涼度，劉班才是真正最涼 01/13 15:18

@@ -1,0 +1,121 @@
+作者oopzzozzo (π)看板NTUcourse標題[評價] 107-1 賀培銘 廣義相對論時間Sun Aug 16 21:28:11 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+        107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        賀培銘
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        物理所、天文所選修
+
+      δ 課程大概內容
+        貼自 ceiba
+        第1週           Overview
+        第2週           Riemannian manifolds
+        第3週           Metric
+        第4週           Geodesics
+        第5週           Physics in Curved Spacetime
+        第6週           Connection
+        第7週           Curvature
+        第8週           Curvature
+        第10週          Einstein Equations
+        第11週          Perihelion Precession
+        第12週          Schwarzschild Solution
+        第13週          Black Holes
+        第14週          Gravitational Waves
+        第15週          Application to Cosmology
+        第16週          Other Theories of Gravity
+        第18週          Final Exam
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+http://preposterousuniverse.com/spacetimeandgeometry/
+        或
+        http://xxx.lanl.gov/abs/gr-qc/9712019
+        另外每章都有講議可參考，作業題目也在講議上。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        老師板書，英文授課，不知為何課程網沒有註明，但影響應該不大。
+        會好好講每個問題的動機、推導、舉例和整理。
+        然後可能是因為凝態的冷氣都要比較低能，我有時會不小心睡著，
+        醒來就發現世界不一樣了。因為聽不懂內容，只好筆記一些老師講的奇怪的話：
+        9.10 Garbage truck
+        Like a garbage truck, it's the flies(field) that flies around, not the garbage truck itself (that has energy).
+What has wheels and flies? A garbage truck.
+        9.10 Unicorns exists
+        Suppose unicorns exist, for a type of unicorn, I'll name it exist-unicorn.
+        Since it is called exist-unicorn, it exists.
+        9.17 Girl friend and Gorillas
+        Though it looks boring, if you want to know about something, you have to spend time with it.
+        If you want to know about gorillas, you have to spend your time with gorillas; If you want to know about your boy or girlfriend, you have to spend time with him or her.
+        Maybe we should not think of gorillas and boy or girlfriend as the same, but it's true.
+        9.17 Notation
+        Open sets U_1, U_2, U_3, U_4
+        Their union U_1 U U_2 U U_3 U U_4
+        Aha... I regret using U
+        9.31 Mobius ring
+        Some people correct me every time I say this word. We have a German pronounce it.
+        German girl in class: Mobius
+        Professor: Say it three times
+        German girl: Mobius, Mobius, Mobius
+        Professor: Okay, I'm not sure if I could reproduce this.
+        9.31 Take a picture
+        I want to take a picture, I told my friend I have 80 students in my class, he doesn't believe me.
+        9.31 Confusing
+        Is this confusing or obvious?
+        Or both?
+        10.08 Doughnut
+        If we have alien penpals ....  their planet might be like a doughnut (draws a sunny side up egg on the blackboard) or it might have two holes (draws another hole and curves of the doughnut.) I have an idea to open a doughnut shop and sell doughnuts of different topology, then math-oriented people would like to try all of them.
+        10.15 Twins paradox
+        Suppose we have a set of twins, the brother goes on a rocket while the sister stays on Earth. (There is no word for "elder brother" in English, so they have to be in different genders)
+        ... Then the sister (points at the stick figure on Earth), this is the sister, right? I can't remember, let me draw some hair.
+        ... If the brother uses a telescope to look at her sister through the journey. It might sound creepy, but he could do that.
+        10.15 Word & LaTeX
+        This is like Word and LaTeX. If you use Word, you get something fast, and it looks fine. If you use LaTeX, you spend more time in the beginning, but you get something more beautiful.
+        Do not quote me.
+        10.22 Nothing
+        This entry could be nothing but zero ... nothing but zero is simply nothing.
+        10.22 Gravitational field
+        If you have a strong gravitational field, and something in it... (tosses the chalk in his hand)
+        12.03 Explanation
+        Is this too abstract? Do I have to explain this in a different way?
+        I don't have a different way.
+        Okay, this is homework, please tell me if you find a different way.
+        12.03 Change of variables
+        You can always change variables, no one could forbid you to do this.
+        To me, this is basic human right.
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        70% 作業；30% 期末
+        成績只送通過與否，沒有等第，我也是拿到成績才發現...
+
+      ρ 考題型式、作業方式
+        只有期末考試，普通的是非、簡答、問答，有提供考古。應該沒有為難人。
+        作業四次各五題，可手寫或打字，好象每次都是簡單題到難題。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        我不知道老師在不在意出席人數，反正不會影響成績。
+        我是少數外系的，大概有用到一些微積分和線性代數知識吧。
+        如果有強大的想像力或是數學很好或是擅於閉著眼睛操作符號，應該很有幫助。
+        比較麻煩的是，有時上課或作業舉例用的東西沒看過，就得另花時間看懂。
+        （如 Maxwell's equation, Schrödinger equaton）
+        加簽狀況我沒印象，教室算滿，但我外系選得到課，所以應該不是大問題。
+
+      Ψ 總結
+        其實我只是畢業前想用 112ip 賺 P 幣順便清硬碟而已。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.225.211 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1597584496.A.BDB.html
+※ 編輯: oopzzozzo (140.112.225.211 臺灣), 08/16/2020 21:28:48
+推 sun51027: 大推小賀！！觀念講的很清楚 08/16 23:37
+推 deltz: 推小賀 08/17 01:36
+→ unmolk: 語錄好有趣xd 08/18 00:58
+推 Ofianse: twins paradox最高 12/31 02:51

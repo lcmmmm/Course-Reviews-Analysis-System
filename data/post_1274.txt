@@ -1,0 +1,148 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 106-2 行動電話程式設計時間Tue Jul 31 23:13:21 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        否
+
+      哪一學年度修課：
+        106-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        陳彥仰(?)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工所 網媒所
+
+      δ 課程大概內容
+        Class Registration
+        Preface
+        Introduction to Apple's Platform
+        Introduction to Xcode
+        Git SCM tool
+
+        Literals, Variables, and Constants
+        Types
+        Operators
+        Functions
+        Control flows
+        Optionals
+        Collections
+
+        Error Handling
+        Enum
+        Struct and Class
+        Extensions
+        Protocols
+
+        Closures
+        Optional Chaining
+        Type Casting
+        Generics
+        Automatic Reference Counting
+        Access Control
+
+        Storyboard
+        UIView
+        Using Auto Layout to layout views
+        Using Adaptivity APIs to create responsive UI
+
+        File System Programming
+        App Structure and Bundle
+        Lifecycle of UIViewController
+        Load Storyboard
+        Storyboard Segue
+        UINavigationController and UITableViewController
+
+        ARKit
+        Initialize AR Session
+        Visualize 3D content
+        Face-Based AR Experiences
+
+        Library and Framework (Cocoapod)
+
+        Invited Talk (Dcard 工程師)
+
+        Gesture Recognizer
+        Touches
+        Accelerometers
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        遇到一樣的助教 ★ ★ ★ ★ ★
+η 上課用書(影印講義或是指定教科書)
+        助教投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        投影片
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        三次作業 + Final Project
+        實際比例不明
+
+      ρ 考題型式、作業方式
+        頂著幹-做中學-玩真的 寫IOS App
+        Live Demo 評分
+
+        第一次作業是熟悉IOS的UIViewTableController，寫一
+        playground的程式，只要可以正確load資料並且顯示就好。
+
+        第二次作業也是類似的，不過這次是要寫一個真正的APP，
+        要學會用storyboard拉layout，使用seague轉場之類的。
+
+        第三次作業要結合AR，做出一個投籃遊戲。
+        這份比較麻煩一些，如果都沒上課，大概要花個兩到三天。
+
+        Final是三個人一組，期中提出proposal，期末前一週
+        Technical Sharing，期末德田走廊海報展演。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        不重視出席率，只要期中報proposal跟期末final present
+        即可。
+
+        基礎的話，嚴格來說可以都不用，因為會從最最基本的開始教。
+        所以滿推薦外系來選修。
+
+        老師個性不太清楚，但是助教人都不錯，尤其是在上台授課的
+        助教，人真的超棒，就算台下都沒反應，還是會認真的講解，
+        而不是隨便帶過，而且助教還有辦法邊上課邊live coding，
+        卍真。強者也卍
+
+        加簽方式，第一周結束是皆不加簽，但是強者我同學，在第二
+        周時，看到有人退選，再次寄信詢問，就獲得了綠色小紙一枚。
+
+      Ψ 總結
+        總結一下，這門課你會學到如何用storyboard加簡單的程式，
+        寫出一個簡易潮潮用的ios app。不過啊，有一件事滿神奇的，
+        那就是跟大一的實驗課差不多，台上的永遠不是教授，教授的
+        存在感大概就是期中期末特別明顯。
+
+        然後其實三次作業的loading加起來不太重，如果你對於物件
+        導向程式語言有簡單的認識，除了第三份，每份大概都可以在
+        一天內從零開始完成，這是強者我同學告訴我的，然後這裡的
+        零根據強者我同學的說法，是從完全不會寫swift開始，大概
+        是寫完作業還不知道optional type是什麼的情況。
+
+        此外，這堂課Final Project的部份，其實每一組都滿用心的，
+        而且範圍都很廣，有一組結合ARKIT跟彩妝知識，做出了一個
+        化妝教學的app；有一組撰寫了用頭控制的射擊遊戲，並且特
+        地的設計遊戲的關卡，讓通關所需頭的移動方式恰好能放鬆
+        肩膀；然後有同學把tlk.io, sli.do這種用簡短hash當做房間
+        的機制應用到AR地圖上，讓廠商能快速建立AR的地圖導覽。
+        話說，期末present時，我原先很期待有一組提出的共煮App
+        ，居然消失了(冏
+
+        不過啊這門課有一個特別不親民的門檻，那就是你的手邊必須
+        恰好有一隻iphone 6S以上的手機跟一台搭載mac osx的電腦。
+        如果你什麼都沒有，你大概會為了這門課多花 6000$ + 16000$。
+        所以有修這門課的人都是果(土)粉(豪)呢
+
+        大概是這樣，不過這堂課真的是非常非常入門等級的課程，大
+        概就是用用Library，對於整個IOS背後的運作跟渲染方式提的
+        還是有偏少。然而以一門入門課來說，他的效果的確不錯。
+
+        各位千萬別錯過~
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.215.47
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1533050003.A.EBA.html
+※ 編輯: hortune (140.112.215.47), 07/31/2018 23:15:18
+推 gy6543721: 感覺很棒的課 ！ 08/01 00:13

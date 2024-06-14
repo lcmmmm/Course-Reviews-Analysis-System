@@ -1,0 +1,150 @@
+作者rutw (Formosan)看板NTUcourse標題[評價] 107-2 顏嗣鈞 資料結構與程式設計時間Sun Jun 23 23:30:19 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：否
+
+
+      哪一學年度修課：107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        顏嗣鈞
+
+
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        電機工程學系必選修
+
+
+
+      δ 課程大概內容
+
+        From Ceiba
+
+        1. PRELIMINARIES:
+                Introduction. Asymptotic Notations, Algorithm Analysis
+
+        2. ABSTRACT DATA TYPES:
+                Stacks. Queues. Lists. List operations. List representations.
+                List traversals. Doubly linked lists.
+
+        3. TREES:
+                Tree operations. Tree representations. Tree traversals.
+                Threaded trees. Binary trees. AVL trees.
+
+        ------期中考分隔線------
+
+                2-3 trees. B-trees. Red-black trees. Binomial trees.
+                Splay trees, AA-trees and more.
+
+        4. HASHING:
+                 Chaining. Open addressing. Collision handling.
+
+        5. PRIORITY QUEUES:
+                Binary heaps. Binomial heaps. Fibonacci heaps. Leftist heaps,
+                Skew heaps, Min-max heaps, Pairing heaps
+
+        6. AMORTIZED ANALYSIS
+
+        7. SORTING:
+                Insertion sort. Selection sort. Quicksort. Heapsort.
+                Mergesort. Shellsort. Lower bound of sorting.
+
+        8. DISJOINT SETS:
+                Set operations. Set representations. Union-find.
+                Path compression.
+
+        9. GRAPHS:
+                Graph operations. Graph representations.
+                Basic graph algorithms. Algorithm design techniques
+
+        10. ADVANCED DATA STRUCTURES:
+                Tries, Skip lists Treaps, Top-down splay trees
+
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        想從推導開始學資料結構的人：★★★★★
+
+        想從實作開始學資料結構的人：★         （去修資工系的才會比較多實作）
+
+
+
+      η 上課用書(影印講義或是指定教科書)
+
+        無，用老師自己寫的的投影片。
+
+
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        老師自己用投影片解說，偶爾會開 PowerPoint 手寫一些東西或是補充。
+
+        此外，我覺得老師的投影片做的非常清楚就是了，不太需要再另外買書來看。
+
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        依照全班的成績去做動態調整：
+
+        Homework + Programming Assignment 20-30%
+
+        Midterm 35-40%
+
+        Final exam 35-40%
+
+        期中期末都是手寫，沒有上機考。
+
+
+
+      ρ 考題型式、作業方式
+
+        老師會把往年的題目和解答放在網路上，考古題一定要做才能抓到考試方向，；
+
+        作業的話本學期共有四次紙本的和兩次程式的，
+
+        紙本的話不會離開上課講的東西，但是其實有點難，最好有人一起討論；
+
+        而程式則沒有限制使用的語言，只要寫的出來、然後附上 Note 解說想法就好。
+
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        全簽，
+
+        出席率的話完全不介意，你可以等到要教作業和考試的時候再出現就好，
+
+        但是平常上課還是很多人，因為資結還是聽老師的講解可以比較快吸收吧。
+
+        基礎的話不需要吧，頂多就是高中程度的數學，TREE 那邊比較需要想像力。
+
+
+
+      Ψ 總結
+
+        這是一堂以推導為主、畫圖為輔的資料結構課程，而非真的都要實作出來，
+
+        大部分的作業和考題都是需要動腦想像、然後畫出這個資料結構變動過程的。
+
+        如果你就是想要學習如何實際刻出不同的 TREE或是各種 Sort 方法等，
+
+        那麼在這堂課裡你也只能知道一個大概的寫扣方向，可能需要自己課外練習，
+
+        所以我才說如果想透過寫一堆作業和 code 來增進資結實力的人，
+
+        請去上 CS 開的。
+
+        反之，對於那些想先理解觀念的、而非馬上上機寫扣的人來說本課就非常適合。
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.12.130.25 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1561303824.A.403.html
+→ godbye45: 別忘了還有ric的資結 06/24 14:09
+→ tcfwbper: 資工也沒有很多實作吧 像Roger班都放給同學自己練 實作 06/30 12:13
+→ tcfwbper: 量多少終究是看個人 06/30 12:13

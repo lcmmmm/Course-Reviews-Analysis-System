@@ -1,0 +1,141 @@
+作者momo04282000 (Momo超人)看板NTUcourse標題[評價] 108-1 李秋坤 代數導論一時間Fri Jan 17 16:15:18 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+  哪一學年度修課：
+  108-1
+
+  ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+  李秋坤老師
+
+  λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+  數學系大二必修
+
+  δ 課程大概內容
+  基本的大學部代數，只是編排上較一般代數課不同，下面會解釋
+  老師上的順序大致是指定參考的1~4章，交集的比例看老師心情，有時候會不小心飛走
+  (這也是為什麼有些同學不喜歡，下面解釋)
+
+  Week 1 Introduction, Equivalence relation  |  Moon Festival-no class
+  Week 2 Partition, Binary operation, semigroup, monoid  |  Inverse,
+         isomorphism between semigroups
+  Week 3 Groups, Rings, Fields, Vector spaces, Algebras, examples, subgroups
+         Lagrange's Theorem  |  Substructures, Replacement lemma
+  Week 4 Basic properties of the integers using tools in algebra
+         (modulo, fundamental theorem of arithmetic, Chinese remainder theorem,
+          Zn, Zp)  |  Fermat's little theorem, Wilson's theorem, direct product
+  Week 5 Structure of Zn, Euler's phi function, Euler's theorem, algebra formed
+         real-valued functions  |  National Holiday-no class
+  Week 6 TA session  |  Quiz 1, Matrix algebra
+  Week 7 Change of basis, Polynomial ring  |  Polynomial ring, finite field
+  Week 8 Seeing field as vector space over subfield, Symmetric groups  |
+         檢討Quiz 1(by TAs), TA session
+  Week 9 TA session  |  Midterm
+  Week 10 Symmetric groups, Dihedral groups, The quarternions  |  校慶-no class
+  Week 11 Review of D2n and the Quaternions, homomorphisms, normal subgroup and
+          ideals   |  檢討期中考, TA session
+  Week 12 Examples of homomorphism, Cayley's Theorem, group action, Orbit
+          Stabilizer Theorem, Module  |  Ideal, Quotient field
+  Week 13 Quotient group, properties of normal subgroups, 1st isomorohism thm
+          |  Relation between normal subgroups direct prodct, First and Second
+          isomorphism theorem
+  Week 14 The third isomorphism theorem for groups, examples, isomorphism
+          theorems for vector spaces,  properties of ideals  |  Isomorphism
+          theorem for ring and algebra, Chinese Remainder Theorem (in ring)
+  Week 15 TA session  |  Quiz 2, TA session
+  Week 16 Some reviews about rings, maximal ideal, division algorithm in F[X]
+          |  Quotient polynomial ring
+  Week 17 New Year-no class  |  檢討Quiz 1(by TAs), TA session
+  Week 18 Final Exam  |  no class
+  Ω 私心推薦指數(以五分計) ★★★☆
+  個人覺得5顆，不過蠻多同學表示不太能接受老師的上課方式  所以3.5顆(?
+
+  η 上課用書(影印講義或是指定教科書)
+  Undergraduate Algebra by Matej Bresar  2019的書，非常的新，臺大IP可免費載
+
+  μ 上課方式(投影片、團體討論、老師教學風格)
+  板書上課，老師是代數大師，一進教室拿起粉筆就可以講兩節課
+  筆記量中後期非常可怕，個人在禮拜三兩堂教授課的時候經常抄到破10面
+  我覺得不先預習很容易扛不住，大概第二節課剛開始就會跟不上老師的車尾燈了
+  重要的部分老師重複了非常多次 (E.g. First isomorphism thm講了4、5次有吧XD)
+
+  之所以說這門課大家不太適應的原因有幾個
+  1. 我覺得老師的講解功力絕對是一等一的好，很多概念老師都能講得很清楚易懂
+     可是其實速度偏快(畢竟是數學系的課，又被放掉一些課或是拿去上習題課)
+     (老師很重視習題課，沒有出功課是因為覺得助教這樣會太累，但他告訴我們這本書
+      習題「少少的」而且很簡單，要全寫，我自己是沒有照著老師說的做啦這學期的話
+      乖乖全寫估計有3、400題...)
+  2. 老師的板書有一點點母湯，老師寫字很快可是字有點小有時候糊在一起，沒先念過
+     或是漏聽一些東西會猜不出那是什麼英文字
+  3. 課本的安排前面是「主題式」的，舉例來說homomorphism他就會group, ring
+     field, vector space, algebra一起講，前面的定義跟substructure也是都一起講
+     對代數初學者或連線代都沒碰過的人可能會容易混亂
+  4. 沒有出習題，考試也偏難抓方向 (期中考沒融會貫通的真的寫不出來)
+     考試老師會出一些課本裡的習題，只是小考的問題是寫不完，期中考是太活
+     幾次下來都很慘，老師期末才開必殺技大放水
+
+  值得一提的老師的板書，這是引起大家爭議的一部份，老師的字偏小然後有點小亂
+  有次同學反應，老師就說:「我字會寫大一點，但你也可以坐前面一點」
+  我後來觀察了一下，之後老師的字還是長一樣XDD
+
+  另外一件事是老師的板書寫得很隨意，有時候有明明留很久沒擦的東西
+  他卻把剛剛才寫的那面黑板先擦掉QQ
+
+  然後老師有時候課上一上就會開始聊天，講一些自己的故事之類的
+  有一次講得差不多準備要回去繼續講代數的東西，看了看時鐘快下課了
+  就說:「算了不要講了」，全班快笑死，真的是很有趣的老師
+
+  σ 評分方式(給分甜嗎？是紮實分？)
+  全靠考試，小考15%x2、期中考35%、期末考35%
+  成績還沒出來所以不知道算不算甜，前兩次小考跟期中考大家都被弄得蠻慘的
+  小考其實都不難只是真的太難在時間內寫完了(50分鐘考5題，有的還有小題...)
+
+  期中考則是出了頗多非習題，且基本題較少，所以平均48然後只有15個及格
+  期末考則是大放水一波，出了160分然後全部都是簡單的課內題跟習題
+  甚至出了20分的多選題跟20分的定理敘述題，超級佛 (詳見考古題版)
+  助教說平均110XDD
+
+  原PO Quiz 1 77/100  期中考80/100  Quiz 2 59/100 期末考150/160
+  (總成績100.9/121)  最後A+  不清楚老師調了多少
+
+  ρ 考題型式、作業方式
+
+  扣掉期末考之外大概會出20~30%左右的習題，沒見過的題目相對較多
+  期末則是大放水，我一領到考卷就感受到老師多麼不想當人
+  By the way 小考都考一節課 (50分鐘) ，期中考3小時，期末考130分鐘
+
+  然後沒有作業，但幾乎每週都有助教課，兩班的助教都是點人上臺寫習題
+  據教授所述，他會要求助教每週去找他上習題課給他看
+  一開始助教課每題都檢討所以跟不太上老師速度，後來我們班助教就會挑題講，
+  以約一週一小題的進度推進
+  蠻多人翹助教課的感覺，常常上去寫的都是那幾個
+  很感謝助教常常在我掛板的時候救我> <
+
+  ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+  都不點名的，助教課不去也不會怎樣
+
+  基礎部份有修過數學系線代會有幫助，但用到的部分不算特別多
+
+  老師人很好，只是有些方面還蠻堅持自己的作法XD
+
+  修課人數好像不需要到加簽，但就算有我猜老師應該也會給
+
+  Ψ 總結
+  我還是覺得老師教得相當好，小缺點就是不預習、複習的話真的就很容易被丟包
+  然後考試沒有一定比例的習題會讓人抓不了方向
+
+  但如果要認真學代數，我覺得老師的講解真的超棒，可以讓人感受到為什麼這樣做
+  而不是下一大堆定義然後定理就下來了，根本也不知道為什麼會有這些奇怪的條件
+  老師有時候會開始講解一串東西，過程會覺得蠻自然的，後來就會導出某個remark
+  或是定理，這樣對代數也會比較有感覺
+
+  說到考試其實期末也大放水了所以我想要過應該沒那麼難
+
+  總而言之大推這門課!
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.232.162.102 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1579248920.A.38B.html
+※ 編輯: momo04282000 (61.224.64.83 臺灣), 01/19/2020 01:45:02

@@ -1,0 +1,99 @@
+作者ritton3333 (ritton)看板NTUcourse標題[評價] 109-1 王凡 作業系統時間Wed Jan 27 15:19:43 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+        109
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        王凡
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+       電機系選修
+
+      δ 課程大概內容
+       Chapter 1 Introduction
+       Chapter 2 System Structures
+       Chapter 3 Process Concept
+       Chapter 4 Multithreaded Programming
+       Chapter 5 Process Scheduling
+       Chapter 6 Synchronization
+       Chapter 7 Deadlocks
+       Chapter 8 Memory-Management Strategies
+       Chapter 9 Virtual-Memory Management
+       Chapter 10 File System
+       Chapter 11 Implementing File Systems
+       Chapter 12 Mass-Storage Systems
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★
+
+      η 上課用書(影印講義或是指定教科書)
+        恐龍書
+        Operating System Concepts 10th Edition
+　　　　by Abraham Silberschatz, Peter B. Galvin, Greg Gagne
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+σ 評分方式(給分甜嗎？是紮實分？)
+        Midterm 30% 細部給分如下
+
+                20% on background before the work.
+                20% on the motivation.
+                20% Techniques of the work.
+                20% Experiment interpretation.
+                20% Writing.
+
+        Final   40%
+        Project 30%  其實就是三次作業
+
+        成績還沒出來,但感覺是挺甜的.(我覺得我期末根本亂寫也可以及格...)
+
+      ρ 考題型式、作業方式
+
+       midterm:
+       其實不是期中考，而是上台報paper
+       同學會分三次上台報告一篇paper的內容,報告時間為10分鐘,會要求是某幾個conference的論文,但內容其實沒甚麼限制
+       然後我覺得老師根本沒有很認真在大家報告，我都看到他在看google map (???)
+       助教也是負責計時，完全看不出來最後分數到底怎麼打的
+       我覺得自己講的主題很普通也沒有特別難,最後95給大家參考
+
+　　　 project:
+       雖然說是project，但實際上是三次作業．而且還是萬年nachos，網路上資源不少.
+       而且也是一開學就公布資源,想寫的可以一口氣寫完.
+
+       final:
+       80%是課本習題或延伸,20%是同學們paper的一些節錄
+       但基本上很少會有人認真聽每個人講什麼，所以這20%就真的憑運氣吧
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        NACHOS要用C++寫,所以建議有c++基礎再來修課
+
+        一類加簽 簽到爆 但通常會去上課人數大概1/3...
+
+        王凡老師有他獨特的上課節奏,有時候會頓頓的,所以我都回家看1.5倍速的影片
+        btw,老師這學期會上課錄影,但通常會隔很久才上傳，所以想保持進度的還是要乖乖去上課
+　　　　
+        老師上課基本上都看著投影片在講,所以如果自己想要看書或投影片學其實也完全可以
+        大概也是沒什麼人去上課的原因
+
+      Ψ 總結
+　　　　簡單來說就是一門甜涼選修課，但有沒有學到東西就要看跟老師對不對頻還有個人造化...　
+　　　　　
+　　　　但我個人沒有很推拉qq
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 124.219.6.236 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1611731988.A.E9E.html
+推 alan23273850: 台大電機怎麼請軟體工程領域專長的老師去教作業系 01/27 19:16
+→ alan23273850: 統呢，真是笑了。CS本歸CS，EE本歸EE，切莫混為一 01/27 19:16
+→ alan23273850: 談。 01/27 19:16
+推 rumrumrum: 不太推這堂... 01/27 23:26
+推 zqAI3yGOAT: 樓上學霸 01/28 03:23
+→ zqAI3yGOAT: 我比較想知道期末是怎麼改的 嘻嘻 01/28 03:23
+推 kyrie77: 別說期末啦，期中報告給分也是完全不明所以= = 02/03 18:34
+推 justin981287: 唸資工的OS唸到崩潰 早知道就修電機的OS爽爽抵一抵 04/18 08:28
+→ justin981287: 了… 04/18 08:28

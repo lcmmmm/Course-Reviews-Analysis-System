@@ -1,0 +1,120 @@
+作者chun10396974 (△= U =△)看板NTUcourse標題[評價] 107-2 傅斯緯 微積分甲下時間Fri Jun 21 17:20:07 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：107-2
+
+      ψ 授課教師： 傅斯緯
+
+      λ 開課系所與授課對象：電機系必修
+
+      δ 課程大概內容：
+        12.6: Cylinders and Quadric Surfaces.
+        13.1: Vector Functions and Space Curves.
+        13.2: Derivatives and Integrals of Vector Functions.
+        13.3: Arc Length and Curvature.
+        14.1: Functions of Several Variables.
+        14.2: Limits and Continuity.
+        14.3: Partial Derivatives.
+        14.4: Tangent Planes and Linear Approximations.
+        14.5: The Chain Rule.
+        14.6: Directional Derivatives and the Gradient Vector.
+        14.7: Maximum and Minimum Values.
+        14.8: Lagrange Multipliers.
+        15.1: Double Integrals over Rectangles.
+        15.2: Double Integrals over General Regions.
+        15.3: Double Integrals in Polar Coordinates.
+        15.4: Applications of Double Integrals.
+        15.5: Surface Area.
+        15.6: Triple Integrals.
+        15.7: Triple Integrals in Cylindrical Coordinates.
+        15.8: Triple Integrals in Spherical Coordinates.
+        15.9: Change of Variables in Multiple Integrals.
+        Midterm Exam
+        16.1: Vector Fields.
+        16.2: Line Integrals.
+        16.3: The Fundamental Theorem for Line Integrals
+        16.4: Green's Theorem.
+        16.5: Curl and Divergence.
+        16.6: Parametric Surfaces and Their Areas.
+        16.7: Surface Integrals.
+        16.8: Stokes' Theorem.
+        16.9: The Divergence Theorem.
+        11.1: Sequences.
+        11.2: Series.
+        11.3: The Integral Test and Estimates of Sums.
+        11.4: The Comparison Tests.
+        11.5: Alternating Series.
+        11.6: Absolute Convergence and the Ratio and Root Tests
+        11.7: Strategy for Testing Series.
+        11.8: Power Series.
+        11.9: Representations of Functions as Power Series.
+        11.10: Taylor and Maclaurin Series.
+        11.11: Applications of Taylor Polynomials.
+        Final Exam
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        想要系統性的教學：★★★
+        想要聽神奇的數學：★★★★★
+        想要吃東西：★★★★★
+        想把教授當成TA來問問題：★★★★★
+      η 上課用書(影印講義或是指定教科書)
+        Calculus Early Transcendentals 8th edition
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        板書
+      σ 評分方式(給分甜嗎？是紮實分？)
+        平時成績        30%[包含WeBWork, 課堂小考 (十二次), 與回家作業 (六次)]
+        期中考          35%
+        期末考          35%
+      ρ 考題型式、作業方式
+        期中考期末考參見微積分甲共同教學網站
+        作業部分共六次，前幾次會把題目印出來在TA課給大家帶回去寫，通常也是在TA
+        課繳回，基本上都考不是太難的題目，不過少部分題目要想，一次約6、7題左右
+        滿分20分。
+        小考很頻繁，都是在禮拜三下課前25分鐘左右開始考，題目大約5題，都是基礎的
+        觀念，滿分10分。
+        作業的批閱比小考嚴謹多
+        然後webwork記得寫，可以try無限次(某X理系只能試5次)
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        基本上人數在禮拜三的下課前會有極大值，禮拜五有極小值，完全沒有點名，只
+        要記得去小考、交作業就好，加簽應該是全簽(?
+      Ψ 總結  微甲02班上學期原本是沈俊嚴老師，但是這學期異動，換成傅斯緯老師，
+        原本以為要花一段時間來適應，不過老師人很好，教學中規中矩，不會突然就不知
+        道在講甚麼，每堂課前都會提早到教室在黑板寫上目前為止教了甚麼觀念，以及提
+        醒大家重要事項，星期三的小考前也會再次提醒等等會考的觀念，這時候只要還醒
+        著小考就大概都會寫了，老師上課還會帶出差買的夏威夷巧克力，還有期中考前配
+        著很冷的笑話的Kit Kat，另外最不一樣的是老師會在考前在天數開一個小教室，
+        放一些飲料、旺旺、雪餅、巧克力…之類的點心，讓同學去那邊念書和問問題(雖
+        然去的人數還蠻少的)，讀累的還能跟老師打屁，講一些很神奇的東西(數學的小
+        玩具)，和老師講話真的能感受到他對數學的熱忱，教學也很用心，下課去問問題
+        都會很認真的解答，不過在講課方面，有時候會有點跳tone，比如說在講X.3就突
+        然去提X.6.7.8之類的事情，對於很習慣照順序來上課的同學可能會有點不習慣。
+        總結來說，這是我在大學裡第一次遇到這麼有教學熱忱的老師，如果想修好微積
+        分(還有吃東西)，非常推薦傅斯緯老師的課！
+
+
+
+--
+https://imgur.com/yEoiJJx
+你們或許從肉身的枷鎖中解放了出來，但難道不是又進了另一個更為痛苦的牢籠嗎？
+在人們造出的名為「社會」的牢籠中，被別人決定自身價值、被別人裁決的生活。我可不想
+為了在樂園生活而願意淪為一名奴隸。—丁格
+———《樂園追放—Expelled from Paradise》
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.196.49 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1561108829.A.E4C.html
+※ 編輯: chun10396974 (140.112.196.49 臺灣), 06/21/2019 17:21:22
+※ 編輯: chun10396974 (140.112.196.49 臺灣), 06/21/2019 17:27:35
+推 BRoutine: 推認真文，但不推去讀書會還滑手機 06/21 18:07
+?
+※ 編輯: chun10396974 (111.71.127.129 臺灣), 06/21/2019 18:28:07
+推 A88551212: 老師人真的很有特色ㄟ~ 06/22 03:02
+真的!!期末的信很有老師的感覺~
+※ 編輯: chun10396974 (111.71.127.129 臺灣), 06/22/2019 06:30:56
+推 kittyliao: 推老師人真的很好 07/03 01:13
+推 wilson666666: 推 老師很棒 07/06 16:26
+推 ToTo0306: 今天被這班的朋友拉去討論會，老師人真的很好 11/03 01:51

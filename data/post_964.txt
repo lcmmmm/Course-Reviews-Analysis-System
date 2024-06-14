@@ -1,0 +1,170 @@
+作者jexus (pytorch)看板NTUcourse標題[評價] 107-2 王鈺強 深度學習於電腦視覺時間Wed Jul 17 12:52:51 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+      是
+
+      哪一學年度修課：
+      107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+      王鈺強 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+      電信所
+
+      δ 課程大概內容
+
+第0週   2/20    Course Logistics + Intro to Computer Vision
+
+第1週   2/27    Machine Learning 101
+
+第2週   3/06    Image Representation & Recognition; HW #1 out
+
+第3週   3/13    Intro to Neural Networks + CNN (I)
+
+第4週   3/20    Intro to Neural Networks + CNN (II)
+                Tutorial on Python, Github, etc.
+
+第5週   3/27    Detection & Segmentation; HW #2 out
+
+第6週   4/03    Spring Break
+第7週   4/10    Segmentation, Visualization,
+                and Adversarial Attacks of NNs
+
+第8週   4/17    Generative Adversarial Networks
+                (Guest Lecture by Prof. Wei-Chen Chiu);
+                HW #2 due & HW #3 out
+
+第9週   4/24    Transfer Learning and Representation Disentanglement
+(I)
+
+第10週  5/01    Transfer Learning and Representation Disentanglement
+(II)
+
+第11週  5/08    Deep Learning for Video Frame Interpolation
+                 & Object Co-Segmentation
+                (Guest Lecture by Dr. Yen-Yu Lin); HW #3 due
+
+第12週  5/15    Recurrent NNs and Seq-to-Seq Models (I); HW #4 out
+
+第13週  5/22    Recurrent NNs and Seq-to-Seq Models (II);
+                Invited talk by Dr. Taiyi Huang (ASUS AICS)
+
+第14週  5/29    Learning Beyond Images (2D/3D, depth, etc.)
+
+第15週  6/05    Audio-Visual Event Localization and Synthesis; HW #4 due
+                Invited talk (1) by Dr. Wei-Sheng Lai, UC Merced)
+                Invited talk (2) by Dr. Shang-Hong Lai (Principal
+                                        Researcher, Microsoft)
+
+第16週  6/12    Few-Shot Learning
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+老師自製的投影片，也有放到實驗室的課程網站上
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片上課，學期初先用一堂課講一些基本ML(Bayesian, PCA, SVD, K-means cluster)
+和Bag of Word for image等傳統CV方法，接著講DNN、CNN，之後就進入DL的部分
+HW1是非deep作業，弄圖片的PCA、eigenface、BoW、filtering等等
+因為HW1難度較低只佔5%
+
+教完CNN之後會進入Detection & Segmentation
+會講R-CNN、Mask R-CNN、YOLO(v1~v3, 9000)、SSD等Detection模型
+Segmentation有點快速帶過，稍微講一下FCN、U-Net等方法
+HW2就是要實作YOLO-v1
+
+之後會介紹一下t-SNE跟visualize CNN kernel的方法
+和Adversarial Attack(大金Youtube講得比較清楚XD)
+
+然後請交大邱維辰教授來講GAN
+HW3的前半就是實作GAN跟ACGAN
+
+接著講Transfer Learning有關的主題
+會介紹Unsupervised Domain Adaptation(DANN, DSN, ADDA...)
+跟Represenation Disentanglement(ACGAN, InfoGAN)
+最後是Image Translation & Disentanglement(pix2pix, CycleGAN, UNIT...)
+這段我覺得是課程最精彩的一段，發展的脈絡很清楚
+也有講到老師實驗室分別上CVPR跟NIPS的Work(CDRD, UFDN)
+
+HW3的後半就是實作DANN，跟任意improved model，我跟幾個同學都是選ADDA來做
+
+最後會介紹Video跟Speech跟CV混在一起的應用
+為了處理Video Speech所以會先介紹RNN(LSTM, GRU)和Attention(沒有Transformer XD)
+HW4就是用RNN來做Video的Action Recognition
+
+最後幾堂課還會講2D/3D跟Few-Shot Learning，但就沒有作業實作了
+這學期好像完全把RL拿掉了 QQ
+
+學期後半請了蠻多人來演講的
+像是中研院的林彥宇老師
+華碩副總裁黃泰一
+微軟AI R&D Center的賴尚宏老師
+還有在UC Merced的B97電機系學長分享美國實習經驗
+
+整學期算學到蠻多東西的，不過畢竟是Deep相關課，內容都是近年研究主題很新很雜
+蠻多地方都是一系列的paper report，沒有作業實作就容易會帶過去有個印象而已
+日後要深入瞭解的話，還是去找原paper看會比較深入一些
+
+      ρ 考題型式、作業方式
+
+作業有上述說的HW1~HW4，都是一人一組自己做，loading的話HW1很快大概4~6小時內
+HW3、HW4大概是以前做大金ML作業的1.5倍loading，大概15~20小時可以解決
+HW2的話因為這次YOLO很多人包括我自己都遇到train不起來的問題
+我最後是發現加了warm up optimizer之後就起飛了(前面還找了超久問題...
+但每個人遇到的狀況好像都不太一樣就是了
+
+然後老師有給每個人3天遲交不扣分的扣打可以用，後來HW2之後又加了兩天
+我自己只有在HW2用掉一天，整體時間還算充裕
+
+Final Project的部分是3~4人一組
+有兩個題目可以選，第一個是今年ICCV workshop的
+Visual Domain Adaptation Challenge (http://ai.bu.edu/visda-2019/)
+就是做很多個Source Domain的UDA
+
+第二個則是Cast Search by Portrait Challenge
+也是今年ICCV另一個workshop的，從電影畫面辨識演員
+兩個Challenge都有開Kaggle讓我們爬榜
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+應該算頗甜
+因為這次hw2 YOLO有點難搞，所以後來給分改成hw2 hw3 hw4各自分別由高到低
+佔30% 20% 10%，hw1一樣是5%，final project佔剩下的35%
+另外每次作業都有一些bonus可以做，可以另外拿超過100分
+像hw1可以拿120(但只佔5%)，其餘我hw2~4分數都拿90~110之間
+
+final的話因為我們這組有拿到Challenge #1的第一名，
+kaggle leaderboard跟人氣獎也都有額外加到分
+最後35%是給了32.01分
+給分很大方，我學期成績有拿A+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+這門課助教都人很好，我們hw2搞不出來的時候都有去問助教，也都很熱心幫我們找問題
+另外後面作業竟然還有開放給同學revision(改code)機會補救，部分給分，修過這麼多課
+實在沒遇過幾門有這麼好心的...真的是辛苦助教了Orz
+
+      Ψ 總結
+
+這門課算是可以讓你快速review過一次近年DL for CV的發展，也實作了一些有趣的topic
+讓你在日後能有興趣深入研究，收穫很多～
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.99 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1563339174.A.7E0.html
+※ 編輯: jexus (140.112.25.99 臺灣), 07/17/2019 12:55:20
+※ 編輯: jexus (140.112.25.43 臺灣), 07/17/2019 16:40:12
+推 Alex548291: 推推 07/18 10:10
+推 empireisme: 什麼是大金班，哪個老師阿 07/18 13:44
+→ alan23273850: 2樓新警察？ 07/18 14:03
+推 godbye45: 大金是幾班阿？ 07/18 17:04
+→ NTUCKEE112yo: https://www.youtube.com/watch?v=izmg1bOYkDE 07/18 17:36
+推 chons2332: 推有梗 07/18 18:32
+推 TwinkyLee: 樓下andrewkgs 07/19 07:21
+推 pnnguin: 推 大神 07/27 20:24
+推 dollar123000: 推大神 09/12 21:48

@@ -1,0 +1,116 @@
+作者nn995 (瓠仔)看板NTUcourse標題[評價]  107-2 白奇峰 磁性材料時間Sun Jul 14 18:08:34 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+（是／否／其他條件）：是
+
+哪一學年度修課：107-2
+
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+白奇峰
+
+λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)
+
+材料系/所
+
+δ 課程大概內容
+
+1. Introduction
+2. Magnetic Units and Basic E&M
+3. Magnetization, from Classical to Quantum
+4. Category of Magnetism
+5. Interactions, Episode I
+6. Interactions, Episode II
+
+---------- Midterm ----------
+
+7. Magnetic Anisotropy
+8. Magnetic Domain and Domain Walls
+9. Magnetization Process
+10. Characterization Techniques: VSM, MOKE, and FMR
+11. Transport Measurements, Episode I: Family of the Hall Effect
+12. Transport Measurements, Episode II: Family of the Magnetoresistance (MR)
+
+---------- Final ----------
+
+13. Spin Transfer Torque (STT) and the Future of Spintronics Research
+
+總結來說大致包含:
+(a) 磁性基本理論
+(b) 磁性材料示性與量測技術
+(c) 相關文獻導讀
+
+Ω 私心推薦指數(以五分計) ★★★★★
+
+私心               ★★★★★
+不擅大量記憶者     ★★★ ~ ★★★★
+
+η 上課用書(影印講義或是指定教科書)
+
+投影片
+
+內容主要參考自:
+1. Stephen Blundell, Magnetism in Condensed Matter, 2001
+2. Robert C. O'Handley, Modern Magnetic Materials: Principles and Applications
+, 2000
+3. J.M.D. Coey, Magnetism and Magnetic Materials, 2010
+4. 期刊文獻
+
+μ 上課方式(投影片、團體討論、老師教學風格)
+
+使用投影片講演，板書輔助
+若有外籍生則以英語授課
+老師的英語發音很標準，不太需要害怕聽不懂
+以個人經驗而言
+聽不太懂的地方主要是因為缺乏一些基礎知識(e.g. 量子力學，固態物理)
+或者老師本來就在介紹比較艱深的主題
+
+σ 評分方式(給分甜嗎？是紮實分？)
+
+Homework * 6             0%
+Midterm exam * 1         50%
+Final exam * 1           50%
+
+考試都是closed book
+應該算紮實甜，必要時好像會調分
+
+ρ 考題型式、作業方式
+
+六次作業不用繳交也不算分
+且與期中期末考題的導向有一點差別
+但還是可以寫一寫練練功
+
+中後期的作業比較多課堂內容的延伸，稍微麻煩一點
+期中期末考題則大多是課堂上提過的定性解釋與簡單計算
+這部分熟悉課堂中的講解與投影片內容應該就足以應付
+不太需要再去細讀參考書籍
+
+整門課要記憶的知識點算是繁雜
+考試準備起來確實不容易
+不過老師改考卷下手很輕
+不擅記憶但對此門課有興趣者或許還是可以一試
+
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+完全不看上課出席率，但不建議缺課
+投影片要配上老師的講解才比較好懂
+
+建議修這門課前有一些固態物理基礎
+(Drude model, band structure, Bloch theorem, Brillouin zone etc.)
+以及量子力學/量子化學基礎
+(spin-orbital coupling, ladder operator, berry curvature, 多電子系統 etc.)
+可以對課程內容了解地更全面
+但沒有也無妨，老師會提點式地講解過去
+太過深入的理論也不太會直接出成考題
+
+Ψ 總結
+
+如果能接受比較偏記憶類的考試的話
+都可以來修
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.12.20.206 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1563098916.A.D65.html
+→ Normikan: 真的是非常非常依靠大量記憶力的考試...........Orzzzzz 08/22 01:50
+→ Normikan: 只能說要慎選........... 08/22 01:50
+※ 編輯: nn995 (101.12.42.20 臺灣), 11/10/2019 22:45:13

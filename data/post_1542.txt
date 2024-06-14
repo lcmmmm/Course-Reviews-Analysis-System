@@ -1,0 +1,202 @@
+作者shiburin (凜冬將至)看板NTUcourse標題[評價] 106-1 溫政彥 繞射原理時間Wed Jan  3 23:54:26 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+       106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+       溫政彥
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+       材料系 大三 必修
+
+      δ 課程大概內容
+
+       Schedule on Ceiba :
+
+       1.Crystal structure, lattice and basis
+
+       2.Lattice planes, the Miller indices, and zone rules
+
+       3.Operation and symmetry element, point groups
+
+       4.Derivation of point groups
+
+       5.Plane groups and the International Table of Crysrallography
+
+       6.Space groups
+
+       7.-----------------------Quiz 1------------------------------
+
+       8.The reciprocal lattice and Fourier transform
+
+       9.The convolution theorem and Fourier transform of lattice
+
+       10.The Bragg's law and Laue equations
+
+       11.The Ewald construction and the properties of X-rays
+
+       12.Diffraction amplitude and the structure factor
+
+       13.----------------------Quiz 2-------------------------------
+
+       14.Electron diffraction and the principle of diffraction
+
+       15.Diffraction amplitude and the structure factor
+
+       16.Systematic absence, Scherrer equation, and integrated intensity
+
+       17.Temperature and absorption effects, order and disorder
+
+          transfromation and diffraction of superlattice
+
+       ------------------------Final exam-----------------------------
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+       Element of X-ray Diffraction - B.D.Cullity & S.R.Stock
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+       版書以及投影片，會發講義。
+
+       有助教課，助教會另外公布時間，要注意信箱
+
+       助教課會提醒作業如何寫。
+
+       Ceiba上資料還蠻齊全的，個人認為不用買課本也ＯＫ
+
+       上課步調不會太快，通常講完一個觀念以後，老師會做幾個範例加深理解
+
+       老師也常會問大家跟不跟的上。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+       紮實分
+
+       作業 25%
+
+       Midterm 1 20%
+
+       Midterm 2 20%
+
+       Fianl 25%
+
+       final project 10%
+
+      ρ 考題型式、作業方式
+
+       作業和考試都是老師自己出題。
+
+       作業有時會要用到軟體，像是CaRIne，這時用蘋果電腦的人就很苦啊ORZ，
+
+       建議可以先準備有XP介面的電腦。
+
+       考試的話，老師有時會出些「陷阱」題
+
+       像是：
+
+       1.要比較繞射角度，結果跟本不會繞射。
+
+       2.還有畫繞射圖形要注意一下投影幕大小。
+
+       這些都是原Po的切身之痛啊ORZ
+
+       不過老師說他有時候會出錯題目，
+
+       所以有些「陷阱」題其實不是故意出的。
+
+       十分加分題盡量寫，通常會給分。
+
+       Final Project 基本上就是要寫個程式模擬繞射圖形，語言不拘。
+
+       所以最好先學個看是MATLAB、MATHEMATICA、PYTHON 之類的，
+
+       學期結束後交，所以可以在寒假很閒(?)的時候當休閒來做。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        不點名，不過沒有聽課應該蠻虧的
+
+        原Po到下午精神不好恍神，回家念很痛苦。
+
+        專業課程往往網路上很難找到答案，建議上課時就聽懂。
+
+        雖然這樣說，
+
+        基礎方面，我強烈推薦這門課大一就可以修了。
+
+        原Po是大二來修的，其實這門課我覺得比材導、物冶這些課給我
+
+        晶體的觀念來的清晰多了，所以修繞射CP值很高。
+
+        雖然各位在板上查到什麼 Fourier transform 聽起來就嚇死人的Fancy名字
+
+        基本上不會用到，所以不用擔心。
+
+      Ψ 總結
+
+        這門課基本上不會很難（以要PASS的標準來說)，但高分的話，嗯...紮實分
+
+        其中老師會安排TEM繞射矽晶的參觀(工綜地下室），個人覺得還蠻猛的,
+
+        TEM有夠大。
+
+        修完這門課最主要的好處就是，你可以大聲的說，I know 倒晶格！！
+
+        就正式算材料的一份子了，大概是這樣。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.249.200
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1514994870.A.B3B.html
+推 penguin828: 大一課太多  不行啦 材力換成繞射應該不錯 01/04 11:21
+推 Nexvesk: 這門課吃空間概念嗎？ 01/06 08:04
+如果說spacegroup的話
+需要多花一點時間
+整理判斷的規則
+噓 JCPHI: 還沒考完期末就來寫，小心老溫期末殺爆你 01/06 18:15
+好= =
+推 Dreamer11705: 為什麼沒有FT 這跟我上過的是同一門? 01/08 11:41
+可以說沒有
+會這樣說
+是因為不需要理解
+只用記的也行
+兩個小定理
+比高中背默寫還少
+推 emiemily: 繞射怎麼可能用不到傅立葉xddd 01/08 12:10
+噓 chymin: 我覺得這評價太偏頗，你以為大家跟你一樣大一就會有傅立 01/08 12:21
+→ chymin: 葉的概念？ 01/08 12:21
+不是 = =
+這門課真的無需先學富立業
+老師上課會講
+而且真的要用到的
+只有delta轉換
+還有covolution theorem
+兩個而已
+不會證明
+也可以先背起來
+※ 編輯: shiburin (140.112.25.100), 01/08/2018 12:26:34
+※ 編輯: shiburin (140.112.25.100), 01/08/2018 12:29:30
+※ 編輯: shiburin (140.112.25.100), 01/08/2018 12:30:01
+※ 編輯: shiburin (140.112.25.100), 01/08/2018 12:33:57
+噓 dearober: 學弟母湯哦 學長我噓你是為了後面的人好 01/08 13:47
+推 haruno1410: 推是門好課，老師上得很清楚，問問題也會很耐心的回答 01/08 20:52
+→ haruno1410: 但是不建議大一修啦XD除非你是神人 01/08 20:52
+噓 Dreamer11705: 知道光程差是什麼 配上天生神力 這門課國中可先修 01/09 20:00
+→ Dreamer11705: 可能我小人之心渡君子之腹 但推薦文≠炫耀文喔 01/09 20:03
+→ Dreamer11705: 熱情推薦很好  可是大三必修推薦大一修會害到人 01/10 00:06
+噓 EchoRyne: 學弟不要亂害人  修繞射前需要的先備知識蠻多的  大一修 01/11 17:15
+→ EchoRyne: 很多東西都沒學過 01/11 17:15
+噓 pharhan: 為了之後的學弟妹還是來噓一下 01/11 17:43
+→ pharhan: 雖然繞射真的可以懂一些物冶不懂的，但也不表示就不需要 01/11 17:45
+→ pharhan: 前兩年的先備知識 01/11 17:45
+噓 pharhan: 還有 原po學霸修什麼應該都很能懂吧 真的不建議大三以前 01/11 17:47
+→ pharhan: 亂修啊@@ 01/11 17:47
+噓 adonisfu: 學弟 不是每個人都像你一樣那麼聰明 作業跟考試所需要 01/13 17:50
+→ adonisfu: 的能力也不是大一或大二就有能力完成的 01/13 17:50
+噓 SKMiyako0311: 給學霸尊重啊 01/13 19:05
+推 Rewrite: 推 認同 01/13 19:23
+噓 asdf403: 繞射好課但這篇不行 01/13 22:13

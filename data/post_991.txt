@@ -1,0 +1,134 @@
+作者Akkusaii3741 (我愛吃烤雞)看板NTUcourse標題[評價] 107-2 魏志平 資訊管理導論時間Wed Jul  3 20:59:41 2019
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+        否
+
+      哪一學年度修課：
+
+        107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        魏志平教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        資管大二必修
+
+      δ 課程大概內容
+
+        第2週 2/27    Overview of Information System
+
+        第3週 3/06    IS, Organizations, and Competitive Advantages
+
+        第4週 3/13    IT Infrastructure and Emerging Technologies
+
+        第5週 3/20    Enterprise Applications
+
+        第6週 3/27    E-Commerce, Digital Market and Digital Goods
+
+        第7週 4/03    春假
+
+        第8週 4/10    Invited Talks: Digital Transformation Cases
+
+        第9週 4/17    Data Analytics
+
+        第10週 4/24   Presentation of Group Project #1
+
+        第11週 5/01   Data Analytics (2)
+
+        第12週 5/08   Data Analytics - Text Categorization
+
+        第13週 5/15   Sharing Economy
+
+        第14週 5/22   Internet-of-Things-and-Their-Applications
+
+        第15週 5/29   IT Investment Appraisal
+
+        第16週 6/05   Examination
+
+        第17週 6/12   Presentation of Group Project #2 (I)
+
+        第16週 6/05   Presentation of Group Project #2 (II)
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        課程前半段 ★★
+        課程後半段 ★★★★★
+
+        期中報告之前的上課內容比較涵蓋式
+        所以會有蠻冗的感覺
+        其中之後我覺得老師上的越來越棒
+        後面講演算法的地方很讚＃
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Laudon, K.C. & Laudon, J.P. (2018). Management Information Systems:
+        Managing the Digital Firm. 15th Ed., Pearson Education Limited.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        有 ppt，會用 ppt 上課
+        基本上考試、上課都不會用到課本，不喜歡買書的朋友可以不買
+        自己覺得老師在後面 data mining 的演算法那邊上的挺好的
+        不過前面剛開始的地方真的讓我常常上到睡著
+        前面會蠻有翹課的衝動的
+        不過建議可以留到後面，某幾堂課我覺得真的還不錯
+
+        至於上課如果有聽不懂
+        老師都會上完一段馬上問說有沒有問題
+        可是大家都很害羞，所以通常沒人會發問
+        我自己是會先寫起來，下課再去前面問，不然就是先想一下再去問
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        有念有分
+        應該算是扎實甜
+        考前把教授 ppt 看熟，期末考要 9X 不難
+
+        出席部分，可以包容三次點名未到
+
+        Examination             ............      40%
+
+        Group Project #1        ............      15%
+
+        Group Project #2        ............      35%
+
+        Class Participation     ............      10%
+
+        Total           100%
+
+
+
+      ρ 考題型式、作業方式
+
+        沒作業
+
+        兩次報告
+
+        一次期末考：
+                是非、選擇、手寫
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        沒有太多規定，下課有問題可以去問
+        老師回答得蠻清楚的
+
+      Ψ 總結
+
+        資管大二的必修所以好像也沒什麼太大的好壞問題
+        不過如果其他系的學生想來修看看，了解一下資管
+        我自己是覺得蠻不錯的
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.173.84.36 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1562158783.A.F16.html
+推 hippo130: 推魏老師 也推助教 07/06 17:12
+推 ak61505: 方便問一下課本是在那裡買的嗎？或是能不能載到 ppt 11/19 20:08

@@ -1,0 +1,80 @@
+作者cswpeter (cswpeter)看板NTUcourse標題[評價] 106-1 電工學 黃念祖時間Tue Jan 23 23:16:46 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+黃念祖
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+機械系知識領域選修
+
+      δ 課程大概內容
+
+課程內容：
+
+1. Introduction and Fundamentals of Electric Circuits
+2. Resistive Network Analysis
+3. AC Network Analysis
+4. Transient Analysis
+5. Frequency Response and Filters
+6. Operational Amplifier
+7. Introduction to Semiconductors and diodes
+8. Introduction to Bipolar Junction Transistors
+9. Introduction to Field-Effect Transistors
+10. Electronic Instrumentation
+
+      Ω 私心推薦指數(以五分計)
+★★★★
+η 上課用書(影印講義或是指定教科書)
+
+”Principles and Applications of Electrical Engineering“ 6th ed. by Giorgio R
+izzoni
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片教學，老師會搭配板書。
+但是本書的內容大約有九成都在投影片上我個人覺得有點多餘， 但還是不少人會抄筆記
+。我個人是沒有抄，考試的時候不覺得有太大影響。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+1          Final Exam   30%
+2       Midterm         40%
+     1st midterm 20% , 2nd midterm 20%
+3        Homework       20%     five homework
+4       In-class Discussion     10%
+
+個人覺得紮實分
+
+      ρ 考題型式、作業方式
+
+這學期原定有5份作業，但是最後因為時間關係只有4份。一次作業有5題，難度不是很高
+，看著例題做，一般來說都能寫得出來。
+
+老師給的作業還有習題偏簡單，考試出題都難上不少， 考前要自己找其他題目練習才有
+辦法更上手考試的題目。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+雖然不會點名，但是很常會發一張空白的A4紙表示會要求在上面練習特定題目。 課堂這
+份練習也會列入評分。
+
+另外總共做了三次小實驗， 三個人一組，時間都規定在一小時內完成，報告通常也不會
+花很多時間，做完後的半小時馬上就能寫完交給助教。
+
+      Ψ 總結
+
+教得蠻好的一門課，沒給五顆星只是我個人因為對於訊號方面不是有太大的興趣稍微覺得
+計算有點枯燥。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.84.233.19
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1516720609.A.582.html
+推 tan84911: 兩次期中都跟作業還有助教公佈的練習題蠻像的 然後最後 01/24 18:58
+→ tan84911: 好像有調一點分XD 01/24 18:58

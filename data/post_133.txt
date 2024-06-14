@@ -1,0 +1,66 @@
+作者waka (西薩溪不理)看板NTUcourse標題[評價] 110-1 鄭龍磻 計算機系統實驗時間Thu Mar 17 23:32:02 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+110-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+鄭龍磻
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資工必修，與計算機網路實驗擇一
+可以不用會SP/OS就來修，沒麼什麼太大關係
+
+      δ 課程大概內容
+第1週   9/23    intro- grading policy and registration
+第2週   9/30    introduction
+第3週   10/07   bootstrapping- set up development environments
+第4週   10/14   making an FTIR touchpad- multitouch technologies and
+第5週   10/21   making an FTIR touch pad- interactive computer vision and
+classification
+第6週   10/28   making a DJ pannel- electronics, circuitry, sensors
+第7週   11/04   making a motion controller- motion
+第8週   11/11   midterm exam
+第9週   11/18   making a motion controller- rapid prototyping
+第10週  11/25   making a catapult- statics
+第11週  12/02   making a haptic device- dynamics
+第12週  12/09   final project- transmission
+第13週  12/16   final project- heavy duty machines
+第14週  12/23   final project- early interactive computer systems
+第15週  12/30   final project
+第16週  1/06    final exam
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★
+      η 上課用書(影印講義或是指定教科書)
+無
+      μ 上課方式(投影片、團體討論、老師教學風格)
+每堂課就是lecture(搭配投影片)和lab(助教講解和實作)，不是每堂課兩個部分都有
+如果兩個都有的話通常lecture上完才會中間休息，有時候覺得有點久
+lecture中間會穿插一些brainstorming時間，老師會問大家的想法
+lab本身似乎不算成績，但有趣的是沒人擺爛? 每次lab都需要錄影結果然後上傳
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+期中考40%
+期末考60%
+lab會有bonus，按照完成的bonus比例提升最後成績等第往上一個的機率，也就是說如果全部
+bonus都有做就100%等第往上一個
+最後A和A+各28%
+
+      ρ 考題型式、作業方式
+期中期末都是紙本考試，題型有簡答、選擇、設計之類的，lecture和lab內容都會有，兩
+次範圍不重疊。
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+可能不會收很多人(還好也沒很多人要上的樣子，最後只有不到30個人吧)
+如果要簽似乎是要聽完第一堂課寫一個作業，看起來和老師在前瞻出的是一樣的，不太需
+要有甚麼門檻
+
+      Ψ 總結
+lab部分整體感覺硬體部分比軟體多，修課之前完全沒想到，想說是必修也沒做調查(但也
+沒評論可看，因為這門課老師也才開第二年)，但都很有趣就是了。沒想到會碰到那麼多硬體的東西，覺得機
+械系之類的人應該可以來修(?)。之後會換到新大樓的教室上課的樣子。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 155.4.158.30 (瑞典)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1647531124.A.C1E.html

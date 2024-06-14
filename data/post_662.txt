@@ -1,0 +1,176 @@
+作者oToToT (屁孩)看板NTUcourse標題[評價] 108-2 趙挺偉 CUDA平行計算導論時間Tue Jul 14 03:45:00 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+
+        108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        趙挺偉
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        物理所選修
+
+      δ 課程大概內容
+
+        - An Overivew of Nvidia GPUs,
+          and GPU Accelerated Computation with CUDA
+
+        - Vector Addition, Matrix Addition, Field Theory on 2D lattice
+
+        - Vector Addition of Arbitrarily Long Vectors,
+          Dot Product of 2 Vectors, Parallel Reduction
+
+        - Laplace/Poisson Equations on 2-Dim Lattice with Boundary Conditions,
+          Texture Memory
+
+        - CUDA with multi-GPUs, Vector addition with multi-GPUs,
+          Peer-to-Peer (P2P) communications between GPUs
+
+        - Solving Laplace Equation with multi-GPUs, Heat diffusion.
+
+        - Histogram, Atomic Operations.
+          Introduction to Pseudo-Random Number Generators
+
+        - Monte Carlo Simulation, Importance Sampling, Metropolis Algorithm
+          Monte Carlo Simulation of 2D Ising Model
+
+        - Monte Carlo Simulation of 2D Ising Model with Parallel Computers.
+          Even-Odd (Checkboard) Updating Scheme, Constant Memory,
+          GPU Accelerated MC Simulation of 2D Ising Model with Global Memory
+
+        - Error Estimation for Monte Carlo Simulation, Unified Memory,
+          Vector Addition with the Unified Memory
+
+        - Fourier Transform, Discrete Fourier Transform, Fast Fourier Transform,
+          CUDA Library, cuFFT, Physical Applications.
+
+        - CUDA libraries: cuBLAS, Examples: Saxpy, Sgemm
+
+        - LAPACK, MAGMA, Examples - dsyevd, zheevd, Physical applications
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        有物理底子，喜歡寫程式，想了解基本平行計算 ★★★★★
+        單純想學平行演算法 / CUDA  ★★★★★
+
+        從上面課程內容可以知道這門課其實很物理，畢竟開個系所就是物理所，所以
+        如果像我一樣物理很爛的話，可能會有一半的時間聽不懂上課講的東西是怎麼
+        來的，我自己是後來就都當作給定一些已知事實，想去算某些式子的感覺單純
+        去學CUDA相關概念的。另外如果物理不好的話寫作業可能會無法驗證自己寫的
+        code是不是爛的，因為很多作業都跟物理有關，常常我都不知道自己算出來的
+        東西是在幹嘛QQ
+
+      η 上課用書(影印講義或是指定教科書)
+
+        真要算的話應該就是 CUDA C Programming Guide吧
+
+        https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf
+μ 上課方式(投影片、團體討論、老師教學風格)
+
+        全英文上課，老師有一定的口音，但是我覺得不會影響理解
+
+        這學期因為疫情，第一次上課後半段就跟大家說會用Zoom上課，老師也跑去
+        他的辦公室用Zoom講話測試，確保我們都會用Zoom上課
+
+        後來用Zoom上課的時候都是用簡報上課，中間會穿插實際跑之前寫好的程式
+        給我們看
+
+        講解程式碼的部分都講得很細，幾乎是把每一行都完整講過一遍，示範的code
+        也會有簡單的註解可以看，不過非常小的抱怨一下老師用vi沒標色一開始有
+        點不舒服，不過看久也有點開始習慣沒標色的editor了
+
+        老師人很nice的感覺，常常會問大家有什麼問題，有人有問題都會認真回答，
+        或者有時候有人感覺就是麥忘了關，老師也會確認他是不是真的有問題想問
+
+        之前上課的時候問過一個程式相關的問題，老師當下有簡單回答過，但晚上
+        的時候又寄了一份完整的回答給大家，感覺是真的滿用心的
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        60% 作業
+        30% Project
+        10% 上課表現/學習態度
+
+        這門課到最後好像只剩12個人在上，所以我也不確定算不算甜
+        看成績感覺就是作業準時好好交、Project好好做、上課有出席就會A+
+        但其實我覺得這應該是基本要求才對，只是總共也只有4個人做到QQ
+
+        我自己是這學期心態炸光光，雖然有認真寫作業，但應該超過一半的作業都遲
+        交，最後拿A。
+
+
+      ρ 考題型式、作業方式
+
+        這次總共十份作業，也就是前面幾周每周都有作業，作業內容跟上課內容滿
+        接近，有時候可能上課的範例程式碼改幾下就好了，不過我是都會自己全部
+        重寫。
+
+        每次作業除了要交程式碼以外也要交一份pdf，內容就是回答一些跟寫的程式
+        有關的問題，最常見的就是叫你回答實測中最好的參數是哪組，或是比較幾
+        個方法的快慢，並說明原因。
+
+        因為作業是CUDA，也就代表我們的code都會需要GPU才能跑，為了怕大家沒有
+        自己的GPU，或是不像資工系自己有GPU工作站可以用，這門課有提供上課的學
+        生6台GPU工作站可以ssh上去用，其中五台每台有兩張970，另外一台是兩張1060
+
+        再小抱怨一下OS是debian 9，而且上面沒有tmux只有screen，而且screen似乎
+        不支援256色，想在screen裡開vim寫code會有點不舒服，而且每台的家目錄是
+        獨立的，如果想換工作站用要自己搬家。
+
+        不過GPU有時候神秘的壞掉(資工系的似乎也會)，不過寄信老師都會很快的處
+        理好。
+
+
+        Project的部份自訂主題，只要跟CUDA/平行有關應該都可以，最後要交一份
+        report跟code。
+
+        我自己是嘗試用CUDA實作了Doc2VecC，但跑得比原本CPU版的還慢很多很多，
+        最後report寫了我的嘗試跟一些可能的問題，最後拿了個中位數的Project成
+        績。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        這學期是沒人來簽，但感覺這門課要選就選的上吧，開30人這學期也只有12
+        人上到底。
+
+        基礎的話最基本的應該就是C/C++了，畢竟CUDA就是C++的某種extension，老
+        師上課不會講C++語法的部分，所以一定要會寫C/C++，不然我猜應該一開始
+        就不知道在幹嘛了。
+
+        另外跟前面講的一樣，我覺得可能還是要有一定的物理能力，至少不會像我
+        一樣上課常常都很懵。
+
+
+      Ψ 總結
+
+        老師教的東西雖然不是很新，但是應該算是通用的，畢竟也不可能真的把整
+        個CUDA C Programming講完，而且很多新的東西舊的GPU像970也不會支援
+
+        個人覺得如果是跟我一樣只想學平行演算法的話，是不太推薦修這門課，但
+        是如果是想學平行演算法在科學計算上的各種應用的話，我覺得這門課應該
+        不會太差
+
+        這門課以一個2學分的課來看的話我是覺得花的時間有點小多，但這部分很有
+        可能是因為我每次作業都堅持從0開始刻，要修的話可以斟酌一下
+
+--
+
+
+Send from JPTT on my Google Glass
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.193.102.192 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1594669505.A.BFE.html
+※ 編輯: oToToT (123.193.102.192 臺灣), 07/14/2020 03:46:33
+※ 編輯: oToToT (123.193.102.192 臺灣), 07/14/2020 03:53:03
+推 unmolk: 沒有tmux也不能上色那寫vim真的會看得很不舒服捏 07/14 08:46
+推 tren: 推推老師~ 07/15 01:09

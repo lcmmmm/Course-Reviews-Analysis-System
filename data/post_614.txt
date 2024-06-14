@@ -1,0 +1,203 @@
+作者a22735557 (哥的小辣椒)看板NTUcourse標題[評價] 107全 分析導論一二 陳俊全時間Mon Aug 17 01:58:26 2020
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+
+      哪一學年度修課：
+
+
+107學年全
+
+
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+
+陳俊全
+
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+
+數學系必修
+
+
+      δ 課程大概內容
+
+107-1部分(引用自課程網)
+
+
+第1週  Introduction. Logic, set and function. The origin of numbers.
+
+第2週  Natural numbers, integers and rational numbers. Field axioms
+
+第3週  Ordered fields. Limits, Cauchy sequences and Completeness Axiom.
+
+第4週  Construction of the real number system
+
+第5週  Supremum, infimum Properties equivalent to completeness asiom
+
+第6週  Cantor's theory of infinity Cardinality Countable and uncountable
+
+第7週  Shiroder-Bernstein's theorem Fine properties of real numbers
+
+第8週  cluster point,limsup, liminf Vector space, norm, distance, inner product
+
+
+第9週  Topology of the Euclidean space. Open sets, interior points in a metric space.
+
+第10週 midterm exam, school anniversary
+
+第11週 sequence in a metric space, limit, cluster point
+
+第12週 series in a metric space
+
+第13週 sequentially compact: Heine-Borel Theorem
+
+第14週 compact: open cover, totally bounded, Bolzano-Weierstrass Theorem
+
+第15週 connected and path-connected sets, continuous mapping, operations on continuous mappings
+
+第16週 images of compact and connected sets, maximum-minimum theorem, intermediate theorem
+
+第17週 uniform continuity, Riemann integrabl
+
+
+107-2部分(課程網空白QQ)，憑印象
+
+
+期中考之前：uniformly converge (Cauchy criterion, W-M test, Integration and Differential of seires and sequence, Space of continuous function (Arzela-Ascoli Theorem), fix point theorem, Stone- Weierstrass Theorem, Dirichlet and Abel test, Cesaro and Abel Summability
+
+
+
+期中考之後：多變數微分，Inverse function Theorem, Implicit function Theorem, Lagrange Multipliers, Darboux's Theorem
+
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+
+想要靠上課學到紮實的高微：★★★
+想要上課不要太緊繃可以放鬆：★★★★★
+覺得上課太早想晚到一教室一點：★★★★★
+想要一探何為俊全語錄：★★★★★★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+
+Elementary Classical Analysis, 2nd Edition
+
+
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+
+純板書上課
+
+
+上課前會先有十萬個晚到教室的原因（買香蕉挑太久、計程車司機跟他說你數學一定很好然後開始分享其實我很討厭數學....等)，隨後就會開始上課。根據嚴格統計(我全勤)，老師僅有一次準時到XD(更不用提108實分析老師也都會晚到了XD，但我實分析有缺席過就是了
+
+
+
+
+上課整體而言我覺得不會很枯燥，雖然分析導論本身有點枯燥，但老師身為數學系鬼話王，常常會有各種令人為之一亮的言論(詳情可自己Google)，所以常常聽到想睡的時候來個語錄你就清醒了。
+
+
+
+老師上課基本上都是跟著指定用書，但有時候證明手法會比書上證明更棒，因此建議書一定也要看，課也一定要聽好聽滿。僅有上學期在建構實數進到點拓樸之前大多數是課本找不到的內容(也因此他構造的超久，期中考前只教到開集合...)
+
+
+
+老師的字不會很工整，但也不算太醜是可辨認範圍，但字可能會偏小。有同學反應過，老師把他放大了大概10分鐘然後就開始變回原形了。
+
+
+
+助教部分則是四位以學號分班，今年(109)的助教有兩位是107年就有擔任的。助教班進度不一，其實可以自己找自己適應的班上，只有繳交作業的時候一定要給自己助教。
+
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+
+完全的扎實，給分我不知道，但上學期我拿A，A的分布是3%左右，我同學B但他分數好像剛好在50%，所以應該是沒調分?吧?不及格邊緣我就不知道了
+
+
+下學期分數則比較好拿的樣子，因我最後還是A，但跟我同分含A+的比率我記得有10%左右，有沒有調分也不清楚。
+
+
+作業30，期中考30，期末考40
+
+
+      ρ 考題型式、作業方式
+
+
+考題都是8選5，不是選5題高分的，而是只改你選擇的5題。
+
+
+考題內容可以Google到年代久遠的NTU Exam考古，但只有上學期第一次期中考第一題(Order field)有考古過，其它全都是新的題目。
+
+
+但考題方向還算好準備，老師基本上必出課堂教過的證明(由其是考試前一堂課教的定理出現率很高)，其它的絕大部分都是課本習題，因此「若能」把課本習題幹完，然後把證明也都搞清楚，應該可以拿高分。
+
+
+作業部分通常都是課本習題，偶爾會有老師上課自己出的。需要注意的是，作業出現在考題的機率並不高，通常考題都是作業以外的題目。
+
+
+然後這本書的作業並不像Rudin有很多網路上的解答，所以你各位就好好寫作作業吧！
+
+
+下學期期末考考題有偏多的計算題，其它次考試基本全都是證明題。
+
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+
+其實不太需要基礎，只是有微積分基礎當然會學得更快，線性代數則幾乎沒用到過
+
+
+而原Po我其實沒修過微甲只有微乙上下，但基礎是比微乙在高些(準備過一些考試)但不至於到微甲。所以要說微甲是必要的嗎?我覺得不於就是了，但當然對於某些老師開的分析導論可能就是了(笑
+
+
+
+      Ψ 總結
+
+
+總結而言，我覺得教授上的還不錯，不會很有壓力，也算是有準備有分，考題頂多一兩題妖魔鬼怪題，但畢竟可以選題寫所以可以繞過它。
+
+
+但要注意的是，有準備有分也不是你好好讀就有用就是了，這門科我覺得天份很重要QQ...
+
+
+
+所以也一定要有自學的能力，網路其實有不少資源，我就不說了，大家可以自己找。
+
+
+
+
+之後我再找個時間把期中考期末考考題打一打放到NTU Exam板
+
+
+最後，之所以對於高微紮實只有給三顆是因為，可以發現老師的高微進度蠻落後的，下學期期末考結束前只有教完多變數微分，有教隱函數、反函數定理等是老師知道時間不夠才特別再抓後面幾個章節重點部分。
+
+
+或是這樣說好了，這本書有10章節，老師下學期期末考前只教完第六章，因此進度是真的有點慢。
+
+
+
+但也是因為這樣上課較為輕鬆，可說是有所取捨，且分析導論要教好教滿本來就也有點困難(很雜)，因此我認為有需要補的部分可以自己上網找資源學即可。
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.8.165.200 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1597600711.A.7C1.html
+※ 編輯: a22735557 (39.8.165.200 臺灣), 08/17/2020 02:09:11
+推 unmolk: 推推 08/17 07:00
+推 alan23273850: 所以標題的年份是對的ㄇ 08/17 18:19
+→ a22735557: 沒錯，是107學年的課，108他是開實分析 08/17 21:01
+推 starscat: 買香蕉挑太久www 08/18 23:40

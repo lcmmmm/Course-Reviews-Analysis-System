@@ -1,0 +1,176 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 109-2 孔令傑 資訊經濟時間Thu Jul 15 20:47:50 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+rrro
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+資管系/資管所選修
+
+      δ 課程大概內容
+
+節錄自syllabus
+--------------------
+Module 1: Incentives
+--------------------
+
+Week 1. Overview, quiz, and a review of optimization
+Week 2. No class: National holiday
+Week 3. A review of game theory
+Week 4. Channel selection under competition
+Week 5. Supply chain coordination
+Week 6. Pricing for utility-maximizing buyers
+
+---------------------
+Module 2: Information
+---------------------
+
+Week 7. No class: spring recess
+Week 8. The screening theory
+Week 9. Midterm exam
+Week 10. Screening under moral hazard
+Week 11. The signal theory
+Week 12. Signaling under moral hazard
+
+----------------------------------------------------------------
+Module 3: Advanced topics, guest speeches, and the final project
+----------------------------------------------------------------
+
+Week 13 ~ 16. Final exam, guest speech, review and preview, final project pres-
+              entations.
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+**課程難度部分**
+經濟系大三以上或具備相同能力：★★★★★
+不是經濟系大三以上且不具備相同能力：★★★
+數學不好：★★★
+個經、賽局不好：★★☆
+討厭學術課程：☆
+討厭分組作業：☆
+
+**課程興趣部分**
+想知道人們在不同資訊下怎麼行動：★★★★★
+想知道誘因與資訊不對稱如何被分析、利用且影響世界：★★★★★
+對機制設計有興趣：★★★★
+LaTeX 愛好者：★★★★★
+想要上小傑的課：★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+老師自編講義，都在COOL或是Coursera上面，搭配一些學術論文。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+翻轉教學。課前先去Coursera把影片看完，上課時老師簡單複習後帶著做題目，時而補充
+一些延伸的知識。老師會走下來看大家的答題狀況，有問題可以直接問，也很鼓勵跟身邊
+的同學討論題目等等。
+上課滿輕鬆的，壓力不會很大，也不會有一失神就落後許多進度的情況發生，進度跟節奏
+都抓得很好。小傑的教學品質應該不用多作補充了ＸＤ
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+Quiz: 5%
+Pre-lecture problems: 10%, where each problem counts for equal weight.
+Homework: 20%, where each assignment counts for equal weight. There were 4 hom--
+          eworks in this semester.
+Two exams: 30%, where the one with the higher scores counts for 20%.
+Final project: 35%
+
+第一週會有小考，內容涵蓋基本機率、微積分、線性代數、ＯＲ、經濟學等，下課助教就
+會把考卷改完發回來。
+課前問題每週幾乎都有，有看影片應該都做得出來，上課前（9:40左右助教會去收）繳交
+，逾時不候。
+作業本學期共四次，每次的問題都不小，會有需要討論的部分與Case study（在作業二與
+作業四）。團體作業，細節跟LaTeX編寫有問題都會被助教挑到，另外Case study是老師
+親自改，會給滿多建議的。
+
+滿甜的，等第分布如下：
+A+: 13
+A: 12
+A-: 5
+B+: 4
+B: 2
+
+      ρ 考題型式、作業方式
+
+考題我有丟到ntuexam上面，但每學期會不會一樣就不確定。可以確定的是考題內容跟課
+堂練習、作業、上課講的東西不會差太多。
+作業上面也講完了ＸＤ
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+全簽（吧）。第一週管一405人多到有人只能站著跟坐走道，考完小考後走了大半，最後剩
+不到40人修，上另一門課時發現好像滿多管院外系的學生有嘗試來加簽這堂課，第一週我
+也有看到滿多管院外系的人來，但可能講完課程規劃和考完試後就發現跟其他管院課不一
+樣就撤了（？）節錄老師簡報原話：
+
+This is an acadamic methodology course.
+- It is directly helpful if you are going to write a thesis with this research me-
+  methodology.
+- It can be indirectly help for you to analyze the real world. However, we do
+  not train you to do that in this course.
+This course is about science, not business or engineering.
+- It is about identifying reasons.
+- It does not teach you how to solve problems.
+- It does not teach you how to make decisions.
+
+最後一門課老師會說他認為什麼是科學，為什麼要在管院開這門課等等，還有一些人生體
+悟，但總之這門課跟其他管院的課很不一樣，看到資訊又看到經濟就興奮（？）的人可以
+先謹慎思考看看再決定要不要修，不然教室很擠，助教第一週又要改很多考卷，很可憐..
+
+這門課的組成最後以資管系、資管所與經濟系佔絕大多數，還有一些電機系的大神（感謝
+大神罩我...）來修。總之數學能力好的話修起來不會難、賽局理論熟的話修起來也不會
+太難，而且會學到一些怎麼分析資訊與機制設計的東西，滿有趣的！
+
+另外老師列出來的Prerequisites有Calculus, Probability, Convex optimization, Game
+theory。自己修下來覺得用到的以微積分跟賽局理論為重，機率也會用到，凸函數最佳化
+幾乎沒用到（在其他相關領域會用到一些技巧，但這門課沒什麼用到）。不過本質上這門
+課就是在解各式各樣的最佳化問題，不管是對生產者、對消費者、對平台、對零售商、對
+製造商；要不要合作、要不要進入這個市場、消費者怎樣才會行動、消費者要怎麼行動等
+等，所以知道一些最佳化的知識可能會有幫助，如修過ＯＲ、最佳控制之類的。
+
+此外個人滿推薦理工科系對經濟學、對商業有一點興趣的人來修，有工數等級的數學能力
+在這門課上絕對夠用，跟刻板印象中的管院課頗為不同，而且老師也會講一些關於報告、
+簡報呈現的經驗，我認為這在理工學院比較難從課堂上學到。
+
+      Ψ 總結
+
+小傑一生推！
+原本想說終於把小傑全餐修完，結果下學年的資料庫管理變成小傑教...以為今年就能把小
+傑在EMBA EiMBA GMBA PMBA外開的課全部修完，看來要明年才能達成了。
+
+老師會在最後一門課講一些人生體悟，為什麼人要活著、為什麼要做學術、為什麼要讀博
+士等等，最後以一句「這學期，我沒有遺憾。」作結，其實上完整學期的課後聽到老師說
+這些東西還滿感動的。感謝資管系有小傑，感恩台大有小傑。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.241.117.201 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1626353273.A.747.html
+推 rrro: 感恩大大一生平安 XD 07/15 21:00
+推 hunterhsu91: 樓上rrro 07/15 21:24
+推 shishe: 齁我今天也在想要寫這個 07/15 22:05
+→ unmolk: 寫啦寫啦 07/15 22:45
+推 j2c3: 原po 超強 07/15 23:14
+推 cuteSquirrel: 推rrro 07/15 23:57
+→ unmolk: 樓下rrro 07/16 01:05
+推 wwwh0225: 如果沒修過資訊經濟去上seminar 會不會死啊，還是semina 07/16 01:38
+→ wwwh0225: r 只給指導學生修XD 07/16 01:38
+推 rrro: 三樓大大寫啦寫啦～ 07/16 01:41
+→ rrro: 報告 w 大，對喔只給指導的學生修～ 07/16 01:42
+→ unmolk: 3樓大神雖然爆忙但還是快寫快寫一下啦xD 07/16 03:47
+推 folksuite: 借文問老師~ 資料庫管理會是翻轉教學嗎？ 07/16 08:03
+推 hsuzchan: 6.5 年前修過的回來推 XD 07/16 12:05
+推 tinwen: 借文 問老師  資料庫管理課程會放在youtube嗎 07/16 13:44
+推 rrro: 借文回答，第一年開課會先現場教喔，以後再看要不要錄跟翻轉 07/17 20:58
+推 folksuite: 瞭解~ 謝謝老師。無法現場上課，遺憾QQ... 07/19 12:29
+推 william77777: 推rrro 08/03 11:34

@@ -1,0 +1,123 @@
+作者MiddleRe (中間綠)看板NTUcourse標題[評價] 109-2 徐永豐 心理學數理方法時間Mon Jun 28 14:44:09 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+徐永豐
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)
+
+心理系選修
+
+      δ 課程大概內容
+
+Introduction
+
+第2週   03/03   Probability, random variables (ModelingBook Ch1)
+
+第3週   03/10   Distributions, expectation & variance (ModelingBook Ch1)
+
+第4週   03/17   Estimators, Maximum likelihood (tutorial by Myung, 2003)
+
+第5週   03/24   MLE I (ModelingBook Ch2)
+
+第6週   03/31   MLE II (ModelingBook Ch3)
+第7週   04/07   Theory of signal detectability (ModelingBook Ch4)
+
+第8週   04/14   Advanced threshold and signal-detection models (ModelingBook Ch5)
+
+
+第9週   04/21   (自主學習)
+
+第10週  04/28   Multinomial models
+(ModelingBook Ch 6.1-6.4)
+
+第11週  05/05   Threshold model applications (memory) (I)
+
+第12週  05/12   Threshold model applications (memory) (II)
+
+第13週  05/19   Luce's choice axiom (I)
+
+第14週  05/26   Luce's choice axiom (II);
+Reinforcement learning (I)
+
+第15週  06/02   Reinforcement learning (II)
+第16週  06/09   Threshold theory vs. SDT (ROCs in recognition memory)
+
+第17週  06/16   Modeling preference measurement and preference change
+
+第18週          期末報告
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+無，老師會放文章或書本章節當課程教材
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+前幾週主要是老師上課，後來都是由同學報告指定的 book chapter 或 paper。每個人每學
+期至少要報告兩次。當然，在報告過程中也可以隨時發問，並且老師有時也會針對同學的報
+告內容，再行補充（常常補充得意猶未盡）。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+作業 30%
+期末報告 40%
+口頭報告和課堂參與 30%
+
+給分還不知道，我期末報告覺得寫得偏爛QQ
+
+      ρ 考題型式、作業方式
+
+這學期沒考試
+作業都是寫一點 R，做一些估計係數或假設檢定的工作
+後期因為都是報 paper
+所以都以在 ceiba 上發問兩個問題為作業
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+需要初統基礎，雖然有先修規定，但會全簽，並不是硬性規定。像我也沒修心理實驗法。
+
+      Ψ 總結
+
+前面有一位也是今年修課，是心理系很厲害的同學的文章，大家可以去參考看看。不過我覺
+得我也能分享一點自己的感受，我本系不是心理系，心理系的修課也僅止於普心和神生，或
+者一些雜課，對心理學的認識有限，但我還是覺得學到不少。雖然這門課看起來有點怪，也
+沒什麼人在上，但能感受到老師對這個領域的熱情。事實上，老師的研究領域在國內也沒什
+麼人，也許他其實覺得偏孤單（？）。
+
+老師上課時有時也會說自己對心理學的看法。如果來上老師的課，應該能對心理學改觀，也
+許能有一種「欸原來心理學其實也能是這樣」的感覺。
+
+回歸正題，這門課本身像是數學心理學的導論課，簡單瀏覽一下數學心理學的概念與在各個
+心理學領域的應用。我自己本身是學社科的，說實話記憶、知覺什麼的不是很有感，但 rei
+nforcement learning、Luce’s choice axiom 或者 modeling preference change 的週次
+就覺得頗有趣。心理學和經濟學的交叉領域看似就是實驗經濟學、神經經濟學等，但如果來
+上這門課也會發現，哇其實不只如此。
+
+例如 Luce’s choice axiom 的那週，也提到了許多經濟學家，他們也參與在這個公理的討
+論中，或者直接間接的受到啟發。在這種討論中，慢慢體會到數學心理學家理解「偏好」、
+「選擇」的方式與經濟學家的異同（但也很有意思）。或者 modeling preference change
+那週，實證資料以總統大選的 panel data 為例，我也覺得頗有趣（雖然我也搞不太懂很多
+細節）。總之是心理系的課，但有些性質也頗像社科院的課，而不是大眾所認知的一堆神經
+、腦影像的那種心理學課程。
+
+其實我不算非常用功的學生，本身還蠻怠惰，所以也想提醒想修課的同學，這門課指定的閱
+讀數量不算少，如果沒先讀文章的話，當場聽同學報告可能會聽不太懂（這就是我的痛）。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.217.201.34 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1624862651.A.FBE.html
+推 longhaircat: 這門課竟然有第二篇心得！推～ 06/28 15:30
+推 lytt: 推 補充了很多我不太懂的部分 06/28 17:57
+噓 installbtien: 電神又開電了 06/28 18:51
+推 Astatesman: 推原po學神 06/28 20:44
+→ MiddleRe: 樓上又是誰QQ 可以提示嗎 06/28 21:58

@@ -1,0 +1,101 @@
+作者tryptochan (= =)看板NTUcourse標題[評價]107-1 江介宏 交換電路與邏輯設計時間Sun Aug 23 10:25:42 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         江介宏 教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機系  大一必修
+      δ 課程大概內容
+         - Introduction
+         - Number Systems and Conversion
+         - Boolean Algebra and its Applications
+         - Combinational Logic Design and its Minimization
+         - Karnaugh Maps and Two-Level Logic Minimization
+         - Multi-Level Gate Circuits
+         - Combinational Circuit Design
+         - Multiplexers, Decoders, and Programmable Logic Decices
+         - Sequential Logic Design and its Minimization
+         - Latches and Flip-Flops
+         - Registers and Counters
+         - Analysis of Clock Sequential Circuits
+         - Derivation of State Graphs and Tables
+         - Reduction of State Tables
+         - Sequential Circuit Design
+         - Circuits for Arithmetic Operations
+         - Hardware Description Language: Verilog (basics)
+         (以上複製自ceiba)
+      Ω 私心推薦指數(以五分計) ★★★★★
+         大推!!
+      η 上課用書(影印講義或是指定教科書)
+         C. H. Roth, Jr. and L. L. Kinney, Fundamentals of Logic Design,
+         7th edition, CENGAGE Learning.
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片為主，偶爾用黑板輔助
+         教授是Logic Design強者，人很幽默又實力超強
+         雖然感覺不是專攻教學方法(?)的老師，但講起話來就很有條理
+         另外有時候教授會很自然地使用一些聽起來很厲害的專有名詞
+         (包含上課沒出現過的) 請不要被嚇到XD
+         沒聽懂就直接問就可以了
+         下課找教授問各種問題也是很棒的體驗～
+         最後一堂課教授會講解把這門課的內容跟未來的發展
+         能在交電聽到Chomsky Hierarchy、Quantum Boolean Circuit Design、
+         Computational Complexity...的應該也只有這班了吧
+         (其實我不知道其他班有沒有?
+
+         反正大推就對了(#
+         尤其適合喜歡想奇怪問題的人類
+      σ 評分方式(給分甜嗎？是紮實分？)
+         因為是電機系統一授課，給分也是四班共同分配
+
+         14% HW
+          8% Quiz 1&2
+          6% Quartus II HW
+         35% Midterm
+         35% Final
+          2% Participation
+
+      ρ 考題型式、作業方式
+         作業：
+           紙筆作業：
+             共7次，課本習題
+             基本上就是練細心程度跟上課理解、名詞定義的基本題
+
+           Quartus II：
+             兩次，一次combinational，一次sequential
+             最困難的就是安裝好能運作的環境(O
+             助教應該是因為怕出狀況，提供的是
+             "預留好空間並設定好環境的虛擬機連同Quartus程式"的檔案
+             一言以蔽之：25GB
+             所以光下載就是一個令人抓狂的過程
+
+         期中/期末：
+             會給考古題，應該都差不多(?)
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         沒印象有點過名，也沒有什麼先修要求(大一必修嘛
+         個人會建議課後不要安排活動，因為有時候會延後下課
+         然後上課真的收穫很大
+         也超推薦下課找教授問問題～
+         個人去問過一些像是給定兩個State數量不超過n的FSM
+         是不是一定存在某個長度為f(n)的bit string s.t.檢查完該序列的output
+         一定能夠確認兩個machine是否一致之類的
+         (當時的問題可能不太一樣，但反正是類似的天馬行空問題)
+         跟教授討論問題真的是很棒的體驗
+
+      Ψ 總結
+         好教授推推！
+         修完對相關課程有興趣的也推薦修教授開的EDA導論(偏向實務導向)
+         和/或資工系的自動機與形式語言(計算理論的入門課程)
+         (教授的邏輯合成與驗證本人暫時還沒挑戰過
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.162.128 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1598149544.A.E73.html
+推 chun10396974: 推原po電神 08/24 00:57
+推 b0241091: 想詢問上課pdf檔密碼是多少？ 01/24 03:19

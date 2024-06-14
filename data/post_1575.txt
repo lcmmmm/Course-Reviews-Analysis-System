@@ -1,0 +1,101 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 105-2 蕭旭君 密碼學與資訊安全時間Sat Jul 22 13:15:36 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        105-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        蕭旭君
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資訊所 網媒所 資工系選修
+      δ 課程大概內容
+        2/22    Course Info
+        3/01    Introduction
+        3/08    Cryptographic Hash Functions
+        3/15    Entity Authentication
+        3/22    Key Exchange
+        3/29    Public Key Infrastructure
+        4/05    No class
+        4/12    Anonymous Communication
+        4/19    Midterm exam
+        4/26    Guest lecture
+        5/03    Denial of Service
+        5/10    Transport Layer Security
+        5/17    Web Security
+        5/24    Web Security
+        5/31    Secure Routing
+        6/07    Final Exam
+        6/14    Final Project Presentation
+        6/21    Final Project Presentation
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+        老師投影片
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        講述投影片。
+        老師上課滿喜歡提到時事，像是sha-1 collision之類的，上課的
+        例子也大多來自時事。
+      σ 評分方式(給分甜嗎？是紮實分？)
+        HomeWork (40%*->44%)
+                Labs 10% * 3
+                Reading Critiques 2% * 7
+        Midterm exam 15% * 2
+        Group project 25%
+        Class participation 5%
+
+        分數大概長這樣，最後期末成績平均真的頗高，不過很紮實呦
+      ρ 考題型式、作業方式
+        Labs 形式
+        分成手寫題跟實作題，手寫題基本上就是查查投影片，寫一寫就
+        結束惹。這門課的精華是實作題，實作題主要是以ctf的形式，
+        透過解決問題得到flag，有像是sha1 collision的製造、ECB、
+        CBC Oracale、Tor Anonymity Issue、Sql Injection等等。
+
+        Reading Critiques
+        簡單來說就是看Paper寫Review，以一門研究所的課來說，還滿
+        正常的。
+
+        Group Project
+        這個部分，就是各組自己找題目，然後期末上台Present，老實
+        說，挺麻煩的。我們這組做了投票系統的分析，痾，然後光是
+        看source code就花了滿久。其他組有做Ransom APP、肉搜、
+        url utf-8 issue等等。
+
+        期中期末考
+        全手寫，大概把上課的東西讀一讀就可以了，期末考滿分120，
+        然後我認識的一堆破百=口=
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        一般上課翹掉沒什麼差，不過final project那兩次一定要出現。
+
+        基礎的話，可以從0開始，沒什麼差，因為這門課原先就被定位在
+        計算機安全的前導課程，讓大家體驗一下
+
+        加簽的話，基本上要寫一份critique當HW0，不過今年是有寄有簽
+        ，然後第一堂課時，整個教室大爆滿，第二堂課時，只剩三十出頭
+
+      Ψ 總結
+        作為計算機安全的前導課來說，這門真的是不可多得的好課，透過
+        每次LAB的題目，可以讓人去深入了解每個領域。雖然對於沒經驗
+        的人來說，做作業的過程中會一直鬼打牆，會覺得生不如死。但是
+        ，這樣獲取的知識才會刻骨銘心。
+
+        如果只願意每次作業花五六的小時，那這門課絕對不是你想要的；
+        如果是碰到問題找不到答案就放棄的人，那這門課對你有可能不太
+        適合。不過如果你是旭君粉，那就另當別論>/////<
+
+        掰惹威，這門課的修課學生，有些經歷還滿特殊的，像是現任檢察
+        官之類der
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.97.61
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1500700539.A.642.html
+推 Gin1024: 推旭君粉>/////< 07/22 19:23
+推 Irecc: 作業難到歪頭 07/23 18:01
+推 simonmao: 原po全知全能 07/23 19:10
+推 sam85sam22: 推原po 07/23 20:30
+推 benny9072004: 作業難到歪頭的話記得要來問助教R XD 07/29 21:17
+推 t1016d: 推全知全能 <(_ _)> 08/01 00:30

@@ -1,0 +1,140 @@
+作者Sleeper4real (Sleeper)看板NTUcourse標題[評價] 104-2 陳其美 投資學時間Fri Jul  8 21:39:47 2016
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+是
+
+      哪一學年度修課：
+104-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+陳其美老師
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+財金系大二必修
+      δ 課程大概內容
+老師自編講義(上課內容)：
+Ch0 Math Review
+~Midterm~
+Ch2 Expected Utility Theory and Prospect Theory
+Ch3 Walrasian Equilibrium and Pareto Efficiency
+Ch4 Portfolio Theory and CAPM
+~Final~
+Ch5 Pricing Derivative Assets in a Static Economy
+Ch7 Bond Pricing and Term Structure of Interest Rates
+(不考) Ch6 Stock Trading, Pricing, and Bubbles
+課本(回家自修部分，超級無敵重要)：
+~Midterm~
+Ch1 The Investment Environment
+Ch2 Asset Classes and Financial Instruments
+Ch3 How Securities are Traded
+Ch4 Mutual Funds and Other Investment Companies
+Ch5 Introduction to Risk, Return, and the Historical Record
+Ch6 Risk Aversion and Capital Allocation to Risky Assets
+Ch7 Optimal Risky Portfolios
+Ch8 Index Models
+Ch9 The Capital Asset Pricing Model
+Ch10 Arbitrage Pricing Theory and Multifactor Models of Risk and Return
+Ch12 Behavioral Finance and Technical Analysis
+~Final~
+Ch14 Bond Prices and Yields
+Ch15 The Term Structure of Interest Rates
+Ch16 Managing Bond Portfolios
+Ch18 Equity Valuation Models
+Ch20 Option Markets: Introduction
+Ch21 Option Valuation
+Ch22 Futures Markets
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+想學東西：★★★★★
+沒什麼重課，像來點挑戰：★★★★★
+不喜歡背課本：★★
+想輕鬆拿A+：★★★
+總評：★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+老師自編講義
+http://www.fin.ntu.edu.tw/~cchen/lecture1.html
+回家自習的課本
+Investments, 10th edition, Bodie, Kane, Marcus
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+老師的教學風格主要是照著他自編講義的脈絡，一個一個點講下去。遇到過於繁瑣或是複雜的證明會跳過，但大致上都會講解到。
+如果在上課前沒預習過、程度又不夠猛的話，常常會跟不上他的思緒，到最後會完全聽不懂他在講什麼，但如果有預習的話不太會產生這種狀況。
+老師也會藉由上課時抽點同學問問題來測試同學到底有沒有聽懂（但大多被抽到的人都沒有回答出來，可能是太緊張了）
+另外老師時不時有感而發講他自己的人生觀：例如ntu雖然是三流大學，但身為台大學生應該要懷有大志、某前總統貪污、金庸劇情...等，聽一聽有時候還蠻有收穫的，建設一些不錯的人生觀點
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+評分是我扣這門課一顆星的原因。
+今年跟前幾年比起來不甜許多(雖然也不算真的不甜啦)，全班47人(不含已停修的不知多少人)成績分佈如下
+A+：4
+A：7
+A-：12
+B-~B+：21
+C：1
+F：2
+但評分最大的問題在考試配分方式。
+期中考：
+是非題40分，12題，一題3分送4分，全部是課本裡的句子稍作修改。
+計算題60分，極難，全班破40的只有兩人。
+老師在發期中考卷那週有提到這屆最高分只有75，跟上屆的89比起來差很多。但我個人覺得老師沒有意識到考題一年比一年難像是兩三年前搞懂CAPM大概就穩拿30分了，但今年出的難到全班只有兩個破40，結果最後變成是非題是期中決勝負的關鍵，然而在是非題考的過細的狀況下又變得有點在比運氣(不過當然還是有很厲害的人都背的起來啦QQ)。
+期末考：
+是非題40分，10題，一題4分
+計算題60分，20題填充，一題2分送20分
+計算題不會太難，填充題ㄧ粗心就整格錯了，而且題組還會連錯，所以真的要非常小心(本人眼殘被扣3格)。
+期末最大的問題在於是非題一題配分過重、計算題太輕。而是非題仍是課本句子抓出來改。老師可能是希望以是非題考出學生的認真程度，但我個人經驗是完全不準orz 我由於期中是非沒有仔細唸只有拿22分，所以期末把7個章節全部唸了兩次，甚至還為歷來三年最常考的兩章做很詳細的筆記。結果最後期末只拿24分，跟不少考前抱佛腳的人差不多= =
+會這麼低的原因最主要是因為考了不少在課本上並非重點的小細節，比方說：那個證券交易所在哪一年取代了另一個證券交易所變成美國最大的交易所（完全沒印象阿orz認真懷疑自己用的第9版課本是不是沒有這段
+
+      ρ 考題型式、作業方式
+考題在上面介紹過就不在多說了
+作業有四次，期中、期末各兩次。
+期中前的題目非常難，很多是理論或現象的證明，但這種題目很多都有給提示，跟著提示一步步做還算能寫出來（雖然會覺得正常人根本不會想到這種解法
+期末前的題目則算基本題，講義後面例題有算過就不怕不會寫。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+看過去評價文就知道老師前三週都會極力勸退加簽的同學XD
+不過只要撐的過那三週都還是簽的到。
+另外老師不注重出席，所有成績都是看作業及考試決定（幫忙訂書的班代有加一點點分
+這門課外系同學算非常多，47人只有20個財金系。今年以數學跟資工系的同學最多，撐到學期末的有15人。
+基礎大概只有微積分跟一點點線代吧，但數學強跟成績應該沒什麼相關性。以下是今年科系與年級跟最後等等的分佈：
+B03：A+/A 2、A- 8、B+/B 9、B-以下 2
+B02：A+/A 5、A- 2、B+/B 7、B-以下 1
+B01以上：A+/A 4、A- 2、B+/B 2、B-以下 3
+數學系：A+/A 1、A- 1、B+/B 5、B-以下 1
+電資學院：A+/A 2、A- 1、B+/B 4、B-以下 1
+管院：A+/A 5、A- 7、B+/B 6、B-以下 2
+社科院：A+/A 1、A- 2、B+/B 1、B-以下 1
+其他(材料、牙、理學院)：A+/A 2、A- 1、B+/B 2、B-以下 1
+雖然兩個分類算出卡方都是insufficient evidence to reject H0，我感覺高年級在這門課的整體成績還是比較好啦（尤其B01以上有兩個B-以下是研究生根本沒考期中期末才被當掉的
+
+      Ψ 總結
+寫這篇最主要的用意是要提醒想修課的大家目前的課程難度跟給分方式已經不同於前幾篇評價文所描述的了，但如果想要學到扎實的投資學還是很推薦這門課～
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.13.220
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1467985189.A.702.html
+推 LeeMY: 中肯評價文推推 07/08 21:42
+推 oldcream24: 流淚推 07/08 21:51
+→ ericrobin: 20個財金系很多吧...以前修只有2.3個 07/08 21:53
+推 snoozeglight: 今年評分相較往年來說不太甜QQ 07/08 22:08
+推 bboy0720: 其實蠻不解為何一直不把投資學更新到2013 nobel prize 07/08 22:14
+→ bboy0720: 這堂不教 就幾乎沒有台灣的課會教了 07/08 22:15
+推 LYC1025: 成績no mind 學到東西比較重要 07/08 22:18
+推 LeeMY: 學弟妹們記得第一堂課穿A&F的衣服哦 07/08 22:45
+噓 Hormes: 不推老師 07/09 00:36
+推 hsuzchan: 隔壁棚來純推今年超棒的助教 www 07/09 01:38
+推 perhdball: 樓下助教快來推文 07/09 02:03
+推 spadeace075: 蠻中肯的  尤其是評分方式那邊XD 07/09 02:20
+→ spadeace075: 我猜老師今年可能覺得期中期末調太多了QQ 07/09 02:21
+推 Jasonfm89: 肇和艦起義 07/09 02:24
+推 chopper594: 強者我同學最高分 07/09 02:40
+推 trumulertrml: 樓上你同學期末考填充題填錯順序 07/09 10:10
+推 snoozeglight: Hormes去年財金系最高分 07/09 10:21
+→ Hormes: 樓上誰啊0.0 07/09 16:21
+推 windalso: A&F XDDDDDD 07/09 16:41
+推 annylin90168: 推原po 07/09 21:03
+推 aeiou335: 還是推這門課啦 別太在意成績就好 07/09 23:31
+推 BreathWay: 推 有認識數學系的計算題很會 是非題亂猜 07/10 07:05
+推 IrisTiara: Block by Chyi-Mei! 08/23 08:03
+推 sekihantb: 推原po神人一枚 09/08 13:07

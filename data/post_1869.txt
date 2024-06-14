@@ -1,0 +1,125 @@
+作者Ironpower (Ironpower)看板NTUcourse標題[評價] 105-1 黃漢邦 自動控制時間Thu Jan 12 17:03:17 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+        是
+
+      哪一學年度修課：
+
+        105 學年度第一學期
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        黃漢邦 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        機械系大三必修
+
+      δ 課程大概內容
+
+        第一次期中考範圍：
+
+        Chapter 01: Introduction
+        Chapter 02: Mathematical Models of Systems
+        Chapter 04: Feedback Control System Characteristics
+        Chapter 05: The Performance of Feedback Control Systems
+
+        第二次期中考範圍：
+
+        Chapter 03: State Variable Models
+        Chapter 06: The Stability of Linear Feedback Systems
+        Chapter 07: The Root Locus Method
+
+        期末考範圍：
+
+        Chapter 08: Frequency Response Methods
+        Chapter 09: Stability in the Frequency Domain
+        Chapter 10: The Design of Feedback Control Systems ( 特難 )
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        熱愛自學：★★★★★
+
+        熱愛偷看別班的上課影片：★★★★★
+
+        熱愛每週交還沒上過範圍的作業：★★★★★
+
+        熱愛不好笑的笑話：★★★★★ 有些不錯啦
+
+        綜合評價：★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Modern Control Systems, 12/e, Drof & Bishop, Pearson
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        投影片為主，曾有三次上課使用板書。
+
+        上課速度偏快，一章大概會有兩到三份投影片，投影片內容多為公式以及
+
+        例題，每份投影片皆有重複的內容，因此時常會有銜接上的問題，造成大
+
+        家常常不曉得老師的脈絡。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        25%     Homeworks, Experiences
+
+        25%     Midrem 1
+
+        25%     Midrem 2
+
+        25%     Final
+
+      ρ 考題型式、作業方式
+
+        Homeworks:
+
+        每週一份作業，一份作業約 6 題左右。
+
+        Experiments:
+
+        安排四次的簡單實驗，主要觀察不同參數對馬達的影響，一次實驗約 30
+
+        分鐘，四人一組，每次實驗結束統一交一份截報。
+
+        Miderms, Final:
+
+        約 4~5 題，老師說可以自己選要不要開書開電腦，我們班是選閉書考 (必輸考)
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        不重視出席率，需要線性代數基礎。
+
+      Ψ 總結
+
+        老師上課的脈絡不是很清楚，觀念講解也不是非常清晰，要花很多時間
+
+        自己理解上課內容，實在不是很推。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.4.209
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1484211799.A.874.html
+※ 編輯: Ironpower (140.112.4.209), 01/12/2017 17:05:09
+推 FTICR: 請問(別班的)上課影片有公開可以看嗎? (我外系想自學自控) 01/12 17:23
+
+是沒有公開的喔！
+
+推 lsleon127: 幫原po推，真的需要另外花很多時間讀才能懂，雖然我最 01/12 17:30
+→ lsleon127: 後是沒有懂啦QQ 01/12 17:30
+→ yangchris11: 別嫌了........我大EE系開控制的只有蔡某....... 01/12 19:33
+※ 編輯: Ironpower (140.112.4.209), 01/12/2017 20:20:52
+推 ck70815: 推大同 01/12 21:02
+推 sleeplazypig: 個人認為需要的是自動控制基礎。 01/13 16:59
+推 ramour: 他以為全班都天才阿 01/13 22:58
+推 lsleon127: 看到下面蔡的評價...覺得好像差不多（煙 01/14 03:17
+推 special1990: 我只能推助教了 01/14 16:47
+推 mutichung: 推全系都看(別班)的教學影片 01/17 20:59
+→ mutichung: 而且明明社團就混進了一堆EE的好嗎wwwww 01/17 20:59
+推 hank850503: 覺得別班的影片教的超好的說，應該是MEEE裡教最好的 01/18 06:00
+推 justinme: 想自學的人可以看youtube上Brian Douglas的影片 01/25 16:57
+推 yahe0526: 推助教 02/15 18:20

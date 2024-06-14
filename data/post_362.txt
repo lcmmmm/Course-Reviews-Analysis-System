@@ -1,0 +1,110 @@
+作者mirrorflower (鏡花水月)看板NTUcourse標題[評價] 109-1 郭光宇 電磁學上時間Fri Jul  2 09:03:05 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+（是／否／其他條件）：是
+
+
+哪一學年度修課：109-1
+
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+郭光宇
+
+λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)
+
+物理系大二必帶
+
+δ 課程大概內容
+
+1. Vector analysis
+Vector algebra; vector different ial calculus; vector integral calculus; curvi
+linear coordinates; Dirac delta function, Helmholtz theorem.
+
+2. Electrostatics
+Principle of linear superposition; Coulomb’s law; static electric field; Gaus
+s’s law; electric potential; Poisson’s equation and Laplace’s equation; wor
+k and energy in electrostatics;conductors and capacitors.
+
+3. Potentials
+Uniqueness of solution; method of images; separation of variables; using compl
+ex variables; multipole expansion; averaging property o f the Laplacian, and n
+umerical solution.
+
+4. Electric Fields in Matter
+Polarization; D-field and bo undary conditions; Energy.
+
+5. Magnetostatics
+Lorentz force law; Biot-Savart law; Ampere’s law; Magnetic vector potential
+
+6. Magnetic Fields in Matter
+Torque and force on a magne tic dipole; Magnetization; H-field and boundary co
+nditions.
+Ω 私心推薦指數(以五分計) ★★★★★
+
+知道考試重點不會擔心害怕：★★★★★
+沒學過普物電磁學想來學東西：★★★★★
+大一來修：★★★★★
+大二才修：★
+
+η 上課用書(影印講義或是指定教科書)
+lntroduction to Electrodynamics 4th edition, David J. Griffith
+μ 上課方式(投影片、團體討論、老師教學風格)
+
+主要板書，有時搭配自製ppt講課
+
+σ 評分方式(給分甜嗎？是紮實分？)
+
+
+甜度：★★★★(扎實甜，考題書上都有)
+想了解課本外知識：★（有很多人的評價是照課本念）
+涼度：★★(要寫作業，但作業你不會寫不出來的，放心)（我剛才感受到什麼叫作業
+寫不出來的痛苦）
+期中期末考各占35%，紙本作業6次共30%
+ρ 考題型式、作業方式
+
+學期前半與後半至少各寫一篇對當週文章的書面評論
+期末交一份研究計畫
+
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？ 加簽
+習慣？嚴禁遲到等…)
+
+需要非常淺的微積分基礎
+兩倍速看完朱樺OCW有關章節就夠了
+物理部分只需要高三選修物理基礎
+
+我是第一堂課就拿授權碼，加簽應該很好簽
+
+物理系慣例不點名
+
+不過如果課堂人數越來越少到個位數的時候
+老師就比較不會出作業的題目了
+會出後面範圍比較大的章節習題之類的
+Ψ 總結
+
+這門課的參考用書相當平易近人，像我這種英文有閱讀障礙、其他科幾乎都把電子書丟到
+google翻譯、英文都均標的英文白癡讀起來就很舒服，在修這門課基本上只要高三選修電
+磁學、一點微積分基礎，最基本的概念就可以修了，書上前幾章內容很簡單，如果是大一
+來修不要輕忽，最好自己往後多念個一個章節，不然三週後對大一初學者來說，進度會開
+始起飛，非常推薦大一上來修，上課時教授大部分是照著書的進度講，因此如果是高中念
+過這本書的學霸或者大二有普物基礎的人可能會覺得自己念比較好，但是如果大一初學者
+來修就相當適合，沒基礎的情況教授幫忙解釋課本會讓你輕鬆很多。
+
+剛開始會接觸到的新東西是del operator,delta function,簡單版的線積分重積分(都放
+在很漂亮的位置，絕對比微甲考的簡單很多)，基本的梯散旋觀念，之後會解laplace equ
+ation等等，微積分基礎可以事先挑朱樺OCW來看有關的章節。
+
+要注意的是，因為教授上課基本上很像翻譯書，所以上課人數會越來越少，據說人數越少
+會影響教授心情，出題會越來越不接近作業跟各節的習題，所以考試難度會逐漸上升，這
+件事明顯發生在下學期，然後建議大一先修上就好，下學期難度跟上學期難度差很多，如
+果是像我這種沒基礎的不建議直接修下學期，除非你其他課都很甜涼TAT。
+
+這門課是大二必帶扎實甜，所以就是你好好搞懂上課內容就可以拿到好分數，有花到4學
+分的時間絕對能夠A+，但如果你同時有專題，或者很多實驗、要寫很多報告，讓你個人時
+間很不自由的學期就自行考量一下。
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.217.201.34 (臺灣)
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.10.14.203 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625187787.A.577.html
+※ 編輯: mirrorflower (101.10.14.203 臺灣), 07/02/2021 09:03:57
+推 hpshnyus: 原po太電 07/22 11:09

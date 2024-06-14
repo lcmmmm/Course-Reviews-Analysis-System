@@ -1,0 +1,109 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 111-2 陳慶池、朴埻錄 個體經濟理論二時間Sun Jun 11 19:32:29 2023
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+      哪一學年度修課：
+
+111-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+陳慶池 Hing Chi JIMMY Chan
+朴埻錄 Junrok Park
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+經研所選修、經博必修
+
+      δ 課程大概內容
+
+上半學期 (Jimmy part):
+1. Choice under uncertainty
+2. Utility for money and risk aversion
+3. First and second order stochastic dominance
+4. Measuring risk preferences, Rabin's calibration theorem, reference point
+and loss aversion
+5. General equilibrium
+6. First and second welfare theorems, convergence to the core
+7. Existence of general equilibrium
+
+下半學期 (Junrok part):
+1. Market failure: externalities and market power
+2. Moral hazard and optimal contracts
+3. Dynamic contracts: rish-sharing, back-loading, relational contract
+4. Asymmetric information: non-linear pricing, mechanism design with agents,
+dynamic screening models
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+★★★★★
+我覺得兩個老師都教得滿不錯的，Jimmy是從港大來台大sabbatical的老師，教學滿有經驗
+，他自己也是做個體理論，所以對課程內容的掌握、進度與上課節奏的拿捏都滿不錯的，
+可能沒有比較沒有傷害，上過Hendrik的課後覺得Jimmy的P Set難度比較輕鬆一點（？）
+Junrok是去年甫加入台大的AP，韓國人，英文講得滿清楚的。主要講contract theory跟
+info econ，老師做的研究也是info econ theory，所以有額外的問題去問他也完全沒問題
+
+      η 上課用書(影印講義或是指定教科書)
+
+Jimmy:
+用書參考Rubinstein + Krep + MWG 的書跟 lecture note，但會做成自己的上課講義
+
+Junrok:
+用書參考MWG + Segal and Tadelis + Bolton, Patrick, Dewatripont + Borgers, Tilm-
+an, Krahmer的 lecture note跟用書，都是滿經典的用書，也會做成自己的上課講義，不
+過我覺得Segal and Tadelis的筆記寫得很好，所以我大多看他們的筆記
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+Jimmy:
+自製投影片輔以板書推導，講得滿清楚的，除了在某堂課的證明推導有點卡住外整體而言
+我滿喜歡Jimmy的授課風格，足夠多的intuition+application，證明帶得也不錯，下課或
+OH去問問題老師也很願意回答，而且他有叮嚀助教作業不用改太妍，方向有對看得出來學
+生有掌握概念就ＯＫ了，佛心老師佛心老師
+
+Junrok:
+自製投影片+lecture note輔以板書推導，老師可能也是第一次開課，對同學的程度跟課堂
+進度拿捏也都願意調整，不過可能因為我已經修過info econ相關的課，加上經歷過Ben的
+訓（摧）練（殘）嗎，Junrok課堂的適應程度還不錯，而且他的P Set也不會非常刁鑽，不
+會有想了好多天都想不出來的證明的問題（回想到去年修Ben的個二的同學們的哀嚎...
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+Jimmy:
+Participation 10% 但根本沒點名 + P Set 20% + Final 70%
+
+Junrok:
+P Set 25% + Final 75%
+
+有搞懂課程內容、作業認真寫，考試應該不會有特別大的問題（嗎
+甜不甜我不知道，我想應該也沒有太多人覺得個體理論很簡單所以來修課刷分數...
+但至少他們的作業跟Final都比Hendrik跟Ben的好入門多了...
+
+      ρ 考題型式、作業方式
+
+兩位老師都是每週都有一份作業，證明計算都有，都是根據當周內容出的題目。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+全簽，有個體一的基礎再來修比較好，但如果天賦過人直接把這門課當Econ 101也可以
+都不管出席，遲到也沒差，上課有問題直接舉手提問不用害羞
+
+      Ψ 總結
+
+不知道Jimmy明年還會不會待在台大（不過他有個科技部計畫到2025），但我真的滿喜歡他
+的課，而且如果他走了我猜個二的內容也會調整成其他老師的內容，像去年就是整學期都
+是mechanism design(?)
+Junrok也很認真，看得出他的用心，明年應該也還會在台大，期待他繼續待在台大！而且
+他好可愛>//<
+
+--
+ 作者  roy199537 (roy199537)                                        看板  NTU 
+ 標題  [問題] 有沒有人覺得新的臨時閱覽證超好看                                
+ 時間  Tue Mar 13 17:24:48 2018                                               
+───────────────────────────────────────
+推 NTULibrary: 我覺得還可以 03/13 17:25
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.87.149 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1686483168.A.131.html

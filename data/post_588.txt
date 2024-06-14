@@ -1,0 +1,143 @@
+作者tryptochan (tpr)看板NTUcourse標題[評價] 108-2 葉俊顯 公平配置機制時間Wed Sep  2 02:00:26 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         葉俊顯 教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         經濟系/所 選修
+      δ 課程大概內容
+         This course will introduce several resource allocation problems
+         including cooperative game theory, bankruptcy problems, cost-sharing
+         problems and etc.
+         Meanwhile, fair allocation mechanisms will be introduced for each
+         class of resource allocation problems. This course studies allocation
+         mechanisms from the axiomatic approach. The departure point of the
+         approach is the properties of allocation mechanisms. These properties
+         are formally stated as axioms and used to compare allocation
+         mechanisms. The ultimate object of the approach is to trace out the
+         boundary between those combinations that are compatible and those
+         that are not, and when compatible, to give as explicit as possible a
+         description of the family of allocation mechanisms satisfying them.
+         The properties of allocation mechanisms often are motivated by several
+         fairness or justice criteria. This course will introduce the criteria
+         and explore their implications.
+
+         (以上複製自ceiba)
+
+         這門課介紹破產問題(Bankruptcy Problem)，即探討如何在資源不足的情況下合
+         理/公平地進行分配。研究的approach分為兩類：axiomatic approach和
+         strategic approach。
+
+         Axiomatic approach就是把各種不同考量下的「公平性」以公理化的方式定義，
+         並探討哪些axioms可以唯一決定一種分配方式，藉此探討各分配方式本質上的不
+         同。例如一般最直覺(主流?)的分配方式是亞里斯多德所提倡的proportional
+         rule。其所隱含的公平精神即為“每一單位的claim皆同等重要＂。
+
+         另一種討論方式則是以合作賽局的角度切入，將破產問題轉換成為破產遊戲
+         (bankruptcy game)討論，介紹grand coalition、core等合作賽局的重要概念，
+         並找出兩種approach suggest的解之間的對應關係。
+
+         (以上是我從腦袋硬擠出來的)
+
+      Ω 私心推薦指數(以五分計) 
+         課程內容、題材：★★★★★
+         涼度：          ★★★★★
+         個人推薦程度：  ★★★+0.75★
+(有點難簡述原因，底下解釋
+η 上課用書(影印講義或是指定教科書)
+         Thomson, William. (2019). How to Divide When There Isn't Enough: From
+         Aristotle, the Talmud, and Maimonides to the Axiomatics of Resource
+         Allocation.
+         前面主要是上面這本，後面還有提到底下兩本：
+         Moulin, H. (1988) Axioms of Cooperative Decision Making.
+         Moulin, H. (1995). Cooperative Microeconomics: A Game-Theoretic
+         Introduction.
+         上課不會直接用到，但手邊有電子書的話還蠻方便的
+         一個是有發生過教授直接用了一個notation，
+         我們後來才在書裡發現它是有好好被定義的情況
+         另一個就是覺得課上太慢的時候可以看看其他章XD
+
+         投影片的部分則是老師課前會寄給大家
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片為主，需要畫圖的時候會用白板
+         老師人很和藹，是中研院的教授
+         上課也會聽到一些中研院的八卦XD
+         有問題也很歡迎大家上課/下課時提出
+
+         BUT...
+         來試著解釋一下我給的評分偏低的原因
+
+         第一是進度有點太緩慢了，
+         一個proportional rule(等比例分配)解釋了15分鐘，
+         還花很多時間在證明它分配的結果每個人會介在0和自己的claim之間
+         簡單來說就是向量乘上一個0~1之間的常數後
+         長度會介在0和原來的長度間
+         整門課基本上就在這樣遲緩而慵懶的步調中完成了一個學期
+
+         第二點比較難以言喻一點，
+         我總覺得教授的數學跟我所理解的有那麼一點點微妙的差異，
+         就好像世界線差了零點幾趴，沒有決定性的差異但又不太相容(工三小w
+         在定理證明、符號定義等等的地方
+         都會出現還不至於太影響理解但就是不太能接受的微妙差異
+         這樣的差異加上教授不會把符號定義的太嚴謹，
+         導致有些地方需要一點通靈(或翻課本XD)才能無疑問地看懂
+         (不過只是要大致理解的話不去管這些倒沒什麼關係
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         沒有作業，有說過一些要讓我們回家練習的部份
+         但後來好像就忘記了
+         全部評分應該都在期末2人一組報paper上
+         甜不甜不知道(總共好像就10個人左右修課
+         --20210720更新--
+         沒有很甜，11個人
+                        A+  1人
+                        A   1人
+                        A-  6人
+         剩下不清楚
+
+      ρ 考題型式、作業方式
+         期末是自己分組，
+         教授會指定一篇跟課程相關的paper給各組，
+         要準備約30 mins的口頭報告
+         報告過程教授會進行提問，有點類似測驗的形式
+         問一些上課講過的東西，或叫你當場算某個解的分配結果
+         都不難，不過有時有點打亂報告節奏就是了#
+
+         paper的部分感覺都算好懂，不會有需要其他先備知識，
+         或需要ˋ額外進行大量survey的情況
+         教授也有說證明的部分看不懂不報沒關係
+         (不過有報分數應該還是會高一點((吧
+
+         至於教授分給我們這組的論文他本人有負責審過而且把它reject掉
+又是另一個故事了(啊不就還好我報的時候也把那篇嗆爆了((#
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         應該沒點過名，但那個人數教授應該都認得
+         有沒有列入參考我就不知道了
+         基礎應該完全不用，進度絕對跟的上
+         加簽應該也都簽
+         老師人很好，有甚麼問題都可以問
+         (雖然我自己常常跟老師頻率對不太到QQ
+         基本上算一門內容有趣(也冷門)，負擔又極輕鬆的課
+         沒有相容性問題(X)的話我應該推爆
+
+      Ψ 總結
+         好像沒看過其他類似或相關的課程(有的話求推坑?)
+         還蠻酷的，大家可以來試試看
+         不要求數學嚴謹或可以自行利用課本補完數學部分的人還蠻推薦的
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.3.251 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1598983228.A.38E.html
+推 voizyc: 推電機大神 09/02 02:10
+→ tryptochan: 我爛 09/02 03:13
+推 pttdouble: 第二點的數學差異 就是天能中的順行跟逆行... 09/02 07:06
+推 unmolk: 這課看起來好有趣噢噢噢 09/02 12:42
+→ unmolk: 你到底怎麼找到這麼多有趣的課xd 09/02 12:42
+推 tos515541905: 電機之神(膜拜 09/02 17:50
+※ 編輯: tryptochan (118.169.42.127 臺灣), 07/20/2021 18:01:29

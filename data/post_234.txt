@@ -1,0 +1,84 @@
+作者tryptochan (tpr)看板NTUcourse標題[評價] 109-1 王柏堯 計算邏輯簡介時間Tue Aug 31 17:48:53 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         王柏堯 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         資工系選修
+
+      δ 課程大概內容
+         This course gives a general introduction to mathematical logic and its
+         applications in computer science. Mathematical logic is an important
+         foundation of various fields in theoretical computer science. It also
+         has many important applications from program verification to
+         machine-checkable proofs. Through various tools, this course gives a
+         gentle introduction of logic in computer science. It also covers
+         preliminaries for theoretical topics in advanced courses.
+
+         （以上複製自課程網）
+
+         整學期分為四個主題，分別介紹
+
+         1. propositional logic
+         2. predicate logic (first-order logic)
+         3. model checking (temporal logic)
+         4. program verification (Hoare logic)
+
+         每個主題都先從motivation開始（為什麼CS的領域會需要它），
+         接著講定義跟基本的操作，最後介紹相關的應用。
+         詳情請見
+         https://homepage.iis.sinica.edu.tw/~bywang/courses/comp-logic/
+Ω 私心推薦指數(以五分計) ★★★★☆
+         好課必須推
+
+      η 上課用書(影印講義或是指定教科書)
+         教授自編投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片為主，板書為輔。
+         教授人很佛，講解也很清楚，該區分清楚的地方也有區分清楚，
+         不像通識邏輯都把syntax跟semantics混在一起(#
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         Homework   50% （共6次）
+         Midterm    20%
+         Final      20%
+         Attendence 10% （應該是送分）
+
+         給分很佛，最後46.43% A+，作業遲交也會收（但還是盡量準時啦
+
+      ρ 考題型式、作業方式
+         作業大致會是一次手寫一次程式。
+
+         手寫主要是練習一些基本的操作，
+         像是兜 natural deduction proof 或是把一些敘述轉成邏輯的式子之類的。
+
+         程式的部分主要跟著介紹的 application，
+         propositional logic 是把 pigeon-hole problem encode 成 SAT，
+         predicate logic 是用 coq 證中國剩餘定理，
+         temporal logic 是拿 NuSMV 來 model 一個 public-key protocol 的
+         man-in-the-middle attack，都很好玩。
+
+         考試跟手寫差不多（簡單一點？），而且可以 open book。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         不點名，應該全簽吧
+         教授是從中研院來傳教(X)的，人很讚，有問題上/下課問都可以
+
+         理論上無基礎可（可能要會寫很簡單的程式），
+         如果有修過離散、邏輯、自動機（計算理論）、演算法之類的
+         在一些地方理解起來會比較快，不過沒有也沒關係
+
+      Ψ 總結
+         好課推推！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.5.176 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1630403335.A.BB8.html
+推 bmpss95156: 照這產量大概還有五天的份（x 08/31 20:22

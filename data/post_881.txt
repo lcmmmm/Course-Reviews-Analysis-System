@@ -1,0 +1,53 @@
+作者NTUmaki (西木野真姬)看板NTUcourse標題[評價] 108-1 基礎電工學 李泰成時間Mon Jan 13 01:40:55 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+108-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+李泰成
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+電機系開課 / 化工系大三必修
+      δ 課程大概內容
+1. Introduction to Electrical Engineering
+2. DC Circuits
+3. Transient Analysis
+4. AC Steady-State Analysis
+5. Magnetically Coupled Circuits and Transformers
+6. Network Frequency Characteristics
+7. Semiconductors and Diodes Fundamentals (Ch. 10.1~10.5)
+8. Transistor Fundamentals (Ch. 11.1~11.3)
+9. Operational Amplifier (Ch. 9.1~9.9)
+10.MOSFET
+      Ω 私心推薦指數(以五分計) ★★★★★
+★
+但這必修 躲不掉 河河
+      η 上課用書(影印講義或是指定教科書)
+"Essentials of Electrical and Computer Engineering", by David V. Kerns, Jr.
+and J. David Irwin
+      μ 上課方式(投影片、團體討論、老師教學風格)
+板書+投影片
+      σ 評分方式(給分甜嗎？是紮實分？)
+平時測驗：30% 期中考：30% 期末考：40%
+成績還沒出來 但調分是一定的
+      ρ 考題型式、作業方式
+小考就是勾的習題，原封不動照抄，單純拉分用的，缺考非常非常非常虧
+期中期末形式差不多，都是2題習題照抄，3~4題自己出的題目
+期中考那3~4題自己出的題目根本寫不出來 公式列完就不知道要幹嘛 全班最高好像8X吧
+期末考稍微有放水(老師終於意識到自己出太難==)
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不用基礎 沒點名 有小考
+      Ψ 總結
+老師很奇怪，上課都只講最簡單最簡化的CASE，回去看課本跟寫習題才發現上課講得很簡略
+然後課本習題又超廢、完全沒變化
+結果期中期末又出一些非常變化的題目，完全沒機會練習到....
+上課不教難一點，考試又出這樣真的很幹
+然後明明是2學分的非核心課程又很愛上超多 很無言
+最後一堂課硬要上30分鐘的MOSFET 然後考習題 根本沒意義
+感覺這門課幾乎沒學到什麼很重要的東西....
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.171.60.212 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1578850857.A.977.html
+→ hsnuyi: 用嘴做ADC的強者 碩班四年不是夢喔 01/13 02:18

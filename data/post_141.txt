@@ -1,0 +1,92 @@
+作者KurtZouma (車車後防最後希望)看板NTUcourse標題[評價] 110-1 吳儀玲 金融市場與衍生性商品 時間Sat Jan 29 22:06:12 2022
+哪一學年度修課：
+110-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+吳儀玲 英文授課
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+經濟系選修
+      δ 課程大概內容
+Lecture Note 1: Introduction to Derivatives Securities 09/23
+Lecture Note 2: An Introduction to Financial Forwards
+and Futures and Commodity Forwards and Futures
+09/23
+Lecture Note 3: Risk Management with Forward and
+Futures
+09/30
+Lecture Note 4: Determination of Financial Forward
+and Futures Prices
+10/14
+Lecture Note 5: Determination of Commodity Forward
+and Futures Prices
+10/28
+PART II: OPTIONS
+Lecture Note 6: An Introduction to Options 11/04
+Lecture Note 7: Trading Strategies Involving Options 11/04
+Lecture Note 8: Put-Call Parity and Other Option
+Relationships
+11/11
+Midterm Exam 12/02
+Lecture Note 9: Binomial Option Pricing 12/09
+Lecture Note 10: The Black-Scholes Formula 12/16
+Lecture Note 11: The Greek Letters 12/23
+Lecture Note 12: Volatility Smiles 12/23
+Lecture Note 13: Using Option Pricing Theory to Value
+Corporate Securities
+12/30
+PART III: FIXED INCOME DERIVATIVES
+Lecture Note 14: Term Structure 12/30
+Lecture Note 15: Swap 12/30
+Final Exam 01/06
+      Ω 私心推薦指數(以五分計) ★★★★★
+不喜歡節奏慢的台式英語 ★
+可以自己讀原文書 ★★★★
+綜合評分 ★★★ 以下詳敘
+      η 上課用書(影印講義或是指定教科書)
+John Hull Options, Futures, and Other Derivatives
+Robert McDonald Derivatives Markets
+      μ 上課方式(投影片、團體討論、老師教學風格)
+投影片配合板書，如果要自讀可能要搭配課本，不然只看投影片可能會不知道在講甚麼，
+期中之前遠距，期中後回歸實體但一樣有影片，但改成螢幕錄影所以看不到黑板，會有部
+分內容錯過，本人除了小考跟期考以外都沒到現場上課。
+
+  老師講話很慢，英文除了有點台式以外應該是不至於聽不懂，影片兩倍速大概是正常的
+上課節奏。我是每堂課都有上完但個人認為可以沒時間的人可以自已啃課本，老師的上課
+內容都照著課本走，ppt前面也會附課本的對照章節，老師段考前還會有重點複習，所以
+也不用擔心抓不到老師重點。期中考允許帶一張A4大抄，期末兩張，BS formula 也不用
+自己記，還蠻佛的。只看期中之前我可能會給4顆星吧，但期中後幾乎都在趕課，往後看
+老師在前面簡單的東西花太多時間，導致期中後Binomial option pricing 跟BS教完後
+時間所甚無幾，後面講權證、可轉債跟交換基本上是用飆的，Lecture 14 Term Structure
+完全跳過有點可惜。最後抱怨一下最後一次小考跟期末，最後一次小考變實體，分量明
+顯超出前幾次小考很多，30分鐘內寫完印象中7題幾乎不可能，而且都是蠻花時間的題目，
+期末個人覺得太集中在Greek letters 的題目，而且都考一些重複又蠻無聊的東西，感覺
+跟老師考前抓的重點不符，光按計算機就花了一半時間。但總而言之還是可以選的，要拿
+高分要花一點時間，建議可以優先選財金系開的期權。
+      σ 評分方式(給分甜嗎？是紮實分？)
+期中 35%
+期末 35%
+三次作業 20%
+四次小考 10%
+
+甜度普通吧，本人期中30%，期末剛好平均，最後B，期中後明顯變難，小考跟作業都是。
+      ρ 考題型式、作業方式
+考試厚厚一本20幾頁的考卷，都是題組型式的問答題，偶爾才有一兩題選擇，小考型式差不多
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+從來沒點過名，完全不需要基礎，計算的部分會按計算機就可。
+
+              加簽習慣？嚴禁遲到等…)
+1類
+      Ψ 總結
+同上結論。
+
+--
+推 wuyixuan: 蹲04/10 00:26
+推 EDDYYYYY: 賓哥蹲賓哥蹲 賓哥蹲完樓下蹲04/10 00:36
+推 da871124: 樓下蹲樓下蹲 樓下蹲完春風蹲04/10 00:39
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.118.3.251 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1643465182.A.71D.html
+推 johnjohn3930: 本來也想發這門課的心得xD 蠻同意期中前是4星…期 01/30 03:47
+→ johnjohn3930: 中後就… 01/30 03:47
+推 yongxchen: 推 01/30 12:58

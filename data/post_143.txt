@@ -1,0 +1,96 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 110-1 陳建錦 文字探勘初論時間Sun Jan 30 03:12:05 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+110-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+陳建錦
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+資管系選修
+商資學程（？）選修
+
+      δ 課程大概內容
+
+Text Proeprocessing
+Term Weighting and Vector Space Model
+Text Classification
+Naive Bayes Classification
+Vector Space Classification (KNN, linear and nonlinear classification, SVM)
+Flat Clustering
+Hierarchical Clustering (including K-Means)
+Latent Semantic Analysis
+Word Vectors (including BERT introduction)
+Language Models
+Deep Learning for Text (W2V embedding, RNN)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+想學會使用文字探勘的套件：★★★★☆
+想知道文字探勘能用來做什麼：★★★★☆
+想學得很扎實：★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+老師自編講義
+但很多內容是從 Stanford NLP Group 網站上找下來的ＸＤ
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片講解，搭配程式操作（使用jupyter notebook）。
+這學期疫情關係有錄影，後來可以實體上課時有恢復實體授課。
+老師講得很清楚，而且不會很快，下課有不清楚都可以問，加上這門課導論性質很重，學
+習品質應該很好。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+三次作業共30%（7.5/11.25/11.25）、期末考35%、期末專案35%。
+應該算甜，作業基本上可以拿滿，期末考給分有點謎（我沒去閱卷但比我想像中的低，身
+邊的朋友也拿得偏低），平均27.5/35。
+期末專案給分算不錯，平均31.5/35，而且不會花很多時間，主要時間應該都在處理資料
+跟選模型？我是拿快33，不過期末報告不是最高分讓我有點想見識看看最高分的報告到底
+寫了什麼ＸＤ
+
+      ρ 考題型式、作業方式
+
+作業：
+三次程式作業，第一份是做text preprocess後計算文本的TFIDF；第二份是做classifica-
+tion，分別用Naive Bayes/SVM Linear/SVM Kernal做，再把結果丟上Kaggle；第三份也
+是做classification，只是是使用word embedding，也是丟上Kaggle。三次作業都要交一
+份報告跟source code，注意source code要能reproduce在助教那邊，所以在報告內要把
+需要的環境與套件寫好，或是直接寫一份requirements.txt包在作業檔案夾內，總之寫清
+楚、讓助教可以跑你的code就沒事了。
+
+
+考試：
+只有一份期末考，題目都是簡答題、名詞與模型解釋什麼的滿符合課程的設計，覺得沒有
+很難，期末考前再準備也來得及，至少我是期末考當天凌晨才開始讀，只讀講義，最後拿
+78。
+
+專案：
+內容與文字探勘有關係的就好，有人做電影的評價之類的，我們這組是做社交媒體上的政
+治情感分析，有使用到的技術大概是BERT、DNN，和一些人家寫好的情感分析套件，最後寫
+了六頁左右的報告，結果也滿不錯的。原本以為應該是最高分沒想到不是，有夠氣ＸＤＤ
+
+專案基本上比較花時間的應該是想題目以及處理資料，會爬蟲的話佳，但不會的話上
+kaggle之類的拿現成資料應該也可以？
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+沒有出席分，會寫python、數學會條件機率就夠了。
+加簽的話有優先順序，商資學程優先加簽，資管本系會被趕去上另一個比較難的班，最後
+應該簽到100多人。
+
+      Ψ 總結
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.73.209 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1643483528.A.DD5.html
+推 jamestsai1: 會寫R 但不會寫python 不知道會不會負擔很大？ 07/02 09:57

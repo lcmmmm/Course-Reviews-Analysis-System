@@ -1,0 +1,139 @@
+作者kaminyou (kaminyou)看板NTUcourse標題[評價] 陳祝嵩 三維電腦視覺與深度學習應用時間Thu Jun 24 20:59:18 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+         是
+      哪一學年度修課：
+         109-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         陳祝嵩
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         資訊所 選修
+      δ 課程大概內容
+          wk01 Image and Vision Computing
+               Camera Model
+               Introdcution to Homography
+          wk02 Estimation of Homography
+               Camera Projection Matrix and Calibration
+          wk03 Camera Calibration
+               Camera Pose Estimation-P3P
+          wk04 Non-perspective n points
+               RANSAC
+          wk05 Camera Pose Estimation-EPnP
+               Blob Feature and SIFT
+               Image-based Localization
+          wk07 Introduction of Deep CNN
+               Quaternions
+               Deep Learning for Camera Pose Regression
+          wk08 Essential and Fundamental Matrix
+               Stereo Pair & Rectification
+               Triangulation
+          wk09 Mid-term
+          wk10 Stereo Processing
+               Traditional Stereo Matching
+               Deep Learning Stereo Matching
+               Pose from Epipolar Geometry & Visual Odometry
+          wk11 Multiple View Stereo
+               ORB-SLAM
+          wk12 SfM Learner
+               Bundle Adjustment
+               Deep Local Feature
+          wk13 COLMAP
+               View synthesis and shape generation
+               Deep learning for 3D point cloud
+               Deep learning for 3D human pose
+          wk14 Term project proposal
+          wk15 Homework 2 & Homework 3 Review
+          wk16 Trifocal Tensor
+               Deep Two Views SfM Revisited
+               Multi-view Multi-Human 3D Pose Estimation and Tracking
+          wk17 Deep 3D Stabilizer
+          wk18 Presentation
+      Ω 私心推薦指數(以五分計) ★★★★★
+          想學3DCV              ★★★★★
+          想學DL更多不同的應用  ★★★★★★★★★★
+          你的第一堂DL課        ★
+          沒有有GUI的Ubuntu     ★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+          投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+          前十幾周都是由老師講述投影片，後期有時一些DL的內容會由做相關研究的助教來講
+          講課速度適宜，容易理解
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+          Homework (3 times): 60%
+          Midterm Exam: 15%
+          Final Project: 25%
+             Presentation: 35% (proposal 15% || final 20%)
+             Report: 30%
+             Methodology: 35%
+
+      ρ 考題型式、作業方式
+          作業：
+              第一次 手刻Planar Homography演算法
+              對提供的圖片做homography(不能使用opencv)
+              Bonus則是使用任何方式(例如考慮線)
+              來提升performance
+
+              第二次 手刻Camera Relocalization演算法(不能使用opencv)
+              可以implement P3P或P4P
+              加上RANSAC已提升performance
+              dataset為台大校門口的3D point cloud以及一堆2D image
+              要用自己的演算法把這些2D image拍攝位置在3D空間中繪製出來
+              並且在這3D空間中擺一個cube然後render在這些image中做成影片
+              此時需想辦法得到正確的image拍攝順序並實做painter algorithm
+              Bonus可以實做deep learning的版本如PoseNet
+
+              第三次 使用opencv來做Visual Odometry
+              會給一部在校內小範圍走一圈拍攝的影片
+              要在3D空間中把路徑畫出來
+              Bonus是實作opencv內的演算法或其他提升performance的方法
+
+         考試：
+             都是手寫題，可以帶一張A4小抄
+             難度不高大多都是上課範圍
+             少數計算題需有一點線代的sense就能很快解出
+
+         Final project：
+             自由發揮，跟3DCV有關即可，不一定要做DL相關
+             本學期課程共有14組，大家做的東西也都非常不同
+             不過多數同學都是做DL相關的
+             但報告時間只有8分鐘
+             其實很難把做的東西在presentation時講清楚
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         遠距上課時會登記在線的同學，但不知有沒有納入分數的考量
+
+         課程prerequisite是Python、C++、linear algebra、
+         DL相關framework如PyTorch/Tensorflow後
+         這不是一堂DL的入門課
+         沒有DL基礎應該基本上難以聽懂後續DL相關內容
+
+         建議要有有GUI的ubuntu，因為很多3D package需要GUI才能動
+
+         開學時有開放加簽但應該是沒簽滿
+
+      Ψ 總結
+         是一堂上過很多DL課或實做過很多DL project來發覺新世界的地方
+         也會發現很多傳統的3DCV算法其實設計巧妙，可以應用在不同領域上
+         課程loading算是偏有點重
+         作業都沒想像中好寫，例如作業二的演算法會出現一行
+         b1 = ((1-a-b)*x2 + (q*a-q)*x + 1 - a + b) * (((r3*(a2 + ab*(2 - r2) - a_2 +
+b2 - 2*b + 1)) * x + (r3q*(2*(b-a2) + a_4 + ab*(r2 - 2) - 2) + pr2*(1 + a2 +
+2*(ab-a-b) + r2*(b - b2) + b2))) * x2 + (r3*(q2*(1-2*a+a2) + r2*(b2-ab) - a_4
++ 2*(a2 - b2) + 2) + r*p2*(b2 + 2*(ab - b - a) + 1 + a2) + pr2*q*(a_4 + 2*(b
+- ab - a2) - 2 - r2*b)) * x + 2*r3q*(a_2 - b - a2 + ab - 1) + pr2*(q2 - a_4 +
+2*(a2 - b2) + r2*b + q2*(a2 - a_2) + 2) + p2*(p*(2*(ab - a - b) + a2 + b2 +
+1) + 2*q*r*(b + a_2 - a2 - ab - 1)))
+         的東西
+         基本上會放棄了解這是什麼
+         但仍需想辦法implement出整個演算法來
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.16.134 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1624539560.A.390.html
+※ 編輯: kaminyou (140.112.16.134 臺灣), 06/24/2021 21:07:19
+→ csvt32745: 作業二就是看到那個算式讓我決定用別的方法== 06/25 12:31

@@ -1,0 +1,135 @@
+作者Willkczy (Willkczy)看板NTUcourse標題[評價] 110全 蔡崇聖 個體經濟學上下時間Mon Jul  4 21:03:51 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：110
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+蔡崇聖
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+經濟系大二必修
+
+      δ 課程大概內容
+上學期：
+1. Introduction (Perloff: Ch. 1-2)
+2. Consumers’ Behavior (Perloff: Ch. 3-5)
+Preferences and utility functions
+Choices and demand functions
+Intertemporal choices
+Consumers’ surplus
+MIDTERM EXAM
+3. Firm Theory (Perloff: Ch. 6-7)
+Technology and production functions
+Profit maximization
+Cost functions
+Supply functions
+Short-run vs. long-run analysis
+Producer’s surplus
+4. Competitive market equilibrium and welfare analysis (Perloff: Ch. 8-9)
+Equilibrium analysis in competitive markets
+Short-run vs. long-run equilibrium
+Efficiency and welfare analysis
+Evaluation of various policies
+FINAL EXAM
+
+下學期：
+1. Monopoly (Perloff: Ch. 11-12)
+Monopolistic pricing
+Natural monopoly
+Regulating monopoly
+Price discrimination
+2. Oligopoly and Monopolistic Competition (Perloff: Ch. 14)
+Quantity competition: Cournot and Stackelberg models
+Price competition: Bertrand model with homogenous and heterogeneous products
+Monopolistic competition
+MIDTERM EXAM
+3. Game Theory (Perloff: Ch. 13)
+Static games
+Dynamic games
+Incomplete information games
+4. Welfare Economics and General Equilibrium (Perloff: Ch. 9-10)
+Efficiency
+Exchange economy
+First and Second Theorems of Welfare Economics
+5. Public Goods and Externality (Perloff: Ch. 17)
+Externality and Coase theorem
+Public goods theory
+FINAL EXAM
+
+（以上取自老師Syllabus）
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+甜度：★★★
+涼度：★★★（不點名，但沒去上課應該是不太行）
+扎實度：★★★★★
+喜歡上課氣氛風趣幽默：★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+上課都是以老師在黑板上的筆記為主，其實不會需要用到書，老師也會提供他自己整理的
+筆記（相當之好用）
+Microeconomics: Theory and Applications with Calculus (4th edition), by Jeffre
+y Perloff, Pearson
+Education, 2018 (代理商:雙葉書廊)
+（以上取自老師Syllabus）
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+現場中文授課，筆記中英混合，以黑板板書講解，依據老師自己的教學筆記作為上課架構
+課程時間上好上滿，但有時會夾雜閒聊和其他分享，上課氣氛輕鬆，老師講話幽默好笑。
+遠距前：皆實體授課
+遠距後：線上直播，會上傳直播檔
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+期中期末：80%
+四次作業：20%
+沒有調分的話全班成績應該都會偏慘，所以期末都會調分，會依據老師自己想要有的成績
+分布去給出各級距，也會寄信給全班解釋調分邏輯。
+
+      ρ 考題型式、作業方式
+四次小組作業：一組好像是4~5個人，每次大概兩到三題，題目會偏難，需要小組討論或
+是有大神帶領
+期中期末：實體考試，大概都是4~5題，一大題是非題和三大題計算題，裡面包一堆小題
+，部分會需要解釋經濟意義（文字解釋、舉例、畫圖等）才會有分，單純算出答案但沒有
+解釋分數拿不多，是非題需解釋為什麼對為什麼不對。老師會給前兩年的考古（也會有老
+師給的解答），其它年的考古也可以在經濟系資料庫中找到。
+
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+本身雙經濟有直接選到，其他的加簽方式有點忘記了，應該是依據修課上限給加簽。
+
+      Ψ 總結
+非常讚非常扎實但個人也覺得偏硬的個經課，老師講話很風趣，上起來很輕鬆，上課認真
+聽也都幾乎可以馬上理解內容，但是要應用到解題目就要下點苦工。老師的個經應該算是
+經濟系裡面也偏難的，雖然不強調數學計算（基本微分、Lagrange求最佳解大概就夠了，
+不懂老師在一開始也會稍微解釋）但是很強調要能夠解釋背後的經濟意義和解釋你的答案
+，又因為題型大多靈活又會有一些特別設計過的情況，所以需要蠻通透的理解才可以很好
+的答題，上課時只會帶一些基本的應用題目，所以常常會遇到上課聽得很懂，但是遇到作
+業題目考古題沒想法的狀況，建議的準備考試方式是要做考古題才會比較知道題目長怎樣
+，雖然偶爾會有看起來蠻像的題目但大多都是變化過的，然後也常會出現沒看過的題型，
+所以最好還是整個通透內容，只用考古硬記應該是沒什麼用
+
+上課速度適中，聽不懂馬上提出老師也會再講一遍，老師甚至會自覺他好像這邊講得亂亂
+的然後一直幫同學統整。老師屬於上課會閒聊的類型，會分享一些趣事（老師說他是勇迷
+哈哈哈），所以雖然每次上課內容都很多，但常常感覺一下子就過去了，但每次上完都會
+覺得腦子被轟炸，一下子又進來了很多新的內容。雖然會提供老師自製的很詳細講義，然
+後老師的板書也大多跟筆記類似，但還是會建議上課的時候跟著抄，順便幫助理解。
+
+作業通常都會出一些比較難和靈活的題目，所以最好是朋友一起一組互相討論比較好，不
+然就是要有厲害的人在，作業那些特殊情況有時候會出現在期中期末，所以最好是都可以
+把作業的內容弄懂，但是作業不會特別講解，都是助教改完後上傳他的詳解，這學期的助
+教算是蠻認真的都改很快，詳解也蠻清楚，但個人還是覺得老師有時候可以在課堂中稍微
+講解一下作業內容，可以更幫助理解，但因為課程內容要教得很多所以也不見得有時間，
+因此還是建議自己要去把作業的東西搞懂。
+
+這學期到最後是遠距直播上課，課後會上傳影片，老師今天應該是第一次用遠距的東西，
+所以一開始有點不熟，但到後面已經沒有什麼問題，未來如果有遠距應該就會蠻順利的。
+總之想修偏硬個經但沒有那麼想碰一堆數學的個經又喜歡上課氣氛輕鬆又喜歡上課內容充
+實又不會太在意期中期末被電的人，大推崇聖個經
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.170.216.91 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1656939833.A.B2D.html
+推 Alex548291: 想當初教授的個經還算簡單的 現在變難了喔 07/06 13:54
+推 yeubbllvt: 人稱經濟沈玉琳不是叫假的 07/07 21:16
+推 littlecckk: 推崇聖 有精美筆記 07/08 21:03
+→ honeypeanut: 推崇聖 08/21 15:22

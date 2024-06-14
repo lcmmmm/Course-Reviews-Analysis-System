@@ -1,0 +1,167 @@
+作者hunterhsu91 (獵人)看板NTUcourse標題[評價] 109-2 陳君明 密碼學導論時間Tue Jul  6 21:03:09 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         陳君明
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         數學系選修
+
+      δ 課程大概內容
+         課本（Understanding Cryptography, Christof Paar and Jan Pelzl.）
+         Chapter 1. Introduction to Cryptography and Data Security.
+         Chapter 2. Stream Ciphers.
+         Chapter 3. Data Encryption Standard (DES) and Alternatives.
+         Chapter 4. The Advanced Encryption Standard (AES).
+         Chapter 5. More About Block Ciphers.
+         Chapter 6. Introduction to Public-Key Cryptography.
+         Chapter 7. The RSA Cryptosystem.
+         Chapter 8. PKC Based on the Discrete Logarithm Problem.
+         Chapter 9. Elliptic Curve Cryptosystems.
+         Chapter 10. Digital Signatures.
+         Chapter 11. Hash Functions.
+         Chapter 12. Message Authentication Codes (MACs).
+         Chapter 13. Key Establishment.
+         以上內容老師皆有錄製教學影片，需在每週小考前自行看過。
+         上課時頂多補充內容，不會重講教學影片內提過的基本概念。
+
+         以下為補充的投影片名稱，一部分會在上課講述，一部分是錄製教學影片。
+         （少數是只提供投影片而未講述過，但那部分也不會考）
+         Arithmetic
+         Abstract Algebra
+         Finite Fields
+         區塊鏈與密碼貨幣簡史與原理
+         More on Stream Cipher
+         More on DES
+         More on AES
+         More on Modes of Operation
+         More on RSA
+         More on DLP
+         Introduction to Side Channel Attack (PAA on AES)
+         PQC
+         抵抗來自量子計算之資安威脅的最新發展
+         PQC NewHope
+         量子計算對資訊安全的威脅與應對之道
+         ROCA Return of Coppersmith's Attack
+         Sage
+         Security and Privacy of ZOOM
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+         不喜歡代數 0★（密碼學幾乎建構在代數領域上）
+         不喜歡每週花大約1小時看額外教學影片 2★
+         （不過教學影片語速慢，放2倍速看只需要30分鐘）
+         不喜歡每週小考 2.5★（反正只取6次）
+         想接觸入門代數和密碼學知識 5★
+         想聽有關比特幣等密碼貨幣內容 4★（會提到，但占整個學期比例不高）
+         喜歡制式考試，有考古題可以準備 5★
+         想聽老師講一些密碼學界的八卦 5★
+
+      η 上課用書(影印講義或是指定教科書)
+         Understanding Cryptography, Christof Paar and Jan Pelzl.
+         投影片是對照這本書，作業也從這本書裡面出。
+
+         Introduction to Cryptography, Johannes A. Buchmann.
+         An Introduction to Mathematical Cryptography,
+         Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman.
+         這兩本是參考用書。
+
+         以上三本書皆不須購買紙本，用台大IP可免費下載。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         線上教學前，每週需觀看教學影片，會是小考內容。
+         上課時老師會講額外的投影片，預留20-30分鐘小考。
+
+         線上教學後，每週仍需觀看教學影片，會在NTU COOL進行線上小考。
+         不過只有第17週使用Webex線上上課，並提醒期末考注意事項。
+         主因是老師提到期中意見調查有人反應每週教學影片+上課內容太多，
+         所以老師決定期末課程少一點。
+
+         另外，每次上課都會開slido讓大家問問題。通常下課結束會答覆。
+         不過slido上會有很多冒名的陳君明出現XD
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         Midterm Exam: 30% (Week 11, May 4)
+         Final Exam: 30% (Week 18, June 22)
+         Homework: 16%
+         Quiz: 24%
+         不調分，依據分數直接以學校標準對應等第。
+
+         期中考及期末考老師都會提供考古題，據老師說法考試都蠻考古的。
+         （今年提供了2013-2020的考古題，都弄熟70分以上不難…）
+         題型也很固定，分配如下：
+         Part 1: 30% (10 multiple choice questions, 3% each)
+         Part 2: 60% (3% each)
+         Part 3: 10%
+         簡單來說，是單選題+填充題+計算證明題。
+         老師說他當學生時不喜歡太surprise的考題，所以自己也不會為難同學。
+         期中考平均71.01分，期末考只有公布說平均超過80分。
+
+         作業於學期末繳交，大概在一個月前公布。以下為作業相關規定：
+         ● There are totally 23 problems in this problem set.
+         ● Please hand in the solutions of any TWELVE (12) problems.
+         ● If more problems are attempted, only the HIGHEST TWELVE SCORES
+            ACHIEVED will count toward the grade for this assignment.
+         ● You could answer in English or in Chinese.
+            In either case, READABILITY COUNTS!
+         補充說明：
+         其中19題為課本習題，每題14分。另外4題為老師自出題目，每題15-16分。
+         滿分160分，超過160分以160分計。最後除以10計入學期成績。
+
+         小考15取6，每一次佔總成績4%，所以小考佔總成績的24%。
+
+         整體來說很佛，期中期末如果有跟著小考和寫考古題基本上70分跑不掉。
+         我個人大約都寫3-4年份，期中期末分別是82/94。
+         期末進步主要是我為了寫作業把6-13章的課本內容都讀過了。
+         （因為作業內容是6-13章）也因此有學得更紮實的感覺。
+         作業部分助教改的蠻寬鬆的，要拿滿160分沒有很難。
+         尤其助教會幫你選最高分的12題，所以23題能寫就盡量全寫。
+         不過某些問答題敘述令人匪夷所思，建議跟同學討論一下釐清題意。
+         小考取6次，題目不太會刁難人，有把內容看熟基本上就能高分。
+         數學不錯的人，建議越早拿滿6次越好，因為前幾次都是考數學內容居多。
+         期中過後基本上小考裡密碼學內容就佔比很高了。
+
+      ρ 考題型式、作業方式
+         如上。為了方便就一併敘述了，請見諒。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         完全不看出席，不過小考要親自到場考（實體時）。
+         因此有很多人第3節課才會出現。
+         基礎的話，根據CEIBA上的課程要求，敘述如下：
+         Prior course in abstract algebra or linear algebra is helpful
+         but not absolutely necessary.
+         我本人有修線代，代數部分是在這門課才開始學。
+         加簽全簽，還因原本共同教學館的教室太小而換到綜合大講堂。
+
+      Ψ 總結
+         這門課據說是數學系選修最簡單的一門，也相對好入門。
+         整題來說是蠻甜的，尤其今年期末平均比以往高十幾分。
+         教授是國內密碼學界的大人物，專業領域的知識自然不在話下。
+         還因此有很多學界的料可以爆，有些還蠻好笑的（就不破哏了）。
+         他也樂於培育新人，時常提供演講資訊還有暑期課程及暑期實習機會。
+
+         不過平衡一下，還是提一下缺點好了。
+         某些考題是記憶型題目，也就是要死背的那種。
+         有時候選擇題會有爭議，但這學期的爭議題老師都送分了。
+         老師語調比較慢，又在8 9 10節，會讓人有點想睡。
+        （尤其綜合大講堂的座椅好舒適，讓我想起了我在看變形金剛5時的場景）
+
+         最後，補充一個有關老師錄製教學影片的用心。（根據其自述）
+         所有教學影片，老師投入錄製和剪輯的時間，超過影片長度的十倍。
+         意思是：錄一小時影片，老師會花上十幾個小時。真的很用心…
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.139.232.54 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625576591.A.B10.html
+推 kyrie77: 推最後一段..認真準備課程和教材的話時間真的很驚人... 07/06 21:25
+推 CK0663: 覺得這學期八卦偏少QQ 07/10 21:02
+因為後半段改遠距，如果錄影講八卦教授會無法說「出了教室一概不承認」吧...
+推 dsa66253: 聽過陳老師上課 覺得他很熟悉自己的課程 講的也很詳細 07/11 17:35
+→ dsa66253:  課程內容也會更新 07/11 17:35
+他有說他自己是個很龜毛的人XD 但也可以看出他的細心
+※ 編輯: hunterhsu91 (1.172.124.71 臺灣), 07/14/2021 16:53:26
+推 manchenlee: 推老師用心 09/05 11:46

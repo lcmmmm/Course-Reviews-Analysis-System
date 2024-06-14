@@ -1,0 +1,139 @@
+作者purdindog (sweet, sweet, sweet)看板NTUcourse標題[評價] 105-1 蘇軒立  總體經濟計算時間Mon Jul 10 18:10:05 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+是
+
+      哪一學年度修課：
+
+105-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+蘇軒立
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+經研所選修
+
+      δ 課程大概內容
+
+取自syllabus與ceiba：
+
+This is a research oriented course. This course focuses on computation
+techniques in heterogeneous agents models (HA) in incomplete markets. HA
+modeling is now widely used in macroeconomics, labor, international trade,
+industrial organization, and finance. This type of models can generate
+endogenous distributions of income, wealth, or firm-size, and hence offers a
+framework to study inequality, intergeneration mobility, macro-prudential
+policy, firm size distributions, firm values, and policy issues in industry
+organization. However, this type of models are notoriously hard to solve and
+must rely on numerical methods. This course will teach relevant numerical
+methods in this field.
+
+ 1. Introduction
+         2. Review of Dynamic Programming and Computing
+        3. Parallel computing and GPU computing in Matlab
+        4. Bewley Model
+        5. Equilibrium Models of Wealth Distribution
+6. Interpolation
+        7. The Wealth Distribution over the Life Cycle
+        8. Equilibrium Models of Default
+        9. Default models and the Foreclosure Boom
+        10. Firm Size Distribution Hopenhayn Models in Firm Entry and Exist
+        11. Heterogeneous Agents with Aggregate Uncertainty- Krusell and Smith
+        12. Heterogeneous Firms with Aggregate Uncertainty -Lu Zhang Value
+Premium
+        13. The Value Premium (continued)
+14. final project
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+★★★★★(超級大推。滿天星)
+
+      η 上課用書(影印講義或是指定教科書)
+
+1. 老師自編講義，課前會放在ceiba上
+2. 其餘參考資料：
+_ Sargent and Stachurski's website: Quantitative Economics
+_ Basic knowledge in dynamic programming: Nancy Stokey and R Lucas. 1989.
+Recursive Methods in Economic Dynamics. Harvard University Press.
+_ Burkhard Heer and Alfred Maussner. 2009. Dynamic general equilibrium
+modeling: computational methods and applications. Springer Science & Business
+Media.
+_ Kenneth L Judd. 1998. Numerical methods in economics. MIT press.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+講義佐以版書，英文授課。本門課主要在介紹總經理論研究中的heterogeneous agents
+models (HA)設定、意涵與calibration建構，並花了相當心力在calibration coding的訓
+練上。老師除了講解方法外，也會透視其背後的經濟直覺與邏輯。這門課是延伸自Univ.
+of Wisconsin-Madison 經濟博班課程訓練加上老師的心法與研究經驗共組而成，老師教
+學詳細且熱心解答同學的疑問。
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+作業 56%
+proposal 20% due 12/20
+final project 24%
+
+        作業原規劃9次，後減為6次(1~5+2b)；均為coding assignment，形式詳後述。
+期中proposal需符合經濟、財金學術論文格式，並需上台簡報(英文)。Final project為
+挑選經典論文中的一部份複製之；作業6後轉型為可選則為final project之候選人之一。
+
+作業、proposal與final project均為扎實分，但對研究生而言，分數不重要
+
+
+      ρ 考題型式、作業方式
+
+各作業以coding assignment為主，均是經挑選classic top journal paper中的部分重製
+，並循序漸進以期同學們掌握當代主流總經理論研究中，模型建構與calibration之技巧
+與想法。
+
+程式語言可選擇Matlab、python；需寄給老師coding lines與執行檔。老師主要會以
+Matlab來進行講解。每堂課均會針對前次作業解說與對進行前次上課內容的複習。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+完全不點名。不過因為這堂課的性質，注定它會成為人數不多的課；本學期修課計有財金
+博班兩名(但均為112經碩背景)，另有經濟博班生、財金博班生、與國企博班生各一名旁
+聽之。5人溫馨小班教學。
+
+       最好有經研所「總體經濟理論一」與coding基礎為佳。一般而言，經碩、管院博
+士生與大學部高年級者均歡迎來選修，特別是想一窺總經理論研究之堂奧者
+
+        Ceiba課程連結：https://goo.gl/JPf5h4
+Ψ 總結
+
+這雖然是新開課程，但十分推薦!! 在老師嚴密且具邏輯性的教學架構安排下，你/妳會發
+現之前在總體經濟理論一(或老毛的大學部總經課)之前談的那些架構如何實際地被應用在
+總體經濟的理論研究上。軒立師會從最基礎的代表性個人效用偏好的設定談起，然後慢慢
+加入各種異質性設定，來看看這些異質性設定如何來解答各種總體經濟面向的問題，期間
+並有嚴密的calibration的coding訓練，當你跟著老師走過一遭之後，相信到學期末時就
+已經具體而微的具備了總經、財金(特別是asset pricing)方面的理論研究能力了。
+
+老師是物理底轉讀經濟的真。強者；出國前並曾師從財金方面的老師進行相關研究；因此
+，課程的內容除了傳統的偏總經方面的論文介紹外，也有相當的asset pricing。以本學
+期為例，老師鑑於修課的這兩個傢伙都是偽經研的財金博班生，所以也針對Zhang Lu著名
+的那篇Value Premium 進行解說與教學，管院博班生如果有進行資本市場研究者，也相當
+地適合來修習這門課程。
+
+原則上，這是一門methodology的課程，老師會手把手地「破解」運用「異質性個體」這
+個設定的各式總經、財金研究。更值得一提的是，除了技術以外，老師更強調地是其背後
+隱含的直觀想法，經老師啟發性的指導後，每每都有豁然開朗之感，非常有在看日本職人
+電視節目般的感動與即視感，就是那種「啊~原來真正的手藝人應該是這樣子的呀」。學
+術研究作為一種手藝，本就應是如此。
+
+好課不寂寞，推薦給大家!!
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.216.74.73
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1499681408.A.23A.html
+推 joseph841020: 推shane哥 07/10 20:37
+→ shanemate: 推一哥~ 07/11 10:29
+推 sobaster22: 感覺好充實的課 07/11 15:44
+※ Vulpix:轉錄至看板 gymnastics                                    07/11 23:52
+推 wolfbequiet: 被轉到...XDDDD 07/12 00:41
+推 Vulpix: 要是我還在臺大就去旁聽了…還有，體操社歡迎大家唷！ 07/12 18:40

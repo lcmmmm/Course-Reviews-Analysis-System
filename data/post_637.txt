@@ -1,0 +1,82 @@
+作者CupidError (消失)看板NTUcourse標題[評價] 108-2 丁建均 工程數學特論時間Sun Aug  9 13:30:33 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        丁建均教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        電機所、電信所選修
+
+      δ 課程大概內容
+        分成四個大主題：微分方程、傅立葉分析、線性代數、機率與統計，以下章節順序是老師自己編排的。
+
+        一、微分方程
+        Chapter 1 Numerical Methods and Nonlinear Differential Equations
+        Chapter 2 Partial Differential Equations
+        Chapter 3 Function Approximation
+            (用 Orthogonal Basis 來近似函數在某一區間上的行為、Gram-Schmidt process、Legendre Polynomial)
+
+        二、傅立葉分析
+        Chapter 4 Fourier Analysis
+        Chapter 5 Sampling and Discrete Fourier Transform
+
+        三、線性代數
+        Chapter 6 Advanced Linear Algebra
+            (Kroneker Product、Jordan Canonical Form、矩陣版本的 Exponential, sine, cosine 函數、Markov Model)
+        Chapter 7 Discrete Basis Approximation
+            (Chapter 3的離散版本、矩陣的 Pseudo Inverse)
+        Chapter 8 Component Analysis
+            (奇異值分解(SVD)、主成份分析(PCA))
+
+        四、機率與統計
+        Chapter 9 Advanced Probability
+            (Moment, Correlation, Entropy, KL Divergence, 獨立成份分析(ICA))
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        輕鬆舒服的數學課 ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+        主要是老師自編的投影片，非常詳細。參考用書有以下：（我是完全沒用到）
+
+        [1] D. G. Zill and Michael R. Cullen, Differential Equations-with
+Boundary-Value Problem (metric version), 9th edition, Cengage Learning, 2017.
+        [2] D. G. Zill, W. S. Wright, and J. J. Ding, Engineering Mathematics, Metric
+Edition, Cengage Learning, Taipei, Taiwan, 2019.
+        [3] R. N. Bracewell, The Fourier Transform and Its Applications, 3rd ed.,
+McGraw Hill, Boston, 2000.
+        [4] L. E. Spence, A. J. Insel, and S. H. Friedberg, Elementary Linear Algebra
+- A Matrix Approach, 3rd ed., 2014.
+        [5] R. D. Yates and D. J. Goodman, Probability and Stochastic Processes, 3rd
+Edition, John Wiley and Sons, 2015.
+        [6] A. Papoulis and S.U. Pillai, Probability, Random Variables, and
+Stochastic Processes, 4th edition, Mcgraw-Hill, 2002.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        投影片上課。因為疫情關係老師會錄影傳到 NTU Cool 上，所以可以依自己喜歡多複習幾次。
+        不過因為老師是第一次開這門課，所以投影片都是新寫的，上面打錯滿多東西，老師下課後會上傳筆跡檔，上面會有各種修改痕跡。所以推薦上課前印投影片然後直接手改（也可以下載之後用電腦改，但很花時間）。千萬不要考前一天才把投影片全印下來，難保期末考的時候抄到有 typo 的公式。不過下次開課可能就會改善許多。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        作業   13% ×5
+        期末考 35%
+
+        甜到不行。還沒公佈分布，猜測會有一堆A+。
+
+      ρ 考題型式、作業方式
+        作業和考試都和課堂投影片的範例類似，期末考 Open Book，基本上不會刁難同學。計算題老師會事先算過，盡量避免那種數字醜積分要積一小時的題目。每次作業會有一題程式題，把教過的演算法用 Matlab 或 Python 實作一遍，不難，半小時內都可以寫完。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        用到很多積分。其他像微分方程、線性代數、機率統計最前面老師都會簡單複習一次，零基礎也可以來。
+        老師人很好，下課可以問他問題，他通常會整節下課都在回答同學的問題。這整個學期多達 700 頁的投影片都是他自己做的，真是非常敬佩老師。
+
+      Ψ 總結
+        一門輕鬆舒服的數學課。老師主要是要補充電機系大學部工程數學沒教到但他覺得比較常用的部分，要是上到一半突然教到你研究需要的數學工具那當然更好。我正好複習到了早就忘光的 Sampling Theorem ，滿好的。可以當作補充一些常識，也不錯。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.134.110 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1596951035.A.7AF.html
+→ hsnuyi: [6]其實可以買 那是電機系數十年前的機統課本 有很多東西 08/09 13:41

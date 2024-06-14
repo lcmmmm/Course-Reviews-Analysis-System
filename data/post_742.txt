@@ -1,0 +1,109 @@
+作者jacky00dd (物理金城武)看板NTUcourse標題[評價] 108-2 密碼學導論 陳君明時間Thu Jun 18 16:41:05 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 108-2
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         陳君明
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         數學系選修
+
+      δ 課程大概內容
+
+         0.  Algebraic Algebra & Arithemetic
+         1.  Indtroduction to Cryptography and Data Security
+         2.  Stream Ciphers
+         3.  Data Encryption Standard (DES) and Alternative
+         4.  The Advanced Encryption Standard (AES)
+         5.  More About Block Ciphers
+         6.  Introduction to Public-Key Cryptography
+         7.  The RSA Cryposystem
+         8.  PKC Based on the Discrete Logarithm Problem
+         9.  Elliptic Curve Cryptosystems
+         10. Digital Signatures
+         11. Hash Functions
+         12. Message Authentication Codes (MACs)
+         13. Key Establishment
+         14. Bitcoin and Block Chain
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+         Understanding Cryptography by Christof Paar and Jan Perl, 2010
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         投影片。
+
+         每週小考，除正課內容外，還包含老師預錄影片(約四十分鐘)。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         不調分
+
+         小考(13取6)  24%
+         一次作業     16%
+         期中考       30%
+         期末考       30%
+
+      ρ 考題型式、作業方式
+
+         作業27題選16題做，其中20題是課本習題，另外7題是老師出的，內容包含
+         大數數位簽章、後量子密碼文章心得、RSA Coference 影片心得等，基本
+         上只要肯花時間都能寫的出來。
+
+         考題分三部份，選擇30%，填充60%，手寫10%，基本上七成都和考古題一樣，
+         而手寫則每年都不一樣，這次期中是要分析量子電腦的複雜度，期末則是
+         數論的證明，大概看老師想出什麼，不過都沒有很難。
+
+         歷年考古題老師都會放上ceiba。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         這門課大概是我大學四年以來，修過編排最完整的一門課。基本上不需要任
+         何基礎，前1/3學期主要是在介紹數論與抽象代數，數論是從餘數和最小公因
+         數開始教，接著會介紹Extended Euclidean Algorithm和中國剩餘定理，這學
+         期大部分的計算都會用到它們，要看蠻熟的；抽象代數則是介紹群、環、體三
+         種結構，都是從定義出發，不會太難。
+
+         接著會開始介紹對稱式密碼學，包括DES, AES和Block Cipher，期中考就考
+         到這。後半學期，則是介紹非對稱式密碼學，包括RSA, Diffie-Hellman Key
+         Exchange, Ellptic Curve, Digital Signature, Hash Function等，最後幾
+         堂課會介紹比特幣和區塊鏈。
+
+         老師上課不太講廢話，但還蠻常爆掛的，修這門課最大的好處就是你會知道
+         一堆八卦，不過下課後老師一概不承認XD
+
+      Ψ 總結
+
+         如果是當初像我一樣不知道密碼學在幹麻，但覺得很帥的人，可以來修這門
+         課，絕對不會讓你失望。修完後，會對於當代密碼學有最基本的認識，現在
+         吵的沸沸揚揚的加密貨幣(應該說簽章貨幣)和區塊鏈也能有比較深入的瞭解，
+         比較不會再被媒體亂帶風向XD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.45 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1592469667.A.A09.html
+推 Astatesman: 能借問不需基礎是指外系學生也能嘗試嗎？ 06/18 17:21
+我也是外系的，基本上只要會加減乘除就可以來了XD 像我之前對於數論和抽象代數
+完全沒概念，所以每週大概會花1~2小時複習，只要課後好好複習一定學的會。
+推 rabbitcheaty: 推心得 那你什麼時候要交女朋友 06/18 18:25
+QQ
+推 unmolk: 推分享～請問這門課需要寫code嗎 06/18 19:45
+這門課並不需要打code喔~ 唯一用到電腦是要跑RSA和ECC的大數操作，ceiba上會放
+sage math tutorial，一個下午就能學會。
+※ 編輯: jacky00dd (61.228.168.237 臺灣), 06/18/2020 23:34:24
+推 nonamefour: 推 兩年前修過，感覺今年的內容更完整了 06/19 04:09
+→ nonamefour: 沒接觸過但能接受抽象數學的話 應該在這堂課會學到很 06/19 04:09
+→ nonamefour: 多XD 06/19 04:09
+推 CCSam: 陳君明小粉絲路過~ 06/19 06:47
+→ crazyalpaca: 推 最後一堂不要翹課 06/23 12:02
+推 marsonele: 推好課 07/08 07:10

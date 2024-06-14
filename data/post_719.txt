@@ -1,0 +1,116 @@
+作者lytt ()看板NTUcourse標題[評價] 108全 徐永豐 心理與教育統計學時間Mon Jun 29 07:37:01 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        108學年度
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        徐永豐
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        心理系大一必修
+
+      δ 課程大概內容
+
+        The goal of this (one-year) course is to teach students the basic
+        concepts of probability and statistics, and its applications in
+        psychology. Topics include random variables and distributions,
+        expectations and variances, sampling distributions, law of large numbers
+        , central limit theorem, hypothesis testing, analysis of variance,
+        covariance and correlation, and linear regression.
+        We will also touch issues and rationale of power, confidence interval,
+        multiple comparison, and goodness of fit. Some commonly-used tests,
+        such as the chi-square test, t test, F test, and some non-parametric
+        tests, will be introduced.
+        We will also introduce the R software for statistical analysis.
+        大概是這樣，可能有少。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★★★
+      η 上課用書(影印講義或是指定教科書)
+
+        上學期都是會把pdf檔放在ceiba上，沒有固定課本，
+        一開始上課有給幾本說可以看的課本。
+        下學期是有給這一本
+        Jay L. Devore, Kenneth N. Berk, Modern Mathematical Statistics with Appl
+        但其實課本都是參考用而已，不看沒差，上課以老師投影片為主，
+        偶爾用課本上的例子這樣。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        上課方式就是用投影片，講得有點快，
+        有時候聽不懂一個部分接下來的課大概就去了。
+        實習課就是一個禮拜中的某個中午，沒有在課表裡面，
+        所以要空出一個中午去上實習課，主要是助教教怎麼用R。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        期中考兩次各佔 20趴
+        期末考 20趴
+        作業 24趴
+        實習課出席 20趴
+
+        我覺得分數計算方式算很好心了，
+        實習課出席基本上就是送你的，而且總分是104分
+        上學期應該是有調分，下學期我不知道
+
+      ρ 考題型式、作業方式
+
+        就是考試，觀念題很多，加上一些計算題或是證明題
+
+        作業：三到四次，每次都有點多，主要是用R來做作業
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        不用基礎，正課不點名。實習課會點名。
+
+      Ψ 總結
+
+        老師對於這門課有很大的期望，希望可以引起我們對於統計的興趣，
+        但是效果看起來是不太好啦。我覺得就是要有那個統計感(？
+        才會學得比較輕鬆一點，我第一次期中考一個爆掉(甚至是全部最簡單的一次= =)
+        ，但是後來就知道怎麼準備了。這堂課的考試真的能讓你知道你到底會不會，
+        可以去看心理系轉學考的題目，大概就是那樣再簡單一點點。
+        我自己都是把老師的投影片拍下來回去看，
+        再讀Modern Mathematical Statistics那本，我覺得那本還不錯，講得很清楚。
+        老師下學期每周有給練習題，然後下次上課講解，講題目就會再複習一次觀念。
+
+        作業就是會有幾個題組，會有資料讓你分析跟解釋，
+        實習課會教那些R的函數怎麼用，就是用到什麼就教甚麼，
+        作業對我來說是這門課最煩的地方，要搞超久。
+
+        總結來說，做為第一個統計課，我是學到很多啦。
+        不過以後還是不是徐永豐教我就不知道了。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.192.180.22 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1593387427.A.665.html
+※ 編輯: lytt (123.192.180.22 臺灣), 06/29/2020 08:39:19
+→ social: 永豐心統跟鬼一樣06/29 20:23
+推 beoneself: 推永豐心統跟鬼一樣06/29 20:44
+→ beoneself: 但其實我覺得也沒那麼難準備06/29 20:44
+→ beoneself: 我也是第一次考爆之後開始認真上課06/29 20:44
+→ beoneself: 他考試內容真的就只考他上課教的內容06/29 20:44
+→ beoneself: 但考題形式不一定 有時候滿活的06/29 20:44
+→ beoneself: 這學期偏死 第二次期中考了大概50分的統計公式證明....06/29 20:44
+我覺得每次考題算是基於上課有教的概念去變化，不算很死。雖然是證明，但不是把上課東西背起來就好，比較像是用同樣概念去求一個新的東西
+→ beoneself: ...06/29 20:44
+→ beoneself: 然後作業真的是要靠朋友......06/29 20:44
+→ beoneself: 媽的每次寫不出來的時候都要找人問06/29 20:44
+→ beoneself: 通常對過兩三個人的答案大概就可以解出所有問題ㄌ(前提06/29 20:44
+→ beoneself: 是有人可以對......06/29 20:44
+→ beoneself: 對非理工學生來說數學份量蠻重ㄉ06/29 20:44
+→ beoneself: 蠻吃一些高中基本代數？ 還有一些證明技巧？06/29 20:44
+感覺這個取決於個人。大部分就是把summation的式子拆開然後消掉
+→ beoneself: (敝系甚至是理學院三類.........06/29 20:44
+→ beoneself: PS 這堂課一定要拍投影片06/29 20:44
+→ beoneself: 因為教授後來給的投影片會濃縮拿掉證明-_-06/29 20:44
+→ wcnoname5: 作業都沒朋友對自己摸黑寫QQ06/29 23:04
+※ 編輯: lytt (101.12.102.71 臺灣), 07/03/2020 20:38:41
+→ cyc1998: 身為一個外系雙修生自己一個人修真的好痛苦哈哈哈 07/12 21:35
+※ 編輯: lytt (123.192.180.22 臺灣), 08/29/2020 16:05:04
+推 kxy881124: 樓上大大有人要一起加油下學期的心實嗎XD 09/02 15:23

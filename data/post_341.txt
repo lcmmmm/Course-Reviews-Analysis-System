@@ -1,0 +1,85 @@
+作者JeanJacinto (AcctLoser)看板NTUcourse標題[評價] 109-2 陳炳宇 資料結構與進階程式設計時間Sat Jul  3 22:05:07 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：109-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 陳炳宇、程芙茵
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)  資
+管大一必修
+
+      δ 課程大概內容
+
+W1 Course Overview and Quiz
+W2 Inheritance and Polymorphism / Template and Exception Handling
+W3 Array and Link-based Bags
+W4 Recursion and Algorithm efficiency
+W5 Stacks
+W6 Lists
+W7 Spring Break
+W8 Midterm
+W9 Queues
+W10 Trees
+W11 Heaps
+W12 Dictionaries (Hashing)
+W13 2-3 and 2-3-4 Trees
+W14 Red-Black Trees and AVL Trees
+W15 Graphs
+W16 Final Exam
+W17 Final project first due （可跑保底70）
+W18 Final project second due （上傳助教範例保底60）
+
+Ω 私心推薦指數(以五分計) ★★★★★
+
+想上偏涼資結、不想GPA被拉低： 五顆
+想紮實學好理論和練習實際運用：去上資工的可能好一點
+
+ η 上課用書(影印講義或是指定教科書)
+
+有課本但是都在投影片上，考試作業也都從投影片出
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+兩個老師輪流講主題（不一定每週輪）
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+下述
+
+      ρ 考題型式、作業方式
+
+作業：
+每週都有，可能是手寫題或程式題，手寫題的週數居多，基本上都很簡單，例如畫出BST
+每次插入新元素會長怎樣，或是寫運用到該週結構的pseudocode。程式題個人覺得跟小傑
+程設難度和挑戰性差很多，寫幾次之後去看資工DSA作業0覺得資管的有點...空虛嗎？
+
+考試：
+全部手寫，基本上投影片看熟作業認真寫就穩了。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+第一次上課有Quiz 0，記得好像名義上說考過才簽，但是後來應該是全簽
+
+      Ψ 總結
+
+偏簡單的資結，老師不會講到太理論或證明的東西，後面講balanced search trees的時
+候也有蠻多東西說超出範圍、鼓勵自我學習，考試跟作業基本上也不會出。
+
+程式題的作業有一點點雷，有蠻多週寫到一直wrong answer然後花很多時間瘋狂debug，
+助教才說pdogs的答案有問題，改完馬上AC == 但是助教還是辛苦了，今年跟往年比應該
+人爆多。
+
+Final project 跟前一篇的很像，是俄羅斯方塊自動化，給分頗大方，能跑就有保底，看
+排行榜上大家好像分數也都蠻高的～
+
+整體而言算是還不錯的資料結構introduction，但是如果想要扎實一點可能資工的比較好
+～
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.169.35.93 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625321109.A.BFD.html
+推 jeff12697: 作業真的過簡單，感覺小傑程設作業還比較有挑戰性 07/04 12:23

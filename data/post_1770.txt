@@ -1,0 +1,101 @@
+作者utWJX (DEIMOS)看板NTUcourse標題[評價] 105-1 陳偉松 自動機與形式語言時間Fri Jan 27 22:42:21 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+        105-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        陳偉松
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        資工系大三必修
+
+      δ 課程大概內容
+
+        Part A
+        Lesson 1. Preliminaries
+        ----------------------------------------------------
+        Part B
+        Lesson 2. Deterministic finite state automata
+        Lesson 3. Nondeterministic finite state automata
+        Lesson 4. Regular expressions
+        ----------------------------------------------------
+        Part C
+        Lesson 5. Context-free languages
+        Lesson 6. Pumping lemma and push-down automata
+        Lesson 7. CFG = PDA
+        -----------------期中考（範圍BC）--------------------
+        Part D
+        Lesson 8. Turing machines and decidable languages
+        Lesson 9. Variants of Turing machines
+        Lesson 10. Universal Turing machines and Halting problem
+        Lesson 11. Reducibility
+        -----------------------------------------------------
+        Part E
+        Lesson 12. Time and space complexity
+        Lesson 13. NP-complete problems
+        -----------------期末考範圍全部----------------------
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        ★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Introduction to the Theory of Computation by M. Sipser.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        英文授課
+        老師會將每個禮拜的上課講義上傳到課程網站（比較簡略）
+        上課老師會先講一個觀念，然後有類似的東西會問同學要怎麼證明之類的
+        讓大家有再思考，考試前會留一週reading week
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        hw*5    一份10%
+        期中考  25%
+        期末考  25%
+
+        考卷改得很鬆，最後沒有調分。
+
+      ρ 考題型式、作業方式
+
+        每次作業大約5題
+        考試跟作業很像
+        期中考有五題，後面幾題是證明題
+        期末考有四題，一個part出一題，考很基本的東西
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        這是一門理論課，所以老師特別注重寫證明的方式
+        有寄一封信寫說A+跟A的差別大概是差在證明寫的完整度上面
+
+        加簽好像沒有限制，因為這學期兩個班都是他教的，
+        如果外系想要加簽，最好要有離散數學Relation的基礎，還要會寫證明。
+
+        交作業時間到了老師會準備兩個箱子放到他的辦公室外面，
+        作業跟考卷都是老師親自批改。
+        還有hw5好像因為有蠻多人寫 coNP algorithm 這個詞老師蠻不開心的
+        因為老師說這個詞是NONSENCE，他上課也沒有提到，所以寄信跟大家說這件事情
+
+        每個禮拜的預定進度講完就會下課，我記得有一次大概11:30就下課了。
+
+      Ψ 總結
+
+        這是一門計算理論入門的課，如果非必修只是像要看看的話，可以不要修其實
+        因為就是理論證明這樣。如果對計算理論有興趣想要專研的話，這門課入門
+        壓力不大。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.82.208.80
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1485528144.A.CE7.html
+推 boriszzz: 作業有些可以破百加分 推tony熱忱 02/04 00:47
+推 BreathWay: 寫coNP algorithm就用抄的啊 根本不知道自己在寫啥吧 02/07 01:39

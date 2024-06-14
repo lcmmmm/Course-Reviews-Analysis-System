@@ -1,0 +1,114 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 108-2 陳炳宇、孔令傑 資料結構與進階程式設計時間Wed Jul  8 09:57:18 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+陳炳宇、孔令傑
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+資管系必修
+
+      δ 課程大概內容
+
+依照syllabus上的內容依週條列：
+1. Course Overview and quiz
+2. Review of C++
+3. File I/O, C++ strings, and header files
+4. Inheritance and polymorphism
+5. Template and exception handling
+6. Array- and link-based bags
+7. Recursion and algorithm efficiency
+8. Stacks
+9. Midterm exam
+10. Lists
+11. Queues
+12. Trees
+13. Heaps
+14. Dictionaries
+15. Graphs
+16. Final project first due
+17. No class
+18. Final project final due
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+Data Abstraction and Problem Solving with C++: Walls and Mirrors by Carrano and Henry, sixth editi-
+on, Pearson, 2012.
+C++ How to Program: Late Objects Version by Deitel and Deitel, seventh edition, Pearson, 2011.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+因為疫情關係都改成線上教學，老師預錄影片後放到COOL上。前半學期是小傑負責，後半是robin，都是根據該週
+主題以影片的方式講解這個資料結構的用法與實作。要注意的是前半學期主要是物件導向，後半才是教資料結構
+的課程。
+小傑的課程就...沒什麼好挑的，品質很高。炳宇老師的話可能是因為第一次轉成線上，影片有時候會有些問題，
+講話也比較容易卡住，不過無傷大雅就是了。另外robin好像很久沒教大學部，為了怕他講得不清楚所以有跟資工
+系的老師借影片放在COOL上，所以資料結構總共有三個老師的影片可以看，滿賺的ＸＤ
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+A quiz and its make-up homework: 5%
+Homework: 45% (the lowest one will be dropped)
+Midterm exam and Final projject: 50% (the higher one counts for 30%)
+(Bonus) class participation: 5%
+
+程式課都很扎實，但這門課好甜，期末大爆調，真香。
+
+      ρ 考題型式、作業方式
+
+作業：共12次作業，幾乎每週都有。前半學期幾乎都是code，後面才有參雜一些手寫部分，程式與手寫大概2:1吧
+。我自己覺得程式作業有點難，因為會限制一堆東西，手寫作業就很簡單ＸＤ
+
+期中考：遠端筆試，有名詞解釋、pseudo-code與演算法分析、在給定的class內寫出題目要求的函數之類的。
+Open anything，不要跟人溝通就好。
+
+期末專案：寫一組header file跟cpp file，內容是貪食蛇自動吃點點。助教會用你的算法跑他的地圖檔然後算分
+，我猜這個是因應疫情做的調整，歷年期末應該也是筆試，所以可能參考價值不大。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+全簽，基礎的話就是要會寫C++，最好對class要熟，不然會跟我一樣寫作業寫得很痛苦。
+兩位老師人都很好～
+
+      Ψ 總結
+
+滿扎實的程式課，認真上課的話可以學好物件導向跟資料結構。這門課應該算是我真的能夠瞭解怎麼寫出好程式
+的第一堂課，之前的課都是把所有東西塞在main function裡面，頂多寫幾個function而已，但經過這門課後，我
+開始會思考要怎麼把class包好，怎麼寫出比較好的架構，順便學會了用git版控、上github看人家寫好的架構跟
+用makefile去跑程式而不是無腦執行，也從xcode轉成用vim來寫code（vim真香），算是很有收穫的一門課。不過
+作業的限制有時候有點多就是了，可能是我太廢，有時候會不知道到底要怎麼寫，最後只能找大腿幫忙。本來想
+自己跟這門課搏鬥的，但大腿真的太粗了><抱了就放不開了
+
+不過我要小抱怨一下助教，三個助教感覺只有一個在做事，期末專案也是只有一個助教在改，感覺效率頗低落。
+本來想大聲斥責的，但調分實在太香了。我自己算了一下，計入bonus的話我的原始分數被調了8分，不過也不知
+道他分數最後到底怎麼算的就是了。
+
+真香。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.119.91 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1594173441.A.E52.html
+※ 編輯: unmolk (36.228.119.91 臺灣), 07/08/2020 11:01:37
+推 yagerbomb: 效率蠻高的吧 資工系的dsa 暑假才開始改第一週的quiz 07/08 11:12
+→ unmolk: 太慢了吧... 07/08 11:22
+推 yanchi030: 原po也太愛小傑XD 07/08 11:35
+→ yanchi030: 雖然我也很愛 07/08 11:35
+→ unmolk: 就剛好小傑的課我覺得都很有趣啦～ 07/08 12:05
+推 RedArmy95: 今年這麼硬哦 還要學git vim makefile 兩年前我還用Dev 07/08 14:29
+→ RedArmy95: 寫的很開心 07/08 14:29
+推 rrro: 應該是原 po 自己認真啦哈哈至少我是沒教～～謝謝原 po 的心 07/09 00:00
+→ rrro: 得文你真有心！ 07/09 00:00
+推 zxcv200298: 推rrro!! 07/09 01:11
+推 cffeFrk25: 笑死 對助教很氣 抱怨還寫兩次 08/10 00:41
+→ cffeFrk25: 阿發現是手機問題 原po沒這麼氣 08/10 00:45

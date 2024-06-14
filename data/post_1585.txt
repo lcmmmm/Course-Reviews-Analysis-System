@@ -1,0 +1,147 @@
+作者musashi66666 (634)看板NTUcourse標題[評價] 105-2 姜堯民 不動產投資概論時間Sun Jul  9 15:51:11 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：否
+
+
+      哪一學年度修課： 105下
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        姜堯民
+
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)
+
+       1. 財金系選修
+
+       2. 先修規定：財務管理
+
+       3. 英文授課
+
+      δ 課程大概內容
+
+        week 1 Introduction
+        week 2 (Holiday, no class)
+        week 3 Mortgage contracts and notes
+        week 4 Mortgage analysis
+        week 5 Resitential housing
+        week 6 Income producing properties
+        week 7 (Holiday, no class)
+        week 8 Real Estate Investment Analysis
+        week 9 Midterm test
+        week10 Financial leverage and risk analysis
+        week11 Diposition and renovation of income properties
+        week12 Financing real estate projects
+        week13 Secondary mortgage markets
+        week14 Mortgage securitization
+        week15 (Holiday, no class)
+        week16 Real estate investment trusts
+        week17 BOT projects
+        week18 FINAL PROJECT
+
+        前幾堂課講了一點簡單的房地產法律問題，還有相關的名詞解釋，後面很大一部
+
+        分則著重於各種房屋貸款的介紹以及現金流量的計算。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        想練習英文 ★
+        想認識房地產相關法律 ★
+        熱愛財管想修甜課 ★★★★★
+        想練習用excel做出財務決策 ★★★★★★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        推薦用書：Required Textbook:Real Estate Finance & Investments, 14th Edition, by
+William Brueggeman and Jeffrey Fisher (BF)
+
+        主要以ceiba上的PPT上課。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        上課前會將PPT上傳ceiba，上課以PPT為主，偶爾搭配板書，現金流量的問題會
+
+        以excel講解。前幾次用excel的內容大多和他上的財管重複，所以速度蠻快的，
+
+        假如完全不懂的話，這堂課可能就要考慮一下。
+
+        後面開始算不同的mortgage之後，速度就會慢很多，後面出作業甚至會把上課做
+
+        的excel檔案上傳到ceiba(完全就是給你解答的概念，超級佛)
+
+
+        因為是英文授課的關係，班上大概將近三分之一是外籍生，但老師的英文比較台
+
+        所以基本上不太需要擔心會聽不懂XD (我倒是覺得有些考題因為出得太台式英文
+
+        ，反而有點難理解)遇到一些可以討論的問題，老師也會問大家的意見，因為這堂
+
+        課也有不少研究生，所以老師點人大部分都以研究生為主，真的沒辦法用英文表
+
+        達，也可以用中文回答，老師會擔任翻譯。整體來說，語言完全不構成問題。
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        CEIBA上的評分方式：
+
+        Group Assighments/ Projects 36%
+        Mid Exam 27%
+        Final Exam 27%
+        Attendance and Participation 10%
+
+        但實際上考完期中考後，老師出了一個group final project，跟大家說如果做
+
+        得好的話，就可以不用考期末考，最後也真的沒有考期末考。
+
+        作業次數不少，團體的個人的都有，所以應該算扎實偏甜。(好啦超甜)
+
+      ρ 考題型式、作業方式
+
+        期中考25題選擇題，一翻兩瞪眼XD。(大約18~20題是觀念題，剩下是數字的計算)
+
+        這次沒期末考。
+
+        作業的話兩次個人，兩次團體。
+
+
+        個人作業差不多是5題excel計算，第一次比較簡單我花了三個小時做完計算，然
+
+        後花了一個半小時把表格剪下來還有排版(因為老師堅持作業要印出來交囧)
+
+        第二次個人作業差不多花了五個多小時吧，然後一樣加一個半小時排版QQ
+
+
+        團體作業兩份，都是給了一堆資訊，要我們計算並分析，最後一直強調要我們交
+
+        出一份"專業的"報告，還貼了HVS一百多頁的研究報告給我們參考，LOADING真的
+
+        蠻重的XD 但做完超有成就感，有一種自己excel超強的錯覺XDDD
+
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        CEIBA上是寫每次上課都會點名，但實際上出席率應該是不太重，尤其宣布不考
+
+        期末考之後去上課的人數直接剩三分之一XD
+
+
+        建議可以複習一下怎麼用excel算財管那五個變數，還有學會最簡單的規劃求解~
+
+      Ψ 總結
+
+
+        寫太多姜堯民的評價了XD
+
+        他的課就差不多長那個樣子，認真上課，認真交作業，就會得到該有的分數，
+
+        我自己覺得這堂課相較於投資學和財管算深入一點點，比較有挑戰性，也比較好
+
+        玩，推薦給還沒成為堯民粉的大家XD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.168.151
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1499586673.A.BDB.html
+※ 編輯: musashi66666 (118.169.168.151), 07/09/2017 15:52:19

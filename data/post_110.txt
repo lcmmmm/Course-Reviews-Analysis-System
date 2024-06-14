@@ -1,0 +1,128 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 110-2 謝志昇 計量經濟學計算方法時間Wed Jun 22 01:22:56 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+110-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+謝志昇
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+經研所選修
+
+      δ 課程大概內容
+
+根據syllabus
+
+Week 1 (2/14): Numerical optimization (linear equation, linear programming)
+Week 2 (2/21): Numerical optimization (general nonlinear optimization)
+Week 3 (2/28): No class (Holiday)
+Week 4 (3/07): Bootstrap
+Week 5 (3/14): Simulated-based estimation (Numerical Integration)
+Week 6 (3/21): Simulated-based estimation (EM, SML and SMM, etc.)
+Week 7 (3/28): Simulated-based estimation (EM, SML and SMM, etc.)
+Week 8 (4/04): No class (Holiday)
+Week 9 (4/11): Simulated-based estimation (EM, SML and SMM, etc.)
+Week 10 (4/18): Bayesian estimation (Principles)
+Week 11 (4/25): Bayesian estimation (Principles)
+Week 12 (5/02): Bayesian estimation (Markov chain Monte Carlo sampling)
+Week 13 (5/09): Bayesian estimation (Markov chain Monte Carlo sampling)
+Week 14 (5/16): Dynamic programming
+Week 15 (5/23): Dynamic programming
+Week 16 (5/30): Student presentation
+Week 17 (6/06): Student presentation (extra session)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+研究需要用到計量方法：★★★★★ 基本上做研究可能會用到的一些方法都會教到
+學了計量想知道怎麼跑程式：★★★★★
+想做資料科學：★★★★ 會碰資料但方法跟需求都偏學術
+喜歡人很好的老師：★★★★★ 老師人太好了...
+
+      η 上課用書(影印講義或是指定教科書)
+
+用老師自編講義，除此之外會帶幾篇 paper。
+另外期末需要報paper，基本上是從老師提供的論文內挑一篇來報，但如果有其他篇有興趣
+的也可以跟老師說，基本上跟計量經濟學、計算方法，甚至機器學習有關的都可以。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片上課，基本上上課就是講解投影片內容，大部分的內容都在投影片上了，認真上課
+並作點筆記的話應該可以吸收得不錯，但建議要有計論一的知識再來修會比較好。
+這門課是英語授課，老師英文講得很清楚，基本上不會出現聽不懂的情況。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+1. Participation 10%
+Students should attend lectures regularly and engage in course discussions
+2. Assignments 60%
+There are several assignments to exercise the problem solving and software
+coding
+3. Paper Review and Presentation 30%
+Students should choose an article from the reading list and present it at the
+end of the
+semester (or write a review)
+我覺得算扎實偏甜。主要的分數都集中在作業，而作業總共有三次，每次都有大概一個月
+可以完成。三次作業都是實打實的程式作業，只有第三次有 Bayesian 推導要做。程式作
+業的語言不限，老師主要用 R 跟 Matlab，所以上課的範例程式也是用 R 或 Matlab 來
+示範，但作業要用 Python, Julia, C/C++ 寫就完全沒有限制。
+
+作業算是有挑戰性。作業一滿簡單的，主要就是熟悉一些基本的劑量方法，可能也讓同學
+熟悉一下各個語言的套件；作業二要我們用不同的 dataset 重做一篇經典的計量估計方法
+的論文（Estimation of a Model of Entry in the Airline Industry, Berry 1992），
+作業三則是用 MLE 跟 MCMC 實作一篇老師做社會網絡的論文結果。
+
+實驗跟估計的結果固然重要，但老師也不會全看跑出來的數值結果，而是著重在你的程式
+是不是正確的，或是跑出來的結果不盡理想有沒有做延伸的討論或是測試，這點我覺得滿
+好的，你可以在報告裡面跟老師討論和解釋你的程式、理論結果和實驗結果的異同與成因
+，老師也會滿用心地跟你討論，在上課時也能問老師怎麼樣讓結果跑得更合理、怎麼選模
+型的方法，老師都會不吝嗇地分享。而且如果作業真的寫不太出來，跟老師反映後如果發
+現全班都希望把死線延期的話老師也很樂意延長作業時間！這點真的很佛，作業三因為接
+近期末，我便和老師討論能不能延期一周，老師也在調查班上同學意見後乾脆地延後作業
+截止日期，我真的超感動...作業二則是老師也覺得不容易，所以主動延長死線，所以只要
+不要真的都拖到最後一刻才寫作業的話，應該不至於完全寫不出來。
+
+另外期末報告只要挑一篇 paper 跟大家做 30 分鐘的分享就好，我覺得這部分不會太影響
+分數，因為就算講得很不順或是節奏很亂，只要能讓老師知道你真的有讀這篇論文，老師
+也會很大方地給予稱讚和回饋，真的不用太擔心英文很爛或是沒有報論文的經驗，老師不
+會電人，而且也有比較簡單的文章可以報，只要用心準備我想是完全不會有問題。
+
+      ρ 考題型式、作業方式
+
+沒有考試，三次作業都是程式作業，詳細內容都寫在上面了。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+基本上全簽。第一週老師會詳細說明這門課的規劃和課程負擔，所以可以聽完後再根據自
+己的時間和需求來決定要不要上課。學期初人數上限25人全滿，但加退選結束後就剩約10
+多人了，真的有修完的期末只有10個人，所以上課品質很好，課堂上也可以跟老師有直接
+的互動，想問問題都能直接問，下課有額外想討論的事情老師也很歡迎學生找他討論，我
+滿常看到其他不是老師指導的學生跟老師討論一些研究上的事情，老師都超有耐心而且給
+出很有幫助的回答，嗚嗚人真的很好。
+
+如果是未來想繼續走學術，做非純理論研究的話，我滿推薦大家來修這門課的，畢竟經濟
+學研究很大一部分是仰賴手中有的資料，以及怎麼分析這些資料，能夠在這門課上熟悉一
+些常用的計量方法和套件、語法的話絕對會有幫助，我也是在寫這門課的作業時才更熟悉
+python pandas, numpy, sklearn 的一些用法。另外這門課接近尾聲時老師有提供一些當
+研究助理的機會，修完課馬上就有實際應用的機會，不知道算不算一種自產自銷ＸＤ其實
+修完這門課應該就能應付絕大多數經濟系ＲＡ的工作了，把這門課當成ＲＡ訓練營的話倒
+也滿像的。
+
+基礎的話建議至少要有計量經濟學一或是計量理論的知識，修起來會比較有 sense 一點，
+有一些高統的知識可能也會有幫助，但都不是絕對必要，至少連我這種計量 0 基礎的人都
+修得動了，其實只要會寫程式就能在這門課拿到好成績，不過如果要有比較深刻的體會，
+還是建議修過計量理論或差不多的課再來上這門課。
+
+      Ψ 總結
+
+老師人超好又超帥超可愛><！很會鼓勵學生也很用心在準備課堂上，真的是天使老師
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.73.151 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1655832179.A.BA9.html
+※ 編輯: unmolk (140.112.73.151 臺灣), 06/22/2022 01:25:34

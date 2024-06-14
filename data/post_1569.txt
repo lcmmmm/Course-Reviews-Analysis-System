@@ -1,0 +1,111 @@
+作者ycldingo (炸旗魚)看板NTUcourse標題[評價] 105-2 管希聖 量子計算與量子資訊導論時間Fri Aug  4 16:55:27 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：105-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+           管希聖 教授
+
+     λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+           開課系所：物理學研究所
+           授課對象：物理學研究所、奈米科技學程
+
+      δ 課程大概內容
+           Four postulates of quantum mechanics
+           Distinguishing quantum states
+           Projective measruement
+            Positive operator-valued measure(POVM) measruement
+            Patial measurement
+           Quantum Entanglement
+           EPR paradox and Bell's inequality
+           No-cloning theorem
+           Quantum circuit model
+            Quantum gates
+            Quantum computation
+           Superdense coding
+           Quantum teleportation
+           Quantum cryptography
+           Quamtum key distribution
+            BB84
+            E91
+            B92
+           Quantum computation
+            Deutsch's algorithm
+            Deutsch-Jozsa algorithm
+            Shor's algorithm
+            Continued fraction algorithm
+           Quantum Fourier transform
+           Quantum Phase Estimation
+           -------------------------------------examination
+           Quantum search algorithm
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+           Quantum Computation and Quantum Infromation
+             by M.A.Nielsen & I.L.Chuang(Cambridge,2000)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+           板書          98%
+           投影片(補充)   2%
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+           期中考                   40%
+           作業(共7次，每次10題)    30%
+           期末報告(口頭+書面)      30%
+
+      ρ 考題型式、作業方式
+          【作業】
+           來源為課本習題，偶爾會有上課講解到的問題或推導(只出現過一次)。作業量
+           以管老師的習慣來說算是正常能量釋放，每次作業間隔大約一個半星期、每次
+           10題。助教規定作業不可遲交。
+           雖然每次作業有10題，但助教只會選其中5題批改，至於是哪5題、如何選擇則
+           完全由助教決定，惟每次批改完作業後會於ceiba上公布當次批改那5題的解題
+           方法/引導。
+           作業不一定會出現在學期考試中，不過對於上到一半get lost的人會有幫助，
+           只是有時候出的作業可能還是比較前面的主題，課堂上的進度通常比作業快一
+           點。
+
+          【考試】
+           整學期只有一次期中考，時間大約在學期最後一個半月到一個月中間，考試內
+           容為當前所上的所有進度。考試後的進度就不會考了(一點點)。
+           難易度偏易，不會有繁雜的計算，主要訴求大約定位在「當你修完這門課、別
+           人問你上課內容，你可以說出什麼」，因此只要把上課筆記讀完基本上就不太
+           有問題。
+           考題大約5～6題、每題視情況分成幾個小題，滿分100分。考試時間180分鐘，
+           很夠寫。
+
+          【期末報告】
+           期末報告要求2至3人一組，題目自訂，只要與上課內容或量子資訊、量子計算
+           相關皆可。報告分為口頭報告與書面報告兩部分。
+           口頭報告為小組共同項目，選定一主題後自己找paper，以投影片形式於學期
+           最後一堂課報告。每個人都需要上台報告。老師會發予每人一張評分表，每個
+           學生須為每個報告人評分，但最後得分仍由老師決定，評分表用意在於了解台
+           下學生對於該報告者的報告理解狀況，若老師的評分與學生反應兩極，將視情
+           況調整給分(老師如是說)。
+           書面報告為個人項目，每個人對於自己小組所選之題目依自己的理解撰寫，也
+           就是說每個人的書面報告應該都不同。沒有限制篇幅，格式大約遵循一般論文
+           格式即可，報告不限中、英文。繳交期限為學校表定期末考試週的隔周一。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+           出席部分與管老師開的其他課程一樣，不點名。老師個性隨和，要加簽的基本
+           上都簽。
+
+           建議的相關基礎為量子物理與相關數學背景(線性代數)，私心認為課程難易度
+           約莫在量子物理與量子力學之間，算是非常親民。
+
+           期末考週不上課。
+
+      Ψ 總結
+           整體而言是一門滿平易近人的課。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.246.80.29
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1501836933.A.A6E.html
+推 fyi320: Bbb 08/05 16:34
+推 Kimg: 管希聖的課竟然有人推XD 08/06 22:17
+不好說不好說XD
+※ 編輯: ycldingo (118.170.80.115), 08/08/2017 23:42:19
+推 peter4656563: 求管老量子力學評價 08/18 12:02

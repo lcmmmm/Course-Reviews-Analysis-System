@@ -1,0 +1,100 @@
+作者CupidError (消失)看板NTUcourse標題[評價] 106-2 李建模 演算法時間Fri Jul  6 00:56:41 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+        106-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        李建模教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        電機系選修 非常歡迎外系來修
+
+      δ 課程大概內容
+        以下來自Ceiba，加上一些我自己的修正
+        第1週   Introduction Foundations (Ch1~4)
+        第2週   Foundation/Sorting (Ch6~9)
+        第3週   Sorting
+        第4週   Advanced Design: Dynamic Programming (Ch15)
+        第5週   Advanced Design: Greedy Algorithm (Ch16)
+        第6週   Vacation; NO CLASS
+        第7週   Data Structure: Trees
+                Binary Search Tree (BST) (Ch12)
+                Red Black Tree (Ch13)
+        第8週   Graphs: Introduction
+        第9週   Midterm Exam
+
+        期中考：考到第七週的上課範圍
+        ---------------------------------------------
+        第10週  Graphs: MST
+        第11週  NP-complete
+        第12週  Graphs: Shortest Paths
+        第13週  Graphs: Flow
+        第14週  Project Presentation 1
+        第15週  Approximation methods Optimizations
+        第16週  Amortized Analysis
+        第17週  Project Presentation 2
+        第18週  Final Quiz
+
+        期末考：Graphs（就是標題是Graph:開頭的那幾個部分）
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        想要輕鬆舒適的上課      ★★★★★爆表
+        喜歡甜涼刷GPA           ★★★★★爆表
+        喜歡畫演算法的操作過程  ★★★★★爆表
+        喜歡用兩倍速學習演算法  ★★★★★爆表
+        喜歡心靈雞湯影片        ★★★★★爆表
+
+      η 上課用書(影印講義或是指定教科書)
+        Introduction to Algorithms, 3rd edition, Cormen, Leiserson, Rivest, Stien,
+MIT Press, 2009.
+        →Bible, highly recommended
+        但聽說老師的投影片跟課本是一樣的，所以其實可以不用看（？）
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        翻轉教室
+        課前看影片(可以兩倍速)
+        正課：第一堂快速滑過投影片問大家有沒有問題
+        　　　中堂下課放一些雞湯影片給大家看
+        　　　第二堂寫Classwork
+        　　　第三堂檢討Classwork
+
+        有些不用看課前影片的週次，老師會直接上正課內容，但有時候他會在課堂上放課程影片叫大家看……
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        課堂作業 Classwork (CW) 12%
+        程式作業 Programming Assignments (PA) 30%
+        Midterm exam 25%
+        Final Project 25%
+        Final Quiz 6%
+        Participation 2%
+
+        CW、期中考、期末考都可以開書，題型都算簡單，且有大量的「操作題」，就是要依照演算法一步一步把會發生的流程畫出來的題目。雖然簡單但很花時間而且手會痠。
+        CW是可以大家一起討論的，而且9次取6次高分，所以這個部分拿滿分算容易。另，期中考班平均83，給各位參考。
+        PA的分數是60%程式正確性、20%繳交格式正確性與20%報告，所以也極好拿分。例如說第三次PA我只能處理其中一種Case，其他的Case我都直接丟Fail，結果拿了88分。
+
+        Final Project題目是CAD Contest的特定題目，要寫程式、口頭進度報告一次還有交書面報告。評分方式未知。
+
+        總結：極甜，最後公佈成績A+大概佔52%（電資學院平均A+比例為31%，供各位參考）
+
+      ρ 考題型式、作業方式
+        如前述。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        PA是用C++寫的，至少會用到Vector，當然老師會在公佈欄放一些STL容器的教學，不過還是有處理過的經驗會比較好。
+
+      Ψ 總結
+
+        這門課比較明顯的缺點像是影片講話語氣頗平淡而且基本都是照著講，還有期末考只占6%而且只考Graph，所以NP Complete和後面的章節我都沒動力聽……
+        好處是你可以用一學期快速看完這本演算法聖經，還留下影片留供以後複習。
+        最重要的是，超級甜。老師很佛，只要達到要求分數都很高。只是要提醒大家老師很重視程式的執行數據，像複雜度分析、執行速度，但如果你期末書面報告沒寫他會給你機會補。
+        我覺得滿推薦給想沾沾看演算法（？）但又不想要太重Loading課的同學。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.171.30.88
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1530809804.A.7F2.html
+推 kevin60907: 推老師人很好！ 07/09 13:45
+推 helloni0425: 推 老師很用心也很可愛而且分數真的超甜 07/11 19:39

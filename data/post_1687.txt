@@ -1,0 +1,114 @@
+作者fpsamuraig (水果拼盤武士G)看板NTUcourse標題[評價] 105-2 蔡忠潤 微積分二時間Wed Jun 21 02:53:47 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：105-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        蔡忠潤
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        數學系必修，可抵其他微積分課
+
+      δ 課程大概內容
+        1. Functions of several variables and continuity
+        2. Partial derivatives
+        3. Differential of a function
+        4. Chain rule
+        5. Mean value and Taylor theorem in several variables
+        6. Integral of functions with a parameter
+        7. Line integrals
+        8. The fundamental theorem on line integrals
+        Mideterm 1
+        9. Implicit functions
+        10. Inverse function
+        11. Maxima and minima
+        12. Lagrange multiplier
+        13. Solving inverse map by iterations, Dependent functions
+        14. Area, double integrals and Integrals in higher dimensions
+        15. Change of variable formula
+        Midterm 2
+        16. Improper multiple integrals
+        17. Integrals in curvilinear coordinates
+        18. Higher dimensional integrals
+        19. Improper integrals with a parameter
+        20. Green's theorem
+        21. Applications and interpretations by flows
+        22. Orientation of surfaces and surface integrals
+        23. Gauss's theorem in space
+        24. Stokes's theorem in space
+        25. Higher dimensions
+        Final
+Ω 私心推薦指數(以五分計) ★★★★★
+        5顆
+
+      η 上課用書(影印講義或是指定教科書)
+        1. Introduction to Calculus and Analysis Vol.II by Richard Courant
+           and Fritz John（參考用）
+        2. 教授自己整理的筆記
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        純板書，這學期改成上課的筆記會在課前一天上傳Ceiba，我自己上課會直接
+        把檔案開起來放著邊看邊聽，理解的效率比上學期高出不少。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        作業 30% / 期中一 20% / 期中二 20% / 期末 30% / 加分 5%
+
+      ρ 考題型式、作業方式
+        考題一樣是題組，這學期每次都是六題，沒有是非題。前兩次期中有大略公
+        佈題型，通常約有一半是證明題。期末則只給範圍，全部都是計算。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        不在乎出席率，加簽都給簽。最好修過微積分一，這學期也有一些從微甲轉
+        過來的同學。如果上學期有學好的話會過的相對輕鬆，因為不少論證的方式
+        十分類似。
+
+      Ψ 總結
+
+        這學期的課程集中在多變數微積分，第一次期中考前的內容算是整學期的根
+        基（也就是如果沒有弄懂大概可以考慮停修了），把微積分搬到高維空間上
+        去重新定義，用矩陣的方式詮釋微分，也介紹了1-form的線積分定理。
+
+        第二次期中的範圍是整學期的理論精髓：隱函數定理和反函數定理（IFT）。
+        多變數微積分討論的是怎麼在一個可能不是歐式空間，但局部像歐式空間的
+        東西上面做微積分，而IFT是裡頭的理論基礎。這同時也是分析導論（或其他
+        學校的高微）會再教一次的內容，但台大的分析課聽說會把它當做已知直接
+        跳過。除了IFT外剩下的時間著重在定義多變數的積分。
+
+        期末的內容就幾乎都是高維度積分理論，包含瑕積分、參數化高維曲面，以
+        及最重要的三個定理：Green定理、Gauss定理、Stokes定理。雖然期末考主
+        要都考計算，但上課花最多時間的還是放在推導。可能因為教授本身是做幾
+        何的，課程中也給了很多幾何的觀點，像是學期最後就用微分型
+        （differential form）來詮釋Stokes和Gauss定理，也稍微談了一點流形
+        （Manifold）。
+
+        整學年下來，我覺得收穫最多的數學課大概就是這門數學系的微積分了。畢
+        竟微積分這東西單論計算的話，其實隨便抓本參考書刷些題目就能練到一定
+        程度。但是數學系不一樣的地方在它帶著你走過了將整套理論體系建構起來
+        的過程。就如同教授所說，分析學比較像是方法論，所以這一年下來在論證
+        方法的介紹上一點都不馬乎。
+
+        接續這門課，如果想要更深入的去學習這些論證方法的話，可以接著修分析
+        。如果對距離、長度有關的概念有濃厚興趣的話，則可以修幾何。
+
+        最後維持數學系的優良傳統，附上教授在期末的一則語錄：
+
+        蔡：「出考卷很累，改考卷也很累」
+        學生：「那齊震宇呢？」
+        蔡：「他有強迫症」
+
+        附註：一樣補上這學期物理系編的共筆。
+        共筆連結:goo.gl/FWjzU2
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.195.129
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1497984829.A.21D.html
+推 Crissangel: 強迫症XDDDDD 06/21 17:19
+推 therr: 推神<(_ _)> 06/22 10:43
+推 omni1234: 強迫症XDDDDDDDDDDDD 06/23 00:50
+推 olioolio: 之前看到橋牌讓我想起高中的日子XD 06/24 23:25
+推 willydp: 真心希望齊教授的強迫症可以改善 06/25 06:00
+※ 編輯: fpsamuraig (140.113.69.232), 07/03/2017 10:38:37
+推 rabbitcheaty: 蔡真的很87XDDDDD 08/01 14:49

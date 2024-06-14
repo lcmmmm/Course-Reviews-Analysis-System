@@ -1,0 +1,125 @@
+作者tryptochan (tpr)看板NTUcourse標題[評價] 109-1 陳政維 控制系統時間Tue Aug 31 22:27:44 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         陳政維 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機系 複選必修
+
+      δ 課程大概內容
+         Control is the action of causing a system variable to approach some
+         desired value. It is also a fundamental and universal problem-solving
+         approach in many traditional and interdisciplinary fields.
+
+         A control system, in a very general sense, is a system with an
+         (reference) input that can be applied per the desired value and an
+         output from which how well the system variable matches to the desired
+         value (e.g., errors) can be determined. It can be found in daily life,
+         almost all engineering disciplines, and even biological and social
+         studies. For examples, bicycle riding involves a control system
+         comprising of a bicycle and a rider, with inputs and outputs
+         associated with the desired attitude, speed, and direction of the
+         bicycle. Temperature control systems have applications in household,
+         automobile, aerospace, office, factory, and agriculture environments.
+         Motion control systems are critical to factory automation and
+         precision instruments, such as industrial robots, atomic-force
+         microscopes, and step-and-scan photolithography exposure systems.
+         Many modern cameras equip with autofocus and vibration compensation
+         systems to minimize image blur. Many kinds of circuits such as phase
+         lock loops, operational amplifiers, and voltage regulators rely on
+         control to ensure their functions and performance. A living body is
+         a complex control system where many critical variables such as
+         heartbeat rate, blood pressure, and body temperature are regulated
+         constantly for health. Central banks of most countries around the
+         world set interest rates as a way to control inflation.
+
+         This undergraduate course is designed for junior and senior
+         (3rd/4th yr.) students to apprehend basic modeling, simulation,
+         analysis, and design techniques for control systems. It intends to
+         cover the fundamentals of “classical control” that primarily
+         focuses on frequency domain feedback control approaches for
+         single-input-single-output systems. When time permits, some essential
+         elements in modern-day control engineering such as state-space
+         techniques will be covered.
+         （以上複製自課程網）
+
+      Ω 私心推薦指數(以五分計)
+               綜合： ★★★★ （原因下述）
+         想入門控制： ★★★★★
+         不想寫作業： ★★★★★
+           只要學分： ★★★★★
+η 上課用書(影印講義或是指定教科書)
+         自製投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片為主，板書、matlab、實體玩具demo為輔
+         老師上課很喜歡嘴砲，口條清晰思路清奇
+         喜歡問大家問題，回答都直接加期中/期末/學期成績
+         我光學期加分就加了6分，直接混到A+
+
+         另外教授上課會介紹好用的 MATLAB 功能，
+         也把一些經典手動大爆算的技巧（像Mason's gain formula）拿掉了，
+         所以想要跟 MATLAB 比賽計算能力的可以修其他教授的或左轉機械系(X
+
+         教授講的時候很注重理解，
+         所以每個技巧為什麼有用跟要解決什麼問題都很清楚，
+         在修的時候真的有種一步步建構出一套有系統的理論的感覺
+         （雖然現在都忘光了）
+         很推薦想入門的人來修（不過準備考研好像還是要學會大爆算
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         Midterm Exam:  30%
+         Final Exam:    40%
+         Final Project: 30%
+
+         特殊規定：
+         → 考試都有出席、project有繳交（白卷也可）學期成績保底60
+         → final project 做前三好的無視考試成績直接A+
+
+         除了上課發言的分數跟用送的差不多外，其他算扎實分。
+
+      ρ 考題型式、作業方式
+         考題有選擇（須說明原因）、計算、證明、畫圖。
+         考2節課，共6題（沒記錯的話期中期末都是）
+
+         Final Project 是用 MATLAB 模擬一個2D的登月器著陸，
+         並利用上面的 Active Momentum Exchange Impact Damper 讓著陸不會傾倒。
+         光看懂整個 project 和提供的 MATLAB code 就燒上不少時間，
+         最好提早開始。
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         不點名，考試有到就好。
+         因為會用一些 Laplace 之類的，修過電路學、微方、信號之類的可能比較好(?)
+         不過考試都會給表可以查所以也不用很熟，知道在幹嘛就好
+
+         最後來提一下綜合評價 -1★ 的原因：（感覺不提會被其他有修課的嗆）
+
+         原先 Final Project 的死線剛好壓在期末考週的週五中午，
+         但因為提早很多公佈題目，所以理論上可以事先安排好，
+         就我所知也沒有人對死線提出意見。
+         但理所當然的秉持著電機的精神(X)，
+         八成的人都是到期末考週邊讀書邊擠時間出來趕完 project。
+
+         然而，就在死線過後約 2.5 小時，教授寄信說因為有同學記錯死線，
+         直接延長兩天半，並增加兩天的緩衝（扣5分）
+         於是犧牲睡眠跟讀其他科的時間熬夜趕出 project 的人們就暴動了
+
+         後續雖然好像有把在原本死線之後才交的另外扣分，
+         但整體處置仍稍嫌粗糙，所以姑且扣一星，供大家參考。
+
+      Ψ 總結
+         除了特殊事件有點雷以外很推，
+         學了很多酷酷的技巧 \root locus大法好/
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.5.176 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1630420066.A.F4F.html
+推 chun10396974: 我認識有修的對這門的感受全是幹意滿點 09/01 00:18
+→ tryptochan: 我有做好被怒噓的心理準備了 09/01 00:38

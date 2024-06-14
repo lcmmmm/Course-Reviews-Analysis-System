@@ -1,0 +1,139 @@
+作者alexunxus (tangent)看板NTUcourse標題[評價] 104-1 高英哲 量子物理上時間Thu Jul 28 00:36:16 2016
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：no
+
+
+      哪一學年度修課：
+104-1與104-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+高英哲教授
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+物理系大三 需要線性代數微積分
+      δ 課程大概內容
+上學期
+1. Old Quantum Theory: Black-body radiation, wave-particle duality, the
+Bohr atom
+2. Wave function, Uncertainty Principle, and Schrodinger Equation
+3. Time-independent Schrodinger Equation: 1D potentials
+4. Hydrogen-like atoms
+5. Angular momentum and spin
+下學期
+The Hydrogen atom
+– Angular momentum and spin
+– Time-independent perturbation theory
+– The fine structure of hydrogen
+– Identical particles: fermion and boson
+– The Helium atom
+– Solids
+– Quantum statistics
+– Special topics: Bose-Einstein condensation, Superfluidity,
+Superconductivity, Elementary particles.
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+上學期：
+想學好量子物理 一顆
+想學寫一些python, latex以銜接研究之用 四顆
+想混 零顆
+
+下學期：
+想學好量子物理 一顆
+想學寫一些python, latex以銜接研究之用 一顆（因為沒有出程式作業）
+想混、想翹課 零顆
+      η 上課用書(影印講義或是指定教科書)
+上學期
+1. David J. Griffiths, Introduction to Quantum Mechanics, 2nd Ed., Pearson.
+2. R. Eisberg and R. Resnick, Quantum Physics of atoms, molecules, solids, nu-
+clei, and particles, 2nd Ed., Wiley.
+3. R. P. Feynman, R. B. Leighton and M. Sands, The Feynman Lectures on
+Physics, Vol. III, Addison–Wesley.
+
+下學期
+1. Stephen Gasiorowicz , Quantum Physics, 3rd Ed., Wiley.
+2. R. Eisberg and R. Resnick, Quantum Physics of atoms, molecules, solids, nuclei, and particles,
+2nd Ed., Wiley.
+3. R. P. Feynman, R. B. Leighton and M. Sands, The Feynman Lectures on Physics, Vol. III,
+Addison–Wesley.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+第一堂課投影片，後面基本上抄版書，偶爾夾雜demo與投影片。
+基本上老師秉持他的一貫教學原則: NTU(No one Teach yoU)，所以這門課他沒有備課，
+基本上就是照著Eisberg或是Griffith或是Feynman lecture的課本抄公式，上課速度很慢
+細節也沒有推導，然後蠻常會卡黑板的（聽說是ipad不好會lag，不過這跟卡黑板有神麼
+關係呢，你有課本啊XD）。整個學期學下來大概對量物部分的知識不會學的太多。本人在
+修課之前先把Griffith看完了，所以知道其實後面比較偏量力的部分就是照著課本抄而已
+，老師不會細推Griffith公式的數學，大概就是把結果抄下來給你看。所以說整學期上
+下來其實就是學到比課本少的量子物理知識XD（因為沒有完整推導）
+
+不過老師比較標新立異的是他的recitation需要使用python，期末的term paper要用
+latex, 我是第一次接觸到這兩個軟體，後來發現這兩個軟體真的蠻實用的，實驗報告
+可以用latex打，數據處理可以用python寫。所以這部分給推。另外有一些recitation的
+題目還蠻有挑戰性的，整門課學到最多的大概就是軟體和recitation解決問題的能力。
+
+下學期的部分除了要做poster大概其餘內容與上學期一致，少了程式作業。下半學期
+感覺老師沒力了，也不太想教，所以就是上課在murmur課本的內容，個人認為下半學期
+教的比較糟，因為好像什麼也沒有學到。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+上半學期
+Recitation 15%
+Midtern 30
+Final 30
+Term paper 10
+Proposal 5
+Flash talk 5
+分數非常分散。不甜，因為老師會拉常態，A+的也是前10%才有。因為分數非常分散，所
+不太可能因為期中考或期末考考得很高就一勞永逸。另外 期末報告的組員要慎選，如果
+遇到不想做事、不想學寫程式、寫latex、報告的組員就變成一個人去扛loading。所以
+修英哲的課最好找好partner，邊緣人如我就蠻吃虧的，人家可能是四個人在分loading
+，你可能一組只有兩個人在做事。然後proposal互評其實就不太公平。因為給認識的人
+評分一般會很高吧，不認識的可能就會亂給。我們這組proposal給別人的分數都是接近
+滿分，不過物理系的同學給我們打的分數超低(5分只拿到2分)。Flash talk只有三分鐘
+所以時間的掌控非常重要，要講的清楚更重要。
+
+下半學期
+– Homework (20%)
+– Midterm Exam (20%)
+– Final Exam (20%)
+– Poster Presentation (20%)
+– Flash Talk (10%)
+-  Proposal (5%)
+-  Class Participation (5%)
+期中期末佔分極少，poster佔分極多，所以要花更多的時間在poster。老師大概也是覺得
+不太想教了，所以就把正課的比例調的很低。整學期正課大概都還是英哲style。繼續掛
+黑板繼續不備課。其實說句實在話我是不太想待在教室，但是recitation翹掉的話對組員
+過意不去RRRRRR(後述)
+
+      ρ 考題型式、作業方式
+考試題目蠻多的，會有考古題，老師也不忌諱給考古，因為他會用新出的題目整你。
+這學期把recitation當作homework（以前似乎是recitation當作加分用），有時候是一組
+交一份有時是一人交一份有時下課就要交。不論是哪一個你都要在教室裡。這門課的助教
+超辛苦，期中期末、recitation的解答都是助教們寫的。（也因此見識Kappa God的神力）
+recitation的題目一般比以前的homework難很多，例如需要用到統計物理的概念或是固態
+物理的概念，所以要花不少時間去跟同學討論、去寫程式。
+
+期中期末基本上就是考到量子力學、固態物理的範圍，沒有先看Sakuri我還真的覺得我
+寫不出來。我個人是不太喜歡這樣教A考B。而且其實難點是之後會學到的知識，這樣先
+拿出來其實真的就是自high而已了。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+需要出席，因為recitation的分數要乘上組員互評的成績，例如你如果只拿了三成的
+互評分數那recitation就要乘0.3。基本上recitation是一組交一份，星期四那天就要
+跟組員討論，如果沒有參與，組員可能會給你不太好的分數。
+另外慎選組員，否則期末報告弄得不高興可能會被陰。
+
+      Ψ 總結
+這門課排除程式的部分真的是我最不適應的一門課了。整年花了不知道多少時間坐在教室
+裡面看老師結巴卡黑板，要聽課也不是、不聽課也會被影響。聽說以前不會有出席率的問
+題因為沒有分組做recitation，可以放手去做其他的事情，這學年就有點討厭了。你說
+no one teach you，但是還是用recitation的方式綁住所有人逼著大家要出席，這個我就
+不太能理解了。
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.34.40
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1469637378.A.059.html
+推 chopper594: 你還是可以不要來啊 像我就是這樣 07/28 04:47
+推 deepwoody: 感覺是很糟糕的課 no one teach you不代表不用備課 07/29 04:45
+推 tryharderplz: 老師有備課啊 但是他就是那樣 07/29 20:37

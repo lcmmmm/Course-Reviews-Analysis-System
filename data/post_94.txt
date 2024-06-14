@@ -1,0 +1,85 @@
+作者NTUmaki (西木野真姬)看板NTUcourse標題[評價] 110-2 黎士瑋 系統軟體設計與實作特論時間Fri Jul  1 14:34:31 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+110-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+黎士瑋
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資訊工程學研究所
+資訊網路與多媒體研究所
+      δ 課程大概內容
+第1週           Introduction
+第2週           Linux: bootstrapping, hardware basics, processes
+第3週           Linux: isolation, system calls, exceptions, interrupts
+第4週           Linux: synchronization
+第5週           Linux: scheduling
+第6週           Linux: virtual memory, memory management
+第7週           Linux: memory management, devices, modules, io systems
+第8週           清明節 (no classes)
+第9週           Linux: io systems, file systems
+第10週          Linux: security
+第11週          operating systems variants (library OS, microkernel, kernel-bypass
+OS)
+第12週          google infrastructure
+第13週          distributed systems
+第14週          programming language and systems
+第15週          systems security
+第16週          systems security
+第17週          formally verified systems
+      Ω 私心推薦指數(以五分計) ★★★★★
+不會寫 C: ☆
+沒修過作業系統跟系統程式設計: ★☆☆☆☆
+只想聽課沒時間寫作業: ★☆☆☆☆
+整體授課內容: ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+無
+      μ 上課方式(投影片、團體討論、老師教學風格)
+平常 YT 直播上課，會留檔
+前 11 週是講課，後面都是分組報告
+前幾週還會比較仔細去 trace kernel code，之後就比較少了
+只看授課內容的話有點像是特化 Linux 的 OS 課
+      σ 評分方式(給分甜嗎？是紮實分？)
+四份程式作業 50%
+Paper Critque Report 五篇 25%
+Paper Presentation 20%
+Participation 5%
+紮實甜，不調分，我原始分數 87 拿 A
+有基礎的話(本身實驗室就做系統的之類的)'應該'不會覺得很硬，我自己覺得超硬 = =
+      ρ 考題型式、作業方式
+hw1: 新增一個 system call 跟寫一個很陽春的 shell
+hw2: 寫一個 rootkit 支援 hook/unhook system call, 修改 process name, hide/unhide LKM
+hw3: 寫一個 system call 可以偷別的 process 的 page table 然後 copy 到某個 process 的 userspace，最後做 code injection
+hw4: 寫一個 vfs
+
+Paper Critique 就是從指定的論文中選五篇寫 critique
+
+Presentation 是團體報告，也是從指定論文中選一篇作為題目
+
+前面三個作業還可以硬拼做完... 到最後一個作業完全不知道怎麼寫QQ 還好有神隊友 carry，最後 code 有上千行...
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+一定要很熟 C，最好有修過 OS 跟 SP...
+第一堂加簽人蠻多的，沒有簽完，但是期中過後停修了不少...
+      Ψ 總結
+
+老師上學期是開虛擬機器，這學期這門課根據老師說法是第一次也是最後一次開(?)
+總之短期內應該不會再開了～可惜一門好課，好像也找不到相同性質的課了，感覺是教授跟助教覺得 loading 太重 (可能因為新教授?)
+
+總體而言是個好課，作業很難，上課內容範圍很大，所以不會講非常細
+我自己沒修過 OS 跟 SP，C 也只有看過 P 教授影片跟修過 DSA 的程度... 完全負荷不了這門課的作業 loading = = 最後的作業是靠隊友 carry，前面三個也是一直問助教...
+論文閱讀方面更是痛苦.. 然後 Presentation 跟我在台大修其他課很不一樣，大家都超踴躍發問...問到爆那種QQ
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.46.172 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1656657273.A.183.html
+※ 編輯: NTUmaki (122.116.46.172 臺灣), 07/01/2022 14:36:31
+推 oToToT: 其實有修過OS跟SP應該會覺得好一些，至少體感作業還是有一 07/02 04:00
+→ oToToT: 點像的 07/02 04:00
+→ oToToT: 順便幫補充一下作業第一份是個人，後面三分是團體，報告也 07/02 04:03
+→ oToToT: 是團體 07/02 04:03
+推 zzzz8931: 居然第一次開課就預告是最後一次開... 07/23 01:44
+→ zzzz8931: 這東西外面也學不到吧 07/23 01:44

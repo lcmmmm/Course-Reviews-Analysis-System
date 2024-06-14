@@ -1,0 +1,115 @@
+作者jimmy8025 (阿嘉)看板NTUcourse標題[評價] 105-2 孔令傑 作業研究時間Wed Jul  5 13:00:55 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：105-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         孔令傑
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         資管系大二下必修
+
+      δ 課程大概內容
+
+         1. Linear Programming (LP)
+           (1) Introduction to Linear Programming
+           (2) The Simplex Method
+           (3) Applications of Linear Programming
+           (4) Linear Programming Duality
+
+         2. Integer Programming (IP)
+           (1) Integer Programming
+           (2) Applications of Integer Programming
+
+         3. Non-Linear Programming (NLP)
+           (1) Single-Variate NLP
+           (2) Multi-Variate NLP
+           (3) Algorithms for NLP
+
+         Extra:
+           (1) 第9周有一次Social Responsibility主題的應用
+           (2) 期末考(5/18)後有Self-teach
+           (3) AMPL教學，解LP和IP的程式工具。相關作業會用到。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         5顆星 滿天飛~~
+
+      η 上課用書(影印講義或是指定教科書)
+
+         Introduction to Operations Research by Hillier and Lieberman
+         10th Edition, McGraw Hill
+         不過好像沒買課本也沒關係，投影片講解得很仔細。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         本課程採用「翻轉教室」，並以「英語教學」方式進行。每周都有大約1至2
+         小時的課程影片在家觀看，並有1~3題的Pre-Lecture Problem，寫完在上課
+         時繳交。上課時練習習題及討論，重視出席率。詳細作業將於作業方式中說
+         明。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         學期初第一堂Quiz            0%
+         Pre-Lecture Problems(9次)   5%
+         Lecture Problems(9次)      15%
+         Homework(3次)              10%
+         Case Assignment(小組、2次) 20%
+         Final Exam                 20%
+         Final Project(小組)        30%
+         Class Participation         5%(bonus)
+
+      ρ 考題型式、作業方式
+
+         1. Pre-Lecture Problems
+         每次觀看影片後，都要寫3題課堂前習題(只有1題計分)。但難度並不高，有難
+         度的題目會在課堂上講解。
+
+         2. Lecture Problems
+         上課時討論的習題。老師會先講解題目，然後3至4人進行討論，並將答案寫在
+         小白板給助教評分登記。一堂課大概會解8題左右。
+
+         3. Homework
+         一共三次，每次作業的時間大概為一周。作業多為熟悉課堂上的概念，並實際
+         操作解決LP(simplex method)、IP(branch and bound)、NLP(gradient/newton)
+         的步驟。以及如何將實際問題化成LP、IP、NLP的標準形式。此外，會練習如何
+         操作AMPL程式，這會是一個很有用的程式工具。
+
+         4. Case Assignment
+         最多4人一組，主要為情境題(供應貨物問題)。需要將問題化為指定數學形式，
+         並以AMPL來解出答案。也有一些開放式問答題。
+
+         5. Final Exam
+         考題和作業、課堂上的練習題難度相近，考試為「開書考」。
+
+         6. Final Project
+         最多9人一組，主要完成一個較大規模的題目，需要從定義問題、蒐集資料開始
+         ，到數學模型、程式輔助解題、將結果視覺化等，需以中文或英文進行口頭報
+         告，也必須繳交書面報告。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         我是外系來修這門課的，這門課主要是開給沒有「最佳化」相關知識基礎的同
+         學來上的。只要會高中程度矩陣、微分的知識應該就夠了。加簽應該會全加。
+         作業絕對要準時交，逾期不收喔。
+
+      Ψ 總結
+
+         這門課和「演算法」這門課有一點點相輔相成之處。把現實生活中的問題化為
+         數學模型、解決大規模的物流、設點問題等。此外，翻轉教學可以有效利用課
+         堂時間來討論習題，以及Case Assignment、Project實作，也是不錯之處。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.150.232.140
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1499230857.A.09E.html
+推 rrro: 感謝支持 XD 07/05 23:18
+→ rrro: 你寫得好詳細，感恩感恩～ 07/05 23:18
+推 tkking02: 有rrro有推！ 07/06 09:51
+推 hsuzchan: 推一樓 07/06 16:25
+推 chaoannricar: 推詳細 02/13 12:05

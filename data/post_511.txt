@@ -1,0 +1,93 @@
+作者jimmyhsiehyc ()看板NTUcourse標題[評價] 109-1 陳和麟 演算法時間Thu Jan 21 01:06:08 2021
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課： 109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 陳和麟
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)  電機所三選二（？）不確定
+
+      δ 課程大概內容
+
+根據syllabus：
+
+‧ Mathematic Tools
+        – Asymptotic Notations: O/o/Omega/omega/Theta的定義和判斷
+        – Recurrence Relations: recurrence tree 之類的求解方法
+‧ Algorithm Design Techniques: 各介紹精髓和一些例子
+        – Divide and Conquer
+        – Sorting and Order Statistics – Greedy Algorithms
+        – Dynamic Programming
+‧ Data Structures: 為後面圖論演算法鋪路，不直接考試
+        – Heaps
+        – Disjoint Sets
+        – Hash Tables (if time permits)
+‧ Graph Algorithms
+        – Search: DFS/BFS/Topological sort
+        – Shortest Path: Dijkstra's/Bellman-Ford/Folyd-Warshall/Johnson's
+        – Minimum Spanning Tree – Max Flow / Min Cut: Kruskal's/Prim's
+        (還有一些內容)
+‧ Advanced Topics
+        – NP-Completeness: P/NP/Np-complete 定義和例子
+        – Approximate Algorithms: Load balancing/vertex cover
+
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★ ★★★★★
+
+      η 上課用書(影印講義或是指定教科書) 不重要，老師講的內容聽懂就好
+
+      μ 上課方式(投影片、團體討論、老師教學風格) 在教室上課，NTUCOOL也有影片可以看
+
+      σ 評分方式(給分甜嗎？是紮實分？) 甜
+
+      期中考: 原始成績 *0.9 +39
+      期末考: 原始成績 *0.8 +41
+
+      老師基本上會把平均調到70左右
+
+      ρ 考題型式、作業方式
+
+      期中期末考調分後各佔30%，作業四次一次10%。
+      如果怕被當，老師期中考考完後給所有人一個禮拜，如果自己重寫而且寫得不錯，保證一定及格。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+      不重視出席率（一點也不重要）。
+      有數學分析基礎比較輕鬆，沒有也沒關係，就多練習。
+      老師不加簽，自己加選到教室滿為止，如果有特殊狀況跟老師說，可以通融。
+
+      Ψ 總結
+
+      真的很喜歡這門課，所以，來寫一下心得。
+
+      我寫得可能沒有太詳細，推讀書會學弟的版本：https://www.ptt.cc/bbs/NTUcourse/M.1610555899.A.6D3.html
+
+      老師教得很好，講解真的很清楚，如果不會也可以去問他，老師非常親切。
+
+      分數的部分我覺得甜吧，我期中高一個半標準差，下半學期太忙沒時間念，大約平均，加上作業平均9X，這樣有A。
+
+      數學系的分數如果也有這樣調就...（白日夢xD
+
+      我自己從來沒接觸過演算法，程式經驗也幾乎是零，真的很感謝電機系好友推我修這門課，我學到很多。
+
+      也感謝期初加入我一起討論的讀書會夥伴，沒有你們我作業3跟4真的不大會寫，期末也唬爛不出來xD。
+
+      很推薦大家（特別是外系仔）一定要組讀書會，事實上作業1一出來我就被站內信爆說求加入xDDDD。
+
+      最後，謝謝和麟老師。早就聽過您的傳奇故事，親身接觸您之後，更領略您的偉大。也謝謝您幫我簽學生報告書。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.77.140.83 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1611162370.A.BF2.html
+推 unmolk: 推學長 抱歉作業34都沒幫到忙QQ 01/21 01:30
+推 shanaco: 學長carry 01/21 01:43
+推 cuteSquirrel: 推 01/21 12:20
+推 j2c3: 推和麟！！不過原來有讀書會啊… 01/29 08:04

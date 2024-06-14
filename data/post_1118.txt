@@ -1,0 +1,99 @@
+作者timestoneman (小石獅)看板NTUcourse標題[評價] 107-1 陳偉松 自動機與形式語言時間Fri Jan 25 17:17:51 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        陳偉松 Tony Tan
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系大三上必修
+        不需先備知識 如果熟悉集合的概念會輕鬆一些
+
+    δ 課程大概內容
+        以下根據老師的課程網頁
+
+        Lesson 1 Preliminaries
+        Lesson 2 Deterministic finite state automata
+        Lesson 3 Nondeterministic finite state automata
+        Lesson 4 Regular expressions
+        Lesson 5 Context-free languages
+        Lesson 6 Push-down automata
+        Lesson 7 CFG = PDA
+        Midterm exam
+        Lesson 8 Turing machines and decidable languages
+        Lesson 9 Variants of Turing machines
+        Lesson 10 Universal Turing machines and Halting problem
+        Lesson 11 Reducibility, part I
+        Lesson 12 Reducibility, part II
+        Lesson 13 Time and space complexity
+        Lesson 14 NP-complete and PSPACE-complete languages
+        Final exam
+
+        期中考和期末考前各放一次溫書假
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★ ★ ★ ★ ★
+
+      η 上課用書(影印講義或是指定教科書)
+        課本是Introduction to the Theory of Computation by M. Sipser
+        老師有自製講義，基本上順著課本脈絡，稍微精簡一點
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        純板書 英文授課
+        每個禮拜上完一份講義
+
+        老師相當關心大家能不能理解，常常停下來問"any questions?"，但通常沒什麼回應
+        然後老師就會"If you have no questions, I have a question"自己接下去講
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        homework 40%
+        midterm 30%
+        final 30%
+        作業本來有四次，因為放假的關係，作業三跟作業四合併成一份，佔分20%
+
+        應該算紮實甜，我期中75，期末100，作業全拿，最後A+
+
+      ρ 考題型式、作業方式
+        每次作業約五六題，前兩題難度簡易，後面會越來越困難，通常需要寫不少證明
+        作業可以手寫或者印出來，在課堂上交
+
+        考試考三個小時，型式和作業相同，也是大概五六題，難度較作業略低一點
+        認真寫作業對考試幫助蠻大的，有時候會考出類似的概念
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        完全不看出席率
+        加簽應該是全簽，今年似乎有蠻多隔壁班的同學與外系生，所以有點擠，常常搶不到位置orz
+
+        這門課從嚴格的數學定義出發，透過抽象模型，一步一步帶著大家理解計算的本質，各種複雜度型
+        別，最後推向計算能力的極限。剛開始聽可能有點不知所以，但往後走的某個時刻就會豁然開朗，
+        ，出現新的觀點來看待事物，並且明白先前的定義跟符號到底有什麼意義。
+
+        老師會親自改作業跟考卷，他相當注重引用的出處，抓抄襲也十分仔細，曾經不只一次的來信提醒
+        ，還說自己"extremely unhappy"，第一次作業最後關於myhill-nerode theorem的證明，就有不少
+        同學因此被扣分。老師曾經在課堂上說過，他能體諒大家辛苦，只要努力把自己的東西表達清楚，
+        不會太為難人。上課有問題隨時可以打斷，他會很樂意解答XD，如果害羞或是不太敢講英文，也可
+        以詢問熱心又nice的助教。
+
+        老師的英文有一點點口音，但完全不影響聽力，比較要注意的是他音量小，語速頗快，板書也不太
+        整齊，所以一恍神就要花很大功夫把漏洞補起來。我期中考後不小心發呆幾次，就跟不上了，連帶
+        著到課率大幅下降，在這裡特別感謝幾位互助的戰友，期末考前幫我把進度補起來。要是老師能別
+        個麥克風上課就更好了。
+
+      Ψ 總結
+        好課 Tony is good
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.225.223.33
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1548407877.A.BBF.html
+※ 編輯: timestoneman (36.225.223.33), 01/25/2019 17:21:54
+推 kevin1ptt: 推Tony！ 01/25 23:03
+噓 dannyko: 寫板書字小潦草又筆沒水讓我很賭爛 01/26 02:20
+推 weirdfoot: 推！ 01/26 16:42
+推 t1016d: 推 nice 助教 01/27 00:48
+→ t1016d: 一些細節跟前一年差好多…我記得老師都會用麥克風啊 01/27 00:48
+→ t1016d: 不過他都把麥克風別襯衫上 可能離太遠 還是不大聲 01/27 00:49

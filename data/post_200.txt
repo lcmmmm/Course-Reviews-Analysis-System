@@ -1,0 +1,98 @@
+作者MiddleRe (中間綠)看板NTUcourse標題[評價] 110-1 黃彥棕 因果推論時間Mon Jan 17 11:15:26 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID） 
+         （是／否／其他條件）：是 
+ 
+ 
+      哪一學年度修課：
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 
+ 
+       黃彥棕
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)  
+ 
+       數學系所、應數所、基因學程
+
+      δ 課程大概內容 
+ 
+
+       第2週 9/27       A definition of causal effect
+       第3週 10/04      Randomized experiments
+       第4週 10/11      Observational studies
+       第5週 10/18      Effect modification
+       第6週 10/25      Interaction
+       第7週 11/01      Graphical representation of causal effects
+       第8週 11/08      Confounding
+       第9週 11/15      Selection bias
+       第10週 11/22     IP weighting and marginal structural models
+       第11週 11/29     Standardization and the parametric g-formula
+       第12週 12/06     G-estimation and structural nested models
+       第13週 12/13     Introduction to mediation
+       第14週 12/20     Multi-mediator models
+       第15週 12/27     Hypothesis tests of mediation
+       第16週 1/03      Instrumental variable
+       第17週 1/10      [no class]
+       第18週 1/17      FINAL PROJECT?
+
+      Ω 私心推薦指數(以五分計) ★★★★★ 
+
+       ★★★★★
+
+ 
+      η 上課用書(影印講義或是指定教科書) 
+
+       Hernàn & Robins. Causal inference: what if.
+       以及老師簡報、指定文章
+
+ 
+      μ 上課方式(投影片、團體討論、老師教學風格) 
+
+       本學期除了期末報告以外完全都是遠距教學
+       在上 what if 那本課本時就是錄投影片
+       然後老師對著投影片講話比劃
+       最後幾週中介分析和工具變數的內容
+       老師就放去年實體上課的錄影
+       期末最後兩週有期末報告
+       分組報告指定的期刊文章，與中介分析和工具變數相關
+ 
+      σ 評分方式(給分甜嗎？是紮實分？) 
+
+       還不知道，之後補，但作業給分很高
+ 
+ 
+      ρ 考題型式、作業方式 
+ 
+       沒有考試，有三次作業一次分組報告
+       應該是全數學系課程要求最低的課
+       作業就是跟課堂內容相關的簡單練習
+       分組報告指定的期刊文章的部分比較困難，吃重既有的知識
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…) 
+ 
+
+       應該只要修過初統（知道什麼是 pdf、cdf、條件機率）
+       知道 Stieltjes 積分的 notation
+       應付課程的前三分之二就沒有問題
+       但課程的後三分之一有許多蠻技術性的細節
+       不過，因為不會考試，也不見得要弄懂每一個細節才能通過這門課
+
+
+      Ψ 總結 
+ 
+ 
+       大概是我這學期修過最喜歡的課
+       雖然沒能搞懂每一個數學證明
+       而且因為修其他課有點應付不來，也沒辦法在這門課上花太多時間
+       但確實有那種眼界變得更開闊的感覺
+       只修過系上的統計學、計量經濟學導論和高統一
+       在修這門課的過程中也發現很多自己的不足之處
+       不過面對很多複雜的、蠻技術性的部分
+       也有被激起學習的興趣
+       讓人以後想要繼續學習相關的因果推論、統計、迴歸分析知識
+       雖然沒有很多接觸，黃彥棕老師本人也感覺很有魅力！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.33 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1642389328.A.229.html
+推 assommoir: 推，老師給分很甜，提到觀念可以和計量課互相呼應 01/26 21:17
+→ assommoir: 尤其後面mediator和iv那邊值得一聽，內容滿先進的 01/26 21:19

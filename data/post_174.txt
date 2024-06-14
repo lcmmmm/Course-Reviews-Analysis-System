@@ -1,0 +1,78 @@
+作者Mitsuboshi (Licon)看板NTUcourse標題[評價] 110-1 黎士瑋 虛擬機器時間Mon Jan 24 22:39:01 2022
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課： 110-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         黎士瑋
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         資工所選修
+      δ 課程大概內容
+         CPU Virtualization
+         Memory Virtualization
+         Device IO Virtualization
+         VM Migration
+         VM Performance
+         VM Security
+         Container and k8s
+         Binary Translation
+      Ω 私心推薦指數(以五分計) ★★★★★
+         ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+          投影片
+          Textbook: Virtual Machines: Versatile Platforms for Systems and Processors
+          James Smith and Ravi Nair
+      μ 上課方式(投影片、團體討論、老師教學風格)
+          投影片上課
+      σ 評分方式(給分甜嗎？是紮實分？)
+          HW1: 5%
+          HW2: 10%
+          HW3: 10%
+          HW4: 15%
+          Midterm: 25%
+          Final Presentation & Critique: 25%
+          Participation: 10%
+      ρ 考題型式、作業方式
+          HW1: 跑起arm-based的kvm host, 然後再利用kvm host跑起guest VM
+          HW2: 新增一個新的system call跟hypercall來取得目前VM使用的
+               physical cpuid
+          HW3: 測試各種設定下的performance, baremetal, kvm跑起來的VM,
+               huge Page Table設定下的效能
+          HW4: docker-compose跑server-client跟簡單修改qemu
+          Midterm: open-book考試 考到VM Security(我覺得不容易)
+          Final Presentation: 看paper然後報告
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         建議修過OS和計概再來修, 不然連page table都不知道的話聽Memory
+         Virtualization應該會很問號
+         課程中主要就是介紹虛擬化的機制, hypervisor是怎麼做到這些資源的虛擬化
+         把資源分給虛擬機器, 以及現在軟體,硬體如何支援這些虛擬化的機制.
+
+         課程中也會花一些時間在介紹Arm虛擬化跟kvm的機制(老師在這方面極強)
+         自己覺得課程內容其實蠻難的, 作業2跟3較難, 作業1,4還蠻簡單的.
+         期末報告也偏難,被指定看得論文其實還蠻難的, 自己是花了不少時間看懂.
+         成績分布不知道, 但最後我是拿A+, 基本上上課有認真聽,作業認真做,要拿A
+         以上感覺不難.
+      Ψ 總結
+         老師是第一年來台大教書, 主要之前做的研究蠻多就是偏向VM Security
+         或者Arm上面的研究. 課程內容非常硬核, 每堂課的內容也很多, 扎實的3小時
+         印象非常深刻是曾經在課堂上花了1個小時以上的時間再帶我們trace kvm的程
+         式碼. 雖然當下聽不懂但真的是很特別的經驗, 也因此比較有一點概念要怎麼
+         trace這種大型的程式
+         總之是系統相關不可多得的好課, 如果是對系統或者虛擬化, 或者虛擬機器資
+         安有興趣的同學非常推薦修.
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.17.232 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1643035143.A.F28.html
+推 headheadhead: 推推 01/25 17:27
+推 ppappeoh: 內容真的難 01/25 18:49
+推 Eric1233: 上課有料，但我覺得出席分的部分沒有講得很清楚 01/25 23:30
+→ Eric1233: 作業認真寫，但犯了一些錯，最後76.64拿B，參考一下 01/25 23:32
+→ Eric1233: 更正，76.46 01/25 23:33
+推 bochengchen: 上課有料，最後就是照ntu cool的分數 01/29 16:07

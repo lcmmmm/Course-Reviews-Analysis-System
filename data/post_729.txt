@@ -1,0 +1,97 @@
+作者chun10396974 (娜嗲希摳老公)看板NTUcourse標題[評價] 108-2 毛紹綱 電磁學(二)時間Wed Jun 24 17:27:06 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         毛紹綱
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機工程學系大二下必修
+
+      δ 課程大概內容
+         Capacitance, Conductance, and Inductance
+         Electric- and Magnetic- Field Systems
+         Transmission Line
+         Line Terminated by Resistive Load
+         Transmission-Line Discontinuity
+         Lines with Reactive Termination and Discontinuities
+         Interconnections between Logic Gates
+         Crosstalk on Transmission Lines
+         Short-Circuited Line
+         Line Terminated by arbitrary Load
+         Transmission-Line Matching
+         The Smith Chart: 1. Basic Procedures
+         The Smith Chart: 2, Applications
+         The Lossy Line
+         Uniform Plane Wave Propagation in an Arbitrary Direction
+         TE and TM Waves in a Parallel-Plate Waveguide
+         Transmission-Line Equivalents
+         Dispersion and Group Velocity
+         Reflection and Refraction of Plane Waves
+         Rectangular Metallic Waveguide and Cavity Resonator
+         Losses in Metallic Waveguides and Resonators
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+         就老師來說                ★★★★★
+         喜歡評分方式不一的助教    ★★★★★★★★★★★★★★★★
+         喜歡閱卷時態度超差的助教  ★★★★★★★★★★★★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+         Elements of Engineering Electromagnetics, Nannapaneni Narayana Rao 6e
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         投影片
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         期中考40%
+         期末考40%
+         小考+作業20%
+
+      ρ 考題型式、作業方式
+         跟電磁學(一)一樣，作業是課本後面習題，奇數單元寫偶數題，偶數單元寫奇數
+         題，每年會對調，考題則是6大題，一題20分，i.e.六選五題
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         基礎的話...，大概就微積分吧，跟電磁學(一)的邊界條件，加簽的話全簽，不
+         點名，不過老師本人是不建議翹課啦，自己讀那本(就我所知已經退休的江公和
+         紹綱都批評的一無是處的)書應該沒有比較快。
+
+      Ψ 總結
+         電磁學(二)應該是系上大多數人覺得最沒必要的必修(?，不過老師人真的很好，
+         可以感受到他的教學熱忱，雖然每次都會小遲到或是投影機出問題，而且期中考
+         前一周會自己出一份模擬期中考題，所以期中考平均毛班是最高的，不過期末考
+         因為趕課就沒時間了，然後跟電磁學(一)一樣會有電磁能力測驗的額外加分，我
+         自己感覺是中高級題目真的難很多，至於小考就是帶自己的筆電上去電磁平台，
+         會隨機抽題庫10題(每個人都不一樣)。至於難度的部分是期末>>>期中。
+
+         最後，不免俗的，一定要黑特一下助教(雖然我的恨意沒107那篇深)，大助教人
+         真的不錯，每周都有電磁學的讀書會，期考前也會跟大家提醒考點和複習考古
+         題，(註:題目會跟考古題很像甚至一模一樣)，但是"某些"小助教改考卷的方式
+         會讓人火冒三丈，態度又很差，建議修課前可以先訓練一下EQ喔~
+
+--
+https://imgur.com/C562J40
+https://imgur.com/8CM7SiO
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.165.107.209 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1592990914.A.B06.html
+※ 編輯: chun10396974 (1.165.107.209 臺灣), 06/24/2020 17:29:12
+推 cal28802672: #1SJ6ohoA (NTUcourse) 06/24 17:30
+感謝一樓支援
+※ 編輯: chun10396974 (1.165.107.209 臺灣), 06/24/2020 17:35:50
+推 cuteSquirrel: XD 06/24 18:18
+推 cal28802672: 這門課的助教怎麼每一年的評價都這麼差…… 06/24 19:13
+少數的老鼠屎…
+※ 編輯: chun10396974 (223.136.155.36 臺灣), 06/24/2020 20:53:13
+→ Ruin0019: 去年有王登胤 那今年是誰咧? 06/24 23:22
+→ ChriSHH: 改考卷的方式讓人生氣詳細情況是怎麼樣啊，可以了解一下 06/25 02:31
+→ ChriSHH: 嗎？ 06/25 02:31
+某個畫圖題函數分三段，我畫對其中兩段，8分給2分，但我有看到一樣也是畫錯其中一段的人拿6分？_？，另外沒有標定義域在每個小題都重複扣分，問助教說這樣會不會扣太多，結果回我：你就值這個分數啦
+※ 編輯: chun10396974 (223.136.155.36 臺灣), 06/25/2020 10:28:24
+推 unmolk: 這樣回覆也太扯XDDD第一次在台大看到這麼詭異的助教 06/26 19:18
+推 tpegioe: 電二527風景不意外 06/29 19:55

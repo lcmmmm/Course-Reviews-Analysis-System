@@ -1,0 +1,62 @@
+作者NTUmaki (西木野真姬)看板NTUcourse標題[評價] 108-1 熱質量傳遞 王勝仕時間Mon Jan 13 00:50:41 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+108-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+王勝仕
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+化工系大三必修
+      δ 課程大概內容
+Ch1 Essential Concepts of Heat Transfer
+Ch2 Fundamental Concepts of Heat Conduction
+Ch3 Steady-State , 1-D Heat Conduction
+Ch4 2-D Steady-State Heat Conduction
+Ch5 Transient Conduction
+Ch6+7 Introduction to Heat Convection
+Ch8 Convection : Internal Flow
+Ch9 Natural/Free Convection
+Ch11 Heat Exchanger
+Ch14 Diffusion Mass Transport
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★★★★★★★★★★★★★★★★
+      η 上課用書(影印講義或是指定教科書)
+Textbook:
+1. Incropera's Principles of Heat and Mass Transfer Paperback – 6 Oct 2017
+by Theodore L. Bergman, Adrienne S. Lavine, Frank P. Incropera, David P.
+DeWitt
+
+Reference books:
+1. Bird, Stewart & Lightfoot,“Transport Phenomena” 2nd
+edition
+2. Coulson, J. M. and J. F. Richardson with J. B.
+Backhurst and J. H. Harker, “Chemical Engineering”,
+vol.1, sixth edi., Butterworth-Heinemann, London, GB
+(1999).
+      μ 上課方式(投影片、團體討論、老師教學風格)
+PPT 會自己印講義(包含原文書掃描)
+      σ 評分方式(給分甜嗎？是紮實分？)
+HW 10% 三次大考各30%
+甜到爆
+      ρ 考題型式、作業方式
+名詞解釋+計算題 作業都是課本習題
+除了第一次期中考稍微有點難度，第二次期中考(中位數88分)跟期末考都爆簡單
+期末考還沒出來 不過老師說要考難一點 結果還是很簡單
+跟其他兩班比真的是天堂(教得好又考得簡單)
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+沒點名，不用啥基礎
+      Ψ 總結
+絕對是熱質傳首選老師，進台大以來遇過少數教學能力很強的老師，會加課講習題(這學期加了4次有吧?)
+然後期末考完還繼續加課(寒假第一周= =)不過自由出席
+教得好又考的簡單，唯一缺點應該就是講話速度飛快(但是他會一直重複就對了)
+
+然後教的章節數比其他班少，老師上課不斷的提到 為何別班上的比我們多還可以比我們還快 (感覺是在偷偷嗆其他老師)
+
+總而言之大三要選的話絕對是把他擺第一
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.171.60.212 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1578847843.A.704.html
+推 YukinoWin: 老師的化反也教的很好 推 06/22 15:03

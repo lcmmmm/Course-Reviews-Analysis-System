@@ -1,0 +1,136 @@
+作者folksuite (Z)看板NTUcourse標題[評價] 111-1 陳冠銘 勞動經濟學二時間Thu Jan 12 23:21:14 2023
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：YES
+
+
+      哪一學年度修課：111-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         陳冠銘、林明仁(掛名)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         經濟系所選修
+
+      δ 課程大概內容
+
+         Week 1: Overview
+
+         Week 2: Roy Model
+
+         Week 3: Roy Model and Potential Outcome Framework
+
+         Week 4: Econometric Review: Control Variables, Propensity Score
+
+         Week 5: Econometric Review: Instrumental Variables, LATE
+
+         Week 6: Econometric Review: Panel Data, DID
+
+         Week 7: Midterm
+
+         Week 8: Labor Supply
+
+         Week 9: Econometric Review: Dynamic Programming
+
+         Week 10: Econometric Review: Life Cycle Model Estimation
+
+         Week 11: Econometric Review: Dynamic Discrete Choice Model Estimation
+
+         Week 12: Dynamic Labor Supply Model
+
+         Week 13: Sorting
+
+         Week 14-16: Proposal Presentation
+
+         期中前，大約就是把 Roy Model 跟 計量概念 結合；
+
+         期中後，主要在講 Labor Supply 跟 Dynamic Programming，
+
+         不過這學期是老師第一次開課，聽說之後會改規劃成一學年的課程。
+
+      Ω 私心推薦指數(以五分計) ★★★★☆
+
+
+      η 上課用書(影印講義或是指定教科書)
+
+         無上課用書，大多也無講義。
+
+         真要的話，個人覺得可以看 Syllabus 提供的 References 清單。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         以板書、投影片搭配老師講解為主，
+
+         上課會點人問問題，問的問題難度不一，
+
+         不過上課很輕鬆，當作聊天，回答不出來也不會怎樣。
+
+         上課時間通常 14:20 到 16:00，中途不下課，課後需要可留下來討論。
+
+         另外，這學期課程有錄影，但錄影品質參差不齊，有時連板書都看不清楚...
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         作業 20%                        期中考 20%
+
+         Referee Report 20%              期末報告 40%
+
+         -------------------------------------------------
+
+         作業似乎有繳就滿分(NTUCOOL顯示都100)，
+
+         沒有公布Referee Report跟期末報告分數，
+
+         期中考滿分 110，我考 76，最後等第 A。
+
+         (翹過幾堂課、期中考後內容似懂非懂)
+
+      ρ 考題型式、作業方式
+
+         期中考題多是問答題，印象只有一大題要計算(20分)，
+
+         其他細節... 我分數不高，不丟人現眼分享了。
+
+         作業、Referee Report跟期末報告，
+
+         規定要用英文、Latex編輯，不過不確定有沒有嚴格要求。
+
+         部分作業會要做simulation跟用特定套件，所以要會用R。
+
+         (課程有提供DataCamp使用權限，但建議原本就要會。)
+
+         Referee Report 則是自己到 NBER 挑選文章，用評審角度去寫報告。
+
+         期末報告也是自行挑選主題，
+
+         然後在第14週時，到老師研究室(現場備有咖啡跟甜點)，
+
+         口頭跟大家分享要做什麼，
+
+         最後在老師規定deadline前上繳報告(內容完整度無特別規定)。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         經濟系課程應該不注重缺席。
+
+         這學期實際修課人數10人左右，似乎有問就有加，
+
+         不過建議修過計量、總體(期中後)、會用R再來修，
+
+         否則可能會跟我一樣，期中後課程，多在神遊...
+
+      Ψ 總結
+
+         期初老師說這是一堂連結經濟學原理與實證工作的課程，個人覺得老師有做到。
+
+         有想再進一步進修經濟的同學，可以參考看看。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.105.54.2 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1673536878.A.7F0.html
+推 unmolk: 許冠銘？XD 01/12 23:28
+→ unmolk: 要也是林冠銘吧 01/12 23:28
+→ folksuite: 糟糕... 連老師名字都記錯XD... 感謝提醒 01/12 23:31
+※ 編輯: folksuite (27.105.54.2 臺灣), 01/12/2023 23:31:47

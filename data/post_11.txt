@@ -1,0 +1,80 @@
+作者iean900408 (yujil_)看板NTUcourse標題[評價] 111-2 江蕙如 演算法時間Tue Jun 27 18:34:24 2023
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID） 
+         （是／否／其他條件）：
+ 是
+ 
+      哪一學年度修課： 
+ 111-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 
+江蕙如
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)  
+電機系
+      δ 課程大概內容 
+- Algorithmic fundamentals: mathematical foundations, growth of functions, rec
+rences (6 hrs)
+- Sorting and order statistics (6)
+-Data structures: heaps, red-black trees, disjoint sets (3)
+- Advanced design and analysis techniques: dynamic
+programming, greedy algorithms, amortized analysis (9)
+- Graph algorithms: representations, searching, spanning
+trees, shortest paths, network flow, matching (15)
+- NP-completeness and approximation algorithms (3)
+- Other algorithms: linear programming, branch and bound, simulated annealing, a
+s time permits
+      Ω 私心推薦指數(以五分計) ★★★★★ 
+  ★★★★★
+      η 上課用書(影印講義或是指定教科書) 
+  Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 3rd Ed., McGraw
+ill/MIT Press, 2009
+      μ 上課方式(投影片、團體討論、老師教學風格) 
+ 上課都講得蠻清楚的 一次聽不懂的話也可以到COOL看以前的影片
+      σ 評分方式(給分甜嗎？是紮實分？) 
+ 
+– Four homework assignments: 18%
+– DIY problems in homework assignments (at least once): 2%
+– Four in-class quizzes (on the due dates): 5%
+– Three programming assignments (indexing/sorting, dynamic programming, graph a
+lgorithms): 25%
+– Two in-class tests: (Midterm on April 13: 20% + Final on June 8: 30%)
+– Bonus (class participation, extra DIY): 2%
+ 
+算是紮實分吧 作業期考各佔一半 作業好好寫幾乎都能快滿分
+總成績也會調分 筆者大概加了5-6分左右
+ 
+      ρ 考題型式、作業方式 
+期中考需要大量通靈 平均50左右
+期末通靈的部份少一點 平均65左右
+手寫作業基本上都是課本例題 網路上都找得到答案 但抄襲抓很嚴 最好不要照抄
+程式作業分別是Sorting, DP,Graph 第一個很簡單
+第二第三可能要跟同學討論一下或是找一下網路資源才想得出來
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…) 
+出席率基本上不佔分數 但老師有一次心血來潮幫有來的加了bonus的分數
+實際加了多少我也不知道 不過如果沒有自制力看影片還是乖乖來上課吧
+ 
+筆者是外系來選修的 基本上只要會C/C++和一點資料結構就好
+當然如果有修過離散會更好進入狀況
+ 
+至於加簽的話 需要先完成PA0才行
+基本上不會很難 只是要測試你會不會寫C/C++
+不過名額有限 先交先贏
+如果要準備建議可以先練習之前的 版上有檔案
+然後也可以先學一下makefile
+雖然加簽只要程式可以跑對就好 沒有說一定要在Linux操作
+但是之後作業也會用到 先學不會有壞處
+      Ψ 總結 
+如果要扎實的學演算法～很推薦這門課～只是外系的話如果有人可以討論會更好
+沒有的話也沒關係～網路資源會是你的好朋友
+ 
+ 
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.230.50.28 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1687862066.A.A26.html
+
+※ 編輯: iean900408 (61.230.50.28 臺灣), 06/27/2023 18:41:23
+
+※ 編輯: iean900408 (61.230.50.28 臺灣), 06/27/2023 18:44:20
+
+※ 編輯: iean900408 (61.230.50.28 臺灣), 06/29/2023 12:58:46
+推 jeff12697: 推江老師 交大有放老師以前錄的演算法開放式課程 講得 06/30 04:12
+→ jeff12697: 非常好 06/30 04:12

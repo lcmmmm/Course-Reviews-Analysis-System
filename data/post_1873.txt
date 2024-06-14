@@ -1,0 +1,236 @@
+作者ittfie (kevin)看板NTUcourse標題[評價] 105-1 林惠雯 代數一時間Fri Jan 13 18:18:56 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）： 是
+
+      哪一學年度修課： 105
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         林惠雯
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         數學系選修（可以抵代數導論）
+
+      δ 課程大概內容
+
+         看得出來老師這學期是想專心講 group ，不過為了講得完整所以連 rings,
+
+         fields, modules 都有介紹。以下是老師講的部分（不包括專題報告）
+
+
+         I. Group theory:
+
+           Basic notion & Classical groups
+
+           Permutation groups and Dihedral groups
+
+           Groups and internal direct product
+
+           Cosets and Quotient groups
+
+           Isomorphism theorems & Factor theorem
+
+           Universal property and Direct products & sums
+
+           Rings and fields
+
+           Group actions (I,II)
+
+           Semidirect products
+
+           Composition series
+
+           Modules over PID
+
+           Fundamental theorem of finitely generated Abelian groups
+
+           Sylow theorems
+
+           Classification
+
+           Free groups
+
+         ----------- 期中考 -----------
+
+         II. Multilinear Algebra:
+
+           Bilinear forms & Groups preserve bilinear forms
+
+           Tensor product (I, II)
+
+           Tensor algebra
+
+           Symmetric and exterior algebra
+
+         III. Introduction to the representation theory of finite groups:
+
+           Generalities on linear representations
+
+           Character theory (I,II)
+
+           Applications
+
+         IV. Extension of groups:
+
+           Extension of Abelian groups
+
+           1st and 2nd group homology
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         ★★★★★ 對熱愛數學，願意花很多時間在上面的人來說
+
+      η 上課用書(影印講義或是指定教科書)
+
+         Knapp, Basic Algebra 2nd Edition.
+
+         作者有提供電子書： https://goo.gl/shFkTG
+
+         這學期大致涵蓋了這本書的 Chapter IV. VI. VII.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         老師非常會掌控時間，整學期每次要上的東西在開學前就列在課程網頁了，
+
+         都以一天兩節課為單位，每次就是教一個小主題（像上面課程內容列的那樣
+
+         ），鐘響準時上課，並幾乎都在下課鐘響後一兩分鐘準時下課，從來不會有
+
+         今天講完剩一點點留下次講的情況。不過畢竟是榮譽課程，老師講課真的滿
+
+         快的，我通常都只聽懂個六七成，回去再自己弄清楚細節。有的時候感覺老
+
+         師是故意不要講得那麼詳盡，要我們回去寫作業再自己搞清楚。
+
+
+         老師也很注重內容的完整性，該證的東西都會證，有的性質當時沒有證明也
+
+         會留給同學報告，像是 Structure theorem 那裡需要 PID implies UFD ，
+
+         character theory 那裡有個定理需要 algebraic integer 的一些性質，都
+
+         有指派同學講。覺得比較可惜的是老師應用或例子講得有點少，加上代數本
+
+         來就滿抽象的，有時候聽完定理證明後還是沒什麼感覺。
+
+
+         這學期比較特別的就是有專題報告，找自願的同學利用助教課的時間報告，
+
+         一個人可以講一節課，題目是老師會指派，會給一些參考資料，大概有兩三
+
+         個禮拜可以準備，內容除了前述幫老師補充上課內容外，也有一些比較特別
+
+         的東西，像是 Categories and Functors, Free product, Long exact
+
+         homology sequence 等等；另外也有應用性質的，像是Simplicity of A_n,
+
+         Simple groups of order p^2qr 等。感覺大家滿踴躍想報告的，最後老師
+
+         好像還把一些原本他要自己講的給同學講，而且最後一週期末考完了下一次
+
+         上課還繼續在報告，不過這樣的方式真的滿好的，報告的人都準備得還不錯
+
+         ，在台下很有收穫，而自己講的時候也會去看很多東西，藉此學到不少。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         作業*15  20%
+
+         小考*4   20%
+
+         期中考   25%
+
+         期末考   25%
+
+         上台報告  7%
+
+         挑戰作業  3%
+
+
+         紮實分，最後好像如果原始分數 A- 以上就不會調分，不到的老師會往上調
+
+         一點。
+
+      ρ 考題型式、作業方式
+
+         每次上完都會有三題，所以大概一個禮拜都會有六題，不過有時候老師滿心
+
+         機的（？），一題下面有時候又會有兩三個小題。題目通常不難，但還是滿
+
+         花時間的，通常都要把那次的內容弄懂才會寫，不過有的解答網路或課本裡
+
+         面都找得到就是。另外助教改作業還滿用心的，每題都會改，而且看得滿細
+
+         的，有的證明想呼嚨過去就會被圈起來寫 why ，文法錯誤也會挑出來，不
+
+         過下半學期不知道是不是授課內容的緣故，感覺起相對起來好像就沒看那麼
+
+         仔細了，但整體來說助教的批改對把敘述寫清楚嚴格還滿有幫助的。
+
+
+         另外還有「挑戰作業」，這個和上台報告一樣是在額外的 10% 分數中，這學
+
+         期一共有五次，方式為老師把題目放在 Overleaf 上，開共同編輯，會寫的
+
+         就打解答在上面。
+
+
+         小考有四次，都是考那次範圍內老師講的證明或作業，不過我不太喜歡這樣
+
+         的方式，感覺有點像國文默寫，而且一節課要寫四五題也是滿趕的。期中還
+
+         是有考上課的證明，另外也有考課本後面的習題（老師上課有要我們回去要
+
+         自己做那些習題），期末可能是教的內容比較難，就幾乎都是上課提的東西
+
+         ，或是稍微改一下。和小考及作業比起來，期中期末評分就比較鬆，老師是
+
+         說要鼓勵我們。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         要會線代，而且最好是數學系的，像我一開始連要證 isomorphism 需要證
+
+         什麼都不太清楚，聽說這個線代就會講了。後面 bilinear form 和 group
+
+         representation 也會用到大量的線代，雖然老師該證的還是會證，不過應
+
+         該還是要先學過比較能進入狀況。剩下的我是覺得還好，雖然老師有時候
+
+         會說：「你們這個在數學潛水艇/新生營都有學過了嘛」，然後就沒講，但
+
+         幾乎都不是太難的東西，自己回去查一下應該就可以。
+
+      Ψ 總結
+
+         從沒修過這種老師從第一堂到最後一堂都在勸退同學不要修這班，改去修別
+
+         班的課XD，一學期這樣修下來真的滿累的，一個禮拜平均都要花十幾個小時
+
+         來讀課本筆記和寫作業，不過相對的就學到很多東西，像 tensor, group
+
+         extension, group representation 這些一般第一學期代數不會教的內容，
+
+         老師是說這樣的安排是希望我們除了古典的方法外，多接觸一點現代研究群
+
+         的工具。總之這個課真的滿重的，進度很快要求也很多，要好好考量自身的
+
+         時間和能力再來修。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.243.1
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1484302739.A.FC1.html
+推 tommyxu3: 推 不過 「看得出來老師想專心講group」? 01/13 18:34
+推 Crissangel: 惠雯只好推了 01/13 22:05
+推 paulpork: 數學系被死當流淚推QQ  不過是好課 01/13 22:18
+推 felgher: 原PO必須推XDD 01/14 00:54
+推 sunprinceS: 原PO必須推XDD 01/14 22:26
+推 peskotiveswf: 推原po神人 01/14 22:27
+推 nature1: 推原po XD 01/15 12:24
+推 cmrafsts: 算是有重新編排挑戰新教法吧，不過我很好奇下學期某些 01/16 23:35
+→ cmrafsts: 內容要怎麼上ＸＤ總覺得會有些恍若隔世之感。 01/16 23:36
+→ cmrafsts: 另外膜拜強者你助教<(_ _)> 01/16 23:36
+推 sunhextfn: 推原po！ 02/10 22:29

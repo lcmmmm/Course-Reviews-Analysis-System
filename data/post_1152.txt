@@ -1,0 +1,111 @@
+作者momo04282000 (Momo超人)看板NTUcourse標題[評價] 107-1 線性代數一 莊武諺時間Fri Jan 18 18:29:10 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         莊武諺老師
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關
+       數學系大一必修
+
+      δ 課程大概內容
+         Friedberg那本的線代扣掉第6章和部分星號內容
+
+ (以下根據CEIBA，實際上也幾乎相符)
+ Week 1 fields, vector sapces, subspaces, linear independence, basis
+ Week 2 linear independence, basis, replacement theorem, dimension
+ Week 3 linear transformations, kernal, range, dimension theorem, projection
+ Week 4 matrix representations, invertible linear transformations
+ Week 5 elementary matrices
+ Week 6 elementary matrices, Gaussian elimination, determinants of order 2
+ Week 7 determinants, Cramer's rule, adjoint matrices
+ Week 8 adjoint matrices, determinant in terms of permutation, diagonalization
+ Week 9 Midterm, diagonalization, invariant subspaces
+ Week 10 invariant subspaces, Cayley-Hamilton theorem
+ Week 11 Jordan forms, generalized eigenspace
+ Week 12 Jordan forms
+ Week 13 Jordan forms, examples, exponential of matrices,
+         systems of first order differential equations
+ Week 14 minimal polynomials, rational canonical forms
+ Week 15 rational canonical forms
+ Week 16 no class
+ Week 17 Final
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+         5顆不解釋
+
+      η 上課用書(影印講義或是指定教科書)
+        指定   Linear Algebra, 4th Edition by Stephen Friedberg,
+               Arnold Insel, and Lawrence Spence
+
+        參考   Linear Algebra, 2nd Edition by Kenneth Hoffman, and Ray Kunze
+               Matrix Theory and Linear Algebra
+               by Israel Herstein, and David Winter
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+          板書，老師剛進來時會問有沒有問題，過了3秒左右就會開始上課，
+          會一直上課直到打鐘為止，基本上老師都很認真在上課，
+          只有偶爾會講出幾句很好笑的話
+
+          另外如果有人上課講話的話老師會停下來問「有什麼問題嗎?」
+          偶爾會因為這樣小小兇人，這應該是老師很在意的點，要注意一下
+      
+      σ 評分方式(給分甜嗎？是紮實分？)
+          20%小考(共4次)
+          20%作業(共6次，助教評分)
+          30%期中考(滿分115，詳見考古題版)
+          30%期末考(滿分120)
+          應該算扎實甜，要高分還是要認真念書，但要過不難
+      
+      ρ 考題型式、作業方式
+          期中期末考都有計算題和寫過的習題(or類似題目)
+          作業前兩次為老師指定，後來是讓助教各自選題
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+          數學系的課一向不點名，然後是大一必修所以只需要高中數學基礎
+      
+      Ψ 總結
+          老師的上課速度算是蠻快的，有時候上一上就聽不懂只能抄筆記了
+          (一部分是我不夠認真，但問過蠻多同學都有同感的(應該啦))
+          但考試並不會特別刁難，後面兩次小考滿分都120，期中期末也都破百(115/120)
+          而且有認真寫習題的話幫助很大
+          總成績40老師就給過(小考期考多出來的分數不會調回100算)
+
+          但拿高分標準有稍微調高，標準如下:
+          T<40       F
+          40<=T<50   C-
+          50<=T<57   C
+          57<=T<64   C+
+          64<=T<71   B-
+          71<=T<78   B
+          78<=T<84   B+
+          84<=T<90   A-
+          90<=T<96   A
+          96<=T      A+
+
+          要96以上才A+但還是有人有拿到，覺得非常佩服
+          超推老師的課，雖然速度偏快，但在同學反應過後速度有稍微下降，
+          期末考前也放了溫書假
+
+          而且肯問問題的話老師都會很認真仔細地解釋
+          有次我想問問題但錯過Office Hour所以寄信給老師，
+          他還給了我另外一個時間讓我去問
+          雖然數學系的必修很少會同一個老師教，但還是超推
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.231.221.137
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1547807353.A.DB4.html
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:30:41
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:33:14
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:33:35
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:34:01
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:34:36
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:35:32
+※ 編輯: momo04282000 (125.231.221.137), 01/18/2019 18:35:56
+推 orangeon11: 推 01/19 00:17
+推 openopentw: 推 課上得很好 01/19 03:05
+→ Gallade: 推老師很可愛 02/11 15:20
+※ 編輯: momo04282000 (140.112.240.53 臺灣), 06/14/2019 02:59:20

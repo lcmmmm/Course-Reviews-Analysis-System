@@ -1,0 +1,149 @@
+作者felgher (鄉民都跟我進來看熱鬧)看板NTUcourse標題[評價] 106-1 王奕翔 通信原理時間Wed Jan 24 14:57:42 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+                                是
+
+      哪一學年度修課：
+
+                         106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+                        王奕翔
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+                        電機系：選修
+
+      δ 課程大概內容
+
+                 Lec01：Introduction to Commun. Systems
+                 Lec02：Digital Modulation
+                       -Linear algrbraic view of signal space
+                       -Pulse shaping and Nyquist Criterion
+                       -QAM and equivalent complex baseband signals
+                       -Constellation set and symbol mapping
+                 Lec03：Optimal detection under noise
+                       -Random process and its properties
+                       -Statistical models of noise and AWGN
+                       -Hypothesis testing and optimal detection
+                       -Performance analysis: symbol error rate and BER
+                 Lec04：Reliable Commun.
+                       -Repitition coding and its performance analysis
+                       -Energy-efficient reliable commun.: orthogonal code
+                       -Rate-efficient reliable commun.: linear block code
+                       -Convolutional code and Viterbi algorithm
+                 Lec05：Wideband Commun.
+                       -Frequency selective channel and equiv. baseband model
+                       -Inter-symbol interference and optimal receiver
+                       -Linear equlization: Match, zero-forcing, and MMSE
+                       -OFDM
+                 Lec06：Wireless Commun.
+                       -Model wireless channels: fading, delay spread,
+                       coherence time, coherence bandwidth and Rayleigh fading
+                       -Effect of fading in detection, dieversity,
+                       time diversity code
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+                       想學東西：★★★★★
+                       想混：☆☆☆☆☆
+
+      η 上課用書(影印講義或是指定教科書)
+
+                        老師自編投影片（上課用）
+                        老師自編講義（回家自己閱讀, 上課投影片的詳細版)
+                        其他還有不少參考講義像是：
+                        Gallager, "Principles of Digital Communication"
+                        Madhow, "Fundamentals of Digital Communication"
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+                 上課基本上就是老師會講解投影片上的內容，整個課程的Lec01是介紹
+                 整個數位通信系統的Layer架構，接下來的每個章節就是詳細介紹每個
+                 Layer的設計以及會遇到的問題
+                 每個章節剛開始時，老師會講解這個章節主要在解決什麼通信上的問
+                 題(e.g. ISI, zero rate, energy per bit is infinte... etc.)
+                 接著老師會講解這個問題怎麼來的：像是這個問題來自之前哪個模型
+                 假設被破壞之類的，接著老師會重新推導一次這個章節所需要用到的
+                 數學模型，在得到新的模型之後，老師會比較這模型跟之前的Lecture
+                 所得到的有何不同，然後就開始利用這個模型來分析一開始課堂上提
+                 到的問題
+
+                 值得注意的是：幾乎所有課程上的觀念或者數學式子都是經過數學推
+                 導而得到，如果很討厭一堂課程滿滿的都是數學式子跟推導，那請三
+                 思（因為作業跟考試的題目也幾乎都在計算/證明）
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+                 作業40%, 共四次, 換句話說, 每次10%
+                 期中考30%, 期末考也30%
+                 不會調分，不過老師也不是照原始成績給等第
+                 （沒記錯的話）老師是照原始成績下去排名，之後按照每個等第所佔
+                 的人數比例來給等第的
+
+                 至於每個等第各給多少人我不是很清楚，不過老師好像有說過不太會
+                 當人（前提當然是作業有在寫），那實際上有沒有人被當掉我就不是
+                 很確定了啦......
+
+      ρ 考題型式、作業方式
+
+                 作業的話，可以自己完成，也可以找組員（最多一組三人），不過你
+                 的組員必須整學期都一樣才可以
+
+                 作業內容基本上分成兩類
+                 第一類是老師上課內容有提到但是沒有證明的某個數學式
+                 或者某個定理/性質的證明
+                 第二類則是上課內容的延伸，這部分的題目我覺得就比較難捉摸了
+                 不過內容基本上還是上課有提過的，常常是老師上課用了某個比較不
+                 精確的方法做了performance analysis或者是上課做了某個假設，那
+                 作業內容可能就是要我們用別的方法來做出更好的performance anal-
+                 ysis 或者將假設打破看看會有什麼結果
+                 難度上我覺得偏難，幾乎不太會有一看就知道答案的這種題目，很多
+                 題目都需要思考一段時間，建議提早開始做，原PO HW2前兩天才開始
+                 動工寫的叫苦連天，建議每份作業預留一週以上的時間比較合適
+
+                 考試的內容多為上課內容，會有大概一半的基本分，另外一半就是比
+                 較困難需要思考的題目
+                 期中考可以帶兩張A4大小的大抄，期末考因為範圍比較大，可以帶四
+                 張A4大小的大抄
+                 然後......考試的成績不會很好看XDD
+                 期中考我忘記了，不過期末考的平均是41分, 標準差16分
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+                 出席率的話完全不重視
+                 基礎的話一定要修過電機系信號與系統的基礎, 電機系的機率,
+                 電機系的線性代數（或者同等於這些課程的能力）不然會完全聽不懂
+                 寫程式的能力的話要有比較好，HW3有兩題是要我們去跑Viterbi
+                 algorithm，如果手算當然也行啦...... 不過會...痾...有點辛苦
+                 所以建議至少會寫Matlab比較好，或者你要找到組員是會寫程式的那
+                 就當然沒問題
+
+      Ψ 總結
+
+                 老師在準備這堂課程上面十分用心，從投影片, 講義, 到作業的安排
+                 就可見一斑。
+                 上課內容跟作業相輔相成，不會有讓人不知道為什麼要算這些東西的
+                 感覺，做完作業會對上課的內容更有感覺，也會更清楚理解上課的推
+                 導所做的假設以及一些通信中的數學證明技巧
+                 這也是我第一次發現電機系所學過的數學課程竟然能這樣用在處理通
+                 信的問題上，讓我十分讚嘆！
+                 作為一堂通信的導論課程，這堂課很好的連結了大二以前學過的數學
+                 工具與通信的問題，而且也十分清楚地介紹了現代通信系統的架構，
+                 讓人對現代數位通信系統有很直覺以及很清晰的印象
+                 是我在電機系修過最好的選修課了（甚至是在電機系最好的課也不為
+                 過）
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.121
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1516777065.A.CFD.html
+推 WSpider: 大推強者教授強者助教  viterbi手算的路過XD 01/24 15:11
+※ 編輯: felgher (140.112.25.121), 01/24/2018 16:17:04
+推 phoenix286: 考試是地獄 01/24 17:04
+推 ittfie: 推原Po也推老師！可惜沒修到QQ 01/25 08:09
+推 fish1933: 推助教很帥很厲害 01/25 23:08
+推 sysgood: 推助教很帥很猛很史丹佛!!!! 01/25 23:09
+推 jeff19921021: 推助教帥帥 01/26 01:17
+推 sunprinceS: 推助教帥帥 也推原PO 01/30 19:00

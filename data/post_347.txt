@@ -1,0 +1,94 @@
+作者alfa871212 (阿呆)看板NTUcourse標題[評價] 109-2 丁建均 工程數學特論時間Sun Jul  4 01:17:05 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+                Y
+      哪一學年度修課：
+                109-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+                 丁建均
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+                 電機所電信所選修（可當電機系系定選修）
+      δ 課程大概內容
+                 節錄自http://djj.ee.ntu.edu.tw/EM.htm
+                     (A) Differential Equation
+
+                         (1) Numerical method and nonlinear DE
+
+                         (2) Partial Differential Equations
+
+                         (3) Function Approximation
+
+                     (B) Fourier Analysis
+
+                         (1) Fourier Analysis
+
+                         (2) 2D FT and Discrete FT
+
+                     (C) Linear Algebra
+
+                         (1) Advanced Linear Algebra
+
+                         (2) Generalized Norm and Optimization
+
+                         (3) Discrete Function Approximate
+
+                         (4) SVD and Principal Component Analysis (PCA)
+
+                     (D) Probability and Statistics
+
+                         (1) Probability Model, Entropy, and KL Divergence
+
+                         (2) Random Process, Independent Component Analysis
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+                 想複習一下工數 ★★★★★
+
+                 甜、涼 ★★★★★
+
+                 不喜歡證明 ★★★★★
+
+
+      η 上課用書(影印講義或是指定教科書)
+                 教授投影片，其他參考用書在課程網站都有，主要是電機系各門數學課課本
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+                 投影片為主，教授會用手寫筆在上面講解，課後會上傳筆跡檔在網站
+                （貼心），本學期上課都有上傳錄影到NTU COOL上，所以沒有受疫情
+                 影響。教學風格是一貫的Djj Style，就是把講義一步步講解，不會亂
+                 跳或是突然進度很趕，算是很好適應的風格。
+      σ 評分方式(給分甜嗎？是紮實分？)
+                 紮實甜
+
+                 每三週出一次作業，共五次
+                （含4~6大題手寫＋程式作業 \w python or Matlab）各13%
+
+                 期末考因疫情open everything，原訂open book
+                （考試時間13:30~21:00超級充足）35%
+
+
+      ρ 考題型式、作業方式
+                 作業跟考試十分接近，大部分都是講義例題稍微改動，照著步驟做應該
+                 不會到太難，而且三週時間很充裕。程式作業都是用python或是matlab
+                 實作解題（用電腦幫你算你原本手算的東西），沒有基礎也沒問題，稍
+                 微查一些用法應該30行內搞定
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+                從Syllabus可以知道這門課幾乎就是電機系數學課的延伸（微方，線代，
+                信號，機率），不過教授想培養的是如何解這些問題的方法，所以難度
+                應該比上面的課相對容易一些。基礎應該就是工數（ODE ，eigenvalue，
+                Fourier），不過教授會全部帶你練習，即使不熟練應該也可以聽懂。完
+                全不注重出席率，不過有些東西可以現場問老師還是好一點。加簽方式
+                不太清楚，不過應該是全簽。
+      Ψ 總結
+                 這門課涵蓋了電機系大學部的工數部分，如果研究所在準備考試有用到
+                 應該多少可以當成複習。只要好好寫作業，教授一般不會刁難同學，作
+                 業考試和上課內容是十分吻合，如果有缺甜選修可以參考看看。另外我
+                 把這學期我自己寫的作業還有程式作業放在github
+                 https://github.com/alfa871212/Engineering_mathematic
+                可能有誤，請斟酌使用。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.71.168 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625332627.A.B6D.html
+推 FTICR: 感謝分享！ 07/05 14:51

@@ -1,0 +1,80 @@
+作者waka (西薩溪不理)看板NTUcourse標題[評價] 109-2 陳信希 自然語言處理時間Fri Mar 18 07:21:15 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+109-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+陳信希
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資工系選修
+知識管理學程
+智慧醫療學分學程
+      δ 課程大概內容
+第1週   2/25    Lecture 1. Introduction
+第2週   3/4     Lecture 2. Words, Collocations and Multiword Expressions
+第3週   3/11    Lecture 3. N-Gram Language Models, Smoothing and Discounting
+第4週   3/18    Lecture 4. Neural Language Model and Word Embedding
+第5週   3/25    Lecture 5. Sequence Labeling for Parts of Speech and Named
+Entities
+第6週   4/1     溫書假(調整放假)
+第7週   4/8     Lecture 6. Deep Learning Architecture for Sequence Processing;
+Lecture 7. Machine Translation and Encoder-Decoder Models
+第8週   4/15    (1) AI CUP 醫病決策預判與問答 (邀請講者：成大高宏宇教授)
+(2) Term Project 說明
+第9週   4/22    期中考
+第10週  4/29    Lecture 7. Machine Translation and Encoder-Decoder Models
+(pages 14-31)
+Lecture 8. Contextual Embeddings
+Lecture 9. Constituency Grammars and Parsing
+第11週  5/6     Lecture 10. Statistical Constituency Parsing
+Lecture 11. Deep Neural Networks for Parsing
+第12週  5/13    Lecture 12. Dependency Parsing
+Lecture 13. Word Senses and WordNet (pp. 1-22)
+第13週  5/20    Lecture 14. Semantic Role Labelling and Argument Structure
+(pp. 1-73)
+第14週  5/27    Lecture 15. Representation of Sentence Meanings (pp. 1-31)
+Lecture 16. Computational Discourse
+Lecture 17. Chinese Discourse Parsing and Its Applications
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★
+上課會睡著的別來，老師的投影片自己看不太懂，也沒甚麼錄影
+
+      η 上課用書(影印講義或是指定教科書)
+無
+      μ 上課方式(投影片、團體討論、老師教學風格)
+投影片，老師講他的，印象中不太有互動
+      σ 評分方式(給分甜嗎？是紮實分？)
+沒公布各項佔的比例，不過助教說應該是佔各1/4
+不過各項都有一個分數出來
+有期中考、期末考、小組報相關主題論文、小組project
+
+我成績很爛，不過最後看比例我猜老師沒當任何人，都在B-以上
+
+      ρ 考題型式、作業方式
+考試可以去找考古題，形式都差不多，open book(但只能紙本)，期末變成線上考所以也
+open internet
+比較令人意外的是小組project最後變成是參加AI cup，一個和NLP有關的比賽題目，只是
+到期中才公布說有點讓人措手不及，因為這種形式所以排名也佔部分分數。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+老師講話很容易讓人睡著，而且有些數學的地方不會特別講(雖然考試也沒有考)，主要還
+是考觀念。
+加簽第一堂課助教用抽的(印象中)
+
+      Ψ 總結
+聽完第一堂課如果覺得自己會睡著就真的不要修，覺得自己沒學到東西QQ，學到的都是同
+一學期機器學習學到的。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 155.4.158.30 (瑞典)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1647559277.A.962.html
+推 partyfavor: 路過推 同學期修最後A+ 也是同時修機器學習（並且很多 04/17 06:19
+→ partyfavor: 知識都是從機器學習補過來的）兩次考試好像滿分都100 04/17 06:19
+→ partyfavor: 以上給分滿大方的 老師雖然講科會讓人想睡但去問問題 04/17 06:19
+→ partyfavor: 都會滿認真地回答這點也算推推 04/17 06:19
+→ partyfavor: 課* 04/17 06:19
+推 psion: 所以沒有講attention? 05/18 09:58

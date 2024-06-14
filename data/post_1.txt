@@ -1,0 +1,140 @@
+作者Apollo71 (星落)看板NTUcourse標題[評價] 111-2 鄭皓中 量子資訊與計算時間Sat Jul 22 13:13:04 2023
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 111-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 鄭皓中
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+電機所、電信所、生醫電資所、量子計算學程（大學部也很歡迎來修！）
+Prerequisite: 線性代數、基礎的機率與統計及演算法複雜度知識
+
+      δ 課程大概內容
+Theory of Quantum Information Processing
+
+- Theory: 這是一門理論課，主要從 information science 以及 system/engineering
+ 的角度介紹 mathematical foundation of quantum information。
+
+- Information processing: 包含但不限於 quantum systems, quantum noise,
+computation (circuit & algorithms), information theory,
+compression/communication, cryptography
+
+- Outline:
+
+Part I - Closed Quantum Systems
+1. Foundations and Postulates for Closed Quantum Systems: Quantum States,
+Evolution, and Projective Measurements.
+2. The Quantum No-Go Theorem: No-Cloning Theorem, No-Signaling Theorem, and
+No-Perfect Discrimination.
+3. Basic Quantum Protocols: Teleportation, Dense Coding, Quantum Key
+Distribution.
+4. Quantum Computation I: Quantum Circuit Model and Algorithms.
+5. Quantum Computation II: Algorithms Based on Amplitude Amplification.
+6. Quantum Computation III: Algorithms Based on Phase Estimation.
+7. Quantum Computation IV: Integer Factorization Algorithm.
+8. Quantum Non-Local Games.
+
+Part II - Open Quantum Systems
+9. Foundations and Postulates for Open Quantum Systems: Density Operators,
+Quantum Channels, and Quantum Measurements.
+10. Distance Measures: Quantum Fidelity, Trace Distance, and Quantum
+Entropies.
+11. Quantum Shannon Theory I: Quantum Compression.
+12. Quantum Shannon Theory II: Hypothesis Testing and Classical Communication
+over Quantum Channels.
+13. Quantum Shannon Theory III: Quantum Communication over Quantum Channels.
+14. Quantum Error Correction.
+15. Advanced Topics: Quantum Machine Learning (as time permits).
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+[1] Michael Nielsen and Issac Chuang. Quantum Computation and Quantum
+Information, Cambridge University Press, 2009.
+[2] P. Kaye, R. Laflamme, M. Mosca. An Introduction to Quantum Computing,
+Oxford University Press, 2007.
+[3] Benjamin Schumacher and Michael Westmoreland. Quantum Processes systems,
+and Information, Cambridge Press, 2010.
+[4] Joseph M. Renes. Quantum Information Theory: Concepts and Methods, de
+Gruyter, 2022.
+[5] Mark M. Wilde. Quantum Information Theory, Cambridge University Press,
+2018.
+[6] John Watrous. The Theory of Quantum Information, Cambridge University
+Press, 2018.
+[7] Mario Ziman and Teiko Heinosaari. The Mathematical Language of Quantum
+Theory: From Uncertainty to Entanglement, Cambridge University Press, 2011.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+老師會用平板講解自製 slides，語速流暢，接近思維的速度。我覺得老師對這門領
+域的理解已經深入到繼往開來的地步，能夠抽絲剝繭地分析演算法或定理的背後思
+路，以及劃分 QIC 這門領域的歷史分期，讓同學能對局部細節和全域地圖都有更
+清晰的認知。
+
+      σ 評分方式
+
+Homeworks　45% (= 15% x 3)
+Mid-term exam 25%
+Final project 30%
+
+
+      ρ 考題型式、作業方式
+
+期中考有五大題，形式與作業接近，比較注重基本觀念。作業共三次，一人一組，要繳交
+PDF 檔，LaTeX perferred or clearly scanned。值得一提的是，每份作業都有 5-10% 的
+bonus，認真寫常常可以拿到 100 以上的分數。我覺得作業對這門課的理解很有幫助，
+而且老師會在作業裡面提供 remarks，引導同學在不知不覺中進入問題的核心。
+
+Final project 一至三人一組，學期初就會公布 guideline，有充足的時間可以找題目
+研究。這次平均分數超過 90，可見只要有用心付出，老師都會看見學生背後的苦心。如果
+影片講解優秀的話，還會被老師和助教放到課程網站 NTUCOOL 上和全班分享。我們
+這組做的主題是 An Introduction to Quantum Computation in Geometric Algebra，
+想從一個更廣義的數學框架觀察 quantum operation 背後的幾何直覺，我們從期中就
+開始執行充分的 literature survey 以及思路推導，最後很幸運地獲得最高分 97。有趣
+的是，今年因為修課學生不少，所以優秀影片被分成了五個派別: Quantum information
+theory, Quantum machine learning, Quantum signal processing, Quantum design
+automation and Other topics。我從中發現好多之前沒看過的酷主題，再次推進了心中
+quantum fields 的邊界。
+
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+不注重出席，這學期最多簽到 100 人。這學期期末的學生還有 59 人。
+
+如上所述，這門課最需要用到的先備知識是線性代數。有機率和演算法的基本概念會
+修起來更舒適，更有時間專注在 quantum 獨有的知識。
+
+      Ψ 總結
+
+學海無涯，天空沒有極限。這幾年台灣政府也開始投資發展量子技術，在這個量子科技
+逐漸興起的時代，我們常常可以看到 quantum 成為各種領域的前綴形容詞。修完這門
+QIC 之後，將會能夠清楚了解哪些後綴詞 (quantum + "?") 是有道理的，確認 classical 和
+quantum 的分野在哪裡，怎樣的情況下有 quantum advantage，並且培養讀懂
+相關論文的能力。
+
+現在如果想開始學習量子計算的話，網路上有相當多的開放式課程可以參考；我覺得
+皓中老師這門 QIC 最有趣也最難得的部分其實是後半段的 open quantum systems，
+從 closed 到 open 的探索過程，就像點亮一大片地圖般的領域展開，在這裡可以從
+老師身上吸收到很多書上看不到的背後理路，比較不會迷失在學術的森林裡，茫茫然，
+不知何所終。我非常推薦對 quantum information science 有興趣的同學來加入這個
+learning flow，一起享受開拓知識邊界的樂趣！
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.161.34.29 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1690002786.A.DAA.html
+推 unmolk: 酷 不用量子物理的知識嗎？ 07/22 14:28
+→ Apollo71: 不用喔，最主要會用到的工具就是線性代數，因為這門課 07/22 16:00
+→ Apollo71: 比較電資導向 07/22 16:00
+推 oToToT: 就算對Information Thoery沒興趣的我覺得也還是很推薦，對 07/24 11:42
+→ oToToT: 認識量子計算很有幫助 07/24 11:42
+推 unmolk: 感謝分享 期待板主跟樓上大大更多分享xD 07/25 22:30
+→ diabolica: 感謝分享 07/30 07:22

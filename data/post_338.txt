@@ -1,0 +1,116 @@
+作者o314shyang (偷米賊)看板NTUcourse標題[評價] 109-2 吳健銘 大氣熱力學時間Tue Jul  6 17:40:46 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-2
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)：吳健銘
+λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) ：大
+氣系必修
+δ 課程大概內容
+
+W1 Introduction, Atmospheric structure(CA0 due,CA1)
+W2 EOS, First Law of thermodynamics (I) (CA2)
+W3 First Law of Thermodynamics (II)(Quiz1)
+W4 hypsometric equation, static energy, potential temperature(CA3)
+W5 Carnot Cycle, efficiency, typhoon intensity(CA4)
+W6 entropy introduction, mixed layer evolution
+W7 Quiz 2 No Class on Tuesday
+W8 Condensation and phase diagram, C-C equation (HW1)
+W9 Midterm No class on Thursday
+W10 C-C equation and global warming (CA5)
+W11 C-C equation application td tw tc (Quiz 3)
+W12 parcel assumption, td,tw,te (CA6)
+W13 theta_e, MSE, profiles cloud base (CA7)
+W14 Moist adiabatic lapse-rate (HW 2)
+W15 Skew-T exercises (Quiz 4)
+W16 Lapse-rate ans stability (CA 8)
+W17 Conditional unstable, convective unstable, CAPE, CIN profiles review on En
+v>convection(Quiz 5)
+W18 Final Exam
+
+但這只是借看一下，原則上期中考前上到哪考到
+哪（大概以乾濕熱力學為分界），期末考考全部
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+教授的版書★★
+教授換衣服的頻率★★★（三件為一週期，故給三個星）
+喜歡寫作業的時候挑戰自己★★★★★
+趁機跟系上同學變很好★★★★★
+想自己跟同學一起了解大氣熱力學的美妙★★★★★
+      η 上課用書(影印講義或是指定教科書)
+
+Grant Petty A first course in atmospheric thermodynamics, 338 pp.
+Fermi, E., 1956: Thermodynamics. 1st edition, Dover Press, 160 pp.
+Iribarne, J. V. and W. L. Godson, 1981: Atmospheric thermody
+namics. 2nd ed., Reidel Pub. Co., 259 pp.
+Wallace, J. M. and P. V. Hobbs, 2006: Atmospheric science: A
+n introductory survey, Chap. 3, 2nd ed., Academic Press, 483 pp.
+Bohren, C. F., and B. A. Albrecht, 1998: Atmospheric thermod
+ynamics, Oxford, 402 pp.
+Tsonis, A. A., 2007: An introduction to atmospheric thermody
+namics, Cambridge Press, 187 pp
+
+我只有買第一本，還蠻好看的，有種變大氣業家的感覺
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+上課時間是二34，四34，四是單週上課（別被騙了）
+禮拜四基本上沒放假沒期中就看你要不要去，一次上一堂課
+分別檢討上次的CA（class activity ）、介紹下次的CA；遇到Quiz當週就不用寫CA
+
+教授會在台上口沫橫飛地說著，但板書實在是看
+不懂在寫什麼，推導也常常推到一半不知道在幹
+嘛（但私底下問他或許會有比較多的收穫吧，不
+曉得），遇到不知道在幹嘛的東西的時候就會說「助教！CA！」，CA這東西是用來幫助我
+們了解現象成因等等，但我連現象成因都搞不懂是要寫什麼CA嗚嗚嗚嗚，所以跟同學組大
+熱戰隊很重要，可以省下你很多單打獨鬥的時間：）
+
+後半學期改遠距之後，老師是拿108-2的影片給
+我們看，禮拜四會讓大家問問題，但印象深刻的
+是，有同學問完問題之後，教授就回答說「這個
+我不清楚欸，你可以自己推推看」，蛤？？？？？我也不清楚
+      σ 評分方式(給分甜嗎？是紮實分？)
+紮實偏甜
+小考10%（五次）
+作業40%（八次）
+期中20%
+期末30%
+
+小考會用酷一點的方式進行，例如ABC填充、連連看、大於小於等於，各種方式
+
+作業會給data，先畫出要的圖之後開始寫討論
+只要圖畫錯都是B-起跳，寫很多討論或許能拿A+啦，但小弟不才都只能拿A-
+
+期中 平均30/71
+考一堆公式推導還有畫圖，而且一個都只佔1、2
+分，所以只要錯一點，大概一半分數就會扣光
+
+期末 平均？/75（遠距）
+前20分是公式推導、解釋，後55分是畫圖（斜溫圖、cape cin等等），但要記得解釋圖在
+幹嘛，我沒有解釋所以被扣爆
+
+我自己作業平均是A-，期中有平均以上，期末有點考爆，學期成績A-
+但有同學作業平均B，期中平均以下，期末不清楚，但學期成績也是A-
+教授應該有稍微調一下啦
+      ρ 考題型式、作業方式
+考題都是筆記的東西，所以你要搞清楚（自己去
+猜）教授在上什麼，而且有時候小考題目也會寫的很模糊
+作業的話八次有幾次會寫的很痛苦，雖然期限一
+個禮拜，而且還要看助教中途有沒有更改公式或者是data
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不太需要什麼基礎，教授人很好，助教人也不錯
+      Ψ 總結
+大氣熱力學對我來說是個很有興趣的科目，所以
+也願意花時間在上面，不過有時候覺得我應該在
+課堂上就學會的東西好像太少了，回去要花更多
+的時間去理解教授在上什麼，而不是已經開始吸收今天上的東西：）學弟妹加油
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.9.237.139 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625564448.A.F21.html
+※ 編輯: o314shyang (101.9.237.139 臺灣), 07/06/2021 17:42:01
+※ 編輯: o314shyang (101.9.237.139 臺灣), 07/06/2021 17:44:31
+推 clw6201: 107-2修過推～課堂上不知道在幹嘛的東東的確一不小心就會 07/07 02:12
+→ clw6201: 變成CA或考題ㄌ（崩潰XD） 07/07 02:12
+→ clw6201: （題外話：當時完全沒有注意過教授更衣的週期XD 07/07 02:12

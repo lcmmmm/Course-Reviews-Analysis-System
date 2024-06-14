@@ -1,0 +1,135 @@
+作者rb933 (baap409)看板NTUcourse標題[評價] 110-1 單秋成 靜力學時間Wed Jan 26 13:17:13 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：110-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         單秋成
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         機械系大一必修
+
+      δ 課程大概內容
+
+         Chap1 Introduction-1 background
+         Chap1 Introduction-2 units
+         Chap2 Statics of Particles-1 Characteristics of Force
+         Chap2 Statics of Particles-2 Resultant and components
+         Chap2 Statics of Particles-3 Equilibrium of a particle
+         Chap3 Equivalent Systems of Forces-1 Moments
+         Chap3 Equivalent Systems of Forces-2 Couples
+         Chap3 Equivalent Systems of Forces-3
+         chap4-1_1 Equilibrium of Rigid bodies
+         chap4-1_2 Free Body Diagram
+         chap4-2_1 2D equilibrium alternate expression
+         chap4-2_2 2- & 3-Force members
+         chap4-3 Adequacy of constraints
+         chap6-1-1 Introduction to Trusses
+         chap6-1_2 Method of Joints
+         chap6-1_3 Some Shortcuts
+         chap6-1_4 Method of Section
+         chap6-2_1 Frame and Machine
+         chap6-2_2 Frame and Machine examples
+         chap7-1 Internal Forces in Structural Members
+         chap7-2-1 Flexible cables
+         chap7-2_2 Parabolic cables
+         chap7-2_3 Catenary cables
+         chap8-1 Introduction to Friction
+         chap8-2_1 Wedges
+         chap8-2_2 Screw
+         chap8-2_3 Belts
+         chap5-2-1 CG, CM and Centroids
+         chap5-2-2 Centroid of composite areas
+         chap10-1-1 work done by a force and a couple
+         chap10-1-2 Gravitational & Elastic Potential Energy
+         chap10-2-2 Stability of Equilibrium
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         涼度:★★★
+         甜度:★★
+         想透過聽課學好靜力學:★★
+         不喜歡寫作業:★★
+         上課不想要一直舉手發言:★
+         綜合推薦度:★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+         Vector Mechanics for Engineers: Statics (12th Edition)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         前幾周線上課，上課前須先看預錄影片，長度大概1~2小時不等，
+         大概學期過1/3改為實體課，一樣需先看預錄影片，之後在上課時間討論問題。
+         上課方式為同學提出問題老師回答。如果大家都沒問題，就講解一些觀念題。
+         每個禮拜都會有作業。
+
+         教授感覺滿有年紀了，可能快退休，聽力不太好。而且應該不是本國人，講話
+         口音很重，也很含糊，常常聽不清楚。而每周上課前都要先看那麼長的影片，
+         到教室坐2節課也沒學到什麼，唯一學到東西的就是觀念題講解的部分，其他
+         題目怎麼解公式什麼的都是自己寫作業的時候翻書找的，那我還不如自學。
+         其實一開始就跟旁邊同學討論過，覺得這樣的上課方式很沒效率又浪費時間，
+         期中回饋我也有反映，不過可能是課堂影片都錄好了還是其他原因，下半學期
+         也沒有改變教學方式。而且第四章在教靜力平衡時發現課本定義跟教授講的不同
+         ，問完後教授自己也搞不太清楚，最後考試還是考了，甚至連定義的專有名詞的
+         名稱都變了，真的滿傻眼的。
+
+         唯一比較讓我讚揚的地方就是可以感覺到教授很認真在教學，
+         無論上課還是還是錄影片都滿盡心盡力的，雖然教的不太好。
+         其他部份真的完全不推。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         期中期末考共佔60% 一學期四次 每次15%
+         作業佔30%
+         課堂表現佔10%
+
+         期考平均大概落在60 70左右
+         至於作業成績基本上就看助教臉色
+         助教說評分方式是看畫的圖還有算式整齊性
+         我算式都寫得很工整，圖也都有用尺畫，但有時候拿B+有時候拿A+
+         很多同學都討論過相關問題，似乎找不太到標準，翻開A+的作業本看
+         有些字跡也很潦草，有些很整齊的卻拿A-或B+之類的
+
+         至於課堂表現就是要你上課發言
+         我一堂課都沒缺席，發言次數也不多但還是有
+         最後領了60分，導致我學期分數掉了一個等第
+         其實班上大多數同學幾乎從不發言的
+         真的說發言踴躍的只有坐最前面那幾個，一隻手數得出來
+         但他們問得很多問題都很沒意義，感覺都是為了問而問
+
+         最後他們似乎也只拿了80左右，給分感覺很嚴，總成績出來也沒調分
+         真的不太理解為什麼要把上課發言計入總成績計算
+         沒問題就自然沒必要問，為什麼要硬是擠出問題來問，然後浪費大家時間
+
+         因為助教都會把所有人的分數公布，大概推算一下拿A以上的應該不超過10個
+         總之除非你有自信考試都能很高，不然想顧GPA的人建議直接退選
+
+      ρ 考題型式、作業方式
+
+         考題方向大致跟作業一致，第一次考試有觀念的是非題，
+         後面全都是手寫計算題，不過助教改滿嚴的，常常被到處扣分。
+         至於作業是會選課本後面的習題，每周平均大概5~6題
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         不太清楚有沒有在點名，但反正你就算有到但都沒講話，課堂表現一樣領低分，
+         加簽的部分不太清楚，不過也不建議來簽。
+
+      Ψ 總結
+
+         不習慣自己看書想透過上課學習的，完全不建議。上課不想要整天都在發言的，
+         也完全不建議來選，想要有紮實的課程訓練，也不建議。很在意GPA的請直接
+         左轉退選，總體而言完全不推這門課，除非你有把握每次考試都快滿分，作業
+         有辦法寫得很漂亮讓助教滿意，上課又喜歡一直舉手問問題。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.239.238.192 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1643174235.A.832.html
+推 godtone123: 去年修過 我記得原本更奇葩 影片音質+香港中文各種轟 01/26 13:24
+→ godtone123: 炸耳朵 但老師真的人不錯 01/26 13:24

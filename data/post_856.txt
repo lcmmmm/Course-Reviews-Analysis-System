@@ -1,0 +1,159 @@
+作者jexus (pytorch)看板NTUcourse標題[評價] 108-1 黃寶儀 電腦網路導論時間Mon Jan 27 15:52:49 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+      108-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+      黃寶儀 教授 (Polly Huang)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+      電機系
+
+      δ 課程大概內容
+
+      以下 from 課程網站
+      http://homepage.ntu.edu.tw/~pollyhuang/teach/intro-cn-fall-19/
+
+      01 09/11-12     Admin, Overview: Internet and Protocol
+      02 09/18-19     Overview: Internet edge, Internet core
+      03 09/25-26     Overview: Performance metrics,
+                      Application Layer: Quality of services
+                      ====== PA#1 due 09/27, 18:00:00 ======
+      04 10/02-03     Application Layer: Web/HTTP, FTP, SMTP
+      05 10/09-10     Application Layer: SMTP, DNS, P2P
+                      ====== EA#1 due 10/11, 18:00:00 ======
+      06 10/16-17     Application Layer: P2P, Socket programming
+      07 10/23-24     Transport Layer: UDP, General reliable transfer
+                      ====== PA#2 due 10/25, 18:00:00 ======
+      ================ 期中考考到這 ==================
+
+      08 10/30-31     Transport Layer: General reliable transfer,
+                                       TCP error recovery
+      09 11/06-07     Transport Layer: General congestion control,
+                                       TCP congestion control
+                      ====== EA#2 due 11/08, 18:00:00 ======
+      10 11/13-14     Midterm (on 11/14)
+      11 11/20-21     Network Layer: Service models, IPv4 and IPv6
+      12 11/27-28     Network Layer: Routing principle
+                      ====== PA#3 due 11/29, 18:00:00 ======
+      13 12/04-05     Network Layer: Internet routing, SDN
+      14 12/11-12     Link Layer: Error detection & correction, MAC
+                      ====== PA#4 due 12/13, 18:00:00 ======
+      15 12/18-19     Link Layer: Ethernet;
+                      Wireless and Mobile Networking: Wireless MAC
+      ================ 後面內容來不及教，期末考到這 ===============
+
+      16 12/25-26     Wireless and Mobile Networking: Cellular network
+                      ====== EA#3 due 12/27, 18:00:00 ======
+      17 01/01-02     Wireless and Mobile Networking: Mobile IP
+      18 01/08-09     Final (on 1/09)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+      跟婉君班是同一本，投影片也都是用出版社的做修改
+      Computer Networking: A Top-Down Approach Featuring the Internet,
+      7th Edition. James F. Kurose; Keith W. Ross, Pearson
+
+      上課投影片(課程網站有公開下載)很詳細，上課也大都能聽懂，其實用不到課本
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+      這門課是全英文授課，包括問老師問題＆回答問題＆寄信也要用英文
+      寶儀的英文很讚，口音很自然好聽，表達能力很好也很容易聽懂，上課是一種享受
+      班上會有一些國際生來修，在博理二樓的小教室，小班教學頗為溫馨
+
+      除了考試以外的作業Quiz等等都是以組為單位，1~3人一組
+      老師很注重表達，學期成績中有10%是participation分數，希望大家踴躍發言，
+      只要上課時回答問題就可以加分
+
+      幾乎每次課堂上都有出一些讓我們思考的題目，雖然稱之為Quiz，
+      但並不是真的考試，而是要大家舉手回答，很多是直接講你的想法的開放性題目。
+      如果上課沒有回答到，回去把你的答案寄信給老師即可(以組為單位)。
+      老師回信速度很快，而且都會親自認真看過你的答案，很有教學熱誠。
+      (假如有在答案中埋梗，老師可能還會特別回覆那一句)
+
+      這門課除了EA跟PA之外就不會有其他作業loading了，我覺得Quiz的部分
+      設計得還蠻好都有契合到課程的要點，讓你在沒有增加很多loading的情況下
+      能多多去思考理解上課講的東西。
+
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+      ‧ Homework
+         – Essay assignments (15%)
+         – Practical assignments (20%)
+      ‧ Interaction
+         – In-class quiz (15%)
+         – Participation (10%)
+      ‧ Exams
+         – Midterm (20%)
+         – Final (20%)
+
+      雖然老師在期初就有說 "Polly is not nice!"
+      並且列出每年的成績分布，看起來A+人數並不多
+      但其實就是老師沒有特別調分(90才有A+)，而且又是小班人比較少。
+      實際上拿A+還是沒有很難，像PA跟quiz都是可以全拿的(但不知為何很多組別
+      quiz都缺了很多沒有寄信交...)。
+      期中考難度也沒有很高，很多人都考95~99，期末則稍難一點最高分87分
+      Participation的部分就要注意，不要上課都沒發言，不然期末分數佔10分
+      就會少人家很多。
+
+      ρ 考題型式、作業方式
+
+      作業有分 PA (Practical Assignments) 跟 EA (Essay Assignments)
+      PA1~4 會用 C 完成一個簡單的 Socket Server
+      PA#1 (很簡單的Unix commands使用)
+      PA#2 (A Simple Echoer)
+      PA#3 (A Simple HTTP 1.0 Command Interpreter)
+      PA#4 (A Simple HTTP 1.0 Web Server)
+      一開始也會有範例code可以拿來修改，Loading 算是很輕
+
+      EA1~3則是寫Web相關主題的英文文章，可以挑的主題如下：
+      http://homepage.ntu.edu.tw/~pollyhuang/teach/intro-cn-fall-19/topics.html
+      我覺得EA就要花一些心思才能拿高分，老師都會仔細讀你的文章
+      如果可以看得出你真的對這個主題仔細研究，用自己的話來講解這個主題，
+      有組織有前因後果，會是比較好的，反之如果你只是把網路上查到的東西
+      複製貼上做摘要濃縮，可能不會拿到太高的分數。
+      而如果你很認真寫完EA後，也真的會對該主題有直接的體會認識，
+      這正是老師出EA作業的用意。
+
+      忘了補充，期中期末考都有考古題可以參考，就放在課程網站上
+      http://homepage.ntu.edu.tw/~pollyhuang/teach/intro-cn-fall-19/exams.html
+      也順便附上小弟的期末考筆記
+      https://hackmd.io/@voidism/Syb7NJXgU
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+      不用基礎
+
+      Ψ 總結
+
+      系上很多同學都是修婉君的電網導，但這學期修了寶儀的發現教得真不錯，
+      上課節奏掌握得很好，寶儀對學生也都很有熱誠且親力親為，每一個Quiz寄的信、
+      每一個EA、PA作業跟期中期末考都是老師自己批改（這門課沒有助教）
+      還蠻慶幸這學期有修到，Loading不重又有學到東西，看ptt上這門課的評價
+      已經是十年前的了，所以來打這篇讓大家知道有這門好課值得一修。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.52.63.50 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1580111571.A.90D.html
+※ 編輯: jexus (27.52.63.50 臺灣), 01/27/2020 16:04:37
+推 crazytim: 感謝分享，昨天正好在查這門課的評價 01/27 16:06
+推 BKBboys: 推 01/27 16:09
+推 rumrumrum: 看起來不錯ㄟ推推 01/27 20:26
+推 penguin0172: 老師很關心學生推 阿不過文中有一點筆誤應該是PA跟qu 01/27 22:42
+→ penguin0172: iz可以全拿 不是EA 01/27 22:42
+對我寫錯了QQ 已修正
+※ 編輯: jexus (27.52.63.50 臺灣), 01/27/2020 22:57:44
+※ 編輯: jexus (27.52.63.50 臺灣), 01/27/2020 23:11:58
+推 kyrie77: 看起來評價不錯 推 01/28 18:41
+推 userYuEyUe: 大推Polly人真的超好超暖 01/18 23:39

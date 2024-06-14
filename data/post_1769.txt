@@ -1,0 +1,113 @@
+作者utWJX (DEIMOS)看板NTUcourse標題[評價] 105-1 楊佳玲 計算機結構時間Fri Jan 27 21:49:49 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+        105-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        楊佳玲
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        資工系大三必修
+
+      δ 課程大概內容
+
+        Instruction Set
+        Performance Evaluation
+        Arithmetic Unit
+        Datapath and Control Unit
+        Pipeline
+        Memory Hierarchy
+        Virtual Memory
+        Storage & I/O system
+        Multi-processer
+
+        介紹硬體運作原理跟設計方法
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Computer Organization & Design. The Hardware/Software Interface. 5th Edition,
+        David A. Patterson and John L. Hennessy.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        用投影片上課，老師看大家死氣沉沉的時候會跟大家聊天
+        上課講的東西是大概念，一些比較枝微末節的東西就不會說
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        作業五個    20%
+        project兩次 20%
+        期中考      30%
+        期末考      30%
+
+        老師有說他不調分，不希望影響公平性。
+
+      ρ 考題型式、作業方式
+
+        HW是個人作業
+        HW1是勾第一章的課本習題
+        HW2是寫mips
+        HW3一樣是寫mips，但比hw2難一點
+        HW4寫verilog，自己建構一個single cycle的CPU
+        HW5是勾Memory hierarchy的習題
+
+        project是3個人一組
+        project 1 建構在HW4上，做一個pipeline CPU
+        project 2 把project1接一個L1 cache
+
+        期中考、期末考會收回去
+        題型式跟課本後面練習題很像
+        所以老師說如果要考高分，就多做習題吧！
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        因為實在是太多人要加簽了，所以老師先讓大家簽名，之後再決定可以加簽的人
+
+        基礎的話應該還好，知道一點電子學的東西可能會對Power那邊比較有感覺，
+        會寫verilog會讓你做project比較順手，我是都沒有碰過，但還可以。
+
+      Ψ 總結
+
+        我覺得這門課老師解釋所有的觀念都非常清楚，卡住的話也會停下來問大家
+        有什麼問題，到後面講Multi-processer的時候也會講到現在硬體的發展趨勢，
+        memory啦，GPU之類的，收穫蠻多的，但是考試的話就是看你練習題目跟觀念！
+
+        整學期比較崩潰的時候大概就是在接pipeline的時候（project 1）
+        project 2就比較輕鬆了，只要把cache controller的state那邊補上去
+        然後接線就好。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.82.208.80
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1485524992.A.A84.html
+推 ntuCSplusX: 感覺這門課會寫verilog很重要 01/27 22:11
+
+project兩次20% + 一次作業4%會需要用到verilog XDD
+
+推 even841130: +0是一定要推的啊！ 01/27 22:22
+※ 編輯: utWJX (115.82.208.80), 01/27/2017 22:43:27
+→ dickLearning: 好奇問CPU的spec ALU是floating point的嗎? 01/27 22:44
+
+應該不是，他沒有特別寫，也只有要求幾個指令（and/or/add/sub/mul/addi）而已
+※ 編輯: utWJX (115.82.208.80), 01/27/2017 22:53:47
+推 dickLearning: 沒有floating point還好,fp的CPU可以開一學期的課 01/28 00:05
+→ dickLearning: 感謝原ＰＯ回覆 01/28 00:05
+推 Romberg: 回一樓 但大家應該都是這堂課才學怎麼寫的 所以之前不會 01/28 01:29
+→ Romberg: 沒差 01/28 01:29
+推 Irecc: 上課上的重點跟考出來的差距蠻大的 01/28 10:45
+→ Irecc: 要注意一下 01/28 10:46
+推 Transfat: 計結範圍真的好廣 01/28 11:12
+推 goldenfire: 我以為期末會考TLB 結果都沒有TAT 01/28 12:43
+推 youtuuube000: 推佳玲！ 01/28 15:55
+推 HZYSoft: 大推+0老師，上課很認真，講解雖然稍快但是邏輯很清晰 02/07 21:09
+→ HZYSoft: 有原則 給分很硬，考前就說了完全不調，請大家不要找他。 02/07 21:09

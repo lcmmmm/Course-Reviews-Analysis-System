@@ -1,0 +1,58 @@
+作者DrFord (MIB)看板NTUcourse標題[評價] 109-1 黃信富 工程數學時間Sat Mar 13 21:21:15 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         黃信富
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         機械系大二必修
+      δ 課程大概內容
+         Week 1  Introduction, 1st order ODE (Ch 1, 2)
+         Week 2  1st order ODE (Ch 2)
+         Week 3  2nd and higher order ODE (Ch 3)
+         Week 4  2nd and higher order ODE (Ch 3)
+         Week 5  Laplace transform (Ch 4)
+         Week 6  Laplace transform (Ch 4)
+         Week 7  Laplace transform (Ch 4)
+         Week 8  Series solutions (Ch 5)
+         Week 9  Series solutions (Ch 5)
+         Week 10 Special functions (Ch 5)
+         Week 11 Sturm-Liouville boundary value problems (Ch 3.9, 12)
+         Week 12 Sturm-Liouville boundary value problems (Ch 3.9, 12)
+         Week 13 Vectors and vector space (Ch 7)
+         Week 14 Matrices and linear algebra (Ch 8)
+         Week 15 Matrices and linear algebra (Ch 8)
+         Week 16 Matrices and linear algebra (Ch 8)
+         Week 17 Systems equations (Ch 10)
+         Week 18 Final exam.
+      Ω 私心推薦指數(以五分計) ★★★★★
+         五顆星
+      η 上課用書(影印講義或是指定教科書)
+         D.G. Zill, Advanced Engineering Mathematics, 6th edn
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         這堂課是英文授課，老師的英文超級好(口音是native speaker等級)
+         上課的方式是用板書，不過老師教的超級快，有的時候沒有辦法邊抄筆記
+         邊理解老師教的內容，所以最後上完課後我還是會回去讀一遍原文書，
+         Zill這本原文書我覺得很適合自學。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         三次考試各佔1/3，沒什麼好說的，絕對是紮實分
+      ρ 考題型式、作業方式
+         總共三次考試，每次考試都在晚上
+         個人覺得考試的難度不會很難，不像微積分一樣出一些很刁鑽的題目
+         但是每次考試大概只會有四題左右，所以如果有一題不會寫大概就不會有A+了
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         這堂課不重視出席率，不過幾乎沒有人會翹掉這堂課。
+         加簽的部分我忘記了，至於外系的人應該不會來修這堂課吧
+      Ψ 總結
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.247.161 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1615641677.A.D4A.html
+推 CKTetris: 唯一推薦麻省理工大師 03/18 12:01
+推 aure0914: 老師跟我小學同學名字一樣 04/23 19:47
+推 edge945: 大推信富 08/14 19:29

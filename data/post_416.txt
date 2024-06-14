@@ -1,0 +1,50 @@
+作者DrFord (MIB)看板NTUcourse標題[評價] 109-1 蔡協澄 熱力學時間Sat Mar 13 22:46:20 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+         109-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         蔡協澄
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         機械系大二必修
+      δ 課程大概內容
+         1. Introduction and basic concepts
+         2. First law of thermodynamics
+         3. Pure substance
+         4. Energy analysis for a closed system
+         5. Energy analysis for an open system
+         6. Second law of thermodynamics
+         7. Cycles
+                (a) Gas power cycles
+                (b) Vapor and combined power cycles
+                (c) Refrigeration cycles
+         8. Phase transition
+         9. Thermodynamic property relations
+      Ω 私心推薦指數(以五分計) ★★★★★
+         ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+         Thermodynamics: An Engineering Approach by Yunus A. Cengel
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         老師上課是用板書授課，板書其實就是老師自己整理的筆記，
+         上課時一定要一字不漏的抄起來，一方面考試時只允許攜帶自己手寫的筆記，
+         另一方面老師的筆記真的整理的非常好，內容基本上可以抵一整本原文書。
+         說真的，熱力學的原文書只有在查表時會用到，
+         這是難得我不用去讀原文書的好課。
+      σ 評分方式(給分甜嗎？是紮實分？)
+         8次作業各5%，期中和期末各佔30%
+      ρ 考題型式、作業方式
+         作業真的超多且超難，光一題可能就要花超過一小時，常常需要一個下午加
+         晚上才寫得完。考試的難度跟作業差不多，有些題目甚至比作業還難，我記得
+         期中的平均好像才20幾而已。
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         加簽應該都加簽的到，不過好像禁止外系加簽，不知道為什麼。
+      Ψ 總結
+         這堂課真的是蠻硬的，分數應該也不甜，但是學習上真的是很輕鬆且扎實，
+         推薦給想學好熱力學的各位來上這堂課。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.247.161 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1615646782.A.BB4.html

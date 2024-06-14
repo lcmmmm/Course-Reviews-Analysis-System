@@ -1,0 +1,144 @@
+作者CSIE5566 (八皇后)看板NTUcourse標題[評價] 105-2 智慧對話機器人時間Mon Jul 17 12:28:27 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：
+105-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+陳縕儂
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資工所選修
+      δ 課程大概內容
+02/21/2017      Introduction Modular Dialogue System
+02/28/2017      Break
+03/03/2017      Milestone 0 Due
+03/07/2017      Break
+03/14/2017      Break
+03/21/2017      Ontology/Database and Language Understanding
+03/28/2017      Dialogue State Tracking
+04/04/2017      Break
+04/08/2017      Milestone 1 Due
+04/11/2017      Dialogue Policy Optimization 1 / User Simulation
+04/18/2017      Automatic Speech Recognition
+04/25/2017      Dialogue Policy Optimization 2
+05/02/2017      Natural Language Generation Microsoft API Tutorial by Eric
+05/06/2017      Milestone 2
+05/09/2017      TA Discussion
+05/16/2017      Progress Presentation & Demonstration
+05/23/2017      Natural Language Generation Evaluation
+05/30/2017      Break
+06/03/2017      Milestone 3 Due
+06/06/2017      Multimodality, Robustness & Flexibility Guest Talk by NVIDIA
+06/13/2017      Recent Trends & Final Discussion
+06/20/2017      Final Poster Presentation
+      Ω 私心推薦指數(以五分計) ★★★★★
+2顆
+      η 上課用書(影印講義或是指定教科書)
+沒有
+      μ 上課方式(投影片、團體討論、老師教學風格)
+從上面的syllabus可以看出，這門課有大概1/3的時間是break.
+基本上這個課上課幾乎是學不太到東西的(所有的東西幾乎在第1堂課就教完了)
+剩下的時間就是一直重複教第1堂的東西
+雖然一開始就已經說這是project-based的課程
+但跟project有關的實作方式（例如:policy gradient等等)
+也幾乎都沒有教過
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+miiestone的分數是照著requirement給分(雖然事前並沒有明確公告requirement)
+final的分數則是看評審心情(最後一天的presentation)
+評審有系上的一些老師
+還有微軟的人
+但這會讓人死的很不明不白...
+完全不知道自己到底為什麼分數會很低/很高
+有些得高分的組，其實我也看不出來他們跟我們的差別
+      ρ 考題型式、作業方式
+基本上整堂課就是做出一個chatbot.
+最後會要做成一個網站，然後大家可以用這個去查東西。
+
+然後每個milestone會有一個要求，可以當成有3次作業，但是可以連著一直做下去。
+但是這是理想狀況，事實是很多次作業都只是做那次作業要求的東西
+然後之後也不能用
+
+spec也非常的簡略
+可是milestone又是按照spec給分
+又有出現過，在deadline前一天又更改spec的狀況
+每個組之間，助教的評分標準又有一些差異
+有時候問助教事情
+助教就會說要問問看老師
+然後就等了很久..
+然後每組主題也不同，拿到一些做起來比較沒意義的題目
+基本上還是退選比較好XD
+
+有非常大量的垃圾事要做
+如果想修最好可以跟工作馬一組
+否則大家都會一直該該叫XD
+
+分數的話
+應該是不太甜
+除非你知道評審喜歡什麼
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不注重出席率
+基礎的話
+最好很會爬資料、寫網頁、生data、寫很多if-else
+和少數一些NN的東西，老師上課並不會仔細教這些東西
+但是會需要實作出來(不過實作NN的東西是比較簡單的部份)
+適合很有耐心的人來上
+      Ψ 總結
+這門課要做出一個chatbot
+需要花很多時間
+但是不一定能學習到什麼(不過也許能夠獲得成就感，但我個人是沒有)
+
+如果對chatbot很有興趣
+又可以接受做很無聊的事情(例如:if-else)
+那也許可以上上看這門課
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.99
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1500265709.A.25C.html
+※ 編輯: CSIE5566 (140.112.25.99), 07/17/2017 12:28:55
+※ 編輯: CSIE5566 (140.112.25.99), 07/17/2017 12:31:40
+推 Buzzer5566: 吃鍋貼 07/17 12:38
+→ acetylSv: 想拿分一定要有潮潮的presentation 07/17 13:23
+→ acetylSv: 如果期待可以學很多RL的不推薦來 07/17 13:24
+噓 hsnuyi: CMU畢業 + 姓李的愛徒 就算不是在EE的關門弟子 竟然只有二 07/17 14:59
+→ hsnuyi: 星? 07/17 14:59
+→ hsnuyi: 基本上 可以看正妹就應該給三星 至少比看一個小老頭舒爽XD 07/17 15:30
+推 donald2450: 原po原來用一堆if-else!難怪我會輸!看來我該讓賢了! 07/17 15:46
+推 NTUEE56: 滿甜的吧？問5, 6個同學都拿A+ 07/17 16:12
+→ longlongint: 你以為你只學到 if else XD 07/17 16:42
+→ ignacio777: 噓hsnuyi 「看正妹就應該給三星」，噁心 07/17 16:50
+噓 finderri: 同噓某h 07/17 17:12
+推 vcyc: 純推老師 07/17 17:45
+推 yuechen: https://i.imgur.com/yzbOP50l.png 這張在表特一堆人崩潰 07/17 19:19
+推 kurenai0514: 這樓也太歪了xd 07/17 19:37
+噓 eesu: 就知道一定看得到hsnuyi崩潰XD 07/17 20:53
+推 UserAgent: 為期一學期的chatbot黑客松 07/18 18:20
+噓 su3cl3: 分數給的超級怪 07/19 03:30
+推 brian980466: 期末發表根本不太管chatbot本身train的如何 07/23 04:15
+→ brian980466: 只要挑簡單的data接一些炫砲api來個潮demo就能得獎囉 07/23 04:15
+→ brian980466: ～～ 07/23 04:15
+→ brian980466: Spec太簡略 成績出來不清楚給分標準 又因每組都是不 07/23 04:22
+→ brian980466: 同助教不同主題 給分標準更難統一 噢對了助教本身也 07/23 04:22
+→ brian980466: 是良莠不齊 如果剛好配到雷助教 重要事情一問三不知 07/23 04:22
+→ brian980466: 訊息已讀不回還會放鳥 只好自求多福 07/23 04:22
+推 brian980466: 然後送成績也是夠晚的 如果沒記錯期末發表完不久 所 07/23 04:27
+→ brian980466: 有跟成績有關的子項目都已結束 不應該最近才出來 07/23 04:27
+推 kurenai0514: Spec不清是蠻困擾的一件事 但樓上可能搞錯了 demo本 07/25 02:27
+→ kurenai0514: 來就是需要特別準備跟包裝過的 單看model performanc 07/25 02:27
+→ kurenai0514: e給分的是在milestone 但不同組別domain差異太大真的 07/25 02:27
+→ kurenai0514: 也很難比較 07/25 02:27
+推 brian980466: 我看有些人接了臉部辨識API 07/25 09:22
+→ brian980466: 然後把它當成一個feature 07/25 09:22
+→ brian980466: 把open source的東西當成賣點實在是... 07/25 09:22
+推 brian980466: 你說要包裝過我同意 07/25 09:31
+→ brian980466: 但用過度包裝嘩眾取寵應該不是原本的初衷 07/25 09:31
+→ brian980466: 而demo具體來說怎麼給分的也不清楚 07/25 09:31
+→ brian980466: 這堂課讓人困惑的部分太多了 07/25 09:31
+→ brian980466: 如果對分數很計較的人一定要超細心...還要有大量的耐 07/25 09:31
+→ brian980466: 心等待助教的回應 07/25 09:31
+推 zzzz8931: 老師下學期開 ADA 耶...... 07/26 19:52
+推 weareworld: 教rule-based? 有用到machine learning嗎？ 07/26 20:05
+推 iammrhelo: hsnuyi是不是暗戀老師呀？ 07/27 16:42

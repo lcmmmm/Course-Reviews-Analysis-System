@@ -1,0 +1,113 @@
+作者craig21 (craig)看板NTUcourse標題[評價] 109-1 陳祝嵩 數位訊號處理導論時間Thu Feb  4 16:37:37 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         陳祝嵩
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         資工所、網媒所選修
+
+      δ 課程大概內容
+
+         Topics of classical DSP
+         → Continuous-time Fourier transform (CTFT)
+         → Discrete-time Fourier transform (DTFT)
+         → Sample of continuous-time signals
+         → Linear systems & its transform domain analysis
+         → Z-transform
+         → Structure of discrete-time systems
+         → Discrete Fourier transform (DFT)
+         → Fast computation of discrete Fourier transform (FFT)
+         → Fourier analysis of signals using DFT
+         → Random signals and systems
+
+         Non-classical topics
+         → Sparse Representation
+         → Principle Component Analysis (PCA)
+         → Autoencoder
+         → Convolutional Neural Networks (CNN)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+         投影片，內容主要是來自三本書
+         第一本比較基礎
+         第二本比較經典，適合第二次念
+         第三本是比較老的書，會描述一些現實產業
+
+         James H. McClellan, Ronald W. Schafer, and Mark A. Yoader,
+         Signal Processing First
+
+         Alan V. Oppenheim and Ronald W. Schafer,
+         Discrete-Time Signal Processing, Prentice-Hall.
+
+         Boaz Porat, A Course in Digital Signal Processing
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         投影片為主
+         有時候老師講到一半會有點興奮
+
+         出程式作業的時候會請助教來講解
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         Homework: several times (30%-35%)
+         Quiz: several times (15-20%)
+         Homework (program) 2-3 times (20%-35%)
+         Mid-term Test x 1 (15%)
+
+         分數會以最有利的方式計算
+
+      ρ 考題型式、作業方式
+
+         Quiz 這學期有 2 次，會提早一個禮拜以上預告
+         這次期中考在第 14 週，可以帶一張 A4 雙面
+
+         4 次非程式的作業，大約 2 ~ 3 題，主要是根據 classical DSP
+         3 次程式作業，都跟 MNIST 有關，主要是根據 Non-classical topics
+
+         Final Project:
+         給定軸承的振動和轉速，預測健康狀態
+         要把結果上傳到 Kaggle
+         最後一週會邀請排名在前面的或報告寫得不錯的人上去分享
+
+         作業都是以電子的方式繳交
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         不重出席
+         有點名幾次，但老師說只是要認識同學
+
+         學過 Signals and Systems 會比較好上手
+         但這門課是開在資訊系，所以還是會先提到一些
+
+         程式作業，老師建議是用 python
+
+         學期後半段的部份內容，老師說可能一半的人會聽不太懂，
+         可能要等年紀漸長之後才會有所體會
+
+         1 類加選
+
+      Ψ 總結
+
+         自認沒有學得很好，怕會上來誤導大眾
+         但最近發覺評價文越多越好
+         所以就來分享一點經驗
+         有錯請指正～
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.29.128 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1612427859.A.C75.html
+※ 編輯: craig21 (140.112.29.128 臺灣), 02/04/2021 16:38:13
+推 microuzi9797: 推 02/04 17:00

@@ -1,0 +1,124 @@
+作者fxckingKevin (百濕不得騎姊)看板NTUcourse標題[評價] 108-2 固態電子學 李峻霣時間Thu Jul 30 18:45:01 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+是/請主動告知
+      哪一學年度修課：
+108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+李峻霣
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+電機系複選必修
+      δ 課程大概內容
+1. Crystal properties of semiconductors
+2. Quantum mechanics
+3. Band structures
+4. Electrostatics and dynamics of carriers in semiconductors
+5. Metal/semiconductor and semiconductor p/n junctions
+6. MOS capacitors
+7. MOSFETs
+
+(節錄自CEIBA)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+有心往固態、電子領域者：4星，老師很強。
+只想拿科學類學分者：１星，你有其他選擇。
+
+      η 上課用書(影印講義或是指定教科書)
+課本（圖書館裡有，但版本不一定是最新的）
+1. Solid state electronic devices (7th global edition) by Streetman and
+Banerjee, Pearson 2016 (preferred)
+2. Semiconductor physics and devices (4th international edition) by Neamen,
+McGraw-Hill 2012 (okay)
+
+參考書目（有些在圖書館裡借得到）
+
+1. Modern semiconductor devices for integrated circuits (international
+edition) by Hu, Pearson 2010 (simple and useful)
+2. Physics of Semiconductor Devices (3rd edition) by Sze and Ng, Wiley 2007.
+(http://onlinelibrary.wiley.com/book/10.1002/0470068329) (classical and
+thorough)
+3. Semiconductor Material and Device Characterization (3rd edition) by
+Schroder, Wiley 2006.
+(http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5237928). Very useful
+reference book
+4. Fundamentals of Modern VLSI Devices (2nd edition) by Taur and Ning,
+Cambridge 2009 (great for MOSFET)
+
+（節錄自ＣＥＩＢＡ）
+
+大致上期中考前是照著Neamen的架構在走；之後是按照Streetman的書在走，但事實上投
+影片裡有些內容會從其他書本（有可能是參考書目中的內容；也有可能不是ＸＤＤ）節錄
+過來，期中考之後找不到出處的內容越來越多，所以可能要額外問老師哪段出自哪一本書
+這樣子。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+大致上依循製作好的投影片，重要的部分會使用板書（線上式的話就是手寫板）。
+
+疫情的關係開始改線上式之後，個人認為有好有壞，雖然可以慢慢抄筆記，但是拖延症發
+作的話會很想哭，我自己就是在期末考前的那個周末看完兩三部影片，讀到快崩潰，而且
+也錯過了很多office hour，個人覺得蠻後悔的。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+Homework (problem sets and simulation projects): 30%
+TCAD exam: 10%
+Midterm exam: 30%
+Final exam: 30%
+
+很紮實，給分也蠻甜的，我自認為自己對於這門課的掌握度配不太上這分數，只能說老師
+人太好。
+      ρ 考題型式、作業方式
+Homework (problem sets and simulation projects): 30%
+有五個作業，前面兩個是老師自己出的，一次簡單一次難，但算是有趣的題目；之後三個
+就是課本習題，個人覺得蠻無聊的，很多時候只是公式代來代去，而且網路上認真找的話
+應該找的到答案。
+然後還有一份TCAD作業(但我不確定分數算在哪裡)，內容包含用TCAD模擬指定條件的元件
+特性(這部分照著助教給的講義做應該沒什麼問題)、模擬論文得到的曲線(這部分就真的
+蠻難的，需要一直調參數，而TCAD跑一次模擬可能就需要2、3分鐘，建議及早開始以免做
+到崩潰)、節錄論文內容等等
+
+TCAD exam: 10%
+跟作業的題目差不多，如果TCAD作業是自己寫的話應該沒什麼問題。
+
+Midterm exam: 30%
+
+因為疫情的關係所以是take home，但是禁止討論。個人認為題目算和藹，蠻多出自作業
+跟課本的題目，翻翻書跟筆記還有上網找資料應該就還可以(如果你不強求破台的話。)
+
+Final exam: 30%
+閉書考，但可以帶兩張紙大小的筆記進去，個人認為期末考蠻難的，有關surface state
+、defect state 的計算可以注重一下，老師上課比較少強調但是作業跟考試都有出現。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+1 類加選XDD，最後修課人數是44人，好像有6、7人停修。
+
+不需什麼基礎，大一可修。真的要說的話需要能跟固態理論相容的大腦，或者是願意砸時
+間下去的決心與耐心，兩者具備其一就可以修了。
+
+但沒電子學基礎的話在MOSFET部分可能會比較吃力，但這也算是小事，願不願意花時間讀
+比較重要。
+
+老師很強，從上課用書的量就知道。但個人認為比較可惜的是這學期改線上式之後比較難
+跟老師討論問題，尤其是在你懷疑講義有typo但是找不到內容出處也找不到人問的考前假
+日XDDD。
+
+建議找朋友一起修，有人一起討論真的會好很多。像我自己來修就很多次動了停修的念頭
+。
+
+助教人也很好，期中考前還會辦讀書會。但是可能是因為老師的題目太難，這領域又太廣
+，所以助教不一定能給你有說服力的答案(但這真的是偶爾的情形啦)。
+
+      Ψ 總結
+想知道自己適不適合讀元件的話，這門課還蠻推薦的，但如果已確立志向不會走這領域的
+話就可以不要來修了，會花很多時間。
+
+這門課很重觀念，但除了上課聽講之外還需要花蠻多時間看各種課本的，認真讀的話會學
+到很多。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.161.83.179 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1596105904.A.177.html
+推 gout005: 推推  幫補 那兩本課本網路上都找得到 07/30 22:53

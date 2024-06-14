@@ -1,0 +1,95 @@
+作者dn96 (DenverNuggets)看板NTUcourse標題[評價] 105-1 陳俊杉 物件導向程式語言時間Mon Feb 20 01:02:44 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 105-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         陳俊杉教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         土木系高年級選修
+
+      δ 課程大概內容
+         C++，但已預設大家有一定的程式基礎，if-else那類的一下就帶過去，
+         以下為各周課程內容：
+          1. Course introduction、Getting Started with C++: A Quick Tour
+          2. Variables and Basic Types
+          3. Strings, Vectors and Arrays (I)
+          4. Strings, Vectors and Arrays (II)、Functions
+          5. Classes: A First Look、IO Library (I)
+          6. IO Library (II)、STL: Sequence Containers (I)
+          7. STL: Sequence Containers (II)、STL: Generic Algorithms (I)
+          8. STL: Generic Algorithms (II)
+          9. Detour: Function Template、STL: Associative Containers
+         10. STL: Associative Containers
+         11. Dynamic memory (I), static members、Copy Control、
+             Operator Overload (I)
+         12. Operator Overload (II)、Object-oriented Programming (I)
+         13. Object-oriented Programming (II)
+         14. Object-oriented Programming (III)、Class Template、
+             From Programming to Design
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+         ★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+         Stanley B. Lippman, Josée Lajoie, Barbara E. Moo (2012),
+         C++ Primer, 5th Edition, Addison-Wesley.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         上課就是純講授上課，會有講義及ppt，不時會請同學上台手寫code
+         從老師上課講的話中，可以感覺得出他熱愛C++，
+         不禁有點好奇他教大一JAVA時是什麼感受
+
+         Lab時間在另一天晚上(6點~8點半)，給助教檢查compile過就可以走
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         Lab 15%、作業25%、期中考2次共35%(取高者為20%)、期末考25%
+         第一次期中考班平均約40、標準差約21
+         第二次期中考班平均約65、標準差約22
+         期末考班平均約47、標準差18
+
+         我算過自己的原始分數大概是在A-到A之間，但最後拿到A+，應該有調1~2個等第
+
+      ρ 考題型式、作業方式
+         三次考試都有手寫跟上機實作，可帶任何紙本材料，考試期間無法上網，
+         老師會把考題出得跟上課內容有關，但帶任何紙本code都用不到
+         手寫題的部分考蠻多是在考變數的type
+         題目數大概會到7題左右，晚上6點開始考到9點，手寫考試時間15分鐘，
+         剩下就上機考
+
+         除了每周Lab課要交Lab作業(2~3題)以外，另外有需繳交的homework，
+         deadline通常是下周上課日的晚上9點，hw的題型會跟Lab類似，
+         但會比Lab再複雜一點，約3~4題
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         沒點過名，但在找人寫code時，可能會隨機抽修課名單裡的
+
+         這門課其實沒有先修課程，所以如果沒寫過程式，要直接修也是可以的，
+         但應該會變成每天都在de自己的bug就是了
+
+         這門課不開放初選，所以都是開學後拿授權碼，土木電輔組跟老師的專題生
+         可以優先拿授權碼，剩下的就不分本外系、年級，學生證混在一起抽
+         但好像每年加簽的規則都不太一樣，要看老師當年的想法
+
+      Ψ 總結
+         我以前沒碰過C或C++，只有在前一個學期學過粗淺的JAVA，
+         一開始是對於pointer的概念比較不瞭解，
+         還有對於一些在JAVA不用自己考慮、而在C++裡要自己定義的部份蠻不習慣的，
+         不過經過這學期，覺得其實pointer在某些方面蠻好用的，
+         也學到一些重要的STL要如何使用
+
+         老師對C++十分熱愛，有問題都可以在下課時直接跟他討論
+
+         這門課要花的時間比大一計程多很多，
+         我修大一計程時，除了上課時間，不太需要花太多額外的時間寫程式，
+         但這門課的作業有時一個下午就是找不到bug或錯在哪，
+         不過也是因為如此，覺得自己對於寫程式的邏輯有再深一層的瞭解
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.228.246
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1487523767.A.82C.html
+推 s9755036s: 真的很推這門課，老師很棒 02/20 09:34

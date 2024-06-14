@@ -1,0 +1,110 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 105-2 李宏毅 機器學習時間Sat Jul  8 16:02:52 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        105-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        李宏毅 + (林宗男???)
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        電機系
+
+      δ 課程大概內容
+        課程網頁 : http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html
+
+        Introduction of this course: pdf,pptx (2017/02/23)
+        HW0: link, video (2017/02/23)
+        Regression: pdf,pptx,video (2017/03/02)
+        Where does the error come from?: pdf,pptx,video (2017/03/02, recorded at 2016/10/07)
+        Gradient Descent: pdf,pptx,video (2017/03/09, recorded at 2016/10/07)
+        HW1 - PM2.5 Prediction: link (2017/03/02)
+        Classification: Probabilistic Generative Model pdf, pptx, video (2017/03/16, recorded at 2016/10/07)
+        Classification: Logistic Regression pdf, pptx, video (2017/03/23, part of the video recorded at 2016/10/14)
+        HW2 - Income Prediction: link (2017/03/23)
+        Introduction of Deep Learning pdf, pptx, video (2017/03/23, recorded at 2016/10/14)
+        Backpropagation pdf, pptx, video (2017/03/23)
+        “Hello world” of Deep Learning pdf, pptx, video (2017/03/23)
+        Tips for Deep Learning pdf, pptx, video (2017/03/30)
+        Convolutional Neural Network pdf, pptx, video (2017/04/06)
+        HW3 - Image Sentiment Classification: link (2017/04/06)
+        Why Deep? pdf, pptx, video (2017/04/06, recorded at 2016/11/04)
+        Semi-supervised Learning pdf, pptx, video (2017/04/13, recorded at 2016/11/11)
+        Unsupervised Learning: Principle Component Analysis pdf, pptx, video (2017/04/13, recorded at 2016/11/11)
+        Unsupervised Learning: Neighbor Embedding pdf, pptx, video (2017/04/20)
+        Unsupervised Learning: Deep Auto-encoder pdf, pptx, video (2017/04/20)
+        Unsupervised Learning: Word Embedding pdf, pptx, video (2017/04/27)
+        Unsupervised Learning: Deep Generative Model pdf, pptx, video (2017/04/27)
+        Transfer Learning pdf, pptx, video (2017/05/03)
+        Recurrent Neural Network pdf, pptx, video (part 1), video (part 2) (recorded at 2016/12/30)
+        Matrix Factorization pdf, pptx, video (2017/05/25)
+        Ensemble pdf, pptx, video (2017/05/25)
+        Introduction of Structured Learning pdf, pptx, video (part 1), video (part 1) (2017/06/01)
+        Introduction of Reinforcement Learning pdf, pptx, video (2017/06/15)
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        *[m*[1;33;40m ★ ★ ★ ★ ★ *[m
+
+      η 上課用書(影印講義或是指定教科書)
+        基本上是老師投影片，不過老師很推大家去看Bishop
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        上課時，老師就是講投影片，然後會提很多很鮮明的例子，加上老師本身宅屬性也很高，
+        所以很合胃口(誤
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        作業 10% * 6
+        Final 40%
+
+      ρ 考題型式、作業方式
+        沒有任何考試
+
+        作業都是Kaggle上的題目，與去年完全吃排名不同，今年分Simple Baseline跟Strong
+        Baseline，基本上過baseline，就可以拿到分數。除此之外，每次作業都有Report，
+        Report分數比Kaggle的難拿許多QQ
+
+        Final Project的部分，其實就是作業的豪華版，有Simple Baseline跟Strong Baseline
+        ，然後Report要寫多一點。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        完全不重視出席率。
+        加簽的部分，今年寫完hw0就全簽，不過明年不一定。
+        外系的話，基本上建議會寫Python再來，不過邊上邊學其實也可以，Python上手很快。
+
+
+      Ψ 總結
+        這門課與軒田老師的機器學習真的是各有千秋，兩個搭在一起上有1+1>2的效果。
+        這門課，講了滿多DL的部分，傳統的svm系列產品則是用較小篇幅帶過。而老師上
+        課的風格輕鬆詼諧，讓大家都聽得滿爽der。話說，如果怕過不了Simple Baseline
+        跟Strong Baseline，強烈建議揪團來修，因為kaggle的submission次數是有限制
+        的，多一點人，可以分工嘗試不同的model或參數。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.96.124
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1499500975.A.A9D.html
+推 liang1230: 原po躺著A+ 07/08 17:54
+推 vu04y94: 請問loading會很重嗎 像是一份hw要寫多久 ? 07/08 19:30
+→ vu04y94: 另外還沒修機率的話聽的懂嗎? 07/08 19:31
+聽懂是一個蠻曖昧的詞彙。以我自己來說，我是沒修機率就直接去聽，老實說，作業的部分不用任何機率基礎
+也可以完成，甚至是最後拿到a+，因為作業很偏實作，所以只要可以coding，還有願意try各種Model就寫的出
+來。但是，老師上課時，其實帶到了許多東西，而常常一種方法就是一篇paper，上課時，老師或許是帶過去
+只讓你知道有這種東西，但是DL的Paper其實滿吃機率的，然而，不讀懂Paper還是可以寫作業，端看你希望深
+入到哪種程度。至於作業的loading，這又是個不好描述的東西，六次作業中，有一次只花了一個晚上，而有
+一次，花了三天，每天8小時左右。然後，以4學分的課來說，這個loading其實算有點輕就是了@@
+※ 編輯: hortune (111.240.96.124), 07/08/2017 20:22:59
+推 vu04y94: 了解 感謝解釋! 07/08 20:27
+推 yiefaung: 推 07/08 22:49
+推 pcchou: 跪原po 07/09 09:57
+推 brian980466: 去年過baseline會有一半分數 07/10 15:25
+→ brian980466: 然後report改非常嚴 07/10 15:25
+→ brian980466: 最好每個推斷都有數據佐證 07/10 15:25
+推 WindQAQ: 推一個！作業的loading就看同學想做到什麼程度，大部分 07/19 12:21
+→ WindQAQ: 的baseline都不難通過就是了。 07/19 12:21
+傳說中的QAQ耶 <(_ _)>
+※ 編輯: hortune (111.240.97.61), 07/22/2017 13:19:44

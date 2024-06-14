@@ -1,0 +1,60 @@
+作者NTUmaki (西木野真姬)看板NTUcourse標題[評價] 108-2 徐振哲 化學反應工程時間Sat Jul 11 20:31:45 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+是
+
+      哪一學年度修課：
+108-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+徐振哲
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+化工系大三必修
+      δ 課程大概內容
+Kinetics of Homogeneous Reactions
+Interpretation of Batch Reactor Data
+Ideal Reactor for a Single Reaction
+Design for Single Reaction
+Design for Parallel Reaction
+Temperature and Pressure Effects
+Reactor Selection
+Matlab (solving ODE)
+Basics of Non-Ideal Flow
+Compartment Model
+The Dispersion Model
+Tanks In Series Model
+Heterogeneous Reaction
+Solid Catalyzed Reactions
+Deactivating Catalysts
+Fluid Particle Reaction
+      Ω 私心推薦指數(以五分計) ★★★★★
+★★★★★★★★★★★★
+      η 上課用書(影印講義或是指定教科書)
+O. Levenspiel, "Chemical Reaction Engineering," 3rd Edition, John Wiley &
+Sons
+      μ 上課方式(投影片、團體討論、老師教學風格)
+翻轉教學。
+回家看影片 -> 上課發題目練習，可以互相討論(一堂課大概1~2題) -> 檢討、討論、問問題
+      σ 評分方式(給分甜嗎？是紮實分？)
+兩次期中各25%，期末30%
+小考(就是上課發的題目)20%
+小考不是真的小考，就是上課發的題目，有寫東西交出去就是100
+第一次期中較簡單，後面兩次大考偏難
+紮實甜吧，沒有很硬但也沒有很涼
+      ρ 考題型式、作業方式
+計算題大概5~6題吧，每一題分數配很重
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+基本上上課發題目練習就相當於點名，沒來就是0分
+基礎 ： 一點點微分方程、一點點微積分、化學動力學
+      Ψ 總結
+在台大上過數一數二好的課
+原本以為翻轉會很廢，但是這樣學習反而蠻有效率，上課能有更多時間思考、複習
+老師會不斷的問一些問題引導你思考，真的有學到東西
+考題偏難，但loading不重，認真念還是有A-
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.171.47.235 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1594470707.A.31B.html
+※ 編輯: NTUmaki (1.171.47.235 臺灣), 07/11/2020 20:34:04
+推 heypostcard: 推振哲！很用心的老師，雖然超紮實需要花不少時間， 07/12 00:42
+→ heypostcard: 但真的可以學很多！ 07/12 00:42

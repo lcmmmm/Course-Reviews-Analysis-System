@@ -1,0 +1,116 @@
+作者jesuschristo (響け！ ユーフォ)看板NTUcourse標題[評價] 108-2 駱明慶 計量經濟學導論暨實習 時間Wed Jul 15 19:44:18 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+            108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+            駱明慶
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+            經濟系必修
+
+      δ 課程大概內容
+
+            Ch4. Linear Regerssion with One Regressor
+            Ch5. Regression with a Single Regressor:
+                 Hypothesis Tests and Confidence Intervals
+            Ch6. Linear Regressors with Multiple Regressors
+            Ch7. Hypothesis Tests and Confidence Intervals
+                 in Multiple Regression
+            Ch8. Nonlinear Regression Functions
+            Ch9. Assessing Studies Based on Multiple Regression
+            Ch10.Regression with Panel Data
+            --------期中考-------
+            Ch11.Regression with a Binary Depedent Variable
+            Ch12.Instrumental Variables Regression
+            Ch13.Experiments and Quasi-Experiments
+            Ch14.Prediction with Many Regressors and Bid Data
+            Ch15.Introduction to Time Series Regression
+                 and Forecasting
+            Ch16.Estimation of Dynamic Causal Effects
+            --------期末考-------
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+4.5顆星
+η 上課用書(影印講義或是指定教科書)
+
+            Stock & Watson, Introduction to Econometrics, 4th ed
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+           投影片上課 有補充都直接用平板寫在螢幕上
+
+           老師上課速度很快 常常寫個幾行就帶過一個觀念
+
+           所以回去都要自己看課本複習
+
+           另外雖然很多人翹掉 但個人推薦去上助教課
+
+           助教會把最近幾堂課的東西整理好
+
+           對於計量這種複雜的課程非常適合當作複習
+
+           而且助教也會帶一些題目
+
+           這門課也會用到STATA 由另一位助教教學
+
+           基本上教的指令都很簡單
+
+           連程式白痴如我都能學會了QQ
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+           期初考     10%
+           期中考     30%
+           期末考     35%
+           2次小考    10%
+           作業6取5   15%
+
+           依學期成績相對位置給予等第
+
+           有讀有分 想混的不要選這門課
+
+      ρ 考題型式、作業方式
+
+           考題形式都跟考古差不多
+
+           小考會考證明題
+
+           期考內容則較注重觀念
+
+           作業分紙本跟電腦兩種
+
+           難度適中 不懂也可以跟助教討論
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+           應該還好 上學期是修陳旭昇的話負擔不會太重
+
+      Ψ 總結
+
+           課程中很多部分其實都是學到一小部分而已
+
+           但修完也足夠讓你有最基本的計量觀念了
+
+           不過其代價就是上課節奏很快 需要隨時跟緊進度
+
+           老師偶爾也會介紹一些實證研究 還蠻有趣的
+
+           想學統計的歡迎修這門
+
+           老師跟助教人都很好喔(′‧ω‧`)b
+
+           另外老師曾說課程版是炫耀翹課拿高分的地方
+
+           這篇應該能算是反例吧XDD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.83.254.25 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1594813462.A.1CC.html

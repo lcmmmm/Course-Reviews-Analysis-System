@@ -1,0 +1,122 @@
+作者PlusUltra (路人)看板NTUcourse標題[評價] 106-2 洪淑蕙 地球物理原理(含實習)時間Fri Sep  7 14:01:19 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：106-2
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         林正洪（緒論與板塊運動）
+         洪淑蕙（重力與地磁）
+         龔源成（地物數學與地震）
+         曾泰琳（地熱與全球地體構造）
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         地質系必修，建議修完微甲後盡快修畢
+
+      δ 課程大概內容
+         (1) Plate tectonics
+         Rotation of the plates on a sphere, type of plate boundaries, driving
+         forces
+         (2) Gravity and the geoid
+         The Earth’s mass and moment of inertia, inferring earth structure
+         from geoid and gravity data, isostasy and elastic plate flexture
+         (3) Geomagnetism
+         The Earth’s magnetic field, internal and external sources of geo-
+         magnetic field, electromagnetic induction and the Earth’s conducti-
+         vity structure, magnetic anomalies and the age of the seafloor
+         (4) Seismology and earth structure
+         Introduction to continuum mechanics and wave propagation in an elastic
+         earth, body waves, surface waves and normal modes, inferring earth
+         structure from seismic data, earthquake focal mechanism, fault-plane
+         solution
+         (5) Heat flow and the Earth’s thermal structure
+         Mechanisms of heat transfer, the Earth’s geotherm and thermal history
+         , convection in the earth’s interior, thermal structure of the
+         oceanic lithosphere -- plate cooling, thermal structure of the
+         continental lithosphere -- basin subsidence
+
+      Ω 私心推薦指數(以五分計)
+         涼度 ★ 找涼課就不該上地物
+         甜度 ★★★★ 雖然很硬但是分數還算大方
+         知識扎實 ★★★★ 只有一學期頗趕
+
+      η 上課用書(影印講義或是指定教科書)
+         The Solid Earth: An introduction to Global Geophysics, 2nd ed.
+         by C.M.R. Fowler, Cambridge University Press, 2005.
+         好書，大概是市面上唯一一本適合入門的地物課本，不會過於偏廢特定領域，
+         建議借來看或找學長姐問，似乎系上有一堆苦無買主的二手書XD
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         本課程為四位老師合授，各自負責不同領域，故以下分述之
+         林正洪
+         林老師primary affiliation是中研院地科所，不會給紙本講義，也不會上傳
+         ceiba，想要ppt需下課自己去電腦載。上課內容是地物基本簡介與板塊運動，
+         算是整學期最輕鬆的部分，數學操作限於向量加法。上課也很休閒，從來沒有上
+         滿過三小時。老師對於台灣地體構造有自己的見解，對於以火山學角度切入地體
+         構造有興趣的同學可以跟老師討論看看。
+
+         洪淑蕙
+         洪老師負責重力與地磁部分，第一次上課會託助教發全部的紙本講義，很厚一疊
+         。內容主要是照著講義推演計算，在正式進入課程前會簡單複習需要的數學工具
+         （Gauss's theorem、Legendre polynormials），但筆者私心認為與龔
+         老師的複習重複率有點高，或許先上地震的block會比較好。這部分很容易上到
+         很痛苦，因為數學操作相對複雜，老師又對計算很執著
+
+         龔源成
+         龔老師個人認為是整個課程最棒的部分，每次上課會給當次的紙本講義。老師會
+         先簡單帶過地球物理領域會用的的重要數學工具（微積分與簡單線代，如Einste
+         in notation），然後解釋如何從簡單的波函數開始推導體波與表面波的物理特
+         性，最後敘述當代地震學的一些研究。上完後筆者甚至有點腦衝想修地震學，不
+         過都要進醫院了就打消念頭。老師涵蓋的程度範圍比課本稍難一些，有興趣的人
+         可以問老師建議書目（其實就是地震學的課本）補齊跳過的證明。
+
+         曾泰琳
+         曾老師講述地熱與全球地體構造部分，講義只有圖表，公式推導全板書。非常忠
+         於課本架構，如果推導過程昏過去或跟老師節奏不對的話可以看課本。最後面的
+         地體構造個人認為滿值得認真聽，可說是整學期課程的closing remark，筆者覺
+         得這個安排不錯。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         扎實甜，是說筆者覺得地質系的課大都是這種類型，很硬很累但是不會太在成績
+         上跟你過不去。
+
+      ρ 考題型式、作業方式
+         作業
+         林老師與龔老師沒有作業，洪老師與曾老師有，大概就是課名裡面的實習吧。
+         洪老師的作業基本上就是算上課範圍的習題，今年又因為彈性放假進度很緊，有
+         次作業的範圍是還沒全部講完的部分。題目不算難，但反覆操作很多，不需要什
+         麼巧解（也無法巧解）就是蠻幹，寫著寫著覺得很青春回到高中，筆者一週的作
+         業大概需時3小時。感謝助教改得睜一隻眼閉一隻眼，這部分分數一定要掌握好
+         ，考試的時候不一定拿得到分ㄏㄏ。
+         曾老師的作業是出自課本習題，題目相對輕鬆寫意，把公式簡單證明後帶入計算
+         通常就可以得到答案了。
+         考試
+         分兩次考試，期中考有林老師與洪老師，分為兩卷，期末分為龔老師與曾老師。
+         林老師的題目跟上課內容一樣，相對輕鬆。想多拿點分可以在複習時注意科學史
+         的部分，今年就考了geosyncline。
+         洪老師的部分與作業類似，數學操作繁雜還有時間壓力，讓人懷疑人生。
+         龔老師的題目有基本分跟後面加分，基本分題目是讀完ppt應該不難寫出的申論
+         ，數學操作也不多。加分題是地震學的基石，用波函數證P波與S波的基本性質
+         （compressional/shear)，如果像筆者一樣數學白痴就認份背吧。
+         曾老師的題目數字醜，但可以帶計算機，相對友善。
+         報告
+         曾老師的部分除了作業與考試還有一次上台報告，助教代抽組別，可從助教提供
+         列表中自選要報告的paper，在最後一堂課有個簡短的專討，每組12-15分鐘，
+         可善加利用幫忙拉分數。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         老師不大點名的，不要期待三堂課的地物會有兩次下課，也不要期待可以準時吃
+         午餐。咖啡喝足再去上課或是放棄去方桌自己念。
+
+      Ψ 總結
+         筆者修完微積分跟線代三年後才來修地物，全面失憶，一步步把破碎的記憶撿回
+         來，過程很痛苦，連證明怎麼寫都忘光了。不過個人認為地物是頗有趣的學門，
+         與傳地重視觀察描述的知識論架構截然不同。這門課算是中規中矩的地物入門，
+         對地物有興趣的地質系同學可以以此為基礎，再自修課本尋找方向。
+         附帶一提，課本中還有一個大section是geochronology跳過沒上，系上把這
+         部分放在地化。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.106
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1536300081.A.ADE.html

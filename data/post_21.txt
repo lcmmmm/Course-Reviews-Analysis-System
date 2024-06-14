@@ -1,0 +1,78 @@
+作者Apollo71 (星落)看板NTUcourse標題[評價] 111-1 鄭皓中 電工實驗（通信專題）時間Sat Jul 22 10:07:42 2023
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 111-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 鄭皓中
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+ 電機系必修（十選二實驗）
+
+      δ 課程大概內容
+
+分成 quantum 和 classical 兩部分。前半的部分是
+quantum computing (including but not limited to quantum teleportation,
+superdense coding, BB84 protocol, Shor's algorithm)，lab 用到的工具是 IBM
+Qiskit (with the aid of Python)； 後半則是介紹傳統的 source coding, channel
+coding, modulation，coding 用到的工具主要是 Matlab。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+Lecture based on slides, notes, and reference books
+1. The QISKit Textbook
+2. Proakis: Digital Communications, 5ed
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+上課時老師會講解理論背景及原理；下課後自行實作 labwork。
+
+我覺得老師說話邏輯十分清晰，會用平板輔助講解，雖然語速自帶 1.5 倍速，但是習慣
+之後就會覺得這樣也很好，很接近思維運作的速度，完全沒有拖沓感；而且下課後老師也
+會很耐心的一一為學生解答問題。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+- Labs 60%
+- Literature survey 15%
+- Final project 25%
+
+六次 lab 中，前三次是 quantum，後三次是 classical。
+Final project 需要繳交 presentation slide 以及 report。
+每次 lab 占 10%，不過因為有加分題的存在，所以有時候在一次作業中也可以拿到超過
+100% 的分數。Literature survey 一部分是同學互評，一部分是教授給分。大約 2/3
+的同學 A+。
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+不注重出席。加簽方式為第一堂課出席和教授討論。
+
+建議有 Python 和 Matlab 的基礎會比較如魚得水。
+
+
+      Ψ 總結
+
+Literature survey 是我覺得很有趣的一個環節，就像
+小型學術沙龍一樣，可以聽到大家分享各個領域與 communication 的交集研究（今年
+13 組中甚至有 4 組跟 ML 相關，可以看出機器學習越來越熱門的趨勢）。
+
+Final project 建議實作 literature survey 的內容，這樣比較有連貫性。我們這組這
+次做的是 Privacy Amplification ，Quantum Key Distribution (QKD) 中的一個環節，
+與量子加密有關。今年出現的其他主題還有 Quantum Neural Network, Quantum
+Machine Learning, Quantum Cryptography, Quantum Random Walk Algorithms, Image
+Processing, Error Correction, Post-Quantum Cryptography, Graph Signal
+Processing 等等，可以從中感受到多元並立的學術氛圍。
+
+總而言之，這是一門收穫滿滿的好課。雖然在 coding 的過程中，很常一不小心週末兩天
+就過去了，不過成功跑出結果的當下會很有成就感ＸＤ
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.161.34.29 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1689991664.A.38A.html
+推 jason90814: 語速真的快 但邏輯清晰廢話少 很好吸收 07/26 13:43

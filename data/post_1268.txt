@@ -1,0 +1,104 @@
+作者jexus (pytorch)看板NTUcourse標題[評價] 106-2 陳和麟 離散數學時間Sun Jul 22 20:31:58 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：Yes
+
+
+      哪一學年度修課：
+        106-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        陳和麟
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        電機系 大二必修 (離散/複變二選一)
+
+      δ 課程大概內容
+        Formal Logic (跟邏輯課一樣)
+                - Propositional Logic
+                - Predicate Logic
+                - Program Verification (以邏輯方式驗證程式=>系統驗證，最後沒教)
+        Sets (集合論，過渡章節)
+                - Definition
+                - Countable/Uncountable Sets
+                (若countable，找與N之間的映射；若uncountable，對角線法反證)
+        Number Theory (數論)
+                - Modular Arithmetic 餘數運算
+                - Chinese Remaindering Theorem 中國剩餘定理
+                - Fermat's Little Theorem 費馬小定理
+                - Applications in Cryptography 密碼學應用：RSA
+        Recurrence Relations (遞迴關係)
+                - The Growth of Functions 函數增長速度 Big O ...
+=====================[期中考範圍]=====================
+                - Linear Recurrence Relations
+                - Generating Functions
+        Relations
+                - Basic Definitions
+                三個主要性質：reflexive, symmetric, transitive
+                - Closure (更動最少且滿足某性質的Relation)
+                - Equivalence and Partial Ordering (同時滿足三性質)
+        Graphs (圖論，只考慮無向圖)
+                - Definitions
+                - Connectivity
+                - Euler/Hamiltonian Paths
+                - Planar Graphs
+                - Coloring
+=====================[期末考範圍]=====================
+                - Trees (有教不考)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+ ★★★★★ 本學期愛課之一
+
+      η 上課用書(影印講義或是指定教科書)
+        Discrete Mathematics and Its Applications, 7th edition,
+         Kenneth H. Rosen
+        不太會用到，但裡面有些習題可以提供你寫作業的idea(?
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        老師是大神，上課純板書，口條清晰，邏輯嚴謹，上課就像在演講，
+        能讓你在上課時就直接聽懂，真的很享受。
+
+        離散數學是一門很 bottom up 的學問，每個主題都由定理及證明
+        建構，主題與主題之間關聯性較為離散。但老師會盡量讓每個主題的連結
+        多一些，像是透過每堂課開始時的Recap，或是證明與定理之間的依賴性，
+        讓你對整門課的架構有清晰的瞭解，而非個別針對單一定理鑽研。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        扎實甜吧，就跟電機系其他必修差不多，最後分數有經過某些mapping，
+        我比我自己算的學期成績多一個等第。
+
+      ρ 考題型式、作業方式
+        每年的期中期末考題會是明年的作業，但作業通常會花你一定的時間才能寫完，
+        通常會有幾題要查查網路跟同學討論才會寫。
+
+        期中期末可以帶一張A4雙面手寫大抄，所以不需要背東西。期末的時候老師還說
+        ，如果覺得教室太壅擠，想到外面找舒服的地方寫考卷的話也可以XD。
+
+        期中期末考都算是改得很鬆，讓你沒有臉去要分，像是期末一題很難的寫不出來
+        ，我亂掰了方向完全錯誤的一些東西還是給了我兩分，非常佛心XD。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        沒看出席率，但教室總是滿滿der要搶位置，基礎的話好像沒有。
+
+      Ψ 總結
+        爽課~上和麟的課感覺是一種享受，大推~~。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.250.168
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1532262721.A.858.html
+※ 編輯: jexus (140.112.250.168), 07/22/2018 20:32:45
+※ 編輯: jexus (140.112.250.168), 07/22/2018 20:34:17
+※ 編輯: jexus (140.112.250.168), 07/22/2018 20:37:10
+※ jexus:轉錄至看板 EE_Comment                                     07/22 20:40
+推 tos515541905: 酷 感謝分享 07/22 21:15
+推 alan23273850: 推老闆 07/22 22:03
+推 rrro: 推～～～～ 07/23 00:53
+→ jexus: 樓上rrro先跪 <(__ __)> 07/23 01:00
+推 pnnguin: 樓主好卷 07/23 18:13
+→ jexus: 樓上好電 滋滋<(_ _)> 07/23 19:13
+推 liz52019: 大推！ 07/24 17:41
+推 arsenefrog: 推~~~ 07/24 23:53
+推 PyTorch: 推和麟 07/25 18:13
+推 CupidError: 推和麟！（雖然期末考被電了QQ 07/25 20:31
+推 l061182: 推和麟～～ 07/26 12:20
+推 kyrie77: 推和麟 07/26 18:37

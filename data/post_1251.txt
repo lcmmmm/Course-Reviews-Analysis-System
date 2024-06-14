@@ -1,0 +1,142 @@
+作者patrickwu2 (麻麻~)看板NTUcourse標題[評價] 106-2 林軒田 機器學習技法時間Fri Aug  3 16:57:17 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+        106-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        林軒田
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        資工系 / 資工所
+        有修過老師的機器學習基石為佳 (今年是有修過基石的都能上)
+
+      δ 課程大概內容
+
+        Topic 1 : How can machines learn by embedding numerous features ?
+          - Linear / Dual SVM
+          - Kernel SVM
+          - Soft-Margin SVM
+          - Kernel logistic Regression / SVR
+        Topic 2 : How can machines learn by combining predictive features ?
+          - Blending / Bagging
+          - Adaptive boosting
+          - Decision Tree
+          - Random Forest
+          - Gradient boosted Decision Tree
+        Topic 3 : How can machines learn by distilling hidden features ?
+          - Neural Network (Backprop)
+          - Tricks on Neural Network (momentum, adam, relu, dropout)
+          - Matrix Factorization
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+ ★ ★ ★ ★ ★
+η 上課用書(影印講義或是指定教科書)
+
+        老師的課程講義 (在老師的個人網站有公佈)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        大多數課堂以播影片進行
+        少數幾堂由老師親自授課
+        (Neural Network那裡老師說有些東西過時了要自己講)
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        作業 * 3 + Fial Project * 1 (沒有考試)
+
+        覺得算是紮實分吧，有努力有收穫
+
+      ρ 考題型式、作業方式
+
+        - 作業
+            作業形式跟機器上學期的學習基石差不多
+            每次是約16題的基礎題+2題Bonus
+            計算題都是 計算 / 證明題
+            另外也會有程式題
+            作業難度好像越來越簡單(SVM真的大魔王啊QAQ)
+
+        - Final Progect
+            期末專題這學期是三人一組
+            就是實際上去Train某個dataset
+            基本上每個人每天有超級多次上傳機會
+            (跟Kaggle不同，是自己架的server)
+            報告會要求要用多種Machine Learning技巧去實現
+            學期最後要交一份報告這樣
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        建議先修完老師的「機器學習基石」再來修老師的技法
+        首先是比較容易加簽到
+        另外就是可以先習慣老師的作業跟上課的用詞
+
+        然後不點名，作業跟期末專題好好做就可以學到很多分數也會好看
+
+      Ψ 總結
+
+        寫這篇評價文主要是發現好像都沒有ML Tech的評價
+        所以就來講一下我個人的看法這樣XD
+
+        個人覺得這門課遠超過兩學分的重量
+        然後因為上課內容在youtube都有錄影
+        如果沒有去上課又沒有自己花時間跟影片的話
+        到寫作業的時候可能會非常非常的辛苦.......
+
+        另外大推老師在講Topic 2有關於Ensemble的地方
+        個人覺得是這門課最精華的地方
+        不管是最基本的Bagging / Blending
+        或者是經典的Decision Tree / RF
+        老師都能講的讓人清楚理解他的算法
+        另外Adaboost跟Gradient Boosted Decision Tree的部分
+        講的真的很好
+        把這兩個演算法講的超美 <3
+
+        再講一下 MLF / MLT 和電機系的機器學習的差別
+        因為有蠻多朋友問的所以就在這裡分享我自己的看法
+
+        軒田老師這兩門課會花比較多的時間在講理論跟數學的部分
+        在寫完作業後是確實可以了解整個演算法在做什麼
+        而電機系的機器學習每次作業則是Kaggle競賽
+        如果作業都有好好做的話確實是可以比較熟悉機器學習實作的部分
+        不過修完後其實不見得每個Topic的理論方面都很清楚
+        (因為大多都是使用套件然後Tune參數、Ensemble一堆model.......)
+        另外電機系那門課很快就進入Deep Learning了
+        比起軒田老師的課
+        古典的SVM / Ensemble等算法算是草草帶過吧
+        (但相對的軒田老師的課在Deep Learning就沒講那麼多)
+
+        個人覺得理論跟實作還是要相輔相成啦
+        各位在考慮要修哪門課的時候
+        可以多加思考自己想要的是什麼再做決定
+
+        最後總結一句
+        如果對Machine Learning有興趣又有餘裕的話
+        覺得這門課應該要修這麼一次
+        你會感受到機器學習除了Tune參數之外
+        還有很堅實的數學基礎
+        跟很多漂亮的古典Machine Learning方法
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.16.129
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1533286639.A.F38.html
+※ 編輯: patrickwu2 (140.112.16.129), 08/03/2018 16:58:39
+※ 編輯: patrickwu2 (140.112.16.129), 08/03/2018 17:00:42
+推 jexus: 推算命師！！ 08/03 17:50
+推 sc0904: 幫麻麻推～ 08/03 18:08
+推 hortune: 快去修特論吧 系列課程最終站 (>////<) 08/03 21:33
+推 Rubb9diaw: 推樓上hortune大大 08/04 00:08
+推 liang1230: hortune你把數學原理放哪....真正大魔王 08/04 00:17
+推 CharlieL: Thanks for sharing! 08/04 05:30
+推 empennage98: 推田神！老師好早起 08/04 06:06
+推 KSWang: 朝聖田神 好課 從基石打好基礎到技法真的很扎實 08/04 18:20
+推 a127000555: 一樓輪班？ 08/04 23:12
+推 jexus: 樓上依然電？ 08/05 00:28
+→ patrickwu2: 樓上太多大神只好都跪<(_ _)> 08/05 13:02
+推 dannyko: 麻麻電 08/13 16:40
+推 darkestnight: 日文 08/16 21:16

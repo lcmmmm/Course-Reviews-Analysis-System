@@ -1,0 +1,94 @@
+作者nn995 (瓠仔)看板NTUcourse標題[評價] 107-2 薛人愷 材料動力學時間Mon Jul 15 00:08:19 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+（是／否／其他條件）：是
+
+哪一學年度修課：107-2
+
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+薛人愷
+
+λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)
+
+材料系/所
+
+δ 課程大概內容
+
+1. Introduction to Kinetics (1wk)
+2. Laws of Diffusion (1wk)
+3. Diffusion in Generalized Media (1wk)
+4. Linear Diffusion Equation & Solutions (4wks)
+
+---------- Midterm ----------
+
+5. Introduction to Chemical Kinetics (2wks)
+6. Adsorption and Evaporation (1wk)
+7. Oxidation (1wk)
+8. Vacancy-Assisted Diffusion (4wks)
+
+---------- Final ----------
+
+這門課在介紹各種常發生於固態材料介質的機制
+其中又以暫態的現象為重
+內容包含一般擴散、化學反應、吸附、蒸發、電子陶瓷(缺陷、氧化)、離子擴散等等
+
+Ω 私心推薦指數(以五分計) 
+
+★★★★
+
+η 上課用書(影印講義或是指定教科書)
+
+老師節錄多本教科書，加上自己以前出的題目，合成一本教材讀本
+學期初會請同學統計需求人數並送印
+其實跟近年修過課的人借也可以，建議要持有一本教材就是了
+
+教材主要取材自:
+1. M. E. Glicksman, Diffusion in Solids: Field Theory, Solid-State Principles,
+ and Applications, 2000
+2. Y. M. Chiang et al., Physical Ceramics: Principles for Ceramic Science and
+Engineering, 1997
+3. K. J. Laidler, Chemical Kinetics, 2003
+
+μ 上課方式(投影片、團體討論、老師教學風格)
+
+板書講演
+先用板書快速交代一下內容(基本上就是教材內文的濃縮版)
+講完一定內容後就開始帶題目
+這些題目大多都有一定深度
+有些是老師為了彌補教材內文不足而自己設計的
+老師寫板書和講解都蠻快的，需要集中精神跟上
+
+σ 評分方式(給分甜嗎？是紮實分？)
+
+Midterm exam * 1         46%
+Final exam * 1           54%
+
+皆為open book
+但考試難度頗高
+即便筆記都有整理好
+考試時還是需要花時間想清楚
+另外，老師說這門課為了讓大部分研究生都能過
+所以會把低分群調到大概B-(分數詳細怎麼調就不清楚了)
+
+ρ 考題型式、作業方式
+
+考題主要是延伸上課所帶過的題目，以計算題和問答題為主
+偶爾會出一些有關材導、材料製程的問答題
+但這類題目通常佔整份考卷分數不多
+
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+完全不看出席率
+最好要有些工數基礎(熟悉Laplace transformation解偏微分方程)
+
+Ψ 總結
+
+很難說甜不甜
+有認真唸要被當好像不太容易
+有興趣的人可以修修看
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.12.20.206 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1563120501.A.A1A.html
+※ 編輯: nn995 (49.218.7.220 臺灣), 01/17/2021 15:48:16

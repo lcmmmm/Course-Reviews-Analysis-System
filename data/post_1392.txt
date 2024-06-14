@@ -1,0 +1,102 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 106-1 陳縕儂 深度學習之應用時間Wed Jan 31 23:15:58 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        否
+
+      哪一學年度修課：
+        106-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        陳縕儂、李宏毅
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系 選修
+      δ 課程大概內容
+        Neural Network Basics
+        Backpropagation
+        Word Representation
+        Sequence Modeling
+        Recurrent Neural Network
+        Recursive Neural Network
+        Sequence Labeling
+        Word Embeddings
+        Gated RNN
+        Sequence Generation
+        Special Networks : 潮砲新Network，像是fusionnet之類derrrrr
+        Advanced Tips for Deep Learning : initialization的重要性等等
+        Deep Reinforcement Learning
+        Generative Adversarial Network
+        Sequence Generation by GAN
+        All Kinds of GAN
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        想要聽很理論很理論的內容   ★ ★ ★
+        想要一覽目前很潮砲的Network並且實作   ★ ★ ★ ★ ★
+        懶得出門 滿天星
+
+      η 上課用書(影印講義或是指定教科書)
+        教授投影片
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        教授用投影片上課，這次是兩位教授合開。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        18 % x 4  作業
+        25 %      Final Project
+        5  %      課堂參與
+
+        神甜
+
+      ρ 考題型式、作業方式
+        沒有考試，只有四次作業與一個Final Project。
+
+        第一次作業 : Sequence Labeling
+        第二次作業 : Video Captioning
+        第三次作業 : Game Playing
+        第四次作業 : Comic Generation
+
+        四次作業比較麻煩的部分都是調參數，不過這大概就是Deep Learning系列
+        的必要之惡吧。基本上助教都把Model的架構都大概跟大家講了，接下來就
+        是當NN訓練師惹。
+
+        Final Project : 分成HTC組跟自由發揮阻
+
+        Final Project有draft、progress report跟poster要用。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        這次全簽，有ML基礎會較佳，不過也有人跟ML一起修
+
+      Ψ 總結
+        這門課就是整體都還不錯r，不過沒有GPU的人真的就滿辛苦的，雖然學期
+        初時有來自M$的恩惠，但是第二次作業時就用完惹。跟ML相比，這門課只
+        有一次的Kaggle，而有更多的peer review。這當然有好有壞，因為peer
+        review沒辦法確定是完全公平的，但是跳脫kaggle的框架，其實就能做
+        更多好玩的東西，像是RL跟GAN。
+
+        以課程內容來說，前半段的部分跟ML有點重疊，不過有比較深一點。不過
+        在RL的地方，其實有點跳躍，MDP之類的東東都超快速被帶過，然後就進入
+        了Deeeeeeeeep RL，如果沒接觸過大概會是滿頭問號。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.217.15
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1517411760.A.4A1.html
+推 exe1023: 大家要記得沒用時關azure啊 02/01 02:15
+推 yiefaung: 推阿 02/01 02:24
+→ liang1230: 宏毅滿分 02/01 03:57
+推 NTUching: 推~ 02/01 04:14
+推 newsboy3423: 跟ML一起修 負擔會太大嗎 02/01 13:34
+→ hortune: 我覺得會 可是有人撐過去了 02/01 15:39
+推 dodo0822: 滿大的，作業一直來，RL那次train超久幾乎來不及做ML 02/01 17:04
+推 newsboy3423: 這樣的話 修了這兩門就幾乎不能再修其他課了吧 02/01 17:47
+推 winiel559: 看能力吧xd 有train一次就過的也有從來沒到過的qq 02/01 19:13
+※ 編輯: hortune (140.112.217.15), 02/01/2018 20:09:57
+推 eesu: 非常不建議一起修 02/02 03:00
+→ eesu: 我當初這樣做期末壓力大到會夢到期末做不出來然後驚醒 02/02 03:00
+推 eesu: 不過我那時侯修兩門課都是個人作業才那麼辛苦 02/02 03:02
+→ eesu: 如果之後變成組隊作業那我想應該沒啥問題 02/02 03:02
+推 newsboy3423: 樓上大大當時還有修其他課嗎？ 02/02 12:32
+推 eesu: 有跟專題 同時在公司實習(一週約三天) 02/02 16:05
+→ eesu: 這樣想起來好像兩門一起修是沒啥問題的XD 02/02 16:07
+→ newsboy3423: 這樣好操啊 專題要做的話也是很累 02/02 16:08
+推 pttnowash: Dick learning 02/03 19:32
+推 KSWang: 沒修過ML會不會hw0就掛了 認真求解 03/01 07:31
+推 twsmcc: 推樓主大神 ML界閃耀的新星 03/01 15:11

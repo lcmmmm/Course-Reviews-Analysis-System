@@ -1,0 +1,98 @@
+作者tryptochan (tpr)看板NTUcourse標題[評價] 109-1 鄭皓中 電工實驗（通信專題）時間Fri Jul 16 17:20:28 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         鄭皓中 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         電機系十選二實驗
+
+      δ 課程大概內容
+
+         總共有6個lab：
+
+           Lab 1: Simulating Quantum Circuits with QISKit
+           Lab 2: Applications of Quantum Information Processing
+           Lab 3: Quantum Computing Algorithms
+           Lab 4: Source Coding
+           Lab 5: Channel Coding
+           Lab 6: Digital Modulation
+
+         前半學期是從零基礎開始講 Quantum Computing，
+         從 single qubit gate 開始，
+         接著講 superdense coding、quantum teleportation，
+         最後講 amplitude amplification、QFT、
+         Deutsch-Jozsa algorithm、Shor's algorithm 等等量子演算法。
+
+         後半學期講 Communication 中的幾個重要步驟：
+         Source Coding (Huffman Coding、Source Coding Theorem)、
+         Channel Coding (Convolutional Code、Viterbi Algorithm、Modulation)。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+η 上課用書(影印講義或是指定教科書)
+
+         自製投影片
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         主要是教授用驚人的語速講投影片，偶爾用白板畫圖說明。
+         教授人超讚，飆速完有剩時間會分享他覺得重要的東西，
+         像是業配(X)柏林愛樂的學生方案之類的w
+         有問題都可以隨時或下課問，
+         沒記錯的話教授留上完課的一小時當 office hour 所以不怕問不完(?)
+         然後上課會錄螢幕＋聲音（但我沒看過）
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         扎實甜甜甜甜甜
+         2/3 A+
+         雖然一次 lab 的成績都沒公布有點恐怖就是了XD
+
+      ρ 考題型式、作業方式
+
+         Lab           (10% * 6)
+         USRP          (10% → 0%)
+         Survey        (15%)
+         Final Project (15% → 25%)
+
+         6次 lab 是每個人自己做，
+         前三次是用 python (qiskit)，後三次用 matlab，
+         要交 report 跟 code。
+
+         剩下是以組為單位進行（2~3人，第一次上課自己分）：
+
+         USRP 是到實驗室（整學期唯一用的到實驗室的部分），
+         用 LabVIEW 實作 symbol mapper、modulator 跟 demodulator
+         （改 optional 所以我沒做ww）
+
+         Survey 是找有興趣的主題讀相關的paper，
+         （建議跟 Project 相關）
+         口頭報告 20 mins+5 mins Q&A，
+         主要是介紹這個主題在做什麼、重要性和相關研究的優缺點之類的。
+
+         Final Project 則是執行一個 Quantum 或 Communication 相關的研究，
+         教授期待大家不要只把它當成一個期末 project，
+         說如果做得好有機會繼續發展（但沒弄出什麼厲害的成果也不會怎樣啦）
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         想簽的話第一次上課一定要到（因為要分組），
+         外系應該沒機會（電機實驗供不應求），
+         對量子沒興趣比較想弄信號處理可以下學期再修通信實驗。
+         理論上不用基礎（有修過通原的話下半學期應該很簡單？）
+
+      Ψ 總結
+
+         又甜又充實，教授又帥又有高得驚人的語速
+         好課不修嗎
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.169.216.49 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1626427230.A.9AF.html

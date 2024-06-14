@@ -1,0 +1,89 @@
+作者winiel559 (大漢天威)看板NTUcourse標題[評價] 106-2 作業系統 郭大維時間Fri Jul  6 18:43:49 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：106-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+                郭大維
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+                資工系大二必修
+
+      δ 課程大概內容
+恐龍本整本
+Chapter 1 - Introduction
+Chapter 2 - System Structures
+Chapter 3 - Process Concept
+Chapter 4 - Multithreaded Programming
+Chapter 5 - Process Scheduling
+Chapter 6 - Synchronization
+------------期中考-------------
+Chapter 7 - Deadlocks
+Chapter 8 - Memory-Management Strategies
+Chapter 9 - Virtual-Memory Management
+Chapter 10 - File System
+Chapter 11 - Mass-Storage Structures
+Chapter 12 - I/O Systems
+Chapter 13 - Protection, Security, Distributed Systems
+------------期末考-------------
+      Ω 私心推薦指數(以五分計) ★★★★★
+                ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+恐龍本第九版，不買也沒關係
+Silberschatz, Galvin, and Gagne, “Operating System Concepts,” 9th
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+投影片講解，講得非常順，不卡不趕
+歡迎同學舉手發問，可是好像沒什麼人舉過手
+倒是下課時間都會有五六個同學去問問題
+
+會錄影上傳youtube，上課恍神/懶得去上課/沒選到的同學都可以上去看
+(可惜現場課程錄音品質不太好)
+老師代校長所以這學期很忙，停課了幾堂，直接上傳影片
+
+投影片裡有不少細節，回頭看影片的時候常常會發現上課沒聽到
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+期中35 期末35 作業10*3
+作業都有交會加總分一分
+四捨五入到個位數算等第
+
+甜滋滋
+
+      ρ 考題型式、作業方式
+NTU-Exam板有考古，總分破百，考古題出現頻率不低
+花點時間念slide+考古就可以拿很高
+
+作業有三次
+1.編譯ubuntu kernel+實作三個system call
+2.寫C程式呼叫FIFO排程+實作weighted RR排程
+3.追蹤linux中page fault的處理方式並改進之
+
+一次比一次難，如果電腦夠快(編譯kernel要花不少時間)
+第一次大概兩小時能寫完，再來兩個就要查點資料+來回debug幾次
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不點名，Youtube上也有影片，考試出席就好
+基礎建議會C語言(Pthread、指標)還有知道LINUX是什麼
+沒有也沒關係，要寫作業就自動會了= =
+
+加簽有個順序，大概簽完電資院，我是外系大四C14取3抽到的
+加簽人很多，場面混亂，一定有不符資格的人在前面簽到的...
+
+      Ψ 總結
+好課，難度不高又甜，認真念也能學到很多
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.34.156.190
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1530873832.A.30C.html
+※ 編輯: winiel559 (1.34.156.190), 07/06/2018 18:51:49
+推 plsmaop: 作業太簡單了......還自動延期，郭大維會寵壞學生 07/06 21:06
+→ winiel559: 兩次作業都延期真的蠻傻眼的= = 07/06 22:40
+推 TwinkyLee: 我很簡單，有大漢天威必推 07/07 00:31
+推 NTUCH2CS: 推 07/07 22:14
+推 lwlt1995: 甜爆 07/07 23:19
+推 PyTorch: 推大維 07/08 23:48
+推 leo08260826: 推大維 用心好教授>< 07/21 23:51

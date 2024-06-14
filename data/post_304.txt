@@ -1,0 +1,91 @@
+作者SwayBanLa (隨便啦)看板NTUcourse標題[評價] 109-全 陳俊全 分析導論時間Tue Jul  6 23:17:28 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-全
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+數學系陳俊全教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+數學系大二必修
+
+      δ 課程大概內容
+上學期 (依照教學順序)
+Chapter 0 Introduction
+Chapter 1 Real number system & Euclidean space
+建構實數 (花了半個學期)
+Chapter 2 The Topology of Euclidean Space
+Chapter 3 Compact and Connected Sets
+Chapter 4 Continuous Mappings
+Chapter 5 Uniform Convergence
+(教到Chapter 5 的Arzela-Ascoli theorem)
+-------------------------------------------------------
+下學期 (依照教學順序)
+(從Contraction Mapping Principle開始)
+Chapter 5 Uniform Convergence
+Chapter 6 Differentiable Mappings
+7.1 Inverse Function Theorem
+7.2 Implicit Function Theorem
+7.3 The Domain-Straightening Theorem
+7.7 Constrained Extrema & Lagrange Multiplier
+8.2 Volume and Sets of Measure Zero
+8.3 Lebesgue’s Theorem
+10.5 Computation of Fourier Series
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+想現場感受俊全語錄：★★★★★★★★
+想把分析導論完整上完：★★★
+整體評價：★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+Elementary Classical Analysis, 2nd Edition
+(by Jerrold E. Marsden and Michael J. Hoffman)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+老師常常會比較晚到，所以你如果遲到不用太緊張。
+上課會用黑板推導每個證明，也因此老師常常會抱怨黑板不夠用，或是評論粉筆和板擦的
+品質等等。
+另外值得注意的是，老師在每學期的上半段，上課都會講比較多題外話，因此進度通常比
+較緩慢，然而過了期中之後就會大爆衝，導致期末考讀得很辛苦。
+
+最後，老師身為俊全語錄的原作者，上課所提到的東西自然也是包羅萬象，從「說他自己
+曾經用筷子戳死蚊子」到「談論之前作夢的內容」，再從「評論鬼滅之刃」到「在講台上
+滑來滑去示範沒有摩擦力的情況」，往往是讓人印象深刻。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+homework and quiz          25%
+midterm exam           35%
+final exam / final project   40%
+*正常都是考期中和期末，但這次下學期因為疫情爆發所以改成期末報告
+
+上學期實際獲得的等第比自己算出來的高2個，應該是有調分
+下學期沒有公布期末報告成績因此無法得知是否有調分
+
+      ρ 考題型式、作業方式
+*正常都是考期中和期末，但這次下學期因為疫情爆發所以改成期末報告
+
+每周都會有作業，大約都是4~6題，隔週助教課繳交。
+期中和期末都是從8個題目中自己選5題出來寫，幾乎都會出1到2題上課定理的證明。
+期末報告則是一份3~5頁的課程心得和錄製5~10分鐘的影片教學
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+跟大多數學系的課一樣不點名，加簽的話應該是全簽。
+另外應該不需要甚麼特別的基礎。
+
+      Ψ 總結
+雖然說老師有時會晚到加上常常講題外話造成課堂進度落後，以至於無法講完整本課本，
+最後只能挑幾個老師認為比較重要的部分來講，但換來的就是相對輕鬆的上課過程，有捨
+有得，我這裡很難定義好壞，可能就要看修課者的目的去做評斷了。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.160.8.204 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1625584650.A.747.html
+推 a22735557: 推俊全07/07 01:01
+※ 編輯: SwayBanLa (1.160.8.204 臺灣), 07/07/2021 02:00:06
+推 AngusAT: 推俊全語錄 07/07 09:03
+推 Akkusaii3741: 俊全：鬼滅是國中生在看的 07/07 09:36
+推 thenolet: 會調分 羨慕爆 07/07 09:52
+推 hpshnyus: 推數學系鬼話王 07/07 15:04

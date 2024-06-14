@@ -1,0 +1,210 @@
+作者aristoIris ()看板NTUcourse標題[評價] 108-2 魏凱立 經濟學原理與實習下時間Sun Jun 21 15:36:19 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+  （是／否／其他條件）：是
+
+
+哪一學年度修課：
+
+   108-2
+
+
+ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+   魏凱立
+
+   （接續上學期 王道一 老師開的經原上）
+λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+   經濟 / 國企 / 會計 / 財金 大一必修
+   兼 A5* 通識
+
+
+δ 課程大概內容
+
+   因為疫情的關係，後半學期課程都線上化（但感覺線上化的課程比較精實xD。）
+   內容的部分和 syllabus 相比，老師僅減少了 CH.32 的部分。
+   剩餘的部分依舊不變，按照 Mankiw 的課本編排進行。
+   以下的課程內容是按照老師的 prezi 簡報和自己的筆記紀錄的幾個觀念點，
+   由於我上課有時會失神（外語授課 QQ），如果有紀錄錯誤的還請大家指正！
+
+   CH.23 Measuring a Nation's Income
+
+     GDP components / nominal & real GDP / GDP deflator / PPP
+
+   CH.24 Measuring the Cost of Living
+
+     CPI / CPI inflation / nominal & real interest rate / fisher's effect
+
+   CH.25 Production & Growth (& Some History)
+
+     production function / diminishing returns / growth policy /
+     some economic history
+
+   CH.26 Saving, Investment and The Financial System
+
+     the financial system / stock market & exchange /
+     saving and investment(without trade) / loanable funds market /
+     some examples of loanable funds market / government feficit & debt
+
+   CH.27 Basic Tools of Finance
+
+     present & future value / rule of 70 / risk management examples on market /
+     insurance (adverse selection & moral hazard) /
+     stock market(efficient market hypothesis)
+
+   CH.28 Unemployment
+
+     dependency ratio / labor force participation rate / unemployment rate /
+     three kinds of unemployment
+
+
+    Midterm  (there is quiz 1 covering only CH.23 ~ CH.27 on previous week)
+
+
+   CH.29 The Monetary System
+
+     three function of money / fiat & commodity money /
+     money supply(M1, M2 & M3) / bank and money multiplier / central bank /
+     central bank's policies
+
+   CH.30 Money Growth and Inflation
+
+     money value / quantity theory of money / money velocity equation /
+     inflation's influence / hyperinflation and bubble
+
+   CH.31 Open-Economy Macroeconomics: Basic Concepts
+
+     some basics concepts of international trade /
+     international flows of goods and capital / net capital outflows /
+     nominal & real exchange rate / big mac index (PPP)
+
+   CH.33 Aggregate Demand and Aggregate Supply (& other ideas)
+
+     AD & AS cruve / the problem of this analysis /
+     other economists' thoughts (Hayek, Keynes, Friedman, Minsky, Schumpeter)
+
+   CH.34 The influence of Monetary and Fiscal Policy on Aggregate Demand
+
+     Automatic stabilizers / liquidity preference theory /
+     keynesians v.s monetarists / MPC (and crowding out)
+
+
+    Final  (there is quiz 2 covering only CH.29 ~ CH.33 on previous week)
+
+
+Ω 私心推薦指數(以五分計) ★★★★★
+
+   英聽苦手： -★★★★★
+   想修很難的經原的人：★
+   想把經原扎實地修過一遍：★★★       -> 別修經原了，直接修個、總經比較快
+   不想在經原看到任何數學：★★★★★   -> 對你沒看錯，最難的數學大概是除法
+
+
+η 上課用書(影印講義或是指定教科書)
+
+   Principles of Economics, 8th edition, Mankiw, N. Gregory
+
+   雖然和上學期 王道一 老師用同一本，不過學期初的時候助教依舊會再訂一次書。
+   網路上也找的到電子版，因此要不要買實體書就看個人了
+
+   另外老師主要是用 prezi 來作課程簡報，每頁都很精美 xD。
+   不過老師在學期中的時候沒有把每一章的 prezi 簡報的連結給我們，
+   而是學期末才整理出來，因此每週回家想複習的人可以自行向老師索取連結。
+
+
+μ 上課方式(投影片、團體討論、老師教學風格)
+
+   主要是利用投影片授課，很少有版書。
+
+   老師上課很注重實例和數據！很多國家的經濟資料會被老師拿出來討論，
+   而且跟著老師看過這些數據後，會對這些數字有另一層的瞭解（考試也會考！）
+
+   除了 Mankiw 課本裡面的概念外，老師也會補充他對這些觀念的看法，
+   像老師在講解為什麼 SRAS 是正斜率的時候，就有分享他不大同意（或不能理解？）
+   sticky price theory 和 misperception theory 這兩套說法。
+   此外也有額外的課程內容，像是一些經濟史，或是各個學派對於 boom and bust 的看法。
+
+   老師教課有時候還蠻有趣的xD，除了實際演出一則經濟冷笑話以外，
+   有時候也會用一些誇張的語調來輔助教學。
+   （我尤其忘不了在講 monetary policy 的時候，
+     老師講 pushing on the string 搭配的動作，很生動xDD）
+
+   不過，這堂課完全沒有數學，連微分都沒有的那種。你需要的只有英聽能力。
+   就像前一篇評價(106-2)提到的，老師的語速有點稍快（或是只有我適應不好QQ）
+   有時候稍稍分神可能下一個回神的時候已經不知道老師在哪邊了...
+   如果要修這門課的話，強烈建議先試聽一、兩堂看看，測試一下自己的英聽能力！
+
+
+σ 評分方式(給分甜嗎？是紮實分？)
+
+   受疫情影響前：
+
+      - Zuvio participation: 15%
+      - Homework and Quizs: 15%
+      - Midterm: 35%
+      - Final: 35%
+      - Extra Credit Report: 5%
+
+   受疫情影響後：
+  （大概 4 月中左右改成線上上課，沒辦法繼續使用 zuvio 課堂互動，因此佔比調降）
+
+      - Zuvio participation: 10%
+      - Homework and Quizs: 15%
+      - Midterm: 35%
+      - Fianl: 40%
+      - Extra Credit Report: 5%
+
+
+   Extra Credit Report 是總成績額外加五分。
+   老師會在學期初的時候在課程大綱公布四篇 JEP 上的文章，
+   我們可以選一篇並撰寫共 1200 字左右的報告，
+   其中 2/3 是摘要，1/3 是讀後心得。老師會再斟酌加分。
+
+   HW 和 quiz 的部分則是 11 次的 HW 各 1%，以及 2 次的 quiz 各 2%
+
+   學期成績感覺有稍微調分，以下提供成績比例讓大家參考：
+
+    A+ ： 21.05%
+   ~ A ： 78.95%
+
+
+ρ 考題型式、作業方式
+
+   期考考題形式的部分，可以直接參考 NTU-Exam 版。
+   整體來說不會太難，一小時多就可以解決的程度。
+   但考試會考老師上課講的部分，或是一些死背的題目，只能說要好好上課。
+
+   作業方式則是每週助教會從 Mankiw 課本後面的習題中，
+   找出約 5~6 題來寫。每個人寫完之後掃描上傳給助教，而批不批改則是看助教。
+   今年助教有三位，但似乎只有一位會批改並發還作業，
+   雖然每週都會公布作業的解答，但看到作業被改還是比較有回饋感的xD。
+
+
+ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+   會用 zuvio 變相點名，回答率大概要 9 成才能把點名分數拿滿，所以能去就去吧
+   完全不用修課基礎，就算不用修過上也可以修。
+
+   加簽全簽（畢竟教室沒坐滿過）
+Ψ 總結
+
+   就是一堂經原課。
+
+   雖然老師上課很有趣，準備的課程簡報和內容也很用心，
+   但很少有那種讓我聽完之後覺得很受啟發的內容（也可能是因為語言隔閡啦）
+
+   就像老師說的，他希望讓這堂課停留在原理的階段，主要是要讓大家都能帶走觀念。
+   因此對臺灣的學生來說，修起來就像高中公民經濟學的程度，
+   很多觀念都停留在簡單理論的部分，雖然也沒有不好。
+   不過對於想修更艱難的內容的人，其他班會是更好的選擇。
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.241.111 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1592724981.A.88D.html
+推 vincent7977: Kelly是美國人阿XD 但他其實會說一點中文就是了 06/23 11:43
+推 gwps: 推kelly 善解人意 06/24 19:52
+
+※ 編輯: aristoIris (140.112.252.120 臺灣), 01/08/2022 19:29:26

@@ -1,0 +1,94 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 108-2 魏志平 資訊管理導論時間Wed Jul  8 08:24:41 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+108-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+魏志平
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+資管系必修
+
+      δ 課程大概內容
+
+根據syllabus以每週進度條列：
+1. Course Overview and Introduction
+2. Module I: Organizations and Information Systems(IS)
+   Overview: Overview of Information Systems
+3. Information Systems, Organizations, and Competitive Advamtages
+4. Module II: Information Technology(IT) Infrastructure and Core IS Applications
+   IT infrastructure and EMerging Technologies
+5. Achieving Operational Excellence and Customer
+   Intimacy: Enterprise Applications
+6. E-Commerce, Digital Market and igital Goods
+7. Data Analytics for Decision Support (I)
+8. Data Analytics for Decision Support (II)
+9. Invited Talk: Digital Transformation Cases
+10. Module III: Emerging IT Innovations
+    Knowledge Management
+11. Sharing Economy
+12. Internet of Things(IoT) and Their Applications
+13. IT Investment Appraisal
+14. Examination
+15. Presentation of Group Project (I)
+16. Presentation of Group Project (II)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+Laudon, K.C. & Laudon, J.P. (2018). Management Information Systems: Managing the Digital Firm.
+15th ED., Pearson Education Limited
+老師會提供slide，不確定是書商給的還是老師自己做的，總之課本應該不太需要買
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片老師講課，這學期因為疫情關係每堂課都有錄影，可以選擇回家聽或是到班上課
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+Examination: 40%
+Group Assignments: 40%
+Group Project: 30%
+Class Participation: 10%
+
+涼甜，課程內容不難、Loading不重，給分也不錯（雖然我不知道為什麼我沒Ａ＋...)
+我們這組作業一A+，作業二A-（不過是全班第二高的樣子），期末project跟期末考分數沒公佈，但我自認
+期末考跟期末報告都做得不錯，不知道為什麼還沒Ａ＋ ＱＱ
+
+      ρ 考題型式、作業方式
+
+Examination: 選擇跟簡答佔60%，指定個案分析佔40%，老師會在考前說個案公司是哪間
+Group Assignments: 共有兩次，都是針對課堂的內容選擇一間公司做分析並寫一篇5-10頁的報告，不難
+Group Project: Assignments的進化版，要挑某個low IT industry做分析並為他提供IT化的方法，期末需
+要上台報告
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+加簽我猜坐的下就全簽（這學期是這樣啦）。無需基礎，老師人很好，講課仔細，slide的內容也算豐富。
+課堂參與因為疫情關係取消點名，不過正常情況下記得會點8次，3次沒到就扣學期成績五分。
+老師人很親切ＸＤ有問題去問他都會回答，就算是課堂外的事情老師也會給予一些建議，Group Project在
+學期中會有一次跟老師的meeting，老師會在這次meeting給予意見，我覺得滿實用的。
+
+      Ψ 總結
+
+這門課跟作業研究算是我覺得資管系大一大二最有趣的課ＸＤ能夠了解ＩＴ跟ＩＳ的演進與在各行各業的使
+用如何幫助企業提升價值、減低成本等等。老師會提供滿多例子讓我們了解這個方法為什麼可行，講解的也
+滿仔細，如果想透過這門課了解資訊科技是什麼以及其應用的話可以來選選看這門課，我自己修得頗開心。
+不過考試比較偏向背誦，我覺得有點無聊啦，所以今年才多出一部分是個案分析的申論題，不然全部都是選
+擇跟簡答我應該會瘋掉。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.119.91 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1594167884.A.12B.html
+推 Akkusaii3741: 應該是期末沒考好吧 去年期末拿9x就A+了 07/08 08:46
+→ unmolk: 他沒公布期末分數，但我自己覺得我寫很順的說 07/08 09:18
+推 crazydogfan: 推這堂課！ 07/08 11:13

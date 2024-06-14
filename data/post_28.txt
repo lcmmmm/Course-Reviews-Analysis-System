@@ -1,0 +1,84 @@
+作者Imfrom420 (蛙鳴蝉噪)看板NTUcourse標題[評價] 111-1 林智仁 自動機與形式語言時間Wed Jan 11 22:03:38 2023
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID )
+         （是／否／其他條件）：否
+
+
+      哪一學年度修課： 111-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+林智仁
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+資訊工程學系大三必修
+
+      δ 課程大概內容
+- Chapter 1
+Deterministic finite automata
+Nondeterministic finite automata
+Regular expressions
+Pumping lemma
+
+- Chapter 2
+Context-free grammars
+Chomsky normal form
+Pushdown automata
+Deterministic pushdown automata
+
+- Chapter 3
+Turing machines
+Multitape Turing machines
+Nondeterministic Turing machines
+Hilbert's problems
+
+- Chapter 4
+Decidability
+Halting problem
+
+- Chapter 7
+Big-O notation
+Time complexity
+Languages in P
+Languages in NP
+
+      Ω 私心推薦指數(以五分計)
+ ★★★★★ 五顆
+
+      η 上課用書(影印講義或是指定教科書)
+Michael Sipser, Introduction to the Theory of Computation, 3rd edition
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+每週在Webex直播上課，不點名。上課方式為播放預錄的影片，老師再稍微加以解釋。影片和投影片在課程網站上都可以找到，因此不一定要跟課，可以根據自己的學習習慣來選擇同步或非同步:D
+
+另外，課程全程都用英文進行，包括上課、作業和考試的撰寫。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+30%作業（6次）
+70%考試（3次）
+3次考試的權重在期初不公開，我根據最後公告的成績來算，分佈大概是26%、39%、35%
+最後等第也是從不公開的機制換算而成
+
+大家的成績都會被放在課程網頁上（汗
+給分我認為蠻甜的，目測約有一半的人都拿A-（含）以上，而有認真讀的的話基本上不會被當，除非有缺考或考出個位數的成績。
+
+      ρ 考題型式、作業方式
+作業都是課本後的習題，不會太難，不過作業的難度很容易讓人低估了考試。
+三次考試題目都出得很活，大部分都要想過，甚至帶入情境、文意理解一下才能作答，但題目也會引導你一步步地思考。以這種死板死板（？）的學科來說實在是難能可貴^^
+不過這學期是採線上考試（Open book），或許因此才將題目如此精心設計，來防止大家在網路上爆搜解答吧。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+這學期是一類加簽，上系統登記就可以修了。
+
+      Ψ 總結
+整堂課比較偏導論性質，經典的問題都有帶到；但在某些觀念上只有用例題的方式帶過，如果想要徹底深入各種觀念的人可能得靠自己讀課本了。但作為系上必修課來說，我認為這樣的份量反而拿捏得恰到好處:D
+
+--
+いつからか   僕らは悲劇名詞で　僕らの名前は　『人間失格』
+什麼時候開始 我們是悲劇名詞　　我們的名字是　『人間失格』        --By Neru
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.136.197.42 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1673445834.A.F97.html
+※ 編輯: Imfrom420 (123.194.21.97 臺灣), 01/11/2023 22:09:42
+推 betterbutter: 推 01/17 18:23

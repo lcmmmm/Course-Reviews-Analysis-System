@@ -1,0 +1,120 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 110-2 羅珮瑜 數位經濟時間Sun Jul 24 01:12:26 2022
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+（代ＰＯ
+
+      哪一學年度修課：
+
+110-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+羅珮瑜 Melody
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+經濟系大學部/研究所選修
+
+      δ 課程大概內容
+
+Digitization and the internet lower the cost of collecting, disseminating,
+and analyzing data. This course explores how digitization affects
+interactions between people, firms, and governments. We examine how
+institutions and regulations can and do respond. Topics include privacy,
+social networks, network effects, online platforms, recommendation
+algorithms, reputation mechanisms, search, matching, and digital payment
+systems. Advanced economic theory, especially tools from information
+economics, will be used to explain features of the digital economy and
+suggest policy recommendations.
+
+Course Objective:
+1. Describe how the digital age changes interactions.
+2. Apply advanced economic theories to analyze the implications of different
+features of the digital economy.
+3. Evaluate the impact of different policy recommendations.
+4. Articulate questions and formalize conjectures about phenomena in the
+digital economy.
+5. Support made claims with solid economic arguments.
+
+Course outline (Course Schedule of 18 weeks)
+每週包含了 1~3 篇 paper，實際進度跟週次規劃微微不同，但內容都差不多。
+Week 1: Privacy --- Collection of Personal Information and Price
+Discrimination
+Week 2: Privacy --- Other Use of Personal Information
+Week 3: Privacy --- Markets of Personal Information
+Week 4: Algorithm and Prediction
+Week 5: Recommendation Systems
+Week 6: Big Data and Competition
+Week 7: Social Learning
+Week 10: Understanding Network Economy?
+Week 11 The Economics of Platforms
+Week 12: The Economics of Search
+Week 13: The Economics of Search Engines
+Week 14: The Economics of Digital Currencies
+Week 15: The Economics of Digital Currencies
+Week 16: The Economics of Open Source Production
+Week 17: Student Presentation
+Week 18: Final
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+想在這門課看經濟學的不同應用：★★★★
+不想花很多時間做期末報告：★
+不想寫作業、花超多時間讀考試：★★★★★
+喜歡小班教學：★★★★★
+私心推薦：★★★☆
+
+      η 上課用書(影印講義或是指定教科書)
+
+全部用老師的自製簡報。簡報內容都來自老師選的 paper，paper 都跟數位經濟有關。不
+過老師都會把 paper 比較抽象的符號，換成較具體的數值，幫助大學部學生理解。
+
+簡報偶爾排版會出狀況。數學公式、圖片跑出頁面看不到等等。另外需要注意 / 小心，
+如果上課聽到分神，回去看簡報有可能會看不懂，會需要自己想很久。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+講解投影片，偶爾板書推導式子。第一週一開始爆滿，但老師第一週拿出了全學期最難
+的 ppt，裡面充滿各種可怕的微積分、抽象數學符號，後來大概就 15 位左右吧，教室非
+常寬敞。
+
+老師上課速度對我而言剛好，不會太快太慢。只是有時候聽數學推導會有點頭痛 XD ( 可
+能是個人經濟學數學歷練不夠，對於平常有在讀經濟學 paper 的人應該會覺得頗輕鬆 )
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+Student Presentations and Term paper (40%)
+Examinations (40%)
+Assignments and Participation (20%)
+
+我作業 (整學期只有一份作業) 90 分、期末考 85 分、期末報告分數不知道，最後拿到
+A。
+
+感覺老師非常重視大家 期末報告 的表現。期末報告由 口頭報告、書面報告 兩部分組成
+。大家差不多會在期中考前後開始跟老師討論 project 內容，期中考後一兩週口頭報告
+、學期末繳交書面報告。
+
+      ρ 考題型式、作業方式
+
+作業整學期只有一份，大概就是整理了整學期的內容，難度不難。期末考的形式，甚至內
+容都和作業頗相似的。
+
+期末考給 3 個小時，如果上課都有在跟，作業有好好寫，( 適時跟老師求教 )，時間非
+常充裕。時間非常充裕。 ( 期末考平均 83.6 )
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+教室頗空，加簽理論應該全簽 (吧)。
+
+      Ψ 總結
+
+如果對於 21 世紀各種酷酷的東西 ( 加密貨幣、電商如何推薦商品、大數據 etc. ) 有
+興趣，可以來試試看這堂課。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.77.156 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1658596349.A.6D8.html
+推 rrro: 酷耶！請問那些論文大部分是實證研究，還是解析推導，還是都 07/24 22:16
+→ rrro: 有～？ 07/24 22:16

@@ -1,0 +1,118 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 108-1 孔令傑 程式設計時間Fri Jan 22 01:50:56 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+
+108-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+rrro
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+資管系大一必修
+
+      δ 課程大概內容
+
+依據syllabus以每週進度條列：
+Introduction
+Selection and repetition
+Digital systems
+Variables and arrays
+Functions and quiz
+--Midterm exam 1
+Algorithms and recursion
+Time complexity and graph theory
+Pointers
+Advanced topics and guest speech
+C strings
+--Midterm exam 2
+Self-defined data types
+TA session: Git, GitHub, and version control Classes
+Operator overloading
+Advanced topics and closing remarks
+--Final project presentations
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+想學C++：★★★★★
+喜歡每週有作業：★★★★★
+想要用程式做一些比較炫砲的東西：★★★☆ 去學python可能比較好
+（我不是說C/C++不能做炫砲的東西，jserv也幾乎都是用C語言做了很多專案，有一堆跟作業系統、處理器有關的還是需要C語言的能力，不過如果是初學程式我覺得C++能夠提供比較嚴謹的學習步伐）
+
+      η 上課用書(影印講義或是指定教科書)
+
+A First Book of C++ by Bronson.
+C++ Primer by Lippman, Lajoie, and Moo.
+The C++ Programming Language by Stroustrup.
+
+書不一定要買，小傑自己都會做講義。
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+課前把影片看完，上課會回顧講解與做練習。
+小傑的課基本上品質都很穩定。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+作業：35%，每週都有，會去掉最低分的兩次。
+期中專案：15%
+期末專案：25%
+喜歡每週有作業：★★★★★
+想要用程式做一些比較炫砲的東西：★★★☆ 去學python可能比較好
+（我不是說C/C++不能做炫砲的東西，jserv也幾乎都是用C語言做了很多專案，有一堆跟作
+
+      *[33mη 上課用書(影印講義或是指定教科書)*[m
+
+A First Book of C++ by Bronson.
+C++ Primer by Lippman, Lajoie, and Moo.
+The C++ Programming Language by Stroustrup.
+
+書不一定要買，小傑自己都會做講義。
+
+      *[33mμ 上課方式(投?
+扎實甜，作業有上課認真寫應該都寫得出來，寫不出來去問助教助教都願意幫忙。期中考
+是open-anything的上機考，所以應該也可以全拿。期中專案是給定一個偏向作業研究的
+題目，要分組製作採購計畫，然後與其他組比差值動態給分，沒寫到很高分也沒關係，報
+n好寫還是有分數。期末專案就自己挑東西做，用C++寫即可，大部分的人做遊戲，分數也
+不難拿。我覺得這點很重要，資管系不少老師給分都很吝嗇，我自己是很不喜歡，但小傑
+不會吝於給分數，可是課程內容也不會很水，拿捏得算很不錯！
+
+      *[33;40mρ 考題型式、作業方式*[m
+
+考試都是上機考，考３小時，比作業簡單一點。
+不注重出席，有寫過程式的人這門課體感學分應該只有１學分重，但對初學者來說也不會
+有過重的負擔，算是一門不錯的入門課。老師上課也會強調coding style、運算思維之類
+的觀念，不只是教C++的內容。助教似乎也有講git之類的，但我有點忘記了ＸＤ
+
+      Ψ 總結
+
+其實只是想釣rrro，順便看到很久沒人寫這門課的評價想說寫一下。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.115.157 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1611251458.A.A5E.html
+推 rrro: 喔耶是課程評價文～ 01/22 03:33
+→ rrro: 內容我幾乎都同意！但還是有初學者覺得很重啦，平衡報導一下 01/22 03:34
+推 yagerbomb: 這麼晚教授還不睡 01/22 03:36
+→ unmolk: 釣成功ㄌ！ 01/22 03:40
+→ unmolk: 目標是小傑課程評價全品項！ 01/22 03:41
+推 tryptochan: 懂釣 01/22 03:58
+推 Akkusaii3741: 我也想要rrro回我 01/22 13:41
+推 pttdouble:                    家 01/22 13:53
+推 partyfavor: 竟然教了maximum flow，哇！！推小傑。 01/22 17:11
+推 rrro: 七樓大大找我嗎～～ 01/23 00:43
+推 karta2032150: 傑粉簽到串 01/23 02:21
+→ unmolk: 小傑多來課程板溜達 這樣大家就會更有意願在這發文ㄌ>\\\< 01/23 04:40
+※ 編輯: unmolk (39.13.102.213 臺灣), 01/23/2021 04:44:20
+→ orgysolitude: 卡 01/23 09:36
+推 Akkusaii3741: 被回了！ 我無憾了# 01/23 21:40
+→ unmolk: 如果小傑再來推文我就 01/24 16:19
+推 rrro: 你就？XD 01/24 18:42
+→ unmolk: 我就再多發幾篇小傑的課程評價 01/24 20:21
+→ unmolk: >\\\< 01/24 20:21
+推 eeureka: 推小傑! 01/25 01:34
+推 cuteSquirrel: >///< 01/25 13:42

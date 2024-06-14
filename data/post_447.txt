@@ -1,0 +1,151 @@
+作者unmolk (UJ)看板NTUcourse標題[評價] 109-1 李琳山 數位語音處理概論時間Tue Feb  2 08:44:21 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+      哪一學年度修課：
+
+109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+李琳山
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+電機、資訊系選修
+
+      δ 課程大概內容
+
+依據ceiba
+
+1. 本課程專為大學部同學所開授。所需要的最主要基礎能力是數學模型(機率、線性代數
+)及軟體程式，所有難題由數學模型分析，並由程式求解；其中大部份核心觀念均與機器
+學習(Machine Learning)密切相關。前半學期強調基礎背景知識，後半則著重研究課題，
+讓修課同學體會由基礎走入研究的歷程。內容深度適合電機系或資工系大三或大四同學選
+修。評分依據含期中期末考(35%)、程式作業(35%)、期末專題(30%)。
+
+2. 在Apple、Google、Microsoft等全球性產業推出行銷全球的主流產品後，語音技術如
+何將成為人類生活之一關鍵部份已廣為人知。無線網路環境下日新月異並具多元功能的智
+慧型手機及各種新型的隨身及可穿戴(Wearable)電子設備如眼鏡、手錶(iwatch)，加上雲
+端資訊(Cloud Computing)、巨量數據(Big Data)之實現，智慧汽車、智慧家庭等願景，
+語音技術未來的發展已是無可限量。在輕薄短小的硬體及豐富的應用環境下，原有的鍵盤
+、滑鼠等個人電腦上網介面不再方便，語音很顯然成為最方便自然的網路介面之一；而網
+路上的數位內容多以多媒體形式呈現，它們未必有文字檔案，卻都帶著語音訊息。文字和
+語音終將成為人類語言資訊的兩種對等形式，今日人類生活中的諸多以文字達成的功能(
+例如上網輸入文字指令、透過文字搜尋數位內容等)均可能用語音達成。這些都是語音訊
+號處理技術未來可能的空間。
+
+Part I: Fundamental Topics
+1.Introduction
+2.Basic Concepts in Speech Recognition
+3.Research Roadmap in this Area
+4.More about Hidden Markov Models (HMM)
+5.Acoustic Modeling
+6.Language Modeling
+7.Speech Signals and Front-end Processing
+8.Linguistic Decoding and Search Algorithm
+
+Part II: Research Topics
+9. Speech Recognition Updates
+10. Speech-based Information Retrieval
+11. Spoken Document Understanding and Organization for User-content
+Interaction
+12. Computer-Assisted Language Learning (CALL)
+13. Speaker Variabilities: Adaption and Recognition
+14. Linguistic Processing and Latent Topic Analysis
+15. Robustness for Acoustic Environment
+16. Some Fundamental Principles–EM Algorithm
+17. Spoken Dialogues
+18. Conclusion
+
+基本上就是用一學期的時間告訴你語音處理技術的發展應用與背後的數學工程觀念。
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+想了解數位語音處理：★★★★★
+想一睹大師風範：★★★★★
+不喜歡到班上課：★★★★★
+程式高手：★★★★★
+程式苦手（如我）：★★★★
+其他課很忙但又缺學分：★★★★☆
+很懂Gaussian：★★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+老師自製的講義，ceiba上有幾本參考書目，不過完全不用買，老師已經把那些書的內容
+濃縮擷取到講義了。
+
+但還是附上參考書目：
+1. X. Huang, A. Acero, H. Hon, “Spoken Language Processing”, Prentice Hall,
+2001,松瑞
+2. C. Becchetti, L. Prina Ricotti, “Speech Recognition- Theory and C++
+implementation”, Johy Wiley and Sons, 1999, 民全
+3. L. Rabiner, B.H. Juang, “Fundamentals of Speech Recognition”, Prentice
+Hall, 1993, 民全
+4. F. Jelinek, “Statistical Methods for Speech Recognition”, MIT Press,
+1999
+5. D. Jurafsky, J. Martin, “Speech and Language Processing- An Introduction
+to Natural Language Processing, Speech Recognition, and Computational
+Linguistics, 2nd edition”, Prentice-Hall, 2009 (3rd edition draft parts
+on-line)
+6. G. Tur, R. De Mori, “Spoken Language Understanding- Systems for
+Extracting Semantic Information from Speech”, John Wiley & Sons, 2011
+7. D. Yu, L. Deng, “Automatic Speech Recognition - A Deep Learning Approach
+”, Springer, 2015
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+投影片為主，偶爾輔以板書講解模型。
+
+老師講課講得超清楚，能夠把大局觀與細節處理都講到你聽懂，且老師咬字與發音超級清
+晰不含糊，語速偏慢但不會過於平坦讓人想睡，而且語音技術是老師深耕多年的研究領域
+，所以有額外的問題想問老師也可以。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+期中考：25%
+期末考：10%
+作業：三次共35%，作業一與三各佔15%，作業二佔5%
+期末專案：30%
+
+我覺得超甜...考試都是開書考而且不難，基本上有讀就會寫，期中跟期末平均分別是82
+跟76，不少人9x以上，跟電子電磁比真的超高，考試分數沒意外可以穩穩拿。
+
+作業的部分都要用C/C++寫，作業一是實作HMM，作業二是處理音訊與調整模型參數，作業
+三是做編碼跟注音文的處理。作業一我大概寫3、4個晚上（2,3小時每晚），主要是那時候
+在研究用lldb來debug花了不少時間，其實不會很難，而且header file助教已經寫好了所
+以把後面HMM model的處理做完就好。作業二也是助教都弄完絕大部分的東西，我大概只
+寫3小時吧。作業三比較麻煩，不過因為都有弄好的docker image，所以其實也還好（？
+）。作業基本上都一樣，所以可以問學長或是上某個吉特中心參考一下，而且助教的講義
+也算是半手把手教學了，真的不會去問助教應該都能得到幫助。
+
+期末專案可以寫term paper或是做專案，跟課程內容有關即可。不一定要做語音處理，做
+nlp相關的專案也行，我感覺是不要太混亂作亂寫分數都不難拿，最後好像還有調分，要
+A+的話肯乖乖寫作業應該是不難...
+
+      ρ 考題型式、作業方式
+
+作業上面講完了，考試是全問答題，比較特別的是要用中文作答。基本上內容講義上都找
+得到，而且是開書考，所以不用太擔心。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+加簽是去跟助教登記然後最後決定誰可以簽，不過篩選標準不確定就是了。
+
+會微積分、線代、機率就能修了，不過也不需要很強大的數學能力也能應付課程內容。
+
+完全不注重出席，甚至老師每週的課程內容都會錄音放到課程網頁上...超佛。而且這門
+課也有錄ocw，我這學期幾乎都是看ocw度過（有點對老師不好意思ＱＱ）
+
+      Ψ 總結
+
+大推03大師！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.150.116 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1612226664.A.AD2.html
+推 Lyu7: 推，被搶先寫了 > < 02/02 09:44
+推 Lyu7: 容易 A+……QAQ 不知道是不是期末 project 的問題 02/02 09:50
+→ cuteSquirrel: 推好老師 02/02 10:18
+推 cuteSquirrel: 補推 02/02 16:31

@@ -1,0 +1,84 @@
+作者jerryh612 (JHow)看板NTUcourse標題[評價] 109-1 孫雅麗 網路技術與應用時間Mon Jan 18 23:48:08 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）： 是
+
+
+      哪一學年度修課： 109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        孫雅麗
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關)
+
+        資管系 大三必修
+
+      δ 課程大概內容
+期中考：
+        Introduction of the Internet
+        Application Layer Protocols: Web, HTTP, FTP, SMTP, DNS
+        Wireless Network: 802.11
+
+        期末考：
+        Transport Layer Protocols: Reliable Data Transfer, TCP, UDP
+        Network Layer Protocols: IP, DHCP, NAT, routing protocols
+        Ethernet, switch
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        想作為網路通訊領域的入門課程    ★★★★★
+        想作為通識或科普來修的人        ★★(需要自己花時間另外讀課本跟找資料)
+
+      η 上課用書(影印講義或是指定教科書)
+
+        James  F.  Kurose  and  Keith  W.  Ross,  "Computer  Networking:  A  T
+op-Down
+Approach," Addison Wesley Longman, 7thedition, 2017.
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        偶爾上一上會抽人問問題，在課堂上也不能隨便飲食或喧嘩，是個莊嚴的場合。
+        這種風格會有一部分人不太能忍受。但如果不特別叛逆的話，老師上課的節奏挺
+        適中的，不會突然講太快，很適合想一步一步從頭開始學的人。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        Homework (4 times):     25%
+        Programming Assignment: 10%(socket programming)
+        Midterm:                30%
+        Final exam:             35%
+ρ 考題型式、作業方式
+
+        期中期末考大多是問(簡)答題，需要特別把課本或投影片看熟。
+
+        作業則是課本的習題，簡單，不要遲交。
+
+        至於 Programming Assignment 就是要你實作一個 Network Application，包含
+ client,
+        server, 以及要能夠達到安全傳輸的要求。如果本來就對寫程式毫不畏懼，應該
+        不會是問題。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        課堂不點名
+
+      Ψ 總結
+
+        蠻推薦外系來修的，雖然我不是外系。不過在這之前沒有任何網路通訊的知識，
+        這門課上完之後意外地對通訊的領域頗感興趣的。孫媽雖然貴為 NCC 委員，私下
+        去問她問題她也會很耐心的回答，不會擺架子。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.250.143 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1610984890.A.DD0.html
+推 shishe: 推大神 一手包辦socket攻略 01/19 00:22
+推 RedArmy95: 笑死 這也有人寫評價01/19 01:55
+學長安安 這學期意外的有不少外系的來修 想說給未來想修的留個資訊
+推 unmolk: 為什麼不能寫ㄚ01/19 02:26
+※ 編輯: jerryh612 (180.217.91.147 臺灣), 01/19/2021 13:13:04
+推 rrro: 對啊，每篇評價文都很珍貴的，為什麼不能寫～ 01/19 14:28
+推 coyadi: 您真厲害 01/19 19:06
+→ Peanut7122: 100MB的同學 01/19 19:12
+→ RedArmy95: 沒有 想說必修課也沒得選XD 01/19 19:23
+推 whu950046: JHow 哥 你算離群值嗎 01/23 14:35

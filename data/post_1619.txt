@@ -1,0 +1,99 @@
+作者computex (taipei)看板NTUcourse標題[評價] 105-2 李允中 軟體工程設計時間Mon Jul  3 20:25:35 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        否
+
+      哪一學年度修課：
+        105-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        李允中 （資工系教授 非同名的生機系教授）
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系 資訊所 網媒所
+        最好先熟悉Java或修過物件導向再選修
+      δ 課程大概內容
+        Object-Oriented Concepts and Class Diagram Design
+        Software Engineering Practices
+        Basic Design Concepts
+        Design Patterns
+                Strategy Pattern
+                Observer Pattern
+                Abstract Factory Pattern
+                Decorator Pattern
+                Singleton Pattern
+                Builder Pattern
+                Iterator Pattern
+                Composite Pattern
+                Memento Pattern
+                Facade Pattern
+                Command Pattern
+                Chain of Responsibility Pattern
+        Final Presentation
+        Quiz & Final Exam
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        喜歡自學、做投影片、畫Class Diagram、大量練習寫Java者 ★★★★★
+        學期很忙、想耍廢拿學分、喜歡老師按部就班按照投影片教學者 ★
+
+      η 上課用書(影印講義或是指定教科書)
+        每次課後 助教Ceiba上傳講義
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        老師前一節課出作業，作業含有程式的需求(requirements)和SPEC，
+        小組課後進行開會討論，以組為單位畫出Class Diagram, 寫Java Code，
+        並且做成投影片在下一節課上台報告，每一節課幾乎每組都要上台報告。
+        老師會對每組上台報告的內容進行評價和修正，最後老師再公佈他的答案。
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        1. Class attendance, participation, homework (every week),
+                and web frameworks presentation (40%)
+                這項就是每週的作業、上台報告和投影片
+                （後來web frameworks 課程來不及，老師就沒有要求報告了）
+        2.Term project (25%)
+                開學的時候，老師會要求每組選一個Open Source的project來讀code，
+                並且分析其中的Design Pattern。學期最後，每組上台報告讀code
+                的狀況，並且要對其中的一些地方做refactor
+        3. Quiz (10%)
+                期中小考，每組在3小時內，依據requirements畫出Class Diagram，
+                並且根據SPEC寫出Java Code。 一組交一份Diagram和一份code
+        4. Final Exam (25%)
+                期末考試，每組在4個半小時內，依據requirements畫出Class Diagram
+                並且根據SPEC寫出Java Code。 一組交一份Diagram，每人交一份code
+
+        老師給分算紮實偏甜，問了很多人都有B以上，大部分都是A-以上。
+        老師上課說他幾年來只有當過兩個人，一位整學期不來上課，另一位考試抄網路上code，他說除此之外他不當人。
+
+      ρ 考題型式、作業方式
+        同上
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        注重出席率，但是可以跟老師請假（病假或事假），老師沒有為難。
+        外系選修，最好先熟悉Java和物件導向的觀念。
+        加簽方式，老師會叫每一位加簽的同學進他辦公室講述加選的理由。
+
+      Ψ 總結
+        這門課聽說像是去年開的軟體設計模式的威力加強版。
+
+        我覺得這門課要花非常多時間（Design Class Diagram、做投影片、
+        課後小組開會、Final Project等）。
+        最好組隊找人一組一起修課，能拉大神進來一組更好。
+
+        作業的部分小組內最好多思考，仔細推測老師要的Design是什麼，
+        哪裡可以做Encapsulate？
+        投影片要記得加頁碼。
+
+        若比較習慣上課是老師一步驟一步驟教學如何做設計和寫程式的話，
+        那麼這門課就不大適合來修了，因為上課大部分時間都是小組上台報告，
+        老師現場提出修正和建議，會有一種「老師今天有上課嗎？」的錯覺。
+        這門課像是一門討論課。
+        老師講話比較直白，哪裡他認為做不好要改進，他就會直接提出來，
+        雖然聽上去有點刺耳，但是他其實人很好。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 52.196.119.222
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1499084737.A.6AF.html
+※ 編輯: computex (140.112.73.139), 07/03/2017 20:40:42
+推 TwinkyLee: 小弟以為是寒舍的教授，特地前來噓文結果撲了空00 08/14 22:34
+推 louiseeg: 推用心的心得 09/13 14:07
+推 s89162504: 推 老師講話比較直白XDDD 09/21 15:33

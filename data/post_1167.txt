@@ -1,0 +1,69 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 107-1 蕭旭君 計算機安全時間Wed Jan 16 12:55:12 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        否
+
+      哪一學年度修課：
+        107-1
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        蕭旭君
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工所
+      δ 課程大概內容
+        Reverse:
+                Windows : Seh chain, basic x86-64 asm, Code obfsucation
+                Linux : vm, strings?, IDA Pro?
+        Pwn:
+                Format string attack, buffer overflow
+                Stack migration, heap overflow
+                House of xxxx
+        Crypto:
+                翹課翹光... 完全不知道在上啥
+        Web:
+                Basic Http, XSS, Sql Injection, Php, SSrf
+        Special lecture:
+                Orange: Auditing php code
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+      η 上課用書(影印講義或是指定教科書)
+        Google愛你
+        ctftime.org?
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        投影片講課，講師hen多位，然後通常有錄影，所以會習慣性睡過頭
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+       這個不太確定
+      ρ 考題型式、作業方式
+        作業滿1300即可，如果前面都有寫的話，大概寫道hw08就可以開始放置play惹
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        hw0好像是簽到寫3題吧，不過這個頗不準的，因為去年幾乎全簽．．．
+        基礎大概是要先有一顆能用的肝，final 三天睡10hr吧...
+
+      Ψ 總結
+        身為一個可憐重修生，今年的計安跟去年的比起來真的差滿多，
+        主要是今年的領域比較均勻，去年幾乎100% pwn。然後pwn的話，
+        跟去年品質基本上差不多，Web的話，真心推，讓我這個web廢物
+        學到惹許多，而且web助教的出題品質真的滿高der。Reverse的話
+        ，windows的部分滿有亮點的，算是不錯的windows逆向入門。然後
+        今年修課真心痛苦，final ctf前幾名每隊都有人去過Defcon QQ，
+        嚴重打擊信心，然後final ctf時，tlk leak滿多information的，
+        寫個爬蟲定期備份可以推出滿多神奇的東西XD
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.233.196
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1547614515.A.679.html
+推 hummingbird7: 推推 怎麼講得像你不是前幾名一樣XD 01/16 17:41
+不是r 我沒去過defcon QQ
+然後名次也沒有前五
+不像樓下那麼電<(_ _)>
+推 a127000555: Crypto星爆爆 還有講一點量子演算 01/16 19:53
+推 a127000555: 還有推全知全能 01/16 19:55
+你自己推自己耶
+※ 編輯: hortune (140.112.16.136), 01/17/2019 17:55:34
+推 Gin1024: crypto翹課助教會很傷心der 01/17 19:55
+可是日本旅遊不得不翹QQ
+※ 編輯: hortune (140.112.215.99), 01/19/2019 01:35:54

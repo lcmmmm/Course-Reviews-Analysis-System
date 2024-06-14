@@ -1,0 +1,57 @@
+作者PyTorch (PY火炬)看板NTUcourse標題[評價] 107-1 徐宏民 感知運算時間Sun Feb 10 13:55:34 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課： 107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄) 徐宏民
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+                 資工所 網媒所
+      δ 課程大概內容
+                   Introduction to cognitive computing and machine perception
+                   image sensor, video, compression, and shot detection
+                   low-level visual features: color, texture, and shape
+                   Local features and visual words
+                   visual feature: face
+                   hash-based indexing methods
+                   feature reduction and manifold learning
+                   convolutional neural networks
+                   3D image recognition
+                   aesthetic learning
+                   sentiment/emotion learning
+https://winstonhsu.info/2018f-cognitive-computing/
+Ω 私心推薦指數(以五分計) ★★★
+                 感覺想要以討論課的形式:但是好像討論不太熱烈
+      η 上課用書(影印講義或是指定教科書)
+                  講義, 老師還強調講義不可外流, 不可錄音
+      μ 上課方式(投影片、團體討論、老師教學風格)
+                  投影片, 團體討論, 不過基本上都只有老師在講
+      σ 評分方式(給分甜嗎？是紮實分？)
+                  還不知道成績, 不過開學講有三次作業, 後來不知道為什麼只變成2次
+                  配分不知道又改成怎樣
+      ρ 考題型式、作業方式
+                  有一次期中考 開書的, 蠻簡單的, 記得把重點投影片印好就好
+                  計算也算簡單 考些Haar feature, integral image之類的簡單計算
+                  還有precision, recall之類的簡單計算
+                  數學不會考得很難
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+                 寄信給助教加簽, 開學幾週後加退選退掉的人有點多, 所以不會滿
+      Ψ 總結
+                 作業兩次 HW0算蠻簡單的, 只要edge detection,
+                 HW1 是image retrival, 感覺跟徐教授之前開的多媒體資訊檢索有重疊
+                 一次期中考, 開書考 簡單
+                 一個final project 只要present不用寫報告
+                 今年是第一次開這門課, 之後不知道會不會改變, 不過我今年修是覺得
+                 不算重的課, 跟隔壁電機所的電腦視覺比起來
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.76.232.180
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1549778140.A.B82.html
+※ 編輯: PyTorch (42.76.232.180), 02/10/2019 13:56:06
+推 dannyko: 然後成績很晚送 02/11 11:36
+推 CVPR: 推 又甜又涼 還有零食吃 02/12 11:06
+推 numpy: 成績真的晚，不過滿甜的XD 02/13 02:54

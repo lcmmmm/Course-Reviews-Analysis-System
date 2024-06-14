@@ -1,0 +1,75 @@
+作者hortune (enutroh)看板NTUcourse標題[評價] 106-1 陳偉松 自動機與形式語言時間Fri Jan 12 01:33:59 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        是
+
+      哪一學年度修課：
+        106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        陳偉松 Tony Tan
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工系 大三必修
+
+      δ 課程大概內容
+        Lesson 1. Preliminaries
+        Lesson 2. Deterministic finite state automata
+        Lesson 3. Nondeterministic finite state automata
+        Lesson 4. Regular expressions
+        Lesson 5. Context-free languages
+        Lesson 6. Pumping lemma and push-down automata
+        Lesson 7. CFG = PDA
+
+        Midterm
+
+        Lesson 8. Turing machines and decidable languages
+        Lesson 9. Variants of Turing machines
+        Lesson 10. Universal Turing machines and Halting problem
+        Lesson 11. Reducibility
+        Lesson 12. Time and space complexity
+        Lesson 13. NP-complete problems
+        Lesson 14. NLog- and PSPACE-complete problems
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+          ★ ★ ★ ★ ★
+
+      η 上課用書(影印講義或是指定教科書)
+        老師講義
+        不過脈絡是照Introduction to Computation Theory
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        課前公布Note，然後兩個半小時板書
+        老師上課會在白板上直接推導，然後時不時停下來問同學ok hah?
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        I don't know
+
+      ρ 考題型式、作業方式
+        四次作業，每次作業四到五題，難度不一
+
+        期中期末考，分別五題，大概都是兩題送分，兩題簡易，一題進階的形式
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        全簽，不管出席率，不太需要基礎
+
+        老師滿注意與學生互動的情形，不過滿常發生講的太快，學生連要問甚麼問題都不
+        知道的情況(QQ)
+
+      Ψ 總結
+        老師人不錯，助教人帥又nice，期末考當天TA Hour還超時加班三個小時，根本佛心。
+
+        期中期末考的難度其實滿不錯的，如果只是想要混分，應該很容易就可以及格，如果
+        想要獲得高分一點，就要多想久一點。然後，因為考試時間充裕(3 hr)，又只有五題
+        其實滿適合給人思考，突破自己的極限。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.217.38
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1515692041.A.09E.html
+推 simonmao: 推助教線代王大神大學長 01/13 00:32
+推 BreathWay: 推 很有收穫的一門課 01/13 00:47
+推 kevin1ptt: 推助教人帥！ 01/13 02:05
+推 t1016d: 推三樓人帥 01/13 02:35
+推 peter0722: 推原po全知全能 01/14 15:36
+推 t1016d: 推樓上帥p 01/14 16:31

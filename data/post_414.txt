@@ -1,0 +1,78 @@
+作者SwayBanLa (隨便啦)看板NTUcourse標題[評價] 109-1 王衍智 財務計量時間Tue Apr 27 22:05:38 2021
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：109-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+財金系王衍智教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+財金系六選四選修
+
+      δ 課程大概內容
+Chapter 2 The Simple Regression Model
+Chapter 3 Multiple Regression Analysis : Estimation
+Chapter 4 Multiple Regression Analysis : Inference
+Chapter 5 Multiple Regression Analysis : OLS Asymptotics
+Chapter 6 Multiple Regression Analysis : Further Issues
+Chapter 7 Multiple Regression Analysis with Qualitative information
+Chapter 8 Heteroskedasticity
+Chapter 9 More on Specification and Data Issues
+Chapter 10 Basic Regression Analysis with Time Series Data
+Chapter 11 Further Issues in Using OLS with Time Series Data
+Chapter 12 Serial Correlation & Heteroskedasticity in Time Series Regressions
+Chapter 13 Pooling Cross Sections Across Time
+Chapter 14 Advanced Panel Data Methods
+Chapter 15 Instrumental Variables Estimation & Two Stage Least Squares
+Chapter 17 的 Logit Model
+Chapter 18 的 Tests for Unit Root
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+喜歡鳥：★★★★★★★★
+上過老師的初統：★★★★★
+上完計量導論想更進一步了解：★★★★★
+不喜歡數學：★★★
+
+      η 上課用書(影印講義或是指定教科書)
+Introductory Econometrics: A Modern Approach (by Jeffrey M. Wooldridge)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+數學的部分都以白板推導，偶而佐以課本的PPT
+20分鐘的下課只會下課10分鐘，然後最後提早10分鐘放學
+每次上課一定會播放鳥的影片xd，大多都蠻可愛的~
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+平時作業 約10%
+期末報告 約30%
+期末考     約60%
+基本上是扎實甜，應該是算出來是多少就是多少
+最後有80% A-以上，但應該不能完全歸咎於分數甜，可能是因為是選修課，所以來修課的
+人都有一定能力和興趣。
+
+      ρ 考題型式、作業方式
+作業：這學期出了2次，是採分組作業，約3到5人一組。
+
+期末報告：採分組，組別跟作業的分組一樣，報告是跟學期教學內容有關就可以。
+
+考試：沒有期中考，只有期末考，期末考前按照慣例老師會給一份模擬題讓我們練習，與
+實際上考試有數題重複，所以一定要好好做！
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不點名。
+第一堂課好像只有讓有上過計量導論或雙主修的人加簽，後來有沒有讓外系加簽就不確定
+，但從修課名單看來沒有。
+
+      Ψ 總結
+看版上沒有財務計量的評價文所以就來寫一下，希望可以給學弟妹一個參考。
+我本人是蠻推薦的，應該算是從計量導論到更高階計量課程中間一個很好的銜接課程。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.193.184 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1619532340.A.D2A.html
+※ 編輯: SwayBanLa (223.136.193.184 臺灣), 04/27/2021 22:07:49
+推 yanchi030: 耶～終於有這堂課的評價了，感謝原po分享！ 04/27 23:16
+推 unmolk: 樓上卷神 04/28 08:37
+推 cuteSquirrel: 好可愛 04/28 10:57

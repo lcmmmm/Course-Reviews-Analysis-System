@@ -1,0 +1,108 @@
+作者momo04282000 (Momo超人)看板NTUcourse標題[評價] 107-2 余正道 微積分二時間Tue Jun 18 23:42:19 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：
+         107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄
+         余正道老師
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         數學系大一必修
+
+      δ 課程大概內容
+         數學系該學的多變數微積分+補充一些些變分法 (變分法不考)
+
+         (以下抄錄自CEIBA 兩個逗點將一週兩次的上課內容分開)
+
+         Week 1 Continuity, Partial derivative & differentiability
+         Week 2 Chain rule, 228 (no class)
+         Week 3 Mean Value Theorem & Taylor expansion, Partial integral
+         Week 4 Line integral, 老師請假 & Quiz 1
+         Week 5 Finding Potential, Compact set & Implicit Function Theorem
+         Week 6 Extrema, More on Implicit Function Theorem & Quiz 2
+         Week 7 Spring break (no class)
+         Week 8 Change of coordinates, Inverse function & Jacobian
+                & extrema revisited
+         Week 9 Jordan measure, Midterm
+         Week 10 Multiple integral & Repeated integral, change of coordinates
+         Week 11 Improper integral, more on improper integral
+         Week 12 Surface area, volume of n-disk & Quiz 3
+         Week 13 Gauss's theorem, applications
+         Week 14 Integral on surface, Gauss's theorem for surface & Quiz 4
+         Week 15 Stoke's theorem, More on surfaces
+         Week 16 Discussion about Quiz 3 & Calculus of variations,
+                 Discussion about HW 12 & Calculus of variations
+         Week 17 No class, final
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+         喜歡想數學、寫證明:5顆星
+         喜歡可愛+講解清楚的老師:5顆星
+         喜歡老師把版書寫的很完整+整齊:3.5顆星
+         喜歡修涼甜爽的課:你跑錯地方ㄌ孩子
+
+      η 上課用書(影印講義或是指定教科書)
+         Introduction to Calculus and Analysis by Richard Courant
+         & Fritz John Volume II (Chapter 1-5, 7)
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         板書上課, 老師會自己寫當天上課要用的筆記, 但很少拿出來看
+         老師的時間掌握得都蠻剛好的，一次上課都會剛好把CEIBA上寫的部分上完
+         只是學期開始沒多久就有點覺得老師的板書有點sloppy
+         證明不會寫得很完整，有些地方也會用口述的帶過
+
+         一開始有點不適應但後來覺得老師本來就沒有義務要幫我們把筆記整理好
+         而且老師還是講解的很清楚+有Office Hour可以問
+
+         老師人很好，偶爾會關心大家的學習狀況
+         但這學期老師也有提到大家的表現不太好，有一次好像是下課前老師就說:
+         「大家最近還OK嗎有沒有哪裡特別不懂的? 感覺大家的狀況比起上半學期
+           差了不少，如果跟上學期比的話又更差了一點」(苦笑)
+         很難得聽到老師用有稍稍失望的語氣這樣說話，聽到的時候
+         心裡蠻對不起老師的
+
+         不知道是不是因為發現大家狀況不太優，期末考就出得很平易近人
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+         30% 作業+小考 35% 期中考 35% 期末考
+         還沒拿到考卷+等第(之後補上)，但即便如此應該是扎實偏甜(老師人超好!!!)
+         (但也是真的扎實的5學分，對嚴謹的數學證明和推導沒有興趣的人還是不建議)
+
+      ρ 考題型式、作業方式
+         有12次作業，幾乎每個禮拜都會出4~5題左右
+         大部分點課本的習題，偶爾老師會自己補充一些習題 or 給hints
+
+         有4次小考，滿分分別為20, 30, 30, 30
+         小考基本上是跟習題或是上課證過的定理相關
+         非常能感受到老師助教的愛(?
+
+         期中期末還是跟上學期很像，會出習題和上課定理證明
+         期中考滿分120，上課定理偏多因此班平均有點低，55分
+         期末考滿分119，93分和習題、小考一模一樣，20分和上課內容極度相關
+                        6分防破台小題，班平均77.7 驚人的高R
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         出席率=數學系的課  加簽應該都簽(人數沒滿)
+         基礎:微積分一(有學過寫證明會比較建議，不確定這學期是否有上學期
+                       修微甲or微乙or沒修的同學)
+
+      Ψ 總結
+         系上教學品質肯定排在前段班的好老師，遇到賺到
+         而且今年還得了ICCM數學獎銀獎，超強!!!
+         老師明天開系上的線代 (老師做代數幾何的所以可能會起飛XD)
+         歡迎大家來修~~~ (老師不開分析令人難過QQ)
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.240.53 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1560872541.A.0F9.html
+※ 編輯: momo04282000 (140.112.240.53 臺灣), 06/18/2019 23:44:10
+※ 編輯: momo04282000 (140.112.240.53 臺灣), 06/18/2019 23:46:21
+※ 編輯: momo04282000 (140.112.173.160 臺灣), 06/19/2019 23:40:18
+推 orangeon11: 證到那麼強 06/21 16:39
+推 tom282f3: 余正道是好人 當年他網開一面 救了我的微積分一命 06/30 01:53
+→ tom282f3: 當年他每天都穿花襯衫 不知道現在還是不是XD 06/30 01:53
+                                 還是哦只是偶爾會穿素一點的XD
+※ 編輯: momo04282000 (125.231.124.4 臺灣), 06/30/2019 13:25:51

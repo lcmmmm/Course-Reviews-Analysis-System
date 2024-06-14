@@ -1,0 +1,76 @@
+作者chun10396974 (娜嗲希口老公)看板NTUcourse標題[評價] 108-1 工程數學—微分方程 林清富時間Sat Jan 11 01:05:32 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：108-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        林清富
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        電機系大二上必修
+
+      δ 課程大概內容
+
+        1.Inrtroduction to Differential Equations
+        2.First-Order Differential Equations
+        3.Modeling with First-Order Differential Equations
+        4.Higher-Order Differential Equations
+        5.Modeling with Higher-Order Differential Equations    (Only cover5.1)
+        7.The Laplace Transform
+        11.Orthogonal Functions and Fourier Series      (Only cover 11.1-11.3)
+        12.Boundary-Value Problems in Rectangular Coordinates(Only cover 12.1)
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        ★★★★
+
+      η 上課用書(影印講義或是指定教科書)
+
+        Differential Equations With Boundary-Value Problems Zill/Cullen 7e
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        全板書
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+        15%    作業    老師選的課本習題，共4次
+        42.5%  期中考  算簡單，不過某助教也是頗呵，還上黑特版
+        42.5%  期末考  寫不完...有2大題(占20分)跟去年考古一模一樣...
+
+      ρ 考題型式、作業方式
+
+        同上
+        EE資料大全有考古
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        應該全簽吧
+        有微積分基礎比較好
+
+      Ψ 總結
+
+        基本上上課就是老師抄板書，底下跟著抄，內容跟課本一模一樣，或許自己讀會
+        快些，不過去上課可以聽老師獨特的想法(？像是用牛頓冷卻定律去賣蛋糕會賺大
+        錢之類的，然後期中考以前兩次作業題目都超級多，期中考後直接砍2/3，反正這
+        門課本來就用背的，上不上課好像也沒差，尤其是106改課綱後，3學分被砍成2學
+        分，考古題從看不懂到好簡單就知道內容少了很多，最後還是黑特一下期末考，
+        出12大題，考試時間延長再延長，到底想搞誰...
+
+--
+https://imgur.com/C562J40
+https://imgur.com/8CM7SiO
+https://imgur.com/mCNalkM
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.245.134 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1578675952.A.1DE.html
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/11/2020 01:06:12
+推 gout005: 推老師常常尬聊 01/11 01:23
+真的很少人會回應他XD
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/11/2020 01:29:41
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/11/2020 02:56:35

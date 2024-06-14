@@ -1,0 +1,80 @@
+作者alexunxus (tangent)看板NTUcourse標題[評價] 104-2 細道和夫 應用數學四時間Thu Jul 28 02:33:51 2016
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：no
+
+
+      哪一學年度修課：
+104-2
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+細道和夫
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+物理系選修（大三或大四來修）
+      δ 課程大概內容
+* eigenfunction methods for differential equations
+* special functions
+* partial differential equations
+* calculus of variations
+* group theory
+* representation theory
+      Ω 私心推薦指數(以五分計) ★★★★★
+五星
+      η 上課用書(影印講義或是指定教科書)
+Mathematical Methods for Physics and Engineering, Third Edition
+K.F. RILEY, M.P. HOBSON and S. J. BENCE, Cambridge University Press
+Chapters 17, 18, 20, 21, 22, 28, 29
+      μ 上課方式(投影片、團體討論、老師教學風格)
+老師學期初硬爆出到期中考前的lecture note，然後再期中考後硬爆出了期末考前的
+lecture note。上課基本上是把lecture note抄到黑板上並加以解釋。老師上課的速度
+很快，稍微恍神就會落掉不少東西，他的lecture note是設計好的，一堂課就是要講多少
+他都自己算好了，所以進度方面很快，三個小時可以上非常多的內容。
+
+前半部主要是在講special function, 基本上的架構都是先分析微分方程的種類，然後
+級數解、找generating function和Rodriguez formula，然後找recurrent formula.
+前面五堂都在講special function, 架構分明條理清楚，且不會鑽研過於細節的性質。
+這些部分大概自己看講義都不會有太大問題。不過Legendre, bessel倒是比爾成的古典
+電力學講得少一些。
+
+然後開始進到解partial differential equation，主要用三種方法，Fourier transform
+, Green's function, Separation of Variable，都是古電的常客。內容上當然是比古電
+簡單不少，因為這門課是設計給初學PDE的同學。
+
+最後是variation 和group theory, representation theory, lie group.就是應數四的
+重頭戲，這部分老師教得稍微難一些而且有跳脫課本，在學習上需要比較多的時間適應，
+不過老師的lecture note多看幾遍幫助很大，orthogonal theorem我是推了好幾遍才稍
+微有了解他在證明什麼。最後lie group 的部分只考了一半，後半classification of
+lie algebra沒有講完，因為老師回去考前複習了XD，這個部分還蠻可惜的。
+
+老師基本上是講到一個部分，然後會看著全班問 any question?如果發現大家一臉茫然
+他可能會再講一次。老師基本上是個極為勤奮的人，看得出來他有認真備課，講義的條
+理也整理的很好，被問到問題也會耐心回答，偶爾會裝弱。物理系其實少見勤奮教學這
+類型的老師XD
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+作業30
+期中35
+期末35
+
+甜 期中期末都有人滿分，有好好讀書寫作業滿分不難。
+
+      ρ 考題型式、作業方式
+考題基本上不會超過上課內容，約4題連鎖題。照著老師的提示這樣推下來都不是太難寫
+印象中只有一題考associated legendre polynomial的reccurent formula花了久一點的
+時間去證。
+
+作業是每個禮拜都有，共13次，一般是Riley那本的習題勾個5~6題，你只要寫一題，兩個
+星期教一次作業。不過有幾次老師勾了快20題，寫得好累。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+不注重出席率，需要應數二基礎、微積分、量子物理（但不是必須）。都簽 都簽 沒在
+怕你修的。
+      Ψ 總結
+這門課是少數我覺得有學到很多知識的應用數學課。因為應數一三四一起修，我可以說
+這三門裡面我學得最開心、壓力也最小，但是學到最多的就是應數四。有認真備課的老
+師上課品質就是不一樣。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.34.40
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1469644433.A.53D.html
+推 chopper594: 老師超強 07/28 04:40
+推 sam85sam22: 原PO也很強，通通100分 07/31 02:33

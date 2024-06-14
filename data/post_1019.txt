@@ -1,0 +1,119 @@
+作者kevin1ptt (蟻姨椅yee)看板NTUcourse標題[評價] 107-2 李彥寰 預測、學習、與賽局時間Tue Jun 25 22:52:16 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        李彥寰
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        資工所
+
+      δ 課程大概內容
+        課程網頁（需要登入）：https://cool.ntu.edu.tw/courses/233
+
+        Statistical learning
+        - Empirical risk minimization
+        - Rademacher complexity
+        - VC dimension
+        - Covering number
+        - PAC-Bayes analyses
+        - Model selection
+
+        Multiplicative weight update
+        - Weighted majority vote
+        - Individual sequence prediction
+        - Universal source coding
+        - Normalized maximum likelihood
+        - Static hypotheses
+
+        Aggregating algorithm(s)
+        - Learning with expert advice
+        - Mixability
+        - Online portfolio selection
+        - Online convex optimization
+        - Online gradient descent
+
+        Misc
+        - Decision theoretic online learning (hedge, exponentiated gradient)
+        - Defensive forecasting
+        - Quantile regret bound
+        - Second-order bounds (AdaHedge)
+        - Adaptive regret (specialist AA, fixed share)
+
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        喜歡（非常理論的）數學，對統計、微積分、線代算熟：★★★★★
+        想要寫程式，不喜歡讀/寫證明：★
+
+      η 上課用書(影印講義或是指定教科書)
+        基本上是老師的講義，有興趣的話可以搭配一些相關論文看
+        （我自己這學期只有看三四篇上下，不包含final project的話）
+        另外大致上可以參考同名的這本書：
+        Prediction, Learning, and Games, by N. Cesa-Bianchi and G. Lugosi
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        基本上是投影片講解，偶爾會用黑板補充一些細節。
+        老師不太會把所有細節都寫在投影片上，
+        （尤其是上到最後時，很多東西都是我們之前證過所以直接用）
+        所以上課基本上不太能分神，不然可能一下子就看不懂前一步是為什麼。
+        不過基本上定理的直觀意義和證明的主要思路都會寫好（或是上課講），
+        所以上課沒聽懂也沒下課問的話其實自己回家看也是可以。
+
+        老師人很好，上課或下課都可以隨時問問題或閒聊，
+        有時候下課甚至會主動跑來聽學生在聊什麼，順便加入話題XD
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        4次手寫作業取高的3次，各13.33% => 40%
+        期中考                         => 20%
+        Final project (報告 + report)  => 40%
+
+        個人是作業分數全拿，期中考94，final project 90，最後 A+。
+        （好像沒有調分，就直接用算完的成績換算等第）
+
+      ρ 考題型式、作業方式
+        考題和作業的形式很像，都是好幾個大題，每個大題會有2～6小題。
+        通常一個大題最後都會推出一個上課沒講到、但滿相關的結果，
+        而且都是老師自己設計的原汁原味題目！
+        有些可能是需要一些線代、機率的知識，
+        有些是用上課的內容、證明技巧或結果去延伸等等。
+        個人是覺得難度控制不錯，很有鑑別度（尤其是期中考XD）。
+
+        Final project 基本上是分組做一個小主題的 survey，
+        準備一個最多半小時的報告，以及一個不超過12頁的 report。
+        如果早點開始準備的話應該不會太麻煩，
+        不過我們太晚決定題目，導致最後做得有點趕。
+        建議可以早點和老師討論題目的方向或可行性，可以獲得一些建議。
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        本來人就不多，老師也不管出席。
+
+        要修的話大概就是對一些機率、線代、微積分等等要有一定的熟練度會比較自在
+        （以老師的口吻來說是 math maturity）
+
+        因為人不多（勸退力道很夠）所以應該是全簽，旁聽也是OK。
+
+      Ψ 總結
+
+        應該算是資訊系少數的數學課（和少數做理論的老師），
+        因為上學期沒修到最佳化演算法
+        （見https://www.ptt.cc/bbs/NTUcourse/M.1547834570.A.B57.html）
+        覺得遺憾，就來修修看這個虐待自己。
+
+        整體來說算是對 (online) ML 的理論部分開了眼界，非常醍醐灌頂，
+        可惜最後好像有些老師滿想講的主題沒時間講完。
+
+        下學期也歡迎捧場老師第二次開最佳化演算法！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.184.4.151 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1561474341.A.0CE.html
+推 liang1230: 推彥寰 06/25 23:57
+推 dQoQb: 推寰神 06/27 10:55
+推 empennage98: 推彥寰 06/28 00:16
+推 hortune: 推大學長!!! 06/28 23:05
+※ 編輯: kevin1ptt (111.184.4.151 臺灣), 07/10/2019 22:43:11

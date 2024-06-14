@@ -1,0 +1,109 @@
+作者shiburin (凜冬將至)看板NTUcourse標題[評價] 106-1 白奇峰 材料熱力學時間Sat Jan 13 02:12:42 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：可
+
+      哪一學年度修課： 106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+                 白奇峰
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+                 材料系大二必修
+      δ 課程大概內容
+
+                 我把每個章節的核心必備觀念都打在這裡
+                 供以後的人參照[(introdutory) 就是不太懂也沒關係的部份]
+
+                 1.First Law
+                 2.Second Law
+                   S = dQ/T
+                 3.Entropy
+                 -- Midterm --
+                 4.Auxiliary function (U H A G):
+                   Fundamental relation
+                 5.Maxwell relation
+                 6.Heat capacity：
+                   Lattice heat capacity model (introductory)：
+                     a.Einstein Model
+                     b.Debye Model
+                 7.Enthalpy, Entropy and Third Law：
+                   a.Entropy as S = k ln Ω
+                   b.Partition function (discrete)
+                 --Midterm--
+                 8.One-component system：
+                   a.Clausius-Clapeyron Equation
+                   b.Partial molar property
+                 9.Gases：
+                   a.Van der waals Model and P-V diagram
+                     (critical point)
+                   b.Virial equation
+                   c.Fugacity (definition)
+                 10.Statistical Mechanics :
+                    Basic Concept of Phase space and Hamiltonian
+                    a.microcanonical
+                    b.canonical
+                    Fluctuation-Dissipation Theorem (introductory)
+                 --Final--
+      Ω 私心推薦指數(以五分計) ★★★★★
+                 考題「趣味」性 ★★★★★
+                 作業份量少 ★★★★★
+      η 上課用書(影印講義或是指定教科書)
+                 原則上是用Gaskell的Introduction to Thermodynamics of Material
+                 統計力學簡介的部分是用另外的講義
+      μ 上課方式(投影片、團體討論、老師教學風格)
+                 不點名
+                 也不會管學生做什麼
+                 投影片為主
+                 版書是有必要寫的時候才寫
+                 通常是要計算推導的部分才寫版書
+      σ 評分方式(給分甜嗎？是紮實分？)
+                 身份敏感不便評論
+                 不過
+                 聽說作業30%
+                 基本上有交就會全給
+      ρ 考題型式、作業方式
+
+                 考試：
+                 通常5題
+                 裡面再分(a)(b)(c)...三到四題
+                 要計算的通常是作業或者是課本裡的範例
+                 大約三到四題
+                 剩下都是關係式推導
+                 會給Hints，不要怕
+                 Hints會多到讓你覺得像是答案就幾乎是寫在上面了
+                 5題裡有一大題是統計熱力的部分
+
+                 作業：
+                 每兩個禮拜出一次
+                 課本習題
+                 勾四題做(email會寄說哪幾題）
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+                 不點名，加簽應該可以吧？
+                 基礎嘛...會微積分就可以了哦
+                 畢盡是Introduction
+      Ψ 總結
+                 老師跟助教人都很好
+                 畢盡材料系大二有個有趣的人物
+                 在他窮追猛捨的追著問問題時
+                 老師助教都很有耐心
+                 嗯，我覺得
+                 材熱的考卷大概是全材料系裡最好看的考卷
+                 每個數學式都用Roman Times打的整整齊齊
+                 像是一件藝術品
+                 然後因為很多Hints
+                 寫起來格外好玩
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.249.200
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1515780767.A.71B.html
+推 penguin828: 歡樂2001 01/13 11:39
+推 ANUBISANKH: 原來有很多 hints 啊...@@ 01/14 09:09
+推 ANUBISANKH: 用 LaTeX 打的比較美觀，之後會把講義也改進。 01/14 09:14
+推 imcyu: 想請教 當的多嗎 想修但外系有點怕 01/14 14:33
+這我不清楚，應該還好
+樓上是教授本人
+你站內信問問看比較準～
+※ 編輯: shiburin (223.139.142.72), 01/14/2018 17:01:29
+→ dearober: 站內信教授XDDDDDDDD 01/14 20:24
+推 boyzxc: 助教路過XD 01/15 20:10

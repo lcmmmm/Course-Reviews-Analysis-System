@@ -1,0 +1,90 @@
+作者chun10396974 (娜嗲希口老公)看板NTUcourse標題[評價] 107-2 電路學 陳信樹時間Sat Jan 11 02:01:50 2020
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+        陳信樹
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+        電機系大一下必修
+
+      δ 課程大概內容
+
+        1.Basic Concepts
+        2.Resistive Circuit
+        3.Nodal and Loop Analysis Techhniques
+        5.Additional Analysis Techniques
+        6.Capacitance and Inductance
+        7.First-and Second-Order Transient Circuit
+        8.AC Steady-State Analysis
+        9.Steady-State Power Analysis
+        12.Variable-Frequency Network Performance
+        13.The Laplace Transform
+        14.The Application of Laplace Transform
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+        不重要，四班都一樣，自己讀最快
+
+      η 上課用書(影印講義或是指定教科書)
+
+        J.D.Irwin & R.M.Nelms, Engineering Circuit Analysis, Wiley 11E
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+        投影片，超級亂
+        因為很重要，再強調一次，超級亂
+        大概長這樣
+        https://imgur.com/a/srF4J7k
+σ 評分方式(給分甜嗎？是紮實分？)
+
+        60%     小考(4次取3次最高的)
+        40%     期末考
+
+      ρ 考題型式、作業方式
+
+        沒有作業，沒有考古(106改課綱)
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+        全簽吧(？
+
+      Ψ 總結
+
+        電路學其實上起來像電子學(零)，一開始因為講的東西實在是太廢了，所以完全
+        懶得聽，等到第一次小考炸了才開始讀(X，等到後面的東西越來越雜，發現聽課
+        其實也沒什麼用(不是我個人偏見，問過四個班級的人，沒有一個覺得聽課有用.
+        .....)自己讀還比較快，這門課最難的地方在計算量，小考50分鐘要按數十個
+        phasor的計算，解4大題的KCL、KVL，有點疲勞轟炸。
+
+--
+http://i.imgur.com/gRTSOz2.jpg
+http://i.imgur.com/lFv2txV.jpg
+http://i.imgur.com/0hRXcTl.jpg
+http://i.imgur.com/BBK0Qcl.jpg
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.245.134 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1578679326.A.C02.html
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/11/2020 02:35:57
+→ jexus: 這講義很OK啊 哪裡亂(？ 01/11 12:50
+不覺得…很擠嗎？
+※ 編輯: chun10396974 (223.136.171.159 臺灣), 01/11/2020 13:20:52
+推 alan23273850: 太雜亂，沒有重點，不是好的 slide 01/11 15:03
+→ alan23273850: 不過不可諱言一般的 lecture slide 為了要和課本一 01/11 15:03
+→ alan23273850: 樣豐富，都會做成這樣 01/11 15:03
+推 tryptochan: 奕君班路過 覺得聽課體驗還算良好(? 01/11 15:13
+推 Kimg: 類比tree哥 01/11 19:28
+推 Ruin0019: EE必/選修的講義有不少比這個好 01/12 02:36
+→ ymiexd: 原本也是大二上的課怎麼會沒有考古 01/12 23:43
+→ hilarious: 考古很多吧= = 01/12 23:45
+考古有是有，但是出題方向蠻不一樣的
+※ 編輯: chun10396974 (140.112.245.134 臺灣), 01/13/2020 00:50:12
+→ bmpss95156: 覺得不亂的是因為原po選了乾淨的 06/26 00:21
+→ bmpss95156: 信樹者得永生 06/26 00:21

@@ -1,0 +1,205 @@
+作者Ruin0019 (Ruin0019)看板NTUcourse標題[評價] 107-2 周俊廷 機率與統計時間Sat Jun 22 20:18:47 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）： 是
+
+
+      哪一學年度修課：107-2
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+         周俊廷
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+         電機系大二必修
+      δ 課程大概內容
+        1.Experiments, Models, and Probabilities
+          1.1. Applying Set Theory to Probability
+          1.2. Probability Axioms
+          1.3. Some Consequences of the Axioms
+          1.4. Conditional Probability
+          1.5. Independence
+          1.6. Sequential Experiments and Tree Diagrams
+
+        2.Random Variables
+          2.1. Definitions
+          2.2. Probability Mass Function (PMF)
+          2.3. Families of Discrete Random Variables
+          2.4. Cumulative Distribution Function (CDF)
+          2.5. Probability Density Function (PDF)
+          2.6. Families of Continuous Random Variables
+
+        3.Random Variables and Expected Value
+          3.1. Conditional Probability Mass/Density Function
+          3.2. Probability Models of Derived Random Variables
+          3.3. Averages
+          3.4. Variance and Standard Deviation
+          3.5. Expected Value of a Derived Random Variable
+
+        Midterm Exam
+
+        4.Random Vectors
+          4.1. Joint Cumulative Distribution Function
+          4.2. Joint Probability Mass/Density Function
+          4.3. Probability Models of N Random Variables
+          4.4. Marginal PMF/PDF
+          4.5. Functions of Two Random Variables
+          4.6. Conditioning by a Random Variables
+          4.7. Independent Random Variables
+
+        5.Sums of Random Variables
+          5.1. Expected Values of Sums
+          5.2. PDF of the Sum of Two Random Variables
+          5.3. Moment Generating Functions
+          5.4. MGF of the Sum of Independent Random Variables
+          5.5. Random Sums of Independent Random Variables (Interleaf)
+          5.6. Central Limit Theorem
+          5.7. Applications of the Central Limit Theorem
+          5.8. Deviation of a Random Variable from the Expected Value
+
+        6.Hypothesis Testing and Parameter Estimation
+          6.1. Binary Hypothesis Testing
+          6.2. Confidence Intervals
+
+        Final exam
+      Ω 私心推薦指數(以五分計) ★★★★★
+         總分 ★ (這顆是給明達231的)
+         BUT 如果你喜歡說話不算話的老師 ★★★★★★★★★★★★★★★★★★
+η 上課用書(影印講義或是指定教科書)
+         被嫌章節排序很爛的
+         Probability and Stochastic Processes (3rd Edition)
+         所以上課還是照2nd Edition的排序 上面的課程內容也是列2nd的章節
+      μ 上課方式(投影片、團體討論、老師教學風格)
+         簡略的投影片
+         好處是太簡略了 所以找公式很快
+      σ 評分方式(給分甜嗎？是紮實分？)
+         期中比以往簡單很多 但分數應該會被期末平衡掉
+         我想是不甜啦
+      ρ 考題型式、作業方式
+         作業-從課本習題挑題 但所謂的課本包含2nd、3rd、美國版
+         小考-他爽考甚麼 就考什麼 詳細後述
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+         他很喜歡問學生問題 如果沒人回答的話 就會重複他的問題
+         語氣流露出「你們應該要知道 你們怎麼不知道」的情緒
+         其實大部分人都知道答案 只是不想跟他互動
+
+         以上情況其實不影響我對這堂課的評價
+         真正讓我火大的是他的小考
+
+         他常常上課講到某個東西 就說「那我們把這當成下次上課的小考題」
+         然後你就要花時間去準備
+
+         然後到了下次上課 就看他兩手空空走進教室
+         有87％的機率 他上課上到一半會說「shit 我是不是說有要小考」
+         之後有87％的機率他會說「那我們下次連今天的題目一起 考2題」
+
+         期中考後 他乾脆在黑板上列出「他說要考 但還沒考」的題目
+         以免自己再忘記 結果當然是(ry
+
+         如果他一直這麼健忘就算了 可是並沒有
+         這學期還是考了至少9次小考
+         所以只要他說要考 你就要花時間準備 然後等著被當白痴耍
+
+         有時候還會出現這種情況：
+         他說下次考兩題
+         但我們想半天 只想出其中一題的解法
+         正當我們想著至少能拿到50分時 他拿著考卷走進教室
+
+         卷子上面只有一題：我們不會的那題
+
+         更不用說他有一次請假
+         補課時大家都到了 就他沒到
+
+         唯一要慶幸的是 因為請假太多進度太慢
+         最後幾周就沒小考了
+         不然我真的會氣死 做人有夠沒信用
+         ___________________________________________________________________
+
+         最後還有一件事：你的考場會影響你的期中考分數
+         根據在電二考的謝班同學所說
+         他們試場的老師有說第2題的沉積如果失敗 不會重複做無限次
+
+         所以
+         如果你運氣不錯 你誤解題意=有老師幫你釐清
+         但如果你在明達231考 你誤解第2題題意=爆炸
+
+      Ψ 總結
+         請多做好事 累積系上預選的運氣
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.248.172 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1561205931.A.6B5.html
+推 hsnuyi: 我101-2修的 沒啥改變XD 06/22 20:39
+人沒有那麼容易改變的(X)
+錯就錯在沒加簽到宏昀(O)
+推 pttnowash: 教授用心良苦 要你統計他唬爛跟不來跟小考的機率 06/22 20:46
+我知道 這是Binary Hypothesis Testing的應用對吧
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/23/2019 02:23:14
+→ fun5566: "我們不會的那題" "第2題的沉積"<--有這2個題目或題目的 06/23 14:52
+→ fun5566: 圖嗎?          ㄥㄣ,.......臺大電機耶 06/23 14:54
+噓 desangfroid: 期中考第2題明明寫得很清楚： 06/23 17:04
+→ desangfroid: a failed "re"work will be disposed 06/23 17:05
+→ desangfroid: 沉積失敗兩次後就結束了，當然不能重複做無限次 06/23 17:06
+我想你沒有看懂我的意思 我說的不是題目清不清楚
+我要說的是：同樣都是誤解題目 其他考場的人卻有被提醒
+→ desangfroid: 還有小考本來就該準備，怎麼會被當白痴耍？ 06/23 17:07
+你又知道我沒準備了
+→ desangfroid: 難道不考試，你就不學習？ 06/23 17:08
+你又搞錯我的意思了 被當白痴傻是指：花時間準備了卻沒考 老師沒信用
+
+至於你說不考試就不學習 我只能說你在跳針
+重點不是有沒有準備 也不是為了考試而學習
+
+是老師說話不算話
+→ desangfroid: 況且10次小考中，只有1次比較難，其餘翻課本或查網路 06/23 17:08
+→ desangfroid: 都可以找到解法 06/23 17:09
+所以你覺得簡單 大家都要覺得簡單？
+你拿考卷的時候可以順便看看其他人考幾分
+
+我查網路能力不如你預期還真是抱歉喔
+→ desangfroid: btw今年最後一節課有很多人拍手耶… 06/23 17:09
+要噓我請你有邏輯的噓 或者開本尊來噓 謝謝指教
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/23/2019 17:53:00
+→ hsnuyi: 他其實會看PTT 這個有可能是他本人吧 06/23 18:25
+→ hsnuyi: 順道一提 宗男也會看PTT 06/23 18:25
+推 pttnowash: 會這麼熟這個課程又這麼激動噓 不是本人就是助教 06/23 18:29
+→ pttnowash: 其實不用問台大教授那些會上ptt 應該要問不會上的較少 06/23 18:29
+→ desangfroid: 我不是他本人，也不是助教… 06/23 18:37
+→ desangfroid: 我也認為老師不該說話不算話 06/23 18:37
+→ desangfroid: 只是覺得這篇評價過於偏頗而已 06/23 18:38
+你上面的意見我都回覆了
+你覺得偏頗 但你上面的噓文哪一點不是你誤解
+你扯考試不難也是在偏頗啊
+到底在工三小
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/23/2019 18:43:28
+
+我補充說明一下啦 如果不提信用問題的話
+他教得不差 至少都能讓我聽懂
+
+這樣你滿意了嗎
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/23/2019 18:46:00
+→ desangfroid: 你上面的回覆也誤解我的意思了 06/23 19:41
+好 抱歉
+我可以把下面的推文當成你要表達的意思對吧
+如果可以的話 那你還是誤解啊
+→ desangfroid: 我不是說你沒有準備，而是說不該因為沒有考出來就認 06/23 19:41
+→ desangfroid: 為準備是浪費時間 06/23 19:41
+我從來沒說「因為沒有考出來 準備就是浪費時間」
+如果我是那種人 我根本考不上NTUEE
+
+況且「沒考出來 準備就是浪費時間」和「老師說話不算話」
+根本是不同的概念 不同的議題
+
+你從頭慢慢看 看清楚 我沒提浪費時間 我只提老師的信用
+
+老實說
+真正浪費時間的是回覆你的不實指控
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/23/2019 20:15:17
+重點不是「沒有」考出來
+而是他根本不把小考放心上 才會一直忘
+
+我想了想 你現在根本是在對我思想審查嘛
+你看不順眼就要檢討我的想法 冠上莫須有的罪名
+
+所以你還有什麼要狡辯的？
+※ 編輯: Ruin0019 (140.112.248.172 臺灣), 06/23/2019 20:27:40
+推 pttnowash: 親友團帳號快點來噓來狂跳針阿... 06/23 20:45
+推 YoreX0403: 補個卦，去年他沒把期末範圍上完，直接放生大家 07/07 23:04

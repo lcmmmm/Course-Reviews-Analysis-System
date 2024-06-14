@@ -1,0 +1,99 @@
+時間Tue Jan 16 01:04:07 2018
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：106-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+         王耀輝 教授
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+         經濟系 選修
+
+         同一學期教授在財金系也有開設同樣名稱的課 難度較高
+
+      δ 課程大概內容
+
+         Sturecture of Derivatives Markets
+         Principles of Option Pricing
+         Option Pricing Models: The Binomial Model
+         -----Midterm-----
+         Option Pricing Models: The Black-Scholes-Merton Model
+         Basic Option Strategies
+         Advanced Option Strategies
+         Principles of Pricing Forwards, Futures, and Options on Futures
+         Futures and Forward Trading Strategies
+         -----Final-----
+         Taiwanese Derivatives Markets
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+         對option pricing有興趣的 或是可以自學的人再來修吧
+
+      η 上課用書(影印講義或是指定教科書)
+
+         Don M. Chance, Robert Brooks
+         Introduction to Derivatives and Risk Management, 10th Edition
+
+         這本書國內應該是買不到 要在開學時和修課同學一起訂
+
+         對初學者而言應該算是不錯的教科書
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+         講解投影片 配上一些板書
+
+         投影片很精簡 最好搭配書一起看
+
+         教授會把課本習題的詳解上傳到Ceiba
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+         Midterm:       40%
+         Final:         50%
+         Participation: 10%
+
+         點名一共點了四次 外加期中考後發考卷一次
+
+         不過participation應該是用來調分的 不是真的算在成績內
+
+         教授說是完全紮實分 不過應該還是有調分 不然就是有調整配分比例
+
+         Midterm和Final的平均都在70上下 有80幾個人修課
+
+      ρ 考題型式、作業方式
+
+         是非題 + 選擇題 + 一題計算題
+
+         選擇題是五選一 計算題應該是課本習題
+
+         考試時間都是120分鐘
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+         雖然有點名 不過應該是不注重出席率
+
+         外系選修應該是不用什麼基礎
+
+         加簽全簽
+
+         到學期中 出席人數就變得有點少 教授有點不太高興
+
+      Ψ 總結
+
+         算是不錯的課 個人覺得有學到東西
+
+         不過如果對option pricing沒興趣 理解能力也沒有很強的話 不建議來修
+
+--
+推 driftptt: 選擇權進入BS後難度一整個暴衝啊QQ 01/16 01:26
+推 JOHN1011: 但是之後的套利模型就變得很簡單 01/16 08:25
+推 GCBTWA: 應該沒調分 期中86期末85 點名都在 紮實A 01/16 08:39
+→ apocalypse38: 推耀輝～～～ 01/16 09:44
+推 dildochen: 飛哥數學 輝哥英文 01/16 10:09
+推 eiahb3838ya: 推個好課 01/18 10:13
+※ 編輯: hsnuyi (118.160.160.135 臺灣), 09/04/2019 17:53:19

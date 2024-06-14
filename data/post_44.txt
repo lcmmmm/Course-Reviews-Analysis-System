@@ -1,0 +1,103 @@
+作者KurtZouma (車車後防最後希望)看板NTUcourse標題[評價] 111-1 陳其美 證券市場微結構理論時間Wed Dec 28 16:44:53 2022
+若是通識課程評價，請用 [通識] 分類，勿使用 [評價] 分類
+標題範例：[通識] A58 普通心理學丙 林以正 (看完後請用ctrl+y刪除這兩行)
+
+      ※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+
+
+      哪一學年度修課：
+       111-1
+
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+       陳其美
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+       財金所選修
+       但所有人都可以選
+      δ 課程大概內容
+       課程網的syllabus很久沒更新
+       Week 1 Rational Expectations Equilibrium (REE) Models
+       Week 2 REE Models (continued)
+       Week 3 Speculation, Bubbles, and No Trade Theorem
+       Week 4 Speculation and bubbles (continued)
+       Week 5 Order-driven Mechanisms
+       Week 6 Order-driven Mechanisms (continued)
+       Week 7 Quote-driven Mechanisms
+       Week 8 Limit Order Markets
+       Week 9 Fragmentation and Consolidation
+       Week 10 Algorithmic Trading
+       Week 11 Theory of Trading Volume
+       Week 12 Theory of Trading Volume (continued)
+       Week 13 Market Manipulation
+       Week 14 Derivatives and Insider Trading
+       Week 15 Shareholder Activism
+
+事後看基本上全部內容都有提到，真實進度如下
+
+Lecture 0: Some Examples
+Lecture M:數學複習 (今年講得比較少)
+Lecture 1: A Review of Classic Asset Trading Theory
+Lecture 2: Static Rational Expectations Equilibrium Models
+Lecture 3: Growth Bubble, Speculative Bubble, No Trade Theorems, and Market
+Crash
+Midterm
+Lecture 4: Inventory-based Dealership Models
+Lecture 5: Information-based Dealership Models
+Lecture 6: Theories of Trading Volume
+論文講解
+Final
+      Ω 私心推薦指數(以五分計) ★★★★★
+對微結構有興趣 ★★★★★
+這班相比隔壁商賽只有九個人，應該沒人是對主題沒興趣還上的吧。
+
+      η 上課用書(影印講義或是指定教科書)
+Lecture Notes
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+影片三小時，老師的上課風格可以參考舊文，沒有實體上課蠻可惜的，希望以後有機會看
+到本人。
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+期中期末各一半，調分後超級甜，最低給B+，貌似只有一位停修。
+      ρ 考題型式、作業方式
+
+期中考全填充，原始平均40，期末考明顯放水多了是非跟選擇，但我其實考得差不多@@，
+認真讀應該都有一定的分數，而且題型都跟作業類似，作業有四次，只需要交一次而且不
+算分，老師看了我們的作業得出我們程度太差的結論，所以可以跳過比較難的部分。
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+老師好像會稽查你有沒有看影片，基礎方面，今年數學複習相比過去真的少蠻多，跳過講
+義關於分析和機率論的部分(實際上也用不太到)，真正需要的是統計學，要熟悉多元常態
+的性質，條件機率，貝式定理，雙重期望值定理和熟悉期望值跟變異數的公式，還有需要
+會解均衡跟極大化方法，硬要講應該有管院等級的統計基礎就夠了。加簽寄信給老師，全
+簽。
+
+      Ψ 總結
+
+這是一堂蠻有趣且主題冷門的課，應該不會在台大找到類似的課程，Some Examples提到
+了幾種主要的證券交易方法，在之後的課程還會交錯出現，尤其是Kyle和Fishman
+Hagerty 的方法會有很多延伸，接下來進入REE模型的介紹和熔斷、經理人揭露對市場的
+影響，泡沫和崩盤的發生，最後進入資訊模型跟交易量理論，老師的講義寫得非常好，數
+學推導結束後都會也清楚的總結跟延伸，就算有證明的過程看不懂也是可以抓住內容重點
+，最後的論文講解才是重頭戲，將先前的Lecture notes推廣至不同情境，如同衍生性商
+品交易或是市場操弄，十分有趣，期末考試的內容也都是考論文。
+
+    這真是一門很棒的課，可惜我期末花在它的時間不如預期的多，不然應該能有更多收
+穫，這篇評價文頗難寫的，有興趣可以站內信問，照慣例都是每年上學期開。
+
+
+--
+推 wuyixuan: 蹲04/10 00:26
+推 EDDYYYYY: 賓哥蹲賓哥蹲 賓哥蹲完樓下蹲04/10 00:36
+推 da871124: 樓下蹲樓下蹲 樓下蹲完春風蹲04/10 00:39
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.243.50 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1672217105.A.77A.html
+推 unmolk: 推 12/28 19:30
+推 unmolk: 不過好好奇老師怎麼一直沒升到教授 明明也有在做研究 12/28 21:38
+推 yongxchen: 推原po管院以利特aka台大Thiago Silva 12/28 22:00
+==誰拉
+※ 編輯: KurtZouma (114.136.186.195 臺灣), 12/29/2022 01:51:02

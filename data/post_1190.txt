@@ -1,0 +1,142 @@
+作者samuel8746 (圓圓)看板NTUcourse標題[評價] 107-1 梁文傑 有機化學三時間Fri Jan 11 01:31:51 2019
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：是
+
+
+      哪一學年度修課：107-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+
+梁文傑
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+
+104學年度前入學 化學系 五選三必選修
+105學年度後入學 化學系 大三大四選修
+
+      δ 課程大概內容
+
+老師預計要上的：
+        W01     Carbanions
+        W02     Grignard reagents and organolithium chemistry
+        W03     Applications of carbanions
+        W04     Other organometallic reagents
+        W05     Other organometallic reagents
+        W06     Other organometallic reagents
+        W07     Electrophilic addition of amines to C=C pi bonds
+        W08     Electrophilic addition of other nucleophiles to C=C pi bonds
+
+        W09     Midterm test
+
+        W10     Basic Principles in Photochemistry, Radicals and diradicals
+        W11     Radical Chemistry
+        W12     Radical Chemistry
+        W13     Reactive olefins and cycloaddition reactions
+        W14     Cycloaddition Reactions and Concerted Reactions
+        W15     Other Electrocyclic Reactions
+        W16     Carbene, Carbenoid, and Diradicaloid Chemistry
+        W17     Carbene, Carbenoid, and Diradicaloid Chemistry
+
+        W18     Final examine
+
+實際上教的：
+        W01     課程介紹、大二有機複習
+        W02     Carbanions
+        W03~W05 Grignard reagents and organolithium chemistry
+        W06~W08 Other organometallic reagents
+        W09~W11 Radical Chemistry
+
+        W12     Midterm test
+
+        W13~W16 Enolate Chemistry
+        W17     Electrophilic addition of amines to C=C pi bonds
+
+                期末考前五天公布期中成績
+        W18     Final Examine
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+
+推爆
+
+      η 上課用書(影印講義或是指定教科書)
+
+Advanced Organic Chemistry, Part B, by F. A. Carey and R. J. Sundbery, Springe
+r
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+
+純板書上課，老師靠三隻粉筆兩條抹布一面黑板就可以給你全新的世界
+而且強迫自己不能睡覺，不然沒有PPT能複習XD
+課後複習時因為是自己做的筆記，所以也能快速上手不會陌生
+
+第一堂課很快速的overview大二有機的所有內容，聽完後不敢說任督二脈被打通
+但是真的是醍醐灌頂，當下只有「斯巴拉西」的感想(不
+
+後面上課的流程大概是
+講解大原理→用簡單的例子應用→從paper中挑複雜一點的例子解釋實際應用
+然後在解釋的過程中反覆帶觀念，順便看一看paper中的各種花式合成
+
+每個大主題上完後，會在CEIBA上出一兩份習題，期末考時才交
+習題的題目來自paper裡各種合成，所以如果寫不出來的話，可以去找paper出來看(X
+然後就會發現這些final其實是很奇怪的東西
+比如說，美洲蟑螂的性費洛蒙這種毀三觀的物質(不
+
+如果介紹到很特別的反應試劑，或是很危險的
+老師也會很開心的跟我們介紹在實驗室中實際操作的狀況
+比如說diethyl zinc很不穩定，在空氣中會直接燒起來
+或是老師當年在實驗室時看過的一百種火災起因等等，還滿有趣的XD
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+
+期中考  45 %
+期末考  45 %
+作業    10 %
+
+據說有交作業就會過，但分數還沒出來我語帶保留XD
+應該算紮實甜，考題大約有70~80%是來自作業的題目，所以作業要寫
+不會寫的話也要跟同學討論，或是自己把paper查出來
+期末考時再一併交就可以了
+
+      ρ 考題型式、作業方式
+
+主要是反應機構、合成，然後有少部分的問答要解釋反應路徑
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+
+不點名，考試時我才發現原來很多人修課XD
+(但早九很痛苦QAQ)
+基礎的話，要學過大二有機，很多觀念會當作大家都會了然後就往前衝
+加簽不清楚，感覺是會簽(?)
+
+老師的行為舉止滿可愛的，像個大小孩一樣
+有一次不知道講到甚麼他很傻眼，然後就出現了動畫裡的傻眼摔跤的動作XD
+擦黑板絕對不用板擦，一上課會拿出兩條濕抹布，接著兩隻手一起從左邊擦到右邊
+(就是小學生兩隻手一起擦黑板的樣子XD)
+
+      Ψ 總結
+
+有機三是大二有機跟高等有機的銜接課程，沒有說「一定要教甚麼」的感覺
+但上完一學期的課，除了能學會很多花式的合成方法
+(上Grignard時上了快一個月，被大家戲稱為花式Grignard)
+更重要的是能抓住有機發展過程的大架構
+(ex. 了解了Grignard，接著是Li、Zn以至於更多種類的有機金屬，但其實概念是相通的)
+
+相較於大二有機要學很多官能基轉換而顯得有點繁雜，有機三有種一脈相承的感覺
+學完後頓時覺得有機的世界寬廣了許多，也慢慢能看懂複雜的合成
+(老師的描述是，學了有機三，像是通過漏斗的頸口一樣，前方的世界是寬廣的)
+
+上課上起來很輕鬆，老師口條也好，聽著故事抄著筆記不知不覺就下課了
+總之是門好玩的課XD
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.33.80
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1547141515.A.C9F.html
+※ 編輯: samuel8746 (114.44.33.80), 01/11/2019 02:06:02
+推 David0620: 這個名字www 01/11 16:34
+推 Peter521: 記得說一下期中考成績啥時才出來rrrrrrrrrr 01/11 17:22
+補上去了ww
+※ 編輯: samuel8746 (140.112.4.184), 01/11/2019 17:54:15
+推 eric0208tn: 資本論有讀三遍嗎 01/12 03:06
+推 johnwick9527: 大二學弟給推 01/13 10:10
+推 caduser: 好像有人交了作業還是..... 01/15 19:51

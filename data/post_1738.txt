@@ -1,0 +1,93 @@
+作者smilegirl602 (新星)看板NTUcourse標題[評價] 104-1 吳宗霖 電磁學二時間Sat Feb 18 20:22:27 2017
+※ 本文是否可提供臺大同學轉作其他非營利用途？（須保留原作者 ID）
+         （是／否／其他條件）：
+        否
+
+      哪一學年度修課：
+        104-1
+
+      ψ 授課教師 (若為多人合授請寫開課教師，以方便收錄)
+        吳宗霖
+
+      λ 開課系所與授課對象 (是否為必修或通識課 / 內容是否與某些背景相關) 
+        電機系必修
+
+      δ 課程大概內容
+        本課程繼電磁學(一)基本原理的介紹之後，闡述電磁學在電機各個領域的應用，探討主題如下：
+        1. Field and Line Essentials for Digital Electronics
+        -- transmission lines R, L, C, G, time domain responses, reflections, crosstalk
+        2. Transmission Lines for Communications
+        -- transmission lines frequency domain responses, impedance matching, Smith charts
+        3. Topics in Electric- and Magnetic-Field Systems
+        -- quasi-static field analysis, electromechanical energy conversion
+        4. Guided Wave Principles for Electronics and Optoelectronics
+        -- uniform plane wave, parallel-plate waveguide, dispersion, slab guides
+        5. Several Topics for Electronics and Photonics
+        -- rectangular & circular metallic waveguides, cavity resonators, optical fibers
+        6. Principles of Radiation and Antennas
+        -- Hertzian dipole, linear antennas, arrays, aperture antennas, receiving antennas
+
+      Ω 私心推薦指數(以五分計) ★★★★★
+        ★★★★★ 滿分大推!!!
+
+      η 上課用書(影印講義或是指定教科書)
+        N. N. Rao, Elements of Engineering Electromagnetics, Prentice Hall
+International, Inc., 2000, Ch.6-11
+
+      μ 上課方式(投影片、團體討論、老師教學風格)
+        投影片上課，講解時會搭配手寫筆在投影片上做筆記。
+        有時投影片也會穿插一些補充資料，自己滿喜歡邊搭配課本邊看投影片，內容很完整。
+
+        電磁學二雖然是接續電磁學一來上，但電磁學一偏理論，電磁學二則偏重應用。所以上學期沒修好的人不用太擔心，成績很可能翻轉XD
+        而且老師真的非常厲害，觀念講的很淺顯易懂和清楚！所以認真聽課的話，不太用擔心基礎不好跟不上。
+
+        另外，老師非常有親和力，也很關心學生。
+        老師喜歡在課堂中和學生互動，也會點同學問問題，想多了解學生的想法。
+        答對老師會超開心的稱讚你，自己會很有成就感，答錯也不用擔心，老師會繼續問其他人，如果大家都答不出答案，老師會更仔細的回答，確定大家都有聽懂。
+        學期初滿多人因為老師會問問題覺得很害怕，但我覺得老師本身很有趣，所以就算被問到也不會有負擔感，慢慢的也越來越敢回答。
+        而且，在老師問問題的過程中，自己反而更多思考，也因此更能了解自己的盲點、以及背後的原理。
+
+        整體來說上課氣氛非常輕鬆，也可以學到很多東西。
+        而且老師也會分享一些出國開會的經驗，以及面對未來該如何選擇，是否出國、是否繼續念碩班博班等。
+        上課在各方面都滿有收穫~
+
+
+      σ 評分方式(給分甜嗎？是紮實分？)
+        由期中考、期末考及作業成績決定。
+        但基本上有上課，作業考試都不會太難。
+
+      ρ 考題型式、作業方式
+        每章教完後，老師會從課本習題中挑幾題當作作業。
+        雖然都有參考答案，但滿建議自己理解後再寫，通常作業會寫，小考、期中、期末都不會有太大問題。
+        期中期末是電機系統一命題，小考老師則不會刁難，主要都考基礎觀念。
+
+        另外，如果未來有想繼續往電波發展，滿推薦大家可以去多考「電磁能力認證」，對研究所推甄有加分XD
+
+
+      ω 其它(是否注重出席率？如果為外系選修，需先有什麼基礎較好嗎？老師個性？
+加簽習慣？嚴禁遲到等…)
+        雖然老師喜歡跟學生互動或問大家問題，但成績跟出席率沒關XD
+        不過多回答問題，老師會對你很有印象，之後想請老師幫忙，老師會很熱心幫助你XD
+
+        加簽基本上老師都簽，除非教室坐不下XD
+
+        預修課程是電磁學(一)，但如果真的修的不好，也不用太擔心，
+        老師用到相關觀念時，都會稍微再幫大家複習。
+
+      Ψ 總結
+        滿推老師的電磁學二，老師不只教學認真，人也很nice
+        當初因為對自己未來要走甚麼領域不是很了解，
+        所以修了老師的課後，也不排斥這領域，就繼續跟老師做專題了XD
+        後來越做越有心得和興趣~
+        因為這領域不只有觀念、原理，同時也可以應用並實作，所以後來發現滿適合自己的 (← 無法只研究理論，也不想只是做卻不知道為甚麼...> <
+        而且實驗室有很多厲害的學長姐，資源也很多，老師也很願意幫忙學生
+        所以不懂的地方都可以直接和老師和學長姐討論，
+        如果做專題過程有不錯的idea，老師也滿願意支援經費XD
+        所以滿推薦大家修完老師的電磁二，也可以跟老師做做專題~~
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.70.249.134
+※ 文章網址: https://www.ptt.cc/bbs/NTUcourse/M.1487420550.A.EFD.html
+推 loverTH: 想請問如果電磁只有普物基礎，去修這門課會死的一蹋糊塗 07/20 10:39
+→ loverTH: 嗎? 07/20 10:39
+→ TaiwaNumber1: 還好，多寫習題即可。 01/22 00:49
